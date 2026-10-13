@@ -1,0 +1,51 @@
+=== (a) dedupe sweep: is it a tautology? (60 enum questions) ===
+printed-item count non-increasing exact >= slack3 >= slack6 >= unbounded: 60/60 questions (0 violations)
+gold-session hits   non-increasing along the same order: 60/60 questions (0 violations)
+questions where exact-only strictly prints more items than unbounded: 43/60
+total printed items: {'exact': 1308, 'slack3': 1209, 'slack6': 1173, 'unbound': 1171}
+total gold-sess hits: {'exact': 145, 'slack3': 141, 'slack6': 140, 'unbound': 140}
+total agg block chars: {'exact': 133091, 'slack3': 122574, 'slack6': 119641, 'unbound': 119442}
+
+=== (b) matched-budget control: all-four-bugs arm given a wider print budget ===
+arm                                           nQ     D1    D1n     D2  recall    gh/tot  itMed  itSum  chMed   chSum
+SHIPPED (all 4 fixes) rel_keep .35            60  0.800     48  0.750   0.918   145/158   18.5   1308   1940  133091
+ALL-4-BUGS rel_keep 0.35 groups 8             60  0.717     43  0.650   0.880   139/158   15.5   1047   1592  110853
+ALL-4-BUGS rel_keep 0.2 groups 10             60  0.817     49  0.733   0.905   143/158   18.0   1254   1909  131048
+ALL-4-BUGS rel_keep 0.12 groups 14            60  0.867     52  0.767   0.924   146/158   19.0   1304   2028  137057
+ALL-4-BUGS rel_keep 0.06 groups 20            60  0.867     52  0.767   0.924   146/158   19.0   1317   2064  139058
+ALL-4-BUGS rel_keep 0.02 groups 30            60  0.867     52  0.767   0.924   146/158   19.0   1318   2064  139237
+=== (a) SAME-KNOB comparison: does the fix add anything once the budget is wide? ===
+arm                                           nQ     D1    D1n     D2  recall    gh/tot  itMed  itSum  chMed   chSum
+FIXED    rel_keep 0.35 groups 8               60  0.800     48  0.750   0.918   145/158   18.5   1308   1940  133091
+ALL-4-BUGS rel_keep 0.35 groups 8             60  0.717     43  0.650   0.880   139/158   15.5   1047   1592  110853
+  -> delta attributable to the 4 fixes           +0.083     +5 +0.100  +0.038             +3.0   +261   +348  +22238
+FIXED    rel_keep 0.2 groups 10               60  0.883     53  0.833   0.943   149/158   22.0   1553   2339  156840
+ALL-4-BUGS rel_keep 0.2 groups 10             60  0.817     49  0.733   0.905   143/158   18.0   1254   1909  131048
+  -> delta attributable to the 4 fixes           +0.067     +4 +0.100  +0.038             +4.0   +299   +430  +25792
+FIXED    rel_keep 0.12 groups 14              60  0.933     56  0.900   0.956   151/158   24.0   1625   2454  164845
+ALL-4-BUGS rel_keep 0.12 groups 14            60  0.867     52  0.767   0.924   146/158   19.0   1304   2028  137057
+  -> delta attributable to the 4 fixes           +0.067     +4 +0.133  +0.032             +5.0   +321   +426  +27788
+FIXED    rel_keep 0.06 groups 20              60  0.933     56  0.900   0.956   151/158   24.5   1641   2644  167327
+ALL-4-BUGS rel_keep 0.06 groups 20            60  0.867     52  0.767   0.924   146/158   19.0   1317   2064  139058
+  -> delta attributable to the 4 fixes           +0.067     +4 +0.133  +0.032             +5.5   +324   +581  +28269
+
+=== (b) precision of the lines that fix (i) restores ===
+exact-only vs unbounded-subset dedupe on the 60 enum questions: +137 printed lines, +5 gold-session hits, +13649 chars (+11.4%)
+-> 5/137 = 3.6% of the restored lines carry a gold session that was not already covered; the other 132 are redundant for the metric
+
+=== (c) overcount exposure on the enum subset (gold answer IS the item count) ===
+fixed (exact dedupe)       printed items / gold count: median 4.2x, mean 6.3x, max 36x; questions where printed > 3x gold: 38/60
+buggy (unbounded dedupe)   printed items / gold count: median 3.9x, mean 5.7x, max 34x; questions where printed > 3x gold: 36/60
+
+=== (d) does D1 track the real (v4) judge on these 60 questions? ===
+  (D1, v4 judge) -> n : {'D1=False,judge=False': 4, 'D1=False,judge=True': 8, 'D1=True,judge=False': 11, 'D1=True,judge=True': 37}
+  v4 answer accuracy | D1 True : 37/48 = 0.771
+  v4 answer accuracy | D1 False: 8/12 = 0.667
+
+  questions whose D1 flips False->True from all-4-bugs to fixed: 5
+    gpt4_2f8be40d    gold=3 items   9-> 60 goldsess 2/3->3/3 v4judge=False  How many weddings have I attended in this year?
+    2788b940         gold=5 items  17-> 18 goldsess 3/4->4/4 v4judge=True  How many fitness classes do I attend in a typical week?
+    bf659f65         gold=3 items   7-> 19 goldsess 2/3->3/3 v4judge=False  How many music albums or EPs have I purchased or downloade
+    031748ae         gold=4 items  13-> 16 goldsess 1/2->2/2 v4judge=True  How many engineers do I lead when I just started my new ro
+    ba61f0b9         gold=6 items  10-> 12 goldsess 1/2->2/2 v4judge=True  How many women are on the team led by my former manager Ra
+  questions whose D1 flips True->False (regressions): 0 []

@@ -1,0 +1,6 @@
+(a) ALL 18464 cached unique sessions: >=1 fact 17207/18464 = 0.9319
+    mean facts/session 8.79  median 9
+(b) random-20-turn control: gold session coverage 0.3506 (BM25 top-20 = 0.9303)
+(c) mean context chars: k=20 20534  k=30 31044  k=50 52494
+    mean sessions spanned: k=20 10.21  k=30 14.73  k=50 22.28
+(d) facts per session: GOLD mean 11.66 (n=890, zero 5) | NON-GOLD mean 8.84 (n=21529, zero-rate 0.0691)

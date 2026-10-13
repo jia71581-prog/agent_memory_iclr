@@ -1,0 +1,2018 @@
+[
+ {
+  "qid": "2ebe6c92",
+  "kind": "offset",
+  "gold": "'The Nightingale' by Kristin Hannah",
+  "real": [
+   true,
+   true,
+   10,
+   1266
+  ],
+  "w": 1,
+  "qdate": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "plus30": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "minus14": [
+   false,
+   false,
+   10,
+   909
+  ],
+  "rand_sess": [
+   false,
+   false,
+   10,
+   1141
+  ],
+  "rand_sess2": [
+   false,
+   false,
+   8,
+   593
+  ],
+  "rand_sess3": [
+   true,
+   true,
+   10,
+   1275
+  ],
+  "rel_in_window": [
+   true,
+   true,
+   8,
+   919
+  ],
+  "rel2_in_window": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "cap3": [
+   true,
+   true,
+   3,
+   433
+  ],
+  "cap5": [
+   true,
+   true,
+   5,
+   671
+  ],
+  "cap10": [
+   true,
+   true,
+   10,
+   1266
+  ],
+  "cap20": [
+   true,
+   true,
+   20,
+   2268
+  ],
+  "rel_gen": [
+   true,
+   true,
+   40,
+   3724
+  ],
+  "rel_huge": [
+   true,
+   true,
+   60,
+   5670
+  ]
+ },
+ {
+  "qid": "gpt4_e061b84g",
+  "kind": "offset",
+  "gold": "The company's annual charity soccer tournament.",
+  "real": [
+   true,
+   true,
+   10,
+   1131
+  ],
+  "w": 1,
+  "qdate": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "plus30": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "minus14": [
+   false,
+   false,
+   10,
+   1358
+  ],
+  "rand_sess": [
+   false,
+   false,
+   10,
+   1358
+  ],
+  "rand_sess2": [
+   false,
+   false,
+   6,
+   491
+  ],
+  "rand_sess3": [
+   false,
+   false,
+   1,
+   60
+  ],
+  "rel_in_window": [
+   false,
+   false,
+   8,
+   837
+  ],
+  "rel2_in_window": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "cap3": [
+   true,
+   true,
+   3,
+   341
+  ],
+  "cap5": [
+   true,
+   true,
+   5,
+   576
+  ],
+  "cap10": [
+   true,
+   true,
+   10,
+   1131
+  ],
+  "cap20": [
+   true,
+   true,
+   20,
+   2096
+  ],
+  "rel_gen": [
+   true,
+   true,
+   31,
+   3080
+  ],
+  "rel_huge": [
+   true,
+   true,
+   39,
+   3669
+  ]
+ },
+ {
+  "qid": "71017277",
+  "kind": "weekday",
+  "gold": "my aunt",
+  "real": [
+   true,
+   true,
+   10,
+   1002
+  ],
+  "w": 1,
+  "qdate": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "plus30": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "minus14": [
+   false,
+   false,
+   7,
+   487
+  ],
+  "rand_sess": [
+   false,
+   false,
+   10,
+   1180
+  ],
+  "rand_sess2": [
+   false,
+   false,
+   10,
+   786
+  ],
+  "rand_sess3": [
+   false,
+   false,
+   9,
+   1031
+  ],
+  "rel_in_window": [
+   false,
+   false,
+   5,
+   509
+  ],
+  "rel2_in_window": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "cap3": [
+   true,
+   true,
+   3,
+   387
+  ],
+  "cap5": [
+   true,
+   true,
+   5,
+   583
+  ],
+  "cap10": [
+   true,
+   true,
+   10,
+   1002
+  ],
+  "cap20": [
+   true,
+   true,
+   20,
+   2004
+  ],
+  "rel_gen": [
+   false,
+   false,
+   38,
+   3559
+  ],
+  "rel_huge": [
+   false,
+   false,
+   43,
+   4025
+  ]
+ },
+ {
+  "qid": "b46e15ee",
+  "kind": "offset",
+  "gold": "the 'Walk for Hunger' charity event",
+  "real": [
+   true,
+   true,
+   10,
+   1295
+  ],
+  "w": 1,
+  "qdate": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "plus30": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "minus14": [
+   false,
+   false,
+   10,
+   773
+  ],
+  "rand_sess": [
+   true,
+   true,
+   10,
+   1295
+  ],
+  "rand_sess2": [
+   false,
+   false,
+   2,
+   127
+  ],
+  "rand_sess3": [
+   false,
+   false,
+   10,
+   1141
+  ],
+  "rel_in_window": [
+   true,
+   true,
+   8,
+   977
+  ],
+  "rel2_in_window": [
+   true,
+   true,
+   4,
+   526
+  ],
+  "cap3": [
+   true,
+   true,
+   3,
+   378
+  ],
+  "cap5": [
+   true,
+   true,
+   5,
+   730
+  ],
+  "cap10": [
+   true,
+   true,
+   10,
+   1295
+  ],
+  "cap20": [
+   true,
+   true,
+   20,
+   2061
+  ],
+  "rel_gen": [
+   true,
+   true,
+   34,
+   3504
+  ],
+  "rel_huge": [
+   true,
+   true,
+   43,
+   4175
+  ]
+ },
+ {
+  "qid": "gpt4_d6585ce9",
+  "kind": "weekday",
+  "gold": "my parents",
+  "real": [
+   true,
+   true,
+   10,
+   1441
+  ],
+  "w": 1,
+  "qdate": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "plus30": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "minus14": [
+   false,
+   false,
+   6,
+   658
+  ],
+  "rand_sess": [
+   false,
+   false,
+   10,
+   1077
+  ],
+  "rand_sess2": [
+   true,
+   true,
+   10,
+   1441
+  ],
+  "rand_sess3": [
+   true,
+   true,
+   10,
+   1441
+  ],
+  "rel_in_window": [
+   false,
+   false,
+   10,
+   1225
+  ],
+  "rel2_in_window": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "cap3": [
+   true,
+   true,
+   3,
+   450
+  ],
+  "cap5": [
+   true,
+   true,
+   5,
+   764
+  ],
+  "cap10": [
+   true,
+   true,
+   10,
+   1441
+  ],
+  "cap20": [
+   true,
+   true,
+   20,
+   2631
+  ],
+  "rel_gen": [
+   false,
+   false,
+   40,
+   4276
+  ],
+  "rel_huge": [
+   false,
+   false,
+   100,
+   9460
+  ]
+ },
+ {
+  "qid": "gpt4_1e4a8aec",
+  "kind": "offset",
+  "gold": "planting 12 new tomato saplings",
+  "real": [
+   false,
+   true,
+   10,
+   1057
+  ],
+  "w": 1,
+  "qdate": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "plus30": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "minus14": [
+   false,
+   false,
+   10,
+   922
+  ],
+  "rand_sess": [
+   false,
+   false,
+   10,
+   1175
+  ],
+  "rand_sess2": [
+   false,
+   false,
+   10,
+   990
+  ],
+  "rand_sess3": [
+   false,
+   false,
+   8,
+   752
+  ],
+  "rel_in_window": [
+   false,
+   false,
+   2,
+   302
+  ],
+  "rel2_in_window": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "cap3": [
+   false,
+   true,
+   3,
+   325
+  ],
+  "cap5": [
+   false,
+   true,
+   5,
+   587
+  ],
+  "cap10": [
+   false,
+   true,
+   10,
+   1057
+  ],
+  "cap20": [
+   false,
+   true,
+   20,
+   1901
+  ],
+  "rel_gen": [
+   false,
+   false,
+   34,
+   3636
+  ],
+  "rel_huge": [
+   false,
+   false,
+   37,
+   3794
+  ]
+ },
+ {
+  "qid": "gpt4_f420262d",
+  "kind": "holiday",
+  "gold": "American Airlines",
+  "real": [
+   true,
+   true,
+   10,
+   1077
+  ],
+  "w": 1,
+  "qdate": [
+   true,
+   true,
+   10,
+   1388
+  ],
+  "plus30": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "minus14": [
+   false,
+   false,
+   10,
+   760
+  ],
+  "rand_sess": [
+   false,
+   false,
+   10,
+   1024
+  ],
+  "rand_sess2": [
+   false,
+   false,
+   1,
+   56
+  ],
+  "rand_sess3": [
+   true,
+   true,
+   10,
+   1150
+  ],
+  "rel_in_window": [
+   false,
+   false,
+   1,
+   91
+  ],
+  "rel2_in_window": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "cap3": [
+   true,
+   true,
+   3,
+   384
+  ],
+  "cap5": [
+   true,
+   true,
+   5,
+   642
+  ],
+  "cap10": [
+   true,
+   true,
+   10,
+   1077
+  ],
+  "cap20": [
+   true,
+   true,
+   20,
+   1867
+  ],
+  "rel_gen": [
+   false,
+   false,
+   5,
+   489
+  ],
+  "rel_huge": [
+   false,
+   false,
+   5,
+   489
+  ]
+ },
+ {
+  "qid": "gpt4_59149c78",
+  "kind": "offset",
+  "gold": "The Metropolitan Museum of Art.",
+  "real": [
+   true,
+   true,
+   10,
+   1266
+  ],
+  "w": 3,
+  "qdate": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "plus30": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "minus14": [
+   false,
+   false,
+   10,
+   896
+  ],
+  "rand_sess": [
+   false,
+   false,
+   8,
+   652
+  ],
+  "rand_sess2": [
+   false,
+   false,
+   10,
+   666
+  ],
+  "rand_sess3": [
+   false,
+   false,
+   8,
+   652
+  ],
+  "rel_in_window": [
+   true,
+   true,
+   10,
+   1057
+  ],
+  "rel2_in_window": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "cap3": [
+   true,
+   true,
+   3,
+   387
+  ],
+  "cap5": [
+   true,
+   true,
+   5,
+   605
+  ],
+  "cap10": [
+   true,
+   true,
+   10,
+   1266
+  ],
+  "cap20": [
+   true,
+   true,
+   20,
+   2322
+  ],
+  "rel_gen": [
+   false,
+   true,
+   36,
+   3188
+  ],
+  "rel_huge": [
+   true,
+   true,
+   68,
+   5764
+  ]
+ },
+ {
+  "qid": "gpt4_e414231f",
+  "kind": "weekday",
+  "gold": "road bike",
+  "real": [
+   true,
+   true,
+   10,
+   1024
+  ],
+  "w": 1,
+  "qdate": [
+   true,
+   true,
+   10,
+   1024
+  ],
+  "plus30": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "minus14": [
+   false,
+   false,
+   10,
+   1134
+  ],
+  "rand_sess": [
+   false,
+   false,
+   10,
+   808
+  ],
+  "rand_sess2": [
+   false,
+   false,
+   10,
+   902
+  ],
+  "rand_sess3": [
+   false,
+   false,
+   10,
+   954
+  ],
+  "rel_in_window": [
+   false,
+   false,
+   2,
+   281
+  ],
+  "rel2_in_window": [
+   false,
+   false,
+   1,
+   158
+  ],
+  "cap3": [
+   true,
+   true,
+   3,
+   375
+  ],
+  "cap5": [
+   true,
+   true,
+   5,
+   646
+  ],
+  "cap10": [
+   true,
+   true,
+   10,
+   1024
+  ],
+  "cap20": [
+   true,
+   true,
+   20,
+   2009
+  ],
+  "rel_gen": [
+   true,
+   true,
+   19,
+   2164
+  ],
+  "rel_huge": [
+   true,
+   true,
+   29,
+   2754
+  ]
+ },
+ {
+  "qid": "gpt4_4929293b",
+  "kind": "offset",
+  "gold": "my cousin's wedding",
+  "real": [
+   true,
+   true,
+   10,
+   993
+  ],
+  "w": 1,
+  "qdate": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "plus30": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "minus14": [
+   false,
+   false,
+   10,
+   759
+  ],
+  "rand_sess": [
+   false,
+   false,
+   3,
+   368
+  ],
+  "rand_sess2": [
+   false,
+   false,
+   10,
+   708
+  ],
+  "rand_sess3": [
+   true,
+   true,
+   10,
+   993
+  ],
+  "rel_in_window": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "rel2_in_window": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "cap3": [
+   false,
+   false,
+   3,
+   286
+  ],
+  "cap5": [
+   false,
+   false,
+   5,
+   529
+  ],
+  "cap10": [
+   true,
+   true,
+   10,
+   993
+  ],
+  "cap20": [
+   true,
+   true,
+   20,
+   2027
+  ],
+  "rel_gen": [
+   false,
+   false,
+   35,
+   3430
+  ],
+  "rel_huge": [
+   false,
+   false,
+   35,
+   3430
+  ]
+ },
+ {
+  "qid": "gpt4_468eb064",
+  "kind": "weekday",
+  "gold": "Emma",
+  "real": [
+   true,
+   true,
+   10,
+   921
+  ],
+  "w": 1,
+  "qdate": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "plus30": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "minus14": [
+   false,
+   false,
+   10,
+   1006
+  ],
+  "rand_sess": [
+   false,
+   false,
+   7,
+   637
+  ],
+  "rand_sess2": [
+   false,
+   false,
+   10,
+   1190
+  ],
+  "rand_sess3": [
+   false,
+   false,
+   7,
+   637
+  ],
+  "rel_in_window": [
+   true,
+   true,
+   2,
+   233
+  ],
+  "rel2_in_window": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "cap3": [
+   true,
+   true,
+   3,
+   356
+  ],
+  "cap5": [
+   true,
+   true,
+   5,
+   510
+  ],
+  "cap10": [
+   true,
+   true,
+   10,
+   921
+  ],
+  "cap20": [
+   true,
+   true,
+   20,
+   2094
+  ],
+  "rel_gen": [
+   true,
+   true,
+   14,
+   1531
+  ],
+  "rel_huge": [
+   true,
+   true,
+   21,
+   1945
+  ]
+ },
+ {
+  "qid": "gpt4_fa19884d",
+  "kind": "weekday",
+  "gold": "a bluegrass band that features a banjo player",
+  "real": [
+   true,
+   true,
+   10,
+   1436
+  ],
+  "w": 1,
+  "qdate": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "plus30": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "minus14": [
+   false,
+   false,
+   10,
+   1138
+  ],
+  "rand_sess": [
+   false,
+   false,
+   10,
+   1170
+  ],
+  "rand_sess2": [
+   false,
+   false,
+   10,
+   1221
+  ],
+  "rand_sess3": [
+   false,
+   false,
+   10,
+   1139
+  ],
+  "rel_in_window": [
+   true,
+   true,
+   9,
+   955
+  ],
+  "rel2_in_window": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "cap3": [
+   true,
+   true,
+   3,
+   339
+  ],
+  "cap5": [
+   true,
+   true,
+   5,
+   672
+  ],
+  "cap10": [
+   true,
+   true,
+   10,
+   1436
+  ],
+  "cap20": [
+   true,
+   true,
+   20,
+   2684
+  ],
+  "rel_gen": [
+   false,
+   false,
+   40,
+   3612
+  ],
+  "rel_huge": [
+   true,
+   true,
+   62,
+   5471
+  ]
+ },
+ {
+  "qid": "9a707b82",
+  "kind": "offset",
+  "gold": "a chocolate cake",
+  "real": [
+   true,
+   true,
+   10,
+   1119
+  ],
+  "w": 1,
+  "qdate": [
+   true,
+   true,
+   10,
+   1119
+  ],
+  "plus30": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "minus14": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "rand_sess": [
+   false,
+   false,
+   10,
+   995
+  ],
+  "rand_sess2": [
+   false,
+   false,
+   10,
+   985
+  ],
+  "rand_sess3": [
+   false,
+   false,
+   10,
+   807
+  ],
+  "rel_in_window": [
+   false,
+   false,
+   10,
+   1086
+  ],
+  "rel2_in_window": [
+   false,
+   false,
+   2,
+   222
+  ],
+  "cap3": [
+   true,
+   true,
+   3,
+   288
+  ],
+  "cap5": [
+   true,
+   true,
+   5,
+   583
+  ],
+  "cap10": [
+   true,
+   true,
+   10,
+   1119
+  ],
+  "cap20": [
+   true,
+   true,
+   20,
+   2235
+  ],
+  "rel_gen": [
+   false,
+   false,
+   18,
+   1939
+  ],
+  "rel_huge": [
+   false,
+   false,
+   34,
+   3156
+  ]
+ },
+ {
+  "qid": "eac54add",
+  "kind": "offset",
+  "gold": "I signed a contract with my first client.",
+  "real": [
+   true,
+   true,
+   10,
+   1136
+  ],
+  "w": 1,
+  "qdate": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "plus30": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "minus14": [
+   false,
+   false,
+   10,
+   684
+  ],
+  "rand_sess": [
+   false,
+   false,
+   10,
+   902
+  ],
+  "rand_sess2": [
+   false,
+   false,
+   10,
+   967
+  ],
+  "rand_sess3": [
+   false,
+   false,
+   4,
+   468
+  ],
+  "rel_in_window": [
+   false,
+   false,
+   2,
+   226
+  ],
+  "rel2_in_window": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "cap3": [
+   true,
+   true,
+   3,
+   402
+  ],
+  "cap5": [
+   true,
+   true,
+   5,
+   640
+  ],
+  "cap10": [
+   true,
+   true,
+   10,
+   1136
+  ],
+  "cap20": [
+   true,
+   true,
+   20,
+   2112
+  ],
+  "rel_gen": [
+   false,
+   false,
+   37,
+   3310
+  ],
+  "rel_huge": [
+   false,
+   false,
+   37,
+   3310
+  ]
+ },
+ {
+  "qid": "4dfccbf8",
+  "kind": "offset",
+  "gold": "I started taking ukulele lessons with Rachel.",
+  "real": [
+   true,
+   true,
+   10,
+   1204
+  ],
+  "w": 1,
+  "qdate": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "plus30": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "minus14": [
+   false,
+   false,
+   10,
+   748
+  ],
+  "rand_sess": [
+   false,
+   false,
+   6,
+   568
+  ],
+  "rand_sess2": [
+   false,
+   false,
+   10,
+   921
+  ],
+  "rand_sess3": [
+   false,
+   false,
+   10,
+   1109
+  ],
+  "rel_in_window": [
+   true,
+   true,
+   2,
+   228
+  ],
+  "rel2_in_window": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "cap3": [
+   true,
+   true,
+   3,
+   373
+  ],
+  "cap5": [
+   true,
+   true,
+   5,
+   675
+  ],
+  "cap10": [
+   true,
+   true,
+   10,
+   1204
+  ],
+  "cap20": [
+   true,
+   true,
+   20,
+   1843
+  ],
+  "rel_gen": [
+   true,
+   true,
+   31,
+   3053
+  ],
+  "rel_huge": [
+   true,
+   true,
+   32,
+   3130
+  ]
+ },
+ {
+  "qid": "0bc8ad93",
+  "kind": "offset",
+  "gold": "No, you did not visit with a friend.",
+  "real": [
+   false,
+   false,
+   6,
+   541
+  ],
+  "w": 1,
+  "qdate": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "plus30": [
+   false,
+   false,
+   10,
+   692
+  ],
+  "minus14": [
+   false,
+   false,
+   1,
+   81
+  ],
+  "rand_sess": [
+   false,
+   false,
+   1,
+   130
+  ],
+  "rand_sess2": [
+   false,
+   false,
+   10,
+   955
+  ],
+  "rand_sess3": [
+   false,
+   false,
+   10,
+   1323
+  ],
+  "rel_in_window": [
+   false,
+   false,
+   2,
+   190
+  ],
+  "rel2_in_window": [
+   false,
+   false,
+   1,
+   116
+  ],
+  "cap3": [
+   false,
+   false,
+   3,
+   356
+  ],
+  "cap5": [
+   false,
+   false,
+   5,
+   477
+  ],
+  "cap10": [
+   false,
+   false,
+   6,
+   541
+  ],
+  "cap20": [
+   false,
+   false,
+   6,
+   541
+  ],
+  "rel_gen": [
+   true,
+   true,
+   40,
+   3883
+  ],
+  "rel_huge": [
+   true,
+   true,
+   78,
+   7242
+  ]
+ },
+ {
+  "qid": "6e984302",
+  "kind": "offset",
+  "gold": "I got my own set of sculpting tools.",
+  "real": [
+   true,
+   true,
+   10,
+   1056
+  ],
+  "w": 1,
+  "qdate": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "plus30": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "minus14": [
+   false,
+   false,
+   10,
+   1100
+  ],
+  "rand_sess": [
+   false,
+   false,
+   10,
+   913
+  ],
+  "rand_sess2": [
+   false,
+   false,
+   10,
+   913
+  ],
+  "rand_sess3": [
+   false,
+   false,
+   10,
+   1059
+  ],
+  "rel_in_window": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "rel2_in_window": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "cap3": [
+   true,
+   true,
+   3,
+   382
+  ],
+  "cap5": [
+   true,
+   true,
+   5,
+   483
+  ],
+  "cap10": [
+   true,
+   true,
+   10,
+   1056
+  ],
+  "cap20": [
+   true,
+   true,
+   20,
+   1795
+  ],
+  "rel_gen": [
+   false,
+   false,
+   27,
+   2515
+  ],
+  "rel_huge": [
+   false,
+   false,
+   30,
+   2792
+  ]
+ },
+ {
+  "qid": "gpt4_8279ba03",
+  "kind": "offset",
+  "gold": "a smoker",
+  "real": [
+   true,
+   true,
+   10,
+   1200
+  ],
+  "w": 1,
+  "qdate": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "plus30": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "minus14": [
+   false,
+   false,
+   10,
+   830
+  ],
+  "rand_sess": [
+   false,
+   false,
+   10,
+   1037
+  ],
+  "rand_sess2": [
+   false,
+   false,
+   10,
+   1029
+  ],
+  "rand_sess3": [
+   false,
+   false,
+   10,
+   952
+  ],
+  "rel_in_window": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "rel2_in_window": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "cap3": [
+   true,
+   true,
+   3,
+   440
+  ],
+  "cap5": [
+   true,
+   true,
+   5,
+   685
+  ],
+  "cap10": [
+   true,
+   true,
+   10,
+   1200
+  ],
+  "cap20": [
+   true,
+   true,
+   20,
+   2114
+  ],
+  "rel_gen": [
+   false,
+   false,
+   6,
+   505
+  ],
+  "rel_huge": [
+   false,
+   false,
+   6,
+   505
+  ]
+ },
+ {
+  "qid": "gpt4_b5700ca0",
+  "kind": "offset-coarse",
+  "gold": "the Episcopal Church",
+  "real": [
+   true,
+   true,
+   10,
+   1079
+  ],
+  "w": 4,
+  "qdate": [
+   true,
+   true,
+   10,
+   1042
+  ],
+  "plus30": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "minus14": [
+   false,
+   false,
+   10,
+   958
+  ],
+  "rand_sess": [
+   true,
+   true,
+   10,
+   1079
+  ],
+  "rand_sess2": [
+   false,
+   false,
+   10,
+   1247
+  ],
+  "rand_sess3": [
+   false,
+   false,
+   10,
+   1024
+  ],
+  "rel_in_window": [
+   true,
+   true,
+   6,
+   581
+  ],
+  "rel2_in_window": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "cap3": [
+   false,
+   false,
+   3,
+   303
+  ],
+  "cap5": [
+   false,
+   false,
+   5,
+   590
+  ],
+  "cap10": [
+   true,
+   true,
+   10,
+   1079
+  ],
+  "cap20": [
+   true,
+   true,
+   20,
+   1968
+  ],
+  "rel_gen": [
+   true,
+   true,
+   39,
+   3805
+  ],
+  "rel_huge": [
+   true,
+   true,
+   41,
+   3963
+  ]
+ },
+ {
+  "qid": "gpt4_68e94288",
+  "kind": "offset",
+  "gold": "You participated in a social media challenge called #PlankChallenge.",
+  "real": [
+   true,
+   true,
+   10,
+   999
+  ],
+  "w": 1,
+  "qdate": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "plus30": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "minus14": [
+   false,
+   false,
+   10,
+   726
+  ],
+  "rand_sess": [
+   false,
+   false,
+   9,
+   861
+  ],
+  "rand_sess2": [
+   false,
+   false,
+   10,
+   926
+  ],
+  "rand_sess3": [
+   false,
+   false,
+   10,
+   822
+  ],
+  "rel_in_window": [
+   true,
+   true,
+   1,
+   126
+  ],
+  "rel2_in_window": [
+   true,
+   true,
+   1,
+   126
+  ],
+  "cap3": [
+   true,
+   true,
+   3,
+   302
+  ],
+  "cap5": [
+   true,
+   true,
+   5,
+   503
+  ],
+  "cap10": [
+   true,
+   true,
+   10,
+   999
+  ],
+  "cap20": [
+   true,
+   true,
+   20,
+   1901
+  ],
+  "rel_gen": [
+   true,
+   true,
+   16,
+   1528
+  ],
+  "rel_huge": [
+   true,
+   true,
+   18,
+   1750
+  ]
+ },
+ {
+  "qid": "gpt4_5dcc0aab",
+  "kind": "offset-coarse",
+  "gold": "white Adidas sneakers",
+  "real": [
+   true,
+   true,
+   7,
+   1006
+  ],
+  "w": 4,
+  "qdate": [
+   false,
+   true,
+   10,
+   1256
+  ],
+  "plus30": [
+   false,
+   true,
+   10,
+   1256
+  ],
+  "minus14": [
+   false,
+   false,
+   0,
+   0
+  ],
+  "rand_sess": [
+   false,
+   true,
+   10,
+   1256
+  ],
+  "rand_sess2": [
+   false,
+   true,
+   10,
+   1256
+  ],
+  "rand_sess3": [
+   false,
+   true,
+   10,
+   1256
+  ],
+  "rel_in_window": [
+   true,
+   true,
+   7,
+   1006
+  ],
+  "rel2_in_window": [
+   true,
+   true,
+   7,
+   1006
+  ],
+  "cap3": [
+   true,
+   true,
+   3,
+   447
+  ],
+  "cap5": [
+   true,
+   true,
+   5,
+   740
+  ],
+  "cap10": [
+   true,
+   true,
+   7,
+   1006
+  ],
+  "cap20": [
+   true,
+   true,
+   7,
+   1006
+  ],
+  "rel_gen": [
+   true,
+   true,
+   26,
+   2785
+  ],
+  "rel_huge": [
+   true,
+   true,
+   74,
+   6569
+  ]
+ }
+]

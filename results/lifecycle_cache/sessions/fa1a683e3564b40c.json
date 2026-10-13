@@ -1,0 +1,1 @@
+[["user", "set refresh_interval to", "1min"], ["user", "model is connected to", "dsl_drf document"], ["user", "inserted rows to table are automatically indexed to", "Elasticsearch"], ["Elasticsearch", "uses storage options for indexing", "mmapfs, niofs, hybridfs"]]

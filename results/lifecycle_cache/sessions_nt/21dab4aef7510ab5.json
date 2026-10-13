@@ -1,0 +1,1 @@
+[["user", "hostname", "Doms-MBP.local"], ["user", "attempted ping target", "latencytest.fra02.nvidia.com"], ["user", "attempted ping target", "latencytest.dub1.nvidia.com"], ["user", "ping result", "cannot resolve latencytest.fra02.nvidia.com: Unknown host"], ["user", "ping result", "cannot resolve latencytest.dub1.nvidia.com: Unknown host"]]

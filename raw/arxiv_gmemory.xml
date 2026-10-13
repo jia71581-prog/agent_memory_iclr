@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/SDZT8ZFfukrq1Luwy7p1Qm+qMkE</id>
+  <title>arXiv Query: search_query=ti:"G-Memory"&amp;id_list=&amp;start=0&amp;max_results=3</title>
+  <updated>2026-09-16T09:28:04Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22G-Memory%22&amp;start=0&amp;max_results=3&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>3</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2506.07398v2</id>
+    <title>G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems</title>
+    <updated>2025-06-16T08:45:10Z</updated>
+    <link href="https://arxiv.org/abs/2506.07398v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2506.07398v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large language model (LLM)-powered multi-agent systems (MAS) have demonstrated cognitive and execution capabilities that far exceed those of single LLM agents, yet their capacity for self-evolution remains hampered by underdeveloped memory architectures. Upon close inspection, we are alarmed to discover that prevailing MAS memory mechanisms (1) are overly simplistic, completely disregarding the nuanced inter-agent collaboration trajectories, and (2) lack cross-trial and agent-specific customization, in stark contrast to the expressive memory developed for single agents. To bridge this gap, we introduce G-Memory, a hierarchical, agentic memory system for MAS inspired by organizational memory theory, which manages the lengthy MAS interaction via a three-tier graph hierarchy: insight, query, and interaction graphs. Upon receiving a new user query, G-Memory performs bi-directional memory traversal to retrieve both $\textit{high-level, generalizable insights}$ that enable the system to leverage cross-trial knowledge, and $\textit{fine-grained, condensed interaction trajectories}$ that compactly encode prior collaboration experiences. Upon task execution, the entire hierarchy evolves by assimilating new collaborative trajectories, nurturing the progressive evolution of agent teams. Extensive experiments across five benchmarks, three LLM backbones, and three popular MAS frameworks demonstrate that G-Memory improves success rates in embodied action and accuracy in knowledge QA by up to $20.89\%$ and $10.12\%$, respectively, without any modifications to the original frameworks. Our codes are available at https://github.com/bingreeky/GMemory.</summary>
+    <category term="cs.MA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-06-09T03:43:46Z</published>
+    <arxiv:primary_category term="cs.MA"/>
+    <author>
+      <name>Guibin Zhang</name>
+    </author>
+    <author>
+      <name>Muxin Fu</name>
+    </author>
+    <author>
+      <name>Guancheng Wan</name>
+    </author>
+    <author>
+      <name>Miao Yu</name>
+    </author>
+    <author>
+      <name>Kun Wang</name>
+    </author>
+    <author>
+      <name>Shuicheng Yan</name>
+    </author>
+  </entry>
+</feed>

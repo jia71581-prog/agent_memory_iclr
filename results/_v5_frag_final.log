@@ -1,0 +1,20 @@
+n questions 500
+chains BEFORE              median    316.5  mean    317.3  p90    358.0  min 232  max 429
+chains AFTER               median    297.0  mean    299.0  p90    341.0  min 210  max 410
+singletons BEFORE          median    268.0  mean    270.1  p90    309.0  min 185  max 371
+singletons AFTER           median    250.5  mean    251.8  p90    292.0  min 165  max 353
+max chain len BEFORE       median     13.0  mean     13.7  p90     19.0  min 6  max 45
+max chain len AFTER        median     18.0  mean     18.8  p90     27.0  min 7  max 48
+view current BEFORE        median  30397.0  mean  30570.3  p90  34362.0  min 23079  max 40325
+view current AFTER         median  29545.5  mean  29674.1  p90  33608.0  min 22046  max 39199
+view hist BEFORE           median  31317.5  mean  31425.7  p90  35299.0  min 24130  max 41353
+view hist AFTER            median  30671.0  mean  30804.9  p90  34550.0  min 23516  max 40823
+merge edges                median     27.0  mean     28.2  p90     41.0  min 8  max 72
+chain-count reduction: median 0.057 mean 0.058 min 0.017 max 0.098
+singleton share of chains: before 0.851 after 0.842
+facts retained in store: before 213248 after 213189 (delta -59, -0.028% - negative = duplicate values collapsed by merging)
+mean current-view chars 30570 -> 29674 (-2.93%)
+mean historical-view chars 31426 -> 30805 (-1.98%)
+total merge edges 14091, clusters with >1 key 6096
+edges by rule: {'R1_same_signature': 14021, 'R2_modifier_subset': 68, 'R4_token_neardup': 2}
+wrote merge sample -> results/_v5_merge_sample.txt

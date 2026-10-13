@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/Gjfcjal0BWRZH1nunHMoetcve0I</id>
+  <title>arXiv Query: search_query=ti:"Generative Agents"&amp;id_list=&amp;start=0&amp;max_results=8</title>
+  <updated>2026-09-16T09:25:18Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Generative+Agents%22&amp;start=0&amp;max_results=8&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>8</opensearch:itemsPerPage>
+  <opensearch:totalResults>143</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2402.02053v2</id>
+    <title>Affordable Generative Agents</title>
+    <updated>2024-08-28T04:04:45Z</updated>
+    <link href="https://arxiv.org/abs/2402.02053v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2402.02053v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The emergence of large language models (LLMs) has significantly advanced the simulation of believable interactive agents. However, the substantial cost on maintaining the prolonged agent interactions poses challenge over the deployment of believable LLM-based agents. Therefore, in this paper, we develop Affordable Generative Agents (AGA), a framework for enabling the generation of believable and low-cost interactions on both agent-environment and inter-agents levels. Specifically, for agent-environment interactions, we substitute repetitive LLM inferences with learned policies; while for inter-agent interactions, we model the social relationships between agents and compress auxiliary dialogue information. Extensive experiments on multiple environments show the effectiveness and efficiency of our proposed framework. Also, we delve into the mechanisms of emergent believable behaviors lying in LLM agents, demonstrating that agents can only generate finite behaviors in fixed environments, based upon which, we understand ways to facilitate emergent interaction behaviors. Our code is publicly available at: https://github.com/AffordableGenerativeAgents/Affordable-Generative-Agents.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.HC" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-02-03T06:16:28Z</published>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Yangbin Yu</name>
+    </author>
+    <author>
+      <name>Qin Zhang</name>
+    </author>
+    <author>
+      <name>Junyou Li</name>
+    </author>
+    <author>
+      <name>Qiang Fu</name>
+    </author>
+    <author>
+      <name>Deheng Ye</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2307.04986v1</id>
+    <title>Epidemic Modeling with Generative Agents</title>
+    <updated>2023-07-11T02:52:32Z</updated>
+    <link href="https://arxiv.org/abs/2307.04986v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2307.04986v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This study offers a new paradigm of individual-level modeling to address the grand challenge of incorporating human behavior in epidemic models. Using generative artificial intelligence in an agent-based epidemic model, each agent is empowered to make its own reasonings and decisions via connecting to a large language model such as ChatGPT. Through various simulation experiments, we present compelling evidence that generative agents mimic real-world behaviors such as quarantining when sick and self-isolation when cases rise. Collectively, the agents demonstrate patterns akin to multiple waves observed in recent pandemics followed by an endemic period. Moreover, the agents successfully flatten the epidemic curve. This study creates potential to improve dynamic system modeling by offering a way to represent human brain, reasoning, and decision making.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.MA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="econ.GN" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.AO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.soc-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-07-11T02:52:32Z</published>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Ross Williams</name>
+    </author>
+    <author>
+      <name>Niyousha Hosseinichimeh</name>
+    </author>
+    <author>
+      <name>Aritra Majumdar</name>
+    </author>
+    <author>
+      <name>Navid Ghaffarzadegan</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2310.10108v3</id>
+    <title>On Generative Agents in Recommendation</title>
+    <updated>2024-11-08T03:58:00Z</updated>
+    <link href="https://arxiv.org/abs/2310.10108v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2310.10108v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Recommender systems are the cornerstone of today's information dissemination, yet a disconnect between offline metrics and online performance greatly hinders their development. Addressing this challenge, we envision a recommendation simulator, capitalizing on recent breakthroughs in human-level intelligence exhibited by Large Language Models (LLMs). We propose Agent4Rec, a user simulator in recommendation, leveraging LLM-empowered generative agents equipped with user profile, memory, and actions modules specifically tailored for the recommender system. In particular, these agents' profile modules are initialized using real-world datasets (e.g. MovieLens, Steam, Amazon-Book), capturing users' unique tastes and social traits; memory modules log both factual and emotional memories and are integrated with an emotion-driven reflection mechanism; action modules support a wide variety of behaviors, spanning both taste-driven and emotion-driven actions. Each agent interacts with personalized recommender models in a page-by-page manner, relying on a pre-implemented collaborative filtering-based recommendation algorithm. We delve into both the capabilities and limitations of Agent4Rec, aiming to explore an essential research question: ``To what extent can LLM-empowered generative agents faithfully simulate the behavior of real, autonomous humans in recommender systems?'' Extensive and multi-faceted evaluations of Agent4Rec highlight both the alignment and deviation between agents and user-personalized preferences. Beyond mere performance comparison, we explore insightful experiments, such as emulating the filter bubble effect and discovering the underlying causal relationships in recommendation tasks. Our codes are available at https://github.com/LehengTHU/Agent4Rec.</summary>
+    <category term="cs.IR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-10-16T06:41:16Z</published>
+    <arxiv:comment>SIGIR 2024 perspective paper</arxiv:comment>
+    <arxiv:primary_category term="cs.IR"/>
+    <author>
+      <name>An Zhang</name>
+    </author>
+    <author>
+      <name>Yuxin Chen</name>
+    </author>
+    <author>
+      <name>Leheng Sheng</name>
+    </author>
+    <author>
+      <name>Xiang Wang</name>
+    </author>
+    <author>
+      <name>Tat-Seng Chua</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2602.22529v1</id>
+    <title>Generative Agents Navigating Digital Libraries</title>
+    <updated>2026-02-26T02:08:39Z</updated>
+    <link href="https://arxiv.org/abs/2602.22529v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2602.22529v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In the rapidly evolving field of digital libraries, the development of large language models (LLMs) has opened up new possibilities for simulating user behavior. This innovation addresses the longstanding challenge in digital library research: the scarcity of publicly available datasets on user search patterns due to privacy concerns. In this context, we introduce Agent4DL, a user search behavior simulator specifically designed for digital library environments. Agent4DL generates realistic user profiles and dynamic search sessions that closely mimic actual search strategies, including querying, clicking, and stopping behaviors tailored to specific user profiles. Our simulator's accuracy in replicating real user interactions has been validated through comparisons with real user data. Notably, Agent4DL demonstrates competitive performance compared to existing user search simulators such as SimIIR 2.0, particularly in its ability to generate more diverse and context-aware user behaviors.</summary>
+    <category term="cs.IR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.DL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-02-26T02:08:39Z</published>
+    <arxiv:primary_category term="cs.IR"/>
+    <arxiv:journal_ref>Proceedings of the 26th International Conference on Asia-Pacific Digital Libraries, ICADL 2024</arxiv:journal_ref>
+    <author>
+      <name>Saber Zerhoudi</name>
+    </author>
+    <author>
+      <name>Michael Granitzer</name>
+    </author>
+    <arxiv:doi>10.1007/978-981-96-0865-2_14</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1007/978-981-96-0865-2_14" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2412.18899v3</id>
+    <title>GAI: Generative Agents for Innovation</title>
+    <updated>2026-02-19T02:50:11Z</updated>
+    <link href="https://arxiv.org/abs/2412.18899v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2412.18899v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This study examines whether collective reasoning among generative agents can facilitate novel and coherent thinking that leads to innovation. To achieve this, it proposes GAI, a new LLM-empowered framework designed for reflection and interaction among multiple generative agents to replicate the process of innovation. The core of the GAI framework lies in an architecture that dynamically processes the internal states of agents and a dialogue scheme specifically tailored to facilitate analogy-driven innovation. The framework's functionality is evaluated using Dyson's invention of the bladeless fan as a case study, assessing the extent to which the core ideas of the innovation can be replicated through a set of fictional technical documents. The experimental results demonstrate that models with internal states significantly outperformed those without, achieving higher average scores and lower variance. Notably, the model with five heterogeneous agents equipped with internal states successfully replicated the key ideas underlying the Dyson's invention. This indicates that the internal state enables agents to refine their ideas, resulting in the construction and sharing of more coherent and comprehensive concepts.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-12-25T13:20:10Z</published>
+    <arxiv:comment>Added an Appendix section</arxiv:comment>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Masahiro Sato</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2402.04232v2</id>
+    <title>Can Generative Agents Predict Emotion?</title>
+    <updated>2024-02-07T17:27:09Z</updated>
+    <link href="https://arxiv.org/abs/2402.04232v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2402.04232v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large Language Models (LLMs) have demonstrated a number of human-like abilities, however the empathic understanding and emotional state of LLMs is yet to be aligned to that of humans. In this work, we investigate how the emotional state of generative LLM agents evolves as they perceive new events, introducing a novel architecture in which new experiences are compared to past memories. Through this comparison, the agent gains the ability to understand new experiences in context, which according to the appraisal theory of emotion is vital in emotion creation. First, the agent perceives new experiences as time series text data. After perceiving each new input, the agent generates a summary of past relevant memories, referred to as the norm, and compares the new experience to this norm. Through this comparison we can analyse how the agent reacts to the new experience in context. The PANAS, a test of affect, is administered to the agent, capturing the emotional state of the agent after the perception of the new event. Finally, the new experience is then added to the agents memory to be used in the creation of future norms. By creating multiple experiences in natural language from emotionally charged situations, we test the proposed architecture on a wide range of scenarios. The mixed results suggests that introducing context can occasionally improve the emotional alignment of the agent, but further study and comparison with human evaluators is necessary. We hope that this paper is another step towards the alignment of generative agents.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-02-06T18:39:43Z</published>
+    <arxiv:comment>14 pages, 6 figures</arxiv:comment>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Ciaran Regan</name>
+    </author>
+    <author>
+      <name>Nanami Iwahashi</name>
+    </author>
+    <author>
+      <name>Shogo Tanaka</name>
+    </author>
+    <author>
+      <name>Mizuki Oka</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2506.12664v2</id>
+    <title>Behavioral Generative Agents for Energy Operations</title>
+    <updated>2026-02-28T20:00:17Z</updated>
+    <link href="https://arxiv.org/abs/2506.12664v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2506.12664v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Problem definition: Accurately modeling consumer behavior in energy operations is challenging due to uncertainty, behavioral heterogeneity, and limited empirical data-particularly in low-frequency, high-impact events. While generative AI trained on large-scale human data offers new opportunities to study decision behavior, its role in operational applications remains unclear. We examine how generative agents can support customer behavior discovery in energy operations, complementing rather than replacing human-based experiments. Methodology/results: We introduce a novel approach leveraging generative agents-artificial agents powered by large language models-to simulate sequential customer decisions under dynamic electricity prices and outage risks. We find that these agents behave more optimally and rationally in simpler market scenarios, while their performance becomes more variable and suboptimal as task complexity rises. Furthermore, the agents exhibit heterogeneous customer preferences, consistently maintaining distinct, persona-driven reasoning patterns in both operational decisions and textual reasoning. Comparisons with dynamic programming and greedy policy benchmarks show alignment between specific personas and distinct heuristic decision policies. In low-frequency, high-impact events such as blackouts, agents prioritize energy reliability over cost or profit, demonstrating their ability to uncover behavioral patterns beyond the rigidity of traditional mathematical models. Managerial Implications: Our findings suggest that behavioral generative agents can serve as scalable and flexible tools for studying consumer behavior in energy operations. By enabling controlled experiments across heterogeneous customer types and rare events, these agents can enhance the design of energy management systems and support more informed analysis of energy policies and incentive programs.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="eess.SY" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-06-14T23:51:45Z</published>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Cong Chen</name>
+    </author>
+    <author>
+      <name>Omer Karaduman</name>
+    </author>
+    <author>
+      <name>Xu Kuang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2411.19211v1</id>
+    <title>On the Ethical Considerations of Generative Agents</title>
+    <updated>2024-11-28T15:31:49Z</updated>
+    <link href="https://arxiv.org/abs/2411.19211v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2411.19211v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The Generative Agents framework recently developed by Park et al. has enabled numerous new technical solutions and problem-solving approaches. Academic and industrial interest in generative agents has been explosive as a result of the effectiveness of generative agents toward emulating human behaviour. However, it is necessary to consider the ethical challenges and concerns posed by this technique and its usage. In this position paper, we discuss the extant literature that evaluate the ethical considerations regarding generative agents and similar generative tools, and identify additional concerns of significant importance. We also suggest guidelines and necessary future research on how to mitigate some of the ethical issues and systemic risks associated with generative agents.</summary>
+    <category term="cs.CY" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.ET" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.MA" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-11-28T15:31:49Z</published>
+    <arxiv:comment>Accepted (poster) to Socially Responsible Language Modelling Research (SoLaR) Workshop at NeurIPS 2024</arxiv:comment>
+    <arxiv:primary_category term="cs.CY"/>
+    <author>
+      <name>N'yoma Diamond</name>
+    </author>
+    <author>
+      <name>Soumya Banerjee</name>
+    </author>
+  </entry>
+</feed>

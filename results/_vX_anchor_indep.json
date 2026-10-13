@@ -1,0 +1,2333 @@
+[
+ {
+  "qid": "2ebe6c92",
+  "gold": "'The Nightingale' by Kristin Hannah",
+  "n_gold_toks": 3,
+  "question": "Which book did I finish a week ago?",
+  "qdate": "2023/02/07 (Tue) 09:09",
+  "cache_miss": 0,
+  "n_high_anchors": 1,
+  "n_ans_sessions": 2,
+  "n_gold_ans_sessions": 2,
+  "gold_fallback_used": false,
+  "n_tgt_dates": 2,
+  "n_other_ans_dates": 0,
+  "disc_vacuous": true,
+  "anchor_kind": "offset",
+  "anchor_expr": "a week ago",
+  "anchor_date": "2023/01/31",
+  "err_days": 0,
+  "hit3": true,
+  "hit0": true,
+  "disc_vs_other_ans": true,
+  "n_hay_sessions": 48,
+  "n_hay_days": 22,
+  "n_hay_days_within_0": 1,
+  "n_hay_sess_within_0": 7,
+  "n_hay_days_within_1": 2,
+  "n_hay_sess_within_1": 9,
+  "n_hay_days_within_3": 3,
+  "n_hay_sess_within_3": 13,
+  "used_window": 1,
+  "block_n": 10,
+  "block_chars": 1266,
+  "gold_all": true,
+  "gold_substr": true,
+  "gold_stem": true,
+  "gold_rank_all": 1,
+  "gold_rank_stem": 1,
+  "block_uniq_lines_hit": 1,
+  "sham": {
+   "off-30": {
+    "n": 8,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-14": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-7": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+7": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+14": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+30": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "rand3": [
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 0,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": true,
+     "gold_stem": true
+    },
+    {
+     "n": 0,
+     "gold_all": false,
+     "gold_stem": false
+    }
+   ],
+   "qday": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   }
+  },
+  "n_events": 20,
+  "events_chars": 2033,
+  "rel10_gold_all": true,
+  "rel10_gold_stem": true,
+  "rel10_chars": 830,
+  "rel20_gold_all": true,
+  "rel20_gold_stem": true,
+  "rel20_chars": 2033
+ },
+ {
+  "qid": "gpt4_e061b84g",
+  "gold": "The company's annual charity soccer tournament.",
+  "n_gold_toks": 5,
+  "question": "I mentioned participating in a sports event two weeks ago. What was the event?",
+  "qdate": "2023/07/01 (Sat) 13:38",
+  "cache_miss": 0,
+  "n_high_anchors": 1,
+  "n_ans_sessions": 3,
+  "n_gold_ans_sessions": 1,
+  "gold_fallback_used": false,
+  "n_tgt_dates": 1,
+  "n_other_ans_dates": 2,
+  "disc_vacuous": false,
+  "anchor_kind": "offset",
+  "anchor_expr": "two weeks ago",
+  "anchor_date": "2023/06/17",
+  "err_days": 0,
+  "hit3": true,
+  "hit0": true,
+  "disc_vs_other_ans": true,
+  "n_hay_sessions": 58,
+  "n_hay_days": 21,
+  "n_hay_days_within_0": 1,
+  "n_hay_sess_within_0": 20,
+  "n_hay_days_within_1": 2,
+  "n_hay_sess_within_1": 23,
+  "n_hay_days_within_3": 2,
+  "n_hay_sess_within_3": 23,
+  "used_window": 1,
+  "block_n": 10,
+  "block_chars": 1131,
+  "gold_all": true,
+  "gold_substr": true,
+  "gold_stem": true,
+  "gold_rank_all": 2,
+  "gold_rank_stem": 2,
+  "block_uniq_lines_hit": 1,
+  "sham": {
+   "off-30": {
+    "n": 3,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-14": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-7": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+7": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+14": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+30": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "rand3": [
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 4,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 0,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    }
+   ],
+   "qday": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   }
+  },
+  "n_events": 19,
+  "events_chars": 1936,
+  "rel10_gold_all": true,
+  "rel10_gold_stem": true,
+  "rel10_chars": 857,
+  "rel20_gold_all": true,
+  "rel20_gold_stem": true,
+  "rel20_chars": 1936
+ },
+ {
+  "qid": "71017277",
+  "gold": "my aunt",
+  "n_gold_toks": 1,
+  "question": "I received a piece of jewelry last Saturday from whom?",
+  "qdate": "2023/03/09 (Thu) 15:47",
+  "cache_miss": 0,
+  "n_high_anchors": 1,
+  "n_ans_sessions": 1,
+  "n_gold_ans_sessions": 1,
+  "gold_fallback_used": false,
+  "n_tgt_dates": 1,
+  "n_other_ans_dates": 0,
+  "disc_vacuous": true,
+  "anchor_kind": "weekday",
+  "anchor_expr": "last saturday",
+  "anchor_date": "2023/03/04",
+  "err_days": 0,
+  "hit3": true,
+  "hit0": true,
+  "disc_vs_other_ans": true,
+  "n_hay_sessions": 51,
+  "n_hay_days": 19,
+  "n_hay_days_within_0": 1,
+  "n_hay_sess_within_0": 15,
+  "n_hay_days_within_1": 2,
+  "n_hay_sess_within_1": 16,
+  "n_hay_days_within_3": 4,
+  "n_hay_sess_within_3": 19,
+  "used_window": 1,
+  "block_n": 10,
+  "block_chars": 1002,
+  "gold_all": true,
+  "gold_substr": true,
+  "gold_stem": true,
+  "gold_rank_all": 1,
+  "gold_rank_stem": 1,
+  "block_uniq_lines_hit": 1,
+  "sham": {
+   "off-30": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-14": {
+    "n": 7,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-7": {
+    "n": 1,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+7": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+14": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+30": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "rand3": [
+    {
+     "n": 10,
+     "gold_all": true,
+     "gold_stem": true
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    }
+   ],
+   "qday": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   }
+  },
+  "n_events": 20,
+  "events_chars": 2045,
+  "rel10_gold_all": false,
+  "rel10_gold_stem": false,
+  "rel10_chars": 966,
+  "rel20_gold_all": false,
+  "rel20_gold_stem": false,
+  "rel20_chars": 2045
+ },
+ {
+  "qid": "b46e15ee",
+  "gold": "the 'Walk for Hunger' charity event",
+  "n_gold_toks": 4,
+  "question": "What charity event did I participate in a month ago?",
+  "qdate": "2023/04/18 (Tue) 18:34",
+  "cache_miss": 0,
+  "n_high_anchors": 1,
+  "n_ans_sessions": 4,
+  "n_gold_ans_sessions": 1,
+  "gold_fallback_used": false,
+  "n_tgt_dates": 1,
+  "n_other_ans_dates": 3,
+  "disc_vacuous": false,
+  "anchor_kind": "offset",
+  "anchor_expr": "a month ago",
+  "anchor_date": "2023/03/18",
+  "err_days": 1,
+  "hit3": true,
+  "hit0": false,
+  "disc_vs_other_ans": true,
+  "n_hay_sessions": 42,
+  "n_hay_days": 14,
+  "n_hay_days_within_0": 0,
+  "n_hay_sess_within_0": 0,
+  "n_hay_days_within_1": 1,
+  "n_hay_sess_within_1": 15,
+  "n_hay_days_within_3": 1,
+  "n_hay_sess_within_3": 15,
+  "used_window": 1,
+  "block_n": 10,
+  "block_chars": 1295,
+  "gold_all": true,
+  "gold_substr": true,
+  "gold_stem": true,
+  "gold_rank_all": 1,
+  "gold_rank_stem": 1,
+  "block_uniq_lines_hit": 1,
+  "sham": {
+   "off-30": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-14": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-7": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+7": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+14": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+30": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "rand3": [
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 0,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    }
+   ],
+   "qday": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   }
+  },
+  "n_events": 18,
+  "events_chars": 1945,
+  "rel10_gold_all": false,
+  "rel10_gold_stem": false,
+  "rel10_chars": 1274,
+  "rel20_gold_all": false,
+  "rel20_gold_stem": false,
+  "rel20_chars": 1945
+ },
+ {
+  "qid": "gpt4_d6585ce9",
+  "gold": "my parents",
+  "n_gold_toks": 1,
+  "question": "Who did I go with to the music event last Saturday?",
+  "qdate": "2023/04/22 (Sat) 08:01",
+  "cache_miss": 0,
+  "n_high_anchors": 1,
+  "n_ans_sessions": 5,
+  "n_gold_ans_sessions": 1,
+  "gold_fallback_used": false,
+  "n_tgt_dates": 1,
+  "n_other_ans_dates": 4,
+  "disc_vacuous": false,
+  "anchor_kind": "weekday",
+  "anchor_expr": "last saturday",
+  "anchor_date": "2023/04/15",
+  "err_days": 0,
+  "hit3": true,
+  "hit0": true,
+  "disc_vs_other_ans": true,
+  "n_hay_sessions": 42,
+  "n_hay_days": 14,
+  "n_hay_days_within_0": 1,
+  "n_hay_sess_within_0": 26,
+  "n_hay_days_within_1": 2,
+  "n_hay_sess_within_1": 27,
+  "n_hay_days_within_3": 2,
+  "n_hay_sess_within_3": 27,
+  "used_window": 1,
+  "block_n": 10,
+  "block_chars": 1441,
+  "gold_all": true,
+  "gold_substr": true,
+  "gold_stem": true,
+  "gold_rank_all": 2,
+  "gold_rank_stem": 2,
+  "block_uniq_lines_hit": 1,
+  "sham": {
+   "off-30": {
+    "n": 6,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-14": {
+    "n": 6,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-7": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+7": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+14": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+30": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "rand3": [
+    {
+     "n": 10,
+     "gold_all": true,
+     "gold_stem": true
+    },
+    {
+     "n": 10,
+     "gold_all": true,
+     "gold_stem": true
+    },
+    {
+     "n": 6,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": true,
+     "gold_stem": true
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    }
+   ],
+   "qday": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   }
+  },
+  "n_events": 20,
+  "events_chars": 2255,
+  "rel10_gold_all": false,
+  "rel10_gold_stem": false,
+  "rel10_chars": 1211,
+  "rel20_gold_all": false,
+  "rel20_gold_stem": false,
+  "rel20_chars": 2255
+ },
+ {
+  "qid": "gpt4_1e4a8aec",
+  "gold": "planting 12 new tomato saplings",
+  "n_gold_toks": 4,
+  "question": "What gardening-related activity did I do two weeks ago?",
+  "qdate": "2023/05/05 (Fri) 16:42",
+  "cache_miss": 0,
+  "n_high_anchors": 1,
+  "n_ans_sessions": 2,
+  "n_gold_ans_sessions": 1,
+  "gold_fallback_used": false,
+  "n_tgt_dates": 1,
+  "n_other_ans_dates": 1,
+  "disc_vacuous": false,
+  "anchor_kind": "offset",
+  "anchor_expr": "two weeks ago",
+  "anchor_date": "2023/04/21",
+  "err_days": 0,
+  "hit3": true,
+  "hit0": true,
+  "disc_vs_other_ans": true,
+  "n_hay_sessions": 50,
+  "n_hay_days": 24,
+  "n_hay_days_within_0": 1,
+  "n_hay_sess_within_0": 9,
+  "n_hay_days_within_1": 2,
+  "n_hay_sess_within_1": 10,
+  "n_hay_days_within_3": 4,
+  "n_hay_sess_within_3": 16,
+  "used_window": 1,
+  "block_n": 10,
+  "block_chars": 1057,
+  "gold_all": false,
+  "gold_substr": false,
+  "gold_stem": true,
+  "gold_rank_all": null,
+  "gold_rank_stem": 2,
+  "block_uniq_lines_hit": 0,
+  "sham": {
+   "off-30": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-14": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-7": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+7": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+14": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+30": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "rand3": [
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    }
+   ],
+   "qday": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   }
+  },
+  "n_events": 20,
+  "events_chars": 2171,
+  "rel10_gold_all": false,
+  "rel10_gold_stem": false,
+  "rel10_chars": 1117,
+  "rel20_gold_all": false,
+  "rel20_gold_stem": false,
+  "rel20_chars": 2171
+ },
+ {
+  "qid": "gpt4_f420262d",
+  "gold": "American Airlines",
+  "n_gold_toks": 2,
+  "question": "What was the airline that I flied with on Valentine's day?",
+  "qdate": "2023/03/02 (Thu) 08:00",
+  "cache_miss": 0,
+  "n_high_anchors": 2,
+  "n_ans_sessions": 5,
+  "n_gold_ans_sessions": 5,
+  "gold_fallback_used": false,
+  "n_tgt_dates": 5,
+  "n_other_ans_dates": 0,
+  "disc_vacuous": true,
+  "anchor_kind": "holiday",
+  "anchor_expr": "valentine's day",
+  "anchor_date": "2023/02/14",
+  "err_days": 0,
+  "hit3": true,
+  "hit0": true,
+  "disc_vs_other_ans": true,
+  "n_hay_sessions": 43,
+  "n_hay_days": 32,
+  "n_hay_days_within_0": 1,
+  "n_hay_sess_within_0": 2,
+  "n_hay_days_within_1": 2,
+  "n_hay_sess_within_1": 3,
+  "n_hay_days_within_3": 4,
+  "n_hay_sess_within_3": 5,
+  "used_window": 1,
+  "block_n": 10,
+  "block_chars": 1077,
+  "gold_all": true,
+  "gold_substr": true,
+  "gold_stem": true,
+  "gold_rank_all": 1,
+  "gold_rank_stem": 1,
+  "block_uniq_lines_hit": 2,
+  "sham": {
+   "off-30": {
+    "n": 10,
+    "gold_all": true,
+    "gold_stem": true
+   },
+   "off-14": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-7": {
+    "n": 9,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+7": {
+    "n": 10,
+    "gold_all": true,
+    "gold_stem": true
+   },
+   "off+14": {
+    "n": 10,
+    "gold_all": true,
+    "gold_stem": true
+   },
+   "off+30": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "rand3": [
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": true,
+     "gold_stem": true
+    },
+    {
+     "n": 2,
+     "gold_all": false,
+     "gold_stem": false
+    }
+   ],
+   "qday": {
+    "n": 10,
+    "gold_all": true,
+    "gold_stem": true
+   }
+  },
+  "n_events": 5,
+  "events_chars": 489,
+  "rel10_gold_all": false,
+  "rel10_gold_stem": false,
+  "rel10_chars": 489,
+  "rel20_gold_all": false,
+  "rel20_gold_stem": false,
+  "rel20_chars": 489
+ },
+ {
+  "qid": "gpt4_59149c78",
+  "gold": "The Metropolitan Museum of Art.",
+  "n_gold_toks": 3,
+  "question": "I mentioned that I participated in an art-related event two weeks ago. Where was that event held at?",
+  "qdate": "2023/02/01 (Wed) 08:41",
+  "cache_miss": 0,
+  "n_high_anchors": 1,
+  "n_ans_sessions": 2,
+  "n_gold_ans_sessions": 1,
+  "gold_fallback_used": false,
+  "n_tgt_dates": 1,
+  "n_other_ans_dates": 1,
+  "disc_vacuous": false,
+  "anchor_kind": "offset",
+  "anchor_expr": "two weeks ago",
+  "anchor_date": "2023/01/18",
+  "err_days": 3,
+  "hit3": true,
+  "hit0": false,
+  "disc_vs_other_ans": true,
+  "n_hay_sessions": 51,
+  "n_hay_days": 10,
+  "n_hay_days_within_0": 0,
+  "n_hay_sess_within_0": 0,
+  "n_hay_days_within_1": 0,
+  "n_hay_sess_within_1": 0,
+  "n_hay_days_within_3": 1,
+  "n_hay_sess_within_3": 27,
+  "used_window": 3,
+  "block_n": 10,
+  "block_chars": 1266,
+  "gold_all": true,
+  "gold_substr": true,
+  "gold_stem": true,
+  "gold_rank_all": 1,
+  "gold_rank_stem": 1,
+  "block_uniq_lines_hit": 1,
+  "sham": {
+   "off-30": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-14": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-7": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": true
+   },
+   "off+7": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+14": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+30": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "rand3": [
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 9,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": true
+    },
+    {
+     "n": 10,
+     "gold_all": true,
+     "gold_stem": true
+    },
+    {
+     "n": 9,
+     "gold_all": false,
+     "gold_stem": false
+    }
+   ],
+   "qday": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   }
+  },
+  "n_events": 17,
+  "events_chars": 1569,
+  "rel10_gold_all": false,
+  "rel10_gold_stem": true,
+  "rel10_chars": 999,
+  "rel20_gold_all": false,
+  "rel20_gold_stem": true,
+  "rel20_chars": 1569
+ },
+ {
+  "qid": "gpt4_e414231f",
+  "gold": "road bike",
+  "n_gold_toks": 2,
+  "question": "Which bike did I fixed or serviced the past weekend?",
+  "qdate": "2023/03/21 (Tue) 21:43",
+  "cache_miss": 0,
+  "n_high_anchors": 1,
+  "n_ans_sessions": 2,
+  "n_gold_ans_sessions": 2,
+  "gold_fallback_used": false,
+  "n_tgt_dates": 2,
+  "n_other_ans_dates": 0,
+  "disc_vacuous": true,
+  "anchor_kind": "weekday",
+  "anchor_expr": "the past weekend",
+  "anchor_date": "2023/03/18",
+  "err_days": 1,
+  "hit3": true,
+  "hit0": false,
+  "disc_vs_other_ans": true,
+  "n_hay_sessions": 46,
+  "n_hay_days": 21,
+  "n_hay_days_within_0": 0,
+  "n_hay_sess_within_0": 0,
+  "n_hay_days_within_1": 1,
+  "n_hay_sess_within_1": 12,
+  "n_hay_days_within_3": 2,
+  "n_hay_sess_within_3": 13,
+  "used_window": 1,
+  "block_n": 10,
+  "block_chars": 1024,
+  "gold_all": true,
+  "gold_substr": true,
+  "gold_stem": true,
+  "gold_rank_all": 1,
+  "gold_rank_stem": 1,
+  "block_uniq_lines_hit": 1,
+  "sham": {
+   "off-30": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-14": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-7": {
+    "n": 9,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+7": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+14": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+30": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "rand3": [
+    {
+     "n": 10,
+     "gold_all": true,
+     "gold_stem": true
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    }
+   ],
+   "qday": {
+    "n": 10,
+    "gold_all": true,
+    "gold_stem": true
+   }
+  },
+  "n_events": 10,
+  "events_chars": 1170,
+  "rel10_gold_all": true,
+  "rel10_gold_stem": true,
+  "rel10_chars": 1170,
+  "rel20_gold_all": true,
+  "rel20_gold_stem": true,
+  "rel20_chars": 1170
+ },
+ {
+  "qid": "gpt4_4929293b",
+  "gold": "my cousin's wedding",
+  "n_gold_toks": 2,
+  "question": "What was the the life event of one of my relatives that I participated in a week ago?",
+  "qdate": "2023/06/22 (Thu) 18:33",
+  "cache_miss": 0,
+  "n_high_anchors": 1,
+  "n_ans_sessions": 2,
+  "n_gold_ans_sessions": 1,
+  "gold_fallback_used": false,
+  "n_tgt_dates": 1,
+  "n_other_ans_dates": 1,
+  "disc_vacuous": false,
+  "anchor_kind": "offset",
+  "anchor_expr": "a week ago",
+  "anchor_date": "2023/06/15",
+  "err_days": 0,
+  "hit3": true,
+  "hit0": true,
+  "disc_vs_other_ans": true,
+  "n_hay_sessions": 49,
+  "n_hay_days": 28,
+  "n_hay_days_within_0": 1,
+  "n_hay_sess_within_0": 4,
+  "n_hay_days_within_1": 1,
+  "n_hay_sess_within_1": 4,
+  "n_hay_days_within_3": 3,
+  "n_hay_sess_within_3": 6,
+  "used_window": 1,
+  "block_n": 10,
+  "block_chars": 993,
+  "gold_all": true,
+  "gold_substr": true,
+  "gold_stem": true,
+  "gold_rank_all": 8,
+  "gold_rank_stem": 8,
+  "block_uniq_lines_hit": 1,
+  "sham": {
+   "off-30": {
+    "n": 7,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-14": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-7": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+7": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+14": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+30": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "rand3": [
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    }
+   ],
+   "qday": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   }
+  },
+  "n_events": 20,
+  "events_chars": 1992,
+  "rel10_gold_all": false,
+  "rel10_gold_stem": false,
+  "rel10_chars": 917,
+  "rel20_gold_all": false,
+  "rel20_gold_stem": false,
+  "rel20_chars": 1992
+ },
+ {
+  "qid": "gpt4_468eb064",
+  "gold": "Emma",
+  "n_gold_toks": 1,
+  "question": "Who did I meet with during the lunch last Tuesday?",
+  "qdate": "2023/04/18 (Tue) 16:50",
+  "cache_miss": 0,
+  "n_high_anchors": 1,
+  "n_ans_sessions": 1,
+  "n_gold_ans_sessions": 1,
+  "gold_fallback_used": false,
+  "n_tgt_dates": 1,
+  "n_other_ans_dates": 0,
+  "disc_vacuous": true,
+  "anchor_kind": "weekday",
+  "anchor_expr": "last tuesday",
+  "anchor_date": "2023/04/11",
+  "err_days": 0,
+  "hit3": true,
+  "hit0": true,
+  "disc_vs_other_ans": true,
+  "n_hay_sessions": 48,
+  "n_hay_days": 10,
+  "n_hay_days_within_0": 1,
+  "n_hay_sess_within_0": 34,
+  "n_hay_days_within_1": 1,
+  "n_hay_sess_within_1": 34,
+  "n_hay_days_within_3": 2,
+  "n_hay_sess_within_3": 35,
+  "used_window": 1,
+  "block_n": 10,
+  "block_chars": 921,
+  "gold_all": true,
+  "gold_substr": true,
+  "gold_stem": true,
+  "gold_rank_all": 1,
+  "gold_rank_stem": 1,
+  "block_uniq_lines_hit": 1,
+  "sham": {
+   "off-30": {
+    "n": 7,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-14": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-7": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+7": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+14": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+30": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "rand3": [
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 2,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 3,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 0,
+     "gold_all": false,
+     "gold_stem": false
+    }
+   ],
+   "qday": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   }
+  },
+  "n_events": 11,
+  "events_chars": 1304,
+  "rel10_gold_all": true,
+  "rel10_gold_stem": true,
+  "rel10_chars": 1182,
+  "rel20_gold_all": true,
+  "rel20_gold_stem": true,
+  "rel20_chars": 1304
+ },
+ {
+  "qid": "gpt4_fa19884d",
+  "gold": "a bluegrass band that features a banjo player",
+  "n_gold_toks": 6,
+  "question": "What is the artist that I started to listen to last Friday?",
+  "qdate": "2023/04/05 (Wed) 19:25",
+  "cache_miss": 0,
+  "n_high_anchors": 1,
+  "n_ans_sessions": 2,
+  "n_gold_ans_sessions": 1,
+  "gold_fallback_used": false,
+  "n_tgt_dates": 1,
+  "n_other_ans_dates": 1,
+  "disc_vacuous": false,
+  "anchor_kind": "weekday",
+  "anchor_expr": "last friday",
+  "anchor_date": "2023/03/31",
+  "err_days": 0,
+  "hit3": true,
+  "hit0": true,
+  "disc_vs_other_ans": true,
+  "n_hay_sessions": 50,
+  "n_hay_days": 22,
+  "n_hay_days_within_0": 1,
+  "n_hay_sess_within_0": 18,
+  "n_hay_days_within_1": 2,
+  "n_hay_sess_within_1": 19,
+  "n_hay_days_within_3": 4,
+  "n_hay_sess_within_3": 21,
+  "used_window": 1,
+  "block_n": 10,
+  "block_chars": 1436,
+  "gold_all": true,
+  "gold_substr": true,
+  "gold_stem": true,
+  "gold_rank_all": 1,
+  "gold_rank_stem": 1,
+  "block_uniq_lines_hit": 1,
+  "sham": {
+   "off-30": {
+    "n": 5,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-14": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-7": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+7": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+14": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+30": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "rand3": [
+    {
+     "n": 10,
+     "gold_all": true,
+     "gold_stem": true
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    }
+   ],
+   "qday": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   }
+  },
+  "n_events": 20,
+  "events_chars": 1861,
+  "rel10_gold_all": false,
+  "rel10_gold_stem": false,
+  "rel10_chars": 1064,
+  "rel20_gold_all": false,
+  "rel20_gold_stem": false,
+  "rel20_chars": 1861
+ },
+ {
+  "qid": "9a707b82",
+  "gold": "a chocolate cake",
+  "n_gold_toks": 2,
+  "question": "I mentioned cooking something for my friend a couple of days ago. What was it?",
+  "qdate": "2022/04/12 (Tue) 22:57",
+  "cache_miss": 0,
+  "n_high_anchors": 1,
+  "n_ans_sessions": 2,
+  "n_gold_ans_sessions": 2,
+  "gold_fallback_used": false,
+  "n_tgt_dates": 2,
+  "n_other_ans_dates": 0,
+  "disc_vacuous": true,
+  "anchor_kind": "offset",
+  "anchor_expr": "a couple of days ago",
+  "anchor_date": "2022/04/10",
+  "err_days": 0,
+  "hit3": true,
+  "hit0": true,
+  "disc_vs_other_ans": true,
+  "n_hay_sessions": 53,
+  "n_hay_days": 11,
+  "n_hay_days_within_0": 1,
+  "n_hay_sess_within_0": 41,
+  "n_hay_days_within_1": 1,
+  "n_hay_sess_within_1": 41,
+  "n_hay_days_within_3": 1,
+  "n_hay_sess_within_3": 41,
+  "used_window": 1,
+  "block_n": 10,
+  "block_chars": 1119,
+  "gold_all": true,
+  "gold_substr": true,
+  "gold_stem": true,
+  "gold_rank_all": 2,
+  "gold_rank_stem": 2,
+  "block_uniq_lines_hit": 1,
+  "sham": {
+   "off-30": {
+    "n": 9,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-14": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-7": {
+    "n": 1,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+7": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+14": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+30": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "rand3": [
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 6,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 6,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 1,
+     "gold_all": false,
+     "gold_stem": false
+    }
+   ],
+   "qday": {
+    "n": 10,
+    "gold_all": true,
+    "gold_stem": true
+   }
+  },
+  "n_events": 10,
+  "events_chars": 1198,
+  "rel10_gold_all": false,
+  "rel10_gold_stem": false,
+  "rel10_chars": 1198,
+  "rel20_gold_all": false,
+  "rel20_gold_stem": false,
+  "rel20_chars": 1198
+ },
+ {
+  "qid": "eac54add",
+  "gold": "I signed a contract with my first client.",
+  "n_gold_toks": 4,
+  "question": "What was the significant buisiness milestone I mentioned four weeks ago?",
+  "qdate": "2023/03/28 (Tue) 20:35",
+  "cache_miss": 0,
+  "n_high_anchors": 1,
+  "n_ans_sessions": 2,
+  "n_gold_ans_sessions": 1,
+  "gold_fallback_used": false,
+  "n_tgt_dates": 1,
+  "n_other_ans_dates": 1,
+  "disc_vacuous": false,
+  "anchor_kind": "offset",
+  "anchor_expr": "four weeks ago",
+  "anchor_date": "2023/02/28",
+  "err_days": 1,
+  "hit3": true,
+  "hit0": false,
+  "disc_vs_other_ans": true,
+  "n_hay_sessions": 43,
+  "n_hay_days": 22,
+  "n_hay_days_within_0": 1,
+  "n_hay_sess_within_0": 2,
+  "n_hay_days_within_1": 2,
+  "n_hay_sess_within_1": 13,
+  "n_hay_days_within_3": 3,
+  "n_hay_sess_within_3": 14,
+  "used_window": 1,
+  "block_n": 10,
+  "block_chars": 1136,
+  "gold_all": true,
+  "gold_substr": false,
+  "gold_stem": true,
+  "gold_rank_all": 1,
+  "gold_rank_stem": 1,
+  "block_uniq_lines_hit": 1,
+  "sham": {
+   "off-30": {
+    "n": 2,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-14": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-7": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+7": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+14": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+30": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "rand3": [
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 6,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    }
+   ],
+   "qday": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   }
+  },
+  "n_events": 20,
+  "events_chars": 1833,
+  "rel10_gold_all": false,
+  "rel10_gold_stem": false,
+  "rel10_chars": 872,
+  "rel20_gold_all": false,
+  "rel20_gold_stem": false,
+  "rel20_chars": 1833
+ },
+ {
+  "qid": "4dfccbf8",
+  "gold": "I started taking ukulele lessons with Rachel.",
+  "n_gold_toks": 5,
+  "question": "What did I do with Rachel on the Wednesday two months ago?",
+  "qdate": "2023/04/01 (Sat) 16:08",
+  "cache_miss": 0,
+  "n_high_anchors": 2,
+  "n_ans_sessions": 2,
+  "n_gold_ans_sessions": 1,
+  "gold_fallback_used": false,
+  "n_tgt_dates": 1,
+  "n_other_ans_dates": 1,
+  "disc_vacuous": false,
+  "anchor_kind": "offset",
+  "anchor_expr": "two months ago",
+  "anchor_date": "2023/02/01",
+  "err_days": 0,
+  "hit3": true,
+  "hit0": true,
+  "disc_vs_other_ans": true,
+  "n_hay_sessions": 43,
+  "n_hay_days": 24,
+  "n_hay_days_within_0": 1,
+  "n_hay_sess_within_0": 5,
+  "n_hay_days_within_1": 2,
+  "n_hay_sess_within_1": 6,
+  "n_hay_days_within_3": 4,
+  "n_hay_sess_within_3": 8,
+  "used_window": 1,
+  "block_n": 10,
+  "block_chars": 1204,
+  "gold_all": true,
+  "gold_substr": false,
+  "gold_stem": true,
+  "gold_rank_all": 1,
+  "gold_rank_stem": 1,
+  "block_uniq_lines_hit": 1,
+  "sham": {
+   "off-30": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-14": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-7": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+7": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+14": {
+    "n": 4,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+30": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "rand3": [
+    {
+     "n": 10,
+     "gold_all": true,
+     "gold_stem": true
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 4,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    }
+   ],
+   "qday": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   }
+  },
+  "n_events": 19,
+  "events_chars": 2077,
+  "rel10_gold_all": true,
+  "rel10_gold_stem": true,
+  "rel10_chars": 1065,
+  "rel20_gold_all": true,
+  "rel20_gold_stem": true,
+  "rel20_chars": 2077
+ },
+ {
+  "qid": "0bc8ad93",
+  "gold": "No, you did not visit with a friend.",
+  "n_gold_toks": 2,
+  "question": "I mentioned visiting a museum two months ago. Did I visit with a friend or not?",
+  "qdate": "2023/03/11 (Sat) 05:28",
+  "cache_miss": 0,
+  "n_high_anchors": 1,
+  "n_ans_sessions": 3,
+  "n_gold_ans_sessions": 2,
+  "gold_fallback_used": false,
+  "n_tgt_dates": 2,
+  "n_other_ans_dates": 1,
+  "disc_vacuous": false,
+  "anchor_kind": "offset",
+  "anchor_expr": "two months ago",
+  "anchor_date": "2023/01/11",
+  "err_days": 0,
+  "hit3": true,
+  "hit0": true,
+  "disc_vs_other_ans": true,
+  "n_hay_sessions": 47,
+  "n_hay_days": 17,
+  "n_hay_days_within_0": 1,
+  "n_hay_sess_within_0": 2,
+  "n_hay_days_within_1": 1,
+  "n_hay_sess_within_1": 2,
+  "n_hay_days_within_3": 1,
+  "n_hay_sess_within_3": 2,
+  "used_window": 1,
+  "block_n": 6,
+  "block_chars": 541,
+  "gold_all": false,
+  "gold_substr": false,
+  "gold_stem": false,
+  "gold_rank_all": null,
+  "gold_rank_stem": null,
+  "block_uniq_lines_hit": 0,
+  "sham": {
+   "off-30": {
+    "n": 1,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-14": {
+    "n": 1,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-7": {
+    "n": 8,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+7": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+14": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+30": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "rand3": [
+    {
+     "n": 6,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 0,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 0,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 0,
+     "gold_all": false,
+     "gold_stem": false
+    }
+   ],
+   "qday": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   }
+  },
+  "n_events": 20,
+  "events_chars": 2112,
+  "rel10_gold_all": true,
+  "rel10_gold_stem": true,
+  "rel10_chars": 1197,
+  "rel20_gold_all": true,
+  "rel20_gold_stem": true,
+  "rel20_chars": 2112
+ },
+ {
+  "qid": "6e984302",
+  "gold": "I got my own set of sculpting tools.",
+  "n_gold_toks": 5,
+  "question": "I mentioned an investment for a competition four weeks ago? What did I buy?",
+  "qdate": "2023/04/01 (Sat) 08:30",
+  "cache_miss": 0,
+  "n_high_anchors": 1,
+  "n_ans_sessions": 2,
+  "n_gold_ans_sessions": 1,
+  "gold_fallback_used": false,
+  "n_tgt_dates": 1,
+  "n_other_ans_dates": 1,
+  "disc_vacuous": false,
+  "anchor_kind": "offset",
+  "anchor_expr": "four weeks ago",
+  "anchor_date": "2023/03/04",
+  "err_days": 0,
+  "hit3": true,
+  "hit0": true,
+  "disc_vs_other_ans": true,
+  "n_hay_sessions": 43,
+  "n_hay_days": 29,
+  "n_hay_days_within_0": 1,
+  "n_hay_sess_within_0": 3,
+  "n_hay_days_within_1": 1,
+  "n_hay_sess_within_1": 3,
+  "n_hay_days_within_3": 3,
+  "n_hay_sess_within_3": 8,
+  "used_window": 1,
+  "block_n": 10,
+  "block_chars": 1056,
+  "gold_all": true,
+  "gold_substr": false,
+  "gold_stem": true,
+  "gold_rank_all": 1,
+  "gold_rank_stem": 1,
+  "block_uniq_lines_hit": 1,
+  "sham": {
+   "off-30": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-14": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-7": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+7": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+14": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+30": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "rand3": [
+    {
+     "n": 9,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    }
+   ],
+   "qday": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   }
+  },
+  "n_events": 20,
+  "events_chars": 1899,
+  "rel10_gold_all": false,
+  "rel10_gold_stem": false,
+  "rel10_chars": 905,
+  "rel20_gold_all": false,
+  "rel20_gold_stem": false,
+  "rel20_chars": 1899
+ },
+ {
+  "qid": "gpt4_8279ba03",
+  "gold": "a smoker",
+  "n_gold_toks": 1,
+  "question": "What kitchen appliance did I buy 10 days ago?",
+  "qdate": "2023/03/25 (Sat) 18:26",
+  "cache_miss": 0,
+  "n_high_anchors": 1,
+  "n_ans_sessions": 1,
+  "n_gold_ans_sessions": 1,
+  "gold_fallback_used": false,
+  "n_tgt_dates": 1,
+  "n_other_ans_dates": 0,
+  "disc_vacuous": true,
+  "anchor_kind": "offset",
+  "anchor_expr": "10 days ago",
+  "anchor_date": "2023/03/15",
+  "err_days": 0,
+  "hit3": true,
+  "hit0": true,
+  "disc_vs_other_ans": true,
+  "n_hay_sessions": 43,
+  "n_hay_days": 20,
+  "n_hay_days_within_0": 1,
+  "n_hay_sess_within_0": 12,
+  "n_hay_days_within_1": 2,
+  "n_hay_sess_within_1": 13,
+  "n_hay_days_within_3": 3,
+  "n_hay_sess_within_3": 15,
+  "used_window": 1,
+  "block_n": 10,
+  "block_chars": 1200,
+  "gold_all": true,
+  "gold_substr": true,
+  "gold_stem": true,
+  "gold_rank_all": 2,
+  "gold_rank_stem": 2,
+  "block_uniq_lines_hit": 1,
+  "sham": {
+   "off-30": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-14": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-7": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+7": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+14": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+30": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "rand3": [
+    {
+     "n": 10,
+     "gold_all": true,
+     "gold_stem": true
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    }
+   ],
+   "qday": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   }
+  },
+  "n_events": 5,
+  "events_chars": 472,
+  "rel10_gold_all": false,
+  "rel10_gold_stem": false,
+  "rel10_chars": 472,
+  "rel20_gold_all": false,
+  "rel20_gold_stem": false,
+  "rel20_chars": 472
+ },
+ {
+  "qid": "gpt4_b5700ca0",
+  "gold": "the Episcopal Church",
+  "n_gold_toks": 2,
+  "question": "Where did I attend the religious activity last week?",
+  "qdate": "2023/04/10 (Mon) 13:35",
+  "cache_miss": 0,
+  "n_high_anchors": 1,
+  "n_ans_sessions": 1,
+  "n_gold_ans_sessions": 1,
+  "gold_fallback_used": false,
+  "n_tgt_dates": 1,
+  "n_other_ans_dates": 0,
+  "disc_vacuous": true,
+  "anchor_kind": "offset-coarse",
+  "anchor_expr": "last week",
+  "anchor_date": "2023/04/03",
+  "err_days": 3,
+  "hit3": true,
+  "hit0": false,
+  "disc_vs_other_ans": true,
+  "n_hay_sessions": 50,
+  "n_hay_days": 21,
+  "n_hay_days_within_0": 1,
+  "n_hay_sess_within_0": 1,
+  "n_hay_days_within_1": 2,
+  "n_hay_sess_within_1": 2,
+  "n_hay_days_within_3": 5,
+  "n_hay_sess_within_3": 22,
+  "used_window": 4,
+  "block_n": 10,
+  "block_chars": 1079,
+  "gold_all": true,
+  "gold_substr": true,
+  "gold_stem": true,
+  "gold_rank_all": 8,
+  "gold_rank_stem": 8,
+  "block_uniq_lines_hit": 1,
+  "sham": {
+   "off-30": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-14": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-7": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+7": {
+    "n": 10,
+    "gold_all": true,
+    "gold_stem": true
+   },
+   "off+14": {
+    "n": 1,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+30": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "rand3": [
+    {
+     "n": 10,
+     "gold_all": true,
+     "gold_stem": true
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    }
+   ],
+   "qday": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   }
+  },
+  "n_events": 20,
+  "events_chars": 2009,
+  "rel10_gold_all": false,
+  "rel10_gold_stem": false,
+  "rel10_chars": 949,
+  "rel20_gold_all": true,
+  "rel20_gold_stem": true,
+  "rel20_chars": 2009
+ },
+ {
+  "qid": "gpt4_68e94288",
+  "gold": "You participated in a social media challenge called #PlankChallenge.",
+  "n_gold_toks": 6,
+  "question": "What was the social media activity I participated 5 days ago?",
+  "qdate": "2023/03/20 (Mon) 11:50",
+  "cache_miss": 0,
+  "n_high_anchors": 1,
+  "n_ans_sessions": 2,
+  "n_gold_ans_sessions": 1,
+  "gold_fallback_used": false,
+  "n_tgt_dates": 1,
+  "n_other_ans_dates": 1,
+  "disc_vacuous": false,
+  "anchor_kind": "offset",
+  "anchor_expr": "5 days ago",
+  "anchor_date": "2023/03/15",
+  "err_days": 0,
+  "hit3": true,
+  "hit0": true,
+  "disc_vs_other_ans": true,
+  "n_hay_sessions": 44,
+  "n_hay_days": 27,
+  "n_hay_days_within_0": 1,
+  "n_hay_sess_within_0": 10,
+  "n_hay_days_within_1": 1,
+  "n_hay_sess_within_1": 10,
+  "n_hay_days_within_3": 2,
+  "n_hay_sess_within_3": 11,
+  "used_window": 1,
+  "block_n": 10,
+  "block_chars": 999,
+  "gold_all": true,
+  "gold_substr": false,
+  "gold_stem": true,
+  "gold_rank_all": 1,
+  "gold_rank_stem": 1,
+  "block_uniq_lines_hit": 1,
+  "sham": {
+   "off-30": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-14": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-7": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+7": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+14": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+30": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "rand3": [
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": true,
+     "gold_stem": true
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": true,
+     "gold_stem": true
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    }
+   ],
+   "qday": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   }
+  },
+  "n_events": 10,
+  "events_chars": 850,
+  "rel10_gold_all": true,
+  "rel10_gold_stem": true,
+  "rel10_chars": 850,
+  "rel20_gold_all": true,
+  "rel20_gold_stem": true,
+  "rel20_chars": 850
+ },
+ {
+  "qid": "gpt4_5dcc0aab",
+  "gold": "white Adidas sneakers",
+  "n_gold_toks": 3,
+  "question": "Which pair of shoes did I clean last month?",
+  "qdate": "2023/05/24 (Wed) 09:14",
+  "cache_miss": 0,
+  "n_high_anchors": 1,
+  "n_ans_sessions": 5,
+  "n_gold_ans_sessions": 2,
+  "gold_fallback_used": false,
+  "n_tgt_dates": 1,
+  "n_other_ans_dates": 0,
+  "disc_vacuous": true,
+  "anchor_kind": "offset-coarse",
+  "anchor_expr": "last month",
+  "anchor_date": "2023/04/24",
+  "err_days": 30,
+  "hit3": false,
+  "hit0": false,
+  "disc_vs_other_ans": false,
+  "n_hay_sessions": 50,
+  "n_hay_days": 1,
+  "n_hay_days_within_0": 0,
+  "n_hay_sess_within_0": 0,
+  "n_hay_days_within_1": 0,
+  "n_hay_sess_within_1": 0,
+  "n_hay_days_within_3": 0,
+  "n_hay_sess_within_3": 0,
+  "used_window": 4,
+  "block_n": 7,
+  "block_chars": 1006,
+  "gold_all": true,
+  "gold_substr": true,
+  "gold_stem": true,
+  "gold_rank_all": 3,
+  "gold_rank_stem": 3,
+  "block_uniq_lines_hit": 2,
+  "sham": {
+   "off-30": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-14": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off-7": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+7": {
+    "n": 0,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+14": {
+    "n": 2,
+    "gold_all": false,
+    "gold_stem": false
+   },
+   "off+30": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": true
+   },
+   "rand3": [
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    },
+    {
+     "n": 10,
+     "gold_all": false,
+     "gold_stem": false
+    }
+   ],
+   "qday": {
+    "n": 10,
+    "gold_all": false,
+    "gold_stem": false
+   }
+  },
+  "n_events": 10,
+  "events_chars": 916,
+  "rel10_gold_all": true,
+  "rel10_gold_stem": true,
+  "rel10_chars": 916,
+  "rel20_gold_all": true,
+  "rel20_gold_stem": true,
+  "rel20_chars": 916
+ }
+]

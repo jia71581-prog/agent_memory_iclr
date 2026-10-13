@@ -1,0 +1,174 @@
+config                    chains med    p90  reduction    edges  view_cur med
+v5 default(R1+R2+R4')          300.0    344     0.050    11322         29688
+R1+R2 only                     300.0    344     0.050    11308         29688
++R3 jaccard 0.6                295.5    338     0.062    13421         29440
++R3 jaccard 0.5                291.5    333     0.075    15961         29146
+v4 (no merge)                  316.5    358     0.000        0         30397
+
+head-merge CEILING (merge all same (entity,head)): chains median 229.0 (v4 316.5, reduction 0.276); largest head bucket median 11
+share of v4 chains whose (entity,head) is UNIQUE in that question: median 0.572  -> upper bound on any head-based merging
+
+=== sample final4: pool 5648 clusters, drew 30 ===
+[1] b759caee rules=R1 sizes=[1, 1]
+      user::current employer
+      user::employer
+[2] gpt4_ec93e27f rules=R1 sizes=[5, 1]
+      user::attended
+      user::has been attending
+[3] gpt4_d84a3211 rules=R1 sizes=[1, 1]
+      user::plans to buy
+      user::plans to purchase
+[4] 945e3d21 rules=R1 sizes=[2, 4]
+      user::is planning a trip to
+      user::planning trip to
+[5] c5e8278d rules=R1 sizes=[1, 5]
+      user::is planning to create
+      user::plans to create
+[6] ce6d2d27 rules=R1 sizes=[1, 7, 4]
+      user::hopes
+      user::wants
+      user::wants to
+[7] 29f2956b rules=R1 sizes=[1, 1]
+      user::wants to buy
+      user::wants to get
+[8] ed4ddc30 rules=R1 sizes=[2, 1]
+      user::is interested in trying
+      user::is particularly interested in trying
+[9] 8752c811 rules=R1 sizes=[1, 3, 4]
+      user::is planning
+      user::plan
+      user::plans to
+[10] 4d6b87c8 rules=R1 sizes=[3, 3]
+      user::considering
+      user::is considering
+[11] a06e4cfe rules=R1 sizes=[2, 1]
+      user::current project
+      user::project
+[12] 545bd2b5 rules=R1 sizes=[1, 1]
+      user::is looking for
+      user::looking for
+[13] 65240037 rules=R1 sizes=[1, 5]
+      user::considers
+      user::is considering
+[14] 0ddfec37_abs rules=R1 sizes=[1, 1]
+      user::is thinking about getting
+      user::is thinking of getting
+[15] dcfa8644 rules=R1 sizes=[1, 1]
+      user::hometown
+      user::location
+[16] 4baee567 rules=R1 sizes=[2, 6]
+      user::hopes that
+      user::wants
+[17] 6e984302 rules=R1 sizes=[1, 1, 1, 2]
+      user::enjoyed
+      user::enjoys
+      user::interest
+      user::likes
+[18] 65240037 rules=R1 sizes=[1, 1]
+      user::is planning a trip
+      user::is planning a trip to
+[19] 001be529 rules=R1 sizes=[1, 3, 1]
+      user::considering
+      user::is considering
+      user::is considering a
+[20] a1eacc2a rules=R1 sizes=[2, 3, 9, 1]
+      user::interest in
+      user::interested in
+      user::is interested in
+      user::is particularly interested in
+[21] 6aeb4375_abs rules=R1 sizes=[1, 6]
+      user::desire
+      user::wants
+[22] 07b6f563 rules=R1 sizes=[1, 4, 1]
+      user::bought
+      user::recently bought
+      user::recently got
+[23] 5a7937c8 rules=R1 sizes=[1, 1]
+      user::asked
+      user::asks
+[24] 6071bd76 rules=R1 sizes=[1, 1]
+      user::enjoys cooking
+      user::especially enjoys cooking
+[25] 0f05491a rules=R1 sizes=[2, 2]
+      user::likes
+      user::prefers
+[26] c4a1ceb8 rules=R1 sizes=[1, 1]
+      user::learned to make
+      user::recently learned to make
+[27] 01493427 rules=R1 sizes=[1, 1, 2, 3]
+      user::bought
+      user::has been getting
+      user::recently bought
+      user::recently got
+[28] 41275add rules=R1 sizes=[1, 1]
+      user::discovered
+      user::recently discovered
+[29] d6233ab6 rules=R1 sizes=[1, 1]
+      user::currently listening to
+      user::recently listened to
+[30] gpt4_7ca326fa rules=R1 sizes=[1, 1]
+      user::made
+      user::recently made
+
+=== R3-attributable clusters: pool 1679, drew 20 ===
+[1] 07741c44 sizes=[1, 1]
+      user::finds interesting
+      user::finds it interesting that
+[2] gpt4_a56e767c sizes=[1, 1]
+      user::favorite film at portland film festival
+      user::role at portland film festival
+[3] 1cea1afa sizes=[1, 1]
+      user::chosen habit tracking app
+      user::chosen nutrition tracking app
+[4] dc439ea3 sizes=[1, 1]
+      user::found turbine engines being more fuelefficient than piston engines
+      user::knowledge about turbine engines being more fuelefficient than piston engines
+[5] 0100672e sizes=[1, 2]
+      user::is planning a kayaking trip to
+      user::is planning a trip to
+[6] 0a34ad58 sizes=[1, 1]
+      user::shower time
+      user::tracks shower time
+[7] gpt4_d31cdae3 sizes=[1, 1]
+      user::requested character role
+      user::requested supporting character role
+[8] 38146c39 sizes=[1, 1]
+      user::conversation frequency with maria and carlos
+      user::duration of conversations with maria and carlos
+[9] 58bf7951 sizes=[1, 1]
+      user::is planning a trip to
+      user::plans to document trip
+[10] d23cf73b sizes=[1, 1]
+      user::car loan monthly payment
+      user::student loan monthly payment
+[11] gpt4_fa19884c sizes=[1, 1]
+      user::strength training focus
+      user::switched wednesday strength training focus to
+[12] d01c6aa8 sizes=[1, 1]
+      user::completed the last of us part ii
+      user::finished the last of us part ii
+[13] ba358f49 sizes=[1, 1]
+      user::miami trip duration
+      user::trip duration
+[14] 1d4da289 sizes=[1, 1]
+      user::has always wanted to try
+      user::wants to try
+[15] gpt4_8c8961ae sizes=[1, 1]
+      user::finished reading the hating game on
+      user::started reading the hating game on
+[16] gpt4_93159ced sizes=[1, 1]
+      user::is planning a photography trip to
+      user::is planning a trip to
+[17] 06878be2 sizes=[1, 1, 1]
+      user::node version
+      user::nodegyp version
+      user::nodesass version
+[18] 18bc8abd sizes=[1, 1]
+      user::owns a cashmere blend cardigan
+      user::wears cashmere blend cardigan
+[19] 0edc2aef sizes=[3, 1]
+      user::color palette concept
+      user::wants to create a color palette for concepts
+[20] c8f1aeed sizes=[1, 1]
+      user::is planning a road trip to
+      user::is planning a trip to

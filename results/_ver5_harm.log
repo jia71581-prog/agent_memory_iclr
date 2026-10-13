@@ -1,0 +1,7 @@
+questions where unconditional n=3 has evidence the ROUTED policy withholds: 30
+Counter({'multi-session': 22, 'temporal-reasoning': 6, 'knowledge-update': 1, 'single-session-assistant': 1})
+of those, currently WRONG in qc arm (potential recoveries denied by the router): 15
+  by type: Counter({'multi-session': 12, 'temporal-reasoning': 3})
+routed has ZERO gold evidence but uncond n=3 has some: 6 Counter({'multi-session': 4, 'temporal-reasoning': 1, 'single-session-assistant': 1})
+  of those currently wrong: 1
+DONE2

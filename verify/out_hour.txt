@@ -1,0 +1,9 @@
+gated n=179 ; of these gold-or-question is on an HOUR/MINUTE scale: 6
+  TR 0 / nonTR 6 ; currently correct: 5/6
+  of those, scaffold emits a day-scale "arithmetic is already done" pairwise block: 5
+  currently correct among those: 5/5
+    94f70d80 | single-session-user | fam delta_between | judge True | gold: 4 hours | Q: How long did it take me to assemble the IKEA bookshelf?
+    caf9ead2 | single-session-user | fam delta_between | judge True | gold: 5 hours | Q: How long did it take to move to the new apartment?
+    311778f1 | single-session-user | fam delta_between | judge True | gold: 10 | Q: How many hours did I spend watching documentaries on Netflix last month?
+    28dc39ac | multi-session | fam delta_between | judge True | gold: 140 hours | Q: How many hours have I spent playing games in total?
+    71315a70 | knowledge-update | fam delta_between | judge True | gold: 10-12 hours | Q: How many hours have I spent on my abstract ocean sculpture?

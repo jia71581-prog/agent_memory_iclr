@@ -1,0 +1,1936 @@
+[
+ {
+  "qid": "e47becba",
+  "type": "single-session-user",
+  "mode": "current",
+  "chains_v4": 366,
+  "chains_v5": 348,
+  "lost_values": 10,
+  "v4_judge": true,
+  "sample_lost": [
+   "a fitness tracker before",
+   "a dinner party this weekend",
+   "a new pair of running shoes",
+   "use of assistant's perceived intensity of the script in the example",
+   "t-shirt with the electric storm's album artwork"
+  ]
+ },
+ {
+  "qid": "1e043500",
+  "type": "single-session-user",
+  "mode": "current",
+  "chains_v4": 313,
+  "chains_v5": 294,
+  "lost_values": 4,
+  "v4_judge": true,
+  "sample_lost": [
+   "a beautiful silver necklace for best friend's birthday in april",
+   "a beautiful vase for one couple",
+   "coach handbag",
+   "\"the seven husbands of evelyn hugo\" by taylor jenkins reid"
+  ]
+ },
+ {
+  "qid": "58ef2f1c",
+  "type": "single-session-user",
+  "mode": "current",
+  "chains_v4": 317,
+  "chains_v5": 292,
+  "lost_values": 13,
+  "v4_judge": true,
+  "sample_lost": [
+   "a lot of stand-up specials lately",
+   "the author of the silent patient",
+   "supporting community health programs",
+   "the children's museum for their annual \"art day\" event today",
+   "hypnotist and transformational / mindset coach"
+  ]
+ },
+ {
+  "qid": "c960da58",
+  "type": "single-session-user",
+  "mode": "current",
+  "chains_v4": 314,
+  "chains_v5": 301,
+  "lost_values": 6,
+  "v4_judge": true,
+  "sample_lost": [
+   "charity yoga event in april",
+   "authentic japanese cuisine",
+   "herbal teas for focus and relaxation",
+   "networker and strategy enthusiast",
+   "a refillable water bottle"
+  ]
+ },
+ {
+  "qid": "66f24dbb",
+  "type": "single-session-user",
+  "mode": "current",
+  "chains_v4": 351,
+  "chains_v5": 328,
+  "lost_values": 7,
+  "v4_judge": true,
+  "sample_lost": [
+   "the clock tower's museum",
+   "wishes there were more ways to support eod technicians and their families",
+   "look into attending the pushkar camel fair",
+   "a lot of piano music lately",
+   "granny smith apples for a while"
+  ]
+ },
+ {
+  "qid": "c8c3f81d",
+  "type": "single-session-user",
+  "mode": "current",
+  "chains_v4": 311,
+  "chains_v5": 289,
+  "lost_values": 15,
+  "v4_judge": true,
+  "sample_lost": [
+   "another fishing trip to lake michigan",
+   "summary of achievements of 10 egyptians in bill and ted persona",
+   "yoga classes at a new studio near work twice a week since february",
+   "spicy food",
+   "musical theater soundtracks lately"
+  ]
+ },
+ {
+  "qid": "21436231",
+  "type": "single-session-user",
+  "mode": "current",
+  "chains_v4": 283,
+  "chains_v5": 261,
+  "lost_values": 18,
+  "v4_judge": true,
+  "sample_lost": [
+   "that the invention of firearms had such a big impact on battles",
+   "digitize old family photos",
+   "a ukulele",
+   "a customized picture frame with sister's name and graduation date",
+   "\"blackfish\" one of their favorite documentaries"
+  ]
+ },
+ {
+  "qid": "a06e4cfe",
+  "type": "single-session-user",
+  "mode": "current",
+  "chains_v4": 355,
+  "chains_v5": 332,
+  "lost_values": 21,
+  "v4_judge": true,
+  "sample_lost": [
+   "tv breaks 30 minutes a day during the week",
+   "cryptocurrency security",
+   "cryptocurrency volatility",
+   "a family trip to hawaii",
+   "how gender identity and expression evolved across age groups and generations"
+  ]
+ },
+ {
+  "qid": "25e5aa4f",
+  "type": "single-session-user",
+  "mode": "current",
+  "chains_v4": 334,
+  "chains_v5": 307,
+  "lost_values": 17,
+  "v4_judge": true,
+  "sample_lost": [
+   "selling unwanted items online",
+   "the height of the lights",
+   "pasta for the week",
+   "creamy tomato sauce",
+   "warehouse inventory associate"
+  ]
+ },
+ {
+  "qid": "3f1e9474",
+  "type": "single-session-user",
+  "mode": "current",
+  "chains_v4": 332,
+  "chains_v5": 314,
+  "lost_values": 8,
+  "v4_judge": true,
+  "sample_lost": [
+   "ideas to meet new people",
+   "the antique vase properly insured",
+   "creating a vignette",
+   "attending cultural festivals to explore different forms of art",
+   "discomfort in shins"
+  ]
+ },
+ {
+  "qid": "15745da0",
+  "type": "single-session-user",
+  "mode": "current",
+  "chains_v4": 346,
+  "chains_v5": 325,
+  "lost_values": 5,
+  "v4_judge": true,
+  "sample_lost": [
+   "earthenware clay online",
+   "6-week swimming program",
+   "thinly sliced ribeye for bulgogi",
+   "local meetups and events",
+   "bulgogi inspiration"
+  ]
+ },
+ {
+  "qid": "001be529",
+  "type": "single-session-user",
+  "mode": "current",
+  "chains_v4": 317,
+  "chains_v5": 294,
+  "lost_values": 6,
+  "v4_judge": true,
+  "sample_lost": [
+   "to use the gemcad format only as a template example, not copied",
+   "episodes where the crew defeats the borg",
+   "gently used clothes at thrift store sale",
+   "a hair dryer with a cool shot",
+   "many new tops"
+  ]
+ },
+ {
+  "qid": "545bd2b5",
+  "type": "single-session-user",
+  "mode": "current",
+  "chains_v4": 286,
+  "chains_v5": 269,
+  "lost_values": 8,
+  "v4_judge": true,
+  "sample_lost": [
+   "personal carbon footprint",
+   "a lot of engagement on recent posts",
+   "to add pops of color",
+   "meal prep more often",
+   "a new 40-inch tv"
+  ]
+ },
+ {
+  "qid": "8e9d538c",
+  "type": "single-session-user",
+  "mode": "current",
+  "chains_v4": 256,
+  "chains_v5": 238,
+  "lost_values": 7,
+  "v4_judge": true,
+  "sample_lost": [
+   "next snorkeling adventure in the caribbean",
+   "abstract painting from a local artist at a gallery opening",
+   "more studios follow universal's lead",
+   "more research on the recommended eco-friendly resorts",
+   "more diverse stories continue to be told"
+  ]
+ },
+ {
+  "qid": "29f2956b",
+  "type": "single-session-user",
+  "mode": "current",
+  "chains_v4": 333,
+  "chains_v5": 313,
+  "lost_values": 11,
+  "v4_judge": true,
+  "sample_lost": [
+   "jet boating first",
+   "zip lining after jet boating",
+   "a sequence of newsletters",
+   "my favorite murder for over a year",
+   "self-help audiobooks"
+  ]
+ },
+ {
+  "qid": "c14c00dd",
+  "type": "single-session-user",
+  "mode": "current",
+  "chains_v4": 339,
+  "chains_v5": 314,
+  "lost_values": 11,
+  "v4_judge": true,
+  "sample_lost": [
+   "silver cuff",
+   "to incorporate calming music into commute to wind down before bed",
+   "safety measures for covid-19 at post-pandemic travel destinations",
+   "salsa lessons",
+   "20% off the original price on the wireless headphone"
+  ]
+ },
+ {
+  "qid": "0862e8bf_abs",
+  "type": "single-session-user",
+  "mode": "current",
+  "chains_v4": 333,
+  "chains_v5": 318,
+  "lost_values": 7,
+  "v4_judge": true,
+  "sample_lost": [
+   "a lot of jazz recently",
+   "\"haunted house\" attraction at universal studios japan",
+   "more people will take steps towards sustainability",
+   "a good vegan mac 'n cheese recipe",
+   "tips for the eye of cthulhu"
+  ]
+ },
+ {
+  "qid": "29f2956b_abs",
+  "type": "single-session-user",
+  "mode": "current",
+  "chains_v4": 270,
+  "chains_v5": 255,
+  "lost_values": 10,
+  "v4_judge": true,
+  "sample_lost": [
+   "a digital audio workstation",
+   "frustrated that those needing the most relationship help have the least access to resources",
+   "a candle at bed bath & beyond",
+   "a yoga workshop",
+   "brother's birthday dinner at their place"
+  ]
+ },
+ {
+  "qid": "gpt4_59c863d7",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 324,
+  "chains_v5": 300,
+  "lost_values": 15,
+  "v4_judge": false,
+  "sample_lost": [
+   "to grab a drink and enjoy music after dinner",
+   "a great coffee spot near apartment",
+   "instagram reels",
+   "a house",
+   "advice on meaningful and spiritual proposal and wedding planning"
+  ]
+ },
+ {
+  "qid": "gpt4_d84a3211",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 295,
+  "chains_v5": 280,
+  "lost_values": 6,
+  "v4_judge": true,
+  "sample_lost": [
+   "incorporate more skin-healthy foods into diet",
+   "joe mixon a great running back",
+   "50mm lens non-stop since acquiring it",
+   "a peaceful atmosphere and natural beauty",
+   "road trip to the mountains in june"
+  ]
+ },
+ {
+  "qid": "c4a1ceb8",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 276,
+  "chains_v5": 265,
+  "lost_values": 4,
+  "v4_judge": true,
+  "sample_lost": [
+   "a bird watching trip to the coastal area next weekend",
+   "a personalized baby blanket from etsy",
+   "a day hike",
+   "event planning software to optimize event operations"
+  ]
+ },
+ {
+  "qid": "36b9f61e",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 291,
+  "chains_v5": 266,
+  "lost_values": 18,
+  "v4_judge": true,
+  "sample_lost": [
+   "fabric from fabric store",
+   "gucci designer handbag for $1,200",
+   "a garden party",
+   "acoustic guitar last saturday",
+   "going back to school for a graduate degree"
+  ]
+ },
+ {
+  "qid": "gpt4_15e38248",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 307,
+  "chains_v5": 291,
+  "lost_values": 10,
+  "v4_judge": true,
+  "sample_lost": [
+   "books or online resources for violin beginners",
+   "a new coffee table",
+   "alexander inn in philadelphia",
+   "a new dog bed for max",
+   "new airbrush for model building projects"
+  ]
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "type": "multi-session",
+  "mode": "historical",
+  "chains_v4": 333,
+  "chains_v5": 309,
+  "lost_values": 0,
+  "v4_judge": false,
+  "sample_lost": []
+ },
+ {
+  "qid": "gpt4_2ba83207",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 329,
+  "chains_v5": 314,
+  "lost_values": 12,
+  "v4_judge": true,
+  "sample_lost": [
+   "flexibility and injury prevention through yoga",
+   "when silence is used right before a jump scare in horror movies",
+   "ceuta",
+   "mindfulness practice in schools",
+   "scenic drives"
+  ]
+ },
+ {
+  "qid": "00ca467f",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 288,
+  "chains_v5": 270,
+  "lost_values": 8,
+  "v4_judge": true,
+  "sample_lost": [
+   "other countries can learn from sweden's policies and implement similar ones",
+   "a better ally to the gender non-conforming community",
+   "more countries had welcoming immigration policies",
+   "power outages or system failures compromising security measures",
+   "a personalized necklace with sister's initials"
+  ]
+ },
+ {
+  "qid": "2788b940",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 295,
+  "chains_v5": 280,
+  "lost_values": 6,
+  "v4_judge": true,
+  "sample_lost": [
+   "gift card to sister's favorite coffee shop",
+   "a game day gathering",
+   "paintings at art fair",
+   "establishing a consistent wake-up time",
+   "a small notebook for email list signups or social media follows"
+  ]
+ },
+ {
+  "qid": "60472f9c",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 269,
+  "chains_v5": 253,
+  "lost_values": 9,
+  "v4_judge": true,
+  "sample_lost": [
+   "banana-walnut combination first",
+   "try to salvage their relationship",
+   "python",
+   "brisket",
+   "greek yogurt with banana and walnuts for breakfast tomorrow"
+  ]
+ },
+ {
+  "qid": "5a7937c8",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 269,
+  "chains_v5": 251,
+  "lost_values": 11,
+  "v4_judge": true,
+  "sample_lost": [
+   "a new stand mixer",
+   "capturing street performers",
+   "run down",
+   "new stand mixer",
+   "different color palettes in own painting practice"
+  ]
+ },
+ {
+  "qid": "edced276",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 320,
+  "chains_v5": 311,
+  "lost_values": 5,
+  "v4_judge": true,
+  "sample_lost": [
+   "coat from outlet mall",
+   "grab dinner with friends before the show",
+   "guggenheim building architecture",
+   "a pair of gucci luxury sneakers last month",
+   "cramped and uncomfortable at current desk"
+  ]
+ },
+ {
+  "qid": "1a8a66a6",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 254,
+  "chains_v5": 236,
+  "lost_values": 9,
+  "v4_judge": false,
+  "sample_lost": [
+   "silk blouse for casual event",
+   "family's migration patterns",
+   "fjallraven kanken mini water-resistant",
+   "a smaller bag for daily use",
+   "fjallraven kanken mini"
+  ]
+ },
+ {
+  "qid": "gpt4_2f91af09",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 292,
+  "chains_v5": 270,
+  "lost_values": 10,
+  "v4_judge": true,
+  "sample_lost": [
+   "start preparing for the nccaom exam well in advance",
+   "creating a backyard garden",
+   "a portable hammock",
+   "a new brand of lavender extract from a local gourmet store",
+   "5-day trip to san francisco"
+  ]
+ },
+ {
+  "qid": "eeda8a6d_abs",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 322,
+  "chains_v5": 306,
+  "lost_values": 9,
+  "v4_judge": true,
+  "sample_lost": [
+   "quick and easy lunch recipe using black beans and sweet potatoes",
+   "avocados",
+   "get back into reading",
+   "swedish desserts in stockholm",
+   "a few flat whites"
+  ]
+ },
+ {
+  "qid": "8a2466db",
+  "type": "single-session-preference",
+  "mode": "current",
+  "chains_v4": 321,
+  "chains_v5": 302,
+  "lost_values": 6,
+  "v4_judge": true,
+  "sample_lost": [
+   "explore more industry events and conferences",
+   "a 1950s rolleiflex twin-lens reflex camera at an estate sale",
+   "dubai and abu dhabi",
+   "foo fighters",
+   "new recipes"
+  ]
+ },
+ {
+  "qid": "35a27287",
+  "type": "single-session-preference",
+  "mode": "current",
+  "chains_v4": 297,
+  "chains_v5": 284,
+  "lost_values": 6,
+  "v4_judge": false,
+  "sample_lost": [
+   "a luxury watch from omega (~$5,000)",
+   "new vegan snack ideas",
+   "a sofa bed from ikea",
+   "a luxury handbag from chanel (~$2,500)",
+   "a pair of boots from gucci (~$1,000)"
+  ]
+ },
+ {
+  "qid": "caf03d32",
+  "type": "single-session-preference",
+  "mode": "current",
+  "chains_v4": 277,
+  "chains_v5": 258,
+  "lost_values": 9,
+  "v4_judge": true,
+  "sample_lost": [
+   "a formula 1 viewing party for the first race of the season",
+   "cozy reading nook with an armchair and a floor lamp",
+   "a free online workshop on graphic design basics",
+   "hiring manager",
+   "freeze-dried chicken strips as treats"
+  ]
+ },
+ {
+  "qid": "1a1907b4",
+  "type": "single-session-preference",
+  "mode": "current",
+  "chains_v4": 350,
+  "chains_v5": 328,
+  "lost_values": 9,
+  "v4_judge": true,
+  "sample_lost": [
+   "a lot of tomatoes from their garden",
+   "market prices for similar products",
+   "a spotting scope",
+   "a new table lamp from ikea",
+   "a bike rack for their car"
+  ]
+ },
+ {
+  "qid": "57f827a0",
+  "type": "single-session-preference",
+  "mode": "current",
+  "chains_v4": 320,
+  "chains_v5": 296,
+  "lost_values": 13,
+  "v4_judge": true,
+  "sample_lost": [
+   "1893 morgan dollar coin",
+   "collectibles",
+   "more engagement on posts lately",
+   "scientific accuracy of meth-making process in breaking bad",
+   "10% discount"
+  ]
+ },
+ {
+  "qid": "d6233ab6",
+  "type": "single-session-preference",
+  "mode": "current",
+  "chains_v4": 293,
+  "chains_v5": 274,
+  "lost_values": 10,
+  "v4_judge": false,
+  "sample_lost": [
+   "a statement piece from balenciaga",
+   "a family gathering to celebrate their grandma's life",
+   "get a better handle on shopping habits and create a budget",
+   "scenes with details and dialogue",
+   "a french-inspired dinner party"
+  ]
+ },
+ {
+  "qid": "a89d7624",
+  "type": "single-session-preference",
+  "mode": "current",
+  "chains_v4": 323,
+  "chains_v5": 305,
+  "lost_values": 9,
+  "v4_judge": false,
+  "sample_lost": [
+   "gently used stuart weitzman ankle boots",
+   "denver's music scene",
+   "a weekly yoga class",
+   "morning yoga classes before work",
+   "youtube tutorials"
+  ]
+ },
+ {
+  "qid": "1c0ddc50",
+  "type": "single-session-preference",
+  "mode": "current",
+  "chains_v4": 330,
+  "chains_v5": 301,
+  "lost_values": 9,
+  "v4_judge": true,
+  "sample_lost": [
+   "1tb external hard drive",
+   "a notebook",
+   "history podcasts",
+   "volunteer at the shurin lab",
+   "indie rock"
+  ]
+ },
+ {
+  "qid": "cc06de0d",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 298,
+  "chains_v5": 281,
+  "lost_values": 10,
+  "v4_judge": true,
+  "sample_lost": [
+   "make a grocery list and stick to it",
+   "tv show schedule for the next month",
+   "plan meals around energy levels",
+   "10 border st, byron bay nsw 2481",
+   "super doctor"
+  ]
+ },
+ {
+  "qid": "9aaed6a3",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 383,
+  "chains_v5": 369,
+  "lost_values": 7,
+  "v4_judge": true,
+  "sample_lost": [
+   "right up front at billie eilish concert",
+   "traditional irish music",
+   "the japanese house and muna",
+   "another gathering at their place soon",
+   "attending festivals"
+  ]
+ },
+ {
+  "qid": "d905b33f",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 364,
+  "chains_v5": 341,
+  "lost_values": 19,
+  "v4_judge": true,
+  "sample_lost": [
+   "gardening and sustainable living on the property",
+   "a plot of land in the countryside",
+   "antique books or decorative objects to shelves",
+   "an antique locket purchased from an online marketplace",
+   "coach's classic, timeless designs"
+  ]
+ },
+ {
+  "qid": "a4996e51",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 366,
+  "chains_v5": 348,
+  "lost_values": 6,
+  "v4_judge": true,
+  "sample_lost": [
+   "a running buddy",
+   "jack, a freelance photographer, on a flight from new york to los angeles",
+   "coconut oil in coffee",
+   "a new handbag",
+   "a lot of shoes lately"
+  ]
+ },
+ {
+  "qid": "e25c3b8d",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 401,
+  "chains_v5": 378,
+  "lost_values": 11,
+  "v4_judge": true,
+  "sample_lost": [
+   "a new cat litter box from petco",
+   "the cliffs of moher",
+   "different mint leaves in mojito recipe",
+   "new gadgets in the latest doraemon movie",
+   "anxious about politics"
+  ]
+ },
+ {
+  "qid": "5025383b",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 328,
+  "chains_v5": 310,
+  "lost_values": 11,
+  "v4_judge": true,
+  "sample_lost": [
+   "curious about what motivates people to become eod technicians",
+   "jennifer lawrence's performance in silver linings playbook",
+   "task 5.2 (brute force attack)",
+   "laravel",
+   "overwhelmed by the pace of racial justice progress"
+  ]
+ },
+ {
+  "qid": "91b15a6e",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 292,
+  "chains_v5": 276,
+  "lost_values": 3,
+  "v4_judge": true,
+  "sample_lost": [
+   "more exciting suggestions for things to do in d.c.",
+   "more mining companies follow sustainable examples",
+   "a volunteer event at a soup kitchen"
+  ]
+ },
+ {
+  "qid": "8979f9ec",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 280,
+  "chains_v5": 264,
+  "lost_values": 6,
+  "v4_judge": true,
+  "sample_lost": [
+   "literary festival in the city last weekend",
+   "limited-edition adidas yeezy boost 350 v2",
+   "a recipe that incorporates gochujang",
+   "a local production of the phantom of the opera at the city opera house",
+   "1962 peanuts comic strip signed by charles schulz"
+  ]
+ },
+ {
+  "qid": "3fe836c9",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 276,
+  "chains_v5": 261,
+  "lost_values": 9,
+  "v4_judge": true,
+  "sample_lost": [
+   "\"the nightingale\"",
+   "a lead magnet for email newsletter",
+   "product photos from different angles",
+   "they are 12.5% irish",
+   "a lot of dance music on daily commute"
+  ]
+ },
+ {
+  "qid": "0ea62687",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 329,
+  "chains_v5": 309,
+  "lost_values": 10,
+  "v4_judge": true,
+  "sample_lost": [
+   "a new stand mixer",
+   "green tea brewing times and temperatures",
+   "aim for a higher salary while being open to other benefits",
+   "new coffee shops to try",
+   "keep the salary negotiation tips in mind"
+  ]
+ },
+ {
+  "qid": "61f8c8f8",
+  "type": "multi-session",
+  "mode": "historical",
+  "chains_v4": 292,
+  "chains_v5": 278,
+  "lost_values": 0,
+  "v4_judge": false,
+  "sample_lost": []
+ },
+ {
+  "qid": "bc149d6b",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 314,
+  "chains_v5": 297,
+  "lost_values": 4,
+  "v4_judge": false,
+  "sample_lost": [
+   "20 pounds of organic scratch grains for chickens",
+   "access kubernetes-loaded env vars from a deno file",
+   "black leather boots from zara",
+   "a bun suggestion that pairs well with bbq sauce"
+  ]
+ },
+ {
+  "qid": "157a136e",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 340,
+  "chains_v5": 322,
+  "lost_values": 6,
+  "v4_judge": true,
+  "sample_lost": [
+   "a new pair of dance shoes",
+   "developing critical thinking skills for media literacy",
+   "\"the crown\" on netflix",
+   "princess anne's character development in season 3",
+   "balsamic vinegar recently"
+  ]
+ },
+ {
+  "qid": "a08a253f",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 346,
+  "chains_v5": 328,
+  "lost_values": 8,
+  "v4_judge": false,
+  "sample_lost": [
+   "art-house film and non-mainstream films",
+   "dropbox",
+   "a fine-tuning model biased to produce attractive women",
+   "7:15 am train from station a to station b every weekday morning",
+   "cherry blossom season in tokyo"
+  ]
+ },
+ {
+  "qid": "a346bb18",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 334,
+  "chains_v5": 316,
+  "lost_values": 8,
+  "v4_judge": true,
+  "sample_lost": [
+   "workout playlists for spin classes",
+   "acrylic paints",
+   "a new airbrush compressor",
+   "art exhibitions lately",
+   "team-building event for colleagues"
+  ]
+ },
+ {
+  "qid": "e56a43b9",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 287,
+  "chains_v5": 261,
+  "lost_values": 10,
+  "v4_judge": true,
+  "sample_lost": [
+   "gelato sandwiches",
+   "changes stick around after the pandemic",
+   "a new pair of gucci sunglasses",
+   "a hardshell case for the gs mini",
+   "a vegan quiche using tofu and spinach"
+  ]
+ },
+ {
+  "qid": "6456829e_abs",
+  "type": "multi-session",
+  "mode": "historical",
+  "chains_v4": 306,
+  "chains_v5": 292,
+  "lost_values": 0,
+  "v4_judge": true,
+  "sample_lost": []
+ },
+ {
+  "qid": "09ba9854_abs",
+  "type": "multi-session",
+  "mode": "current",
+  "chains_v4": 347,
+  "chains_v5": 326,
+  "lost_values": 6,
+  "v4_judge": false,
+  "sample_lost": [
+   "guitar lessons again",
+   "a baking competition show on netflix last weekend",
+   "guitar humidifier for grandfather's guitar",
+   "employment in the us",
+   "piano lessons"
+  ]
+ },
+ {
+  "qid": "b46e15ed",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 315,
+  "chains_v5": 305,
+  "lost_values": 3,
+  "v4_judge": false,
+  "sample_lost": [
+   "buccaneers games",
+   "a charity gala organized by the cancer research foundation at a fancy hotel in downtown",
+   "english teaching job in roppongi"
+  ]
+ },
+ {
+  "qid": "gpt4_4929293a",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 269,
+  "chains_v5": 251,
+  "lost_values": 6,
+  "v4_judge": true,
+  "sample_lost": [
+   "girl & the goat's wood-fired seafood dishes",
+   "digital marketing expo",
+   "appraisal of grandmother's locket",
+   "unconventional recording techniques in music",
+   "ebates"
+  ]
+ },
+ {
+  "qid": "gpt4_e072b769",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 292,
+  "chains_v5": 277,
+  "lost_values": 6,
+  "v4_judge": true,
+  "sample_lost": [
+   "drained",
+   "tennis racket with more power and spin",
+   "doing more workshops or classes",
+   "running shoe with good support and cushioning",
+   "a birthday party for their friend's kid today"
+  ]
+ },
+ {
+  "qid": "gpt4_6dc9b45b",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 332,
+  "chains_v5": 315,
+  "lost_values": 4,
+  "v4_judge": true,
+  "sample_lost": [
+   "capture the night sky",
+   "rivers in a documentary on netflix",
+   "start astrophotography",
+   "an e-commerce website"
+  ]
+ },
+ {
+  "qid": "gpt4_1916e0ea",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 356,
+  "chains_v5": 343,
+  "lost_values": 3,
+  "v4_judge": true,
+  "sample_lost": [
+   "half-day off",
+   "japanese-style green tea",
+   "a birthday party for their friend's kid today"
+  ]
+ },
+ {
+  "qid": "gpt4_1e4a8aeb",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 317,
+  "chains_v5": 300,
+  "lost_values": 5,
+  "v4_judge": true,
+  "sample_lost": [
+   "assistant's knowledge",
+   "textbooks are from grad school",
+   "build a website",
+   "different types of plants in garden",
+   "workout before the conference"
+  ]
+ },
+ {
+  "qid": "gpt4_45189cb4",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 320,
+  "chains_v5": 305,
+  "lost_values": 4,
+  "v4_judge": false,
+  "sample_lost": [
+   "more governments take action to reduce plastic pollution",
+   "a new targus laptop bag",
+   "an autocross event at the san bernardino county fairgrounds",
+   "a portable power bank to extend laptop battery life"
+  ]
+ },
+ {
+  "qid": "gpt4_d6585ce8",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 274,
+  "chains_v5": 253,
+  "lost_values": 14,
+  "v4_judge": true,
+  "sample_lost": [
+   "paprika",
+   "transfer the deed of the co-owned parcel of land",
+   "search for jazz festivals and events in their area",
+   "a residential tower",
+   "attend outdoor jazz concerts this summer"
+  ]
+ },
+ {
+  "qid": "8077ef71",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 337,
+  "chains_v5": 324,
+  "lost_values": 9,
+  "v4_judge": true,
+  "sample_lost": [
+   "a driving instructor",
+   "traqmate software to analyze data",
+   "drained",
+   "a data logger",
+   "jealous of michael's japan trip"
+  ]
+ },
+ {
+  "qid": "bcbe585f",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 318,
+  "chains_v5": 302,
+  "lost_values": 4,
+  "v4_judge": true,
+  "sample_lost": [
+   "happiness and well-being reducing social and political unrest",
+   "graduate student research award in march 2022",
+   "max a new mentally challenging toy",
+   "lightroom"
+  ]
+ },
+ {
+  "qid": "gpt4_af6db32f",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 282,
+  "chains_v5": 266,
+  "lost_values": 8,
+  "v4_judge": true,
+  "sample_lost": [
+   "a mix of gym workouts and home workouts",
+   "a photo slideshow for grandma's 75th birthday party",
+   "blue note tokyo",
+   "current is constant",
+   "a big bash for their grandma's 75th birthday"
+  ]
+ },
+ {
+  "qid": "gpt4_85da3956",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 331,
+  "chains_v5": 317,
+  "lost_values": 6,
+  "v4_judge": true,
+  "sample_lost": [
+   "waking up early",
+   "road trip to the beach this weekend",
+   "subgenres of house music",
+   "a short break to meditate and recharge",
+   "hydroelectric power generation in mountainous areas"
+  ]
+ },
+ {
+  "qid": "gpt4_7ca326fa",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 353,
+  "chains_v5": 337,
+  "lost_values": 5,
+  "v4_judge": true,
+  "sample_lost": [
+   "new smart light bulbs for living room",
+   "the hard work and dedication of lawyers",
+   "a korean-style dessert for a dinner party",
+   "hal higdon's novice marathon training plan",
+   "new table lamps for bedroom"
+  ]
+ },
+ {
+  "qid": "71017277",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 318,
+  "chains_v5": 298,
+  "lost_values": 11,
+  "v4_judge": false,
+  "sample_lost": [
+   "tops and jeans at h&m",
+   "a scarf",
+   "police departments worldwide consider diversity research in recruiting",
+   "gait analysis",
+   "all the new babies in their life lately"
+  ]
+ },
+ {
+  "qid": "gpt4_f420262d",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 317,
+  "chains_v5": 297,
+  "lost_values": 6,
+  "v4_judge": false,
+  "sample_lost": [
+   "3 of their $1 off tide coupons on their last shopping trip",
+   "vegan options",
+   "a south korean film on netflix",
+   "a fitness tracker",
+   "bachata festival next month"
+  ]
+ },
+ {
+  "qid": "gpt4_468eb064",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 273,
+  "chains_v5": 249,
+  "lost_values": 12,
+  "v4_judge": true,
+  "sample_lost": [
+   "cut back on sugary drinks and foods",
+   "temples and shrines in nikko",
+   "a seascape piece",
+   "the warm tone of the new bulb",
+   "hawaii later this year"
+  ]
+ },
+ {
+  "qid": "4dfccbf8",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 313,
+  "chains_v5": 294,
+  "lost_values": 11,
+  "v4_judge": true,
+  "sample_lost": [
+   "developer and designer",
+   "game nights with friends",
+   "europe",
+   "zara home later this week",
+   "new furniture matching neo-traditional style"
+  ]
+ },
+ {
+  "qid": "gpt4_b5700ca0",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 308,
+  "chains_v5": 293,
+  "lost_values": 9,
+  "v4_judge": true,
+  "sample_lost": [
+   "training sessions to prepare for the new role",
+   "bart and muni metro to fisherman's wharf",
+   "potential risks and drawbacks of gene splicing",
+   "a set of metallic threads",
+   "anxious lately"
+  ]
+ },
+ {
+  "qid": "gpt4_76048e76",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 268,
+  "chains_v5": 251,
+  "lost_values": 9,
+  "v4_judge": true,
+  "sample_lost": [
+   "italy next",
+   "kabbalah quest - the tree of life journey",
+   "korean bbq sauce",
+   "a new bike rack for their car",
+   "smoky chipotle bbq sauce"
+  ]
+ },
+ {
+  "qid": "2c63a862",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 317,
+  "chains_v5": 302,
+  "lost_values": 4,
+  "v4_judge": false,
+  "sample_lost": [
+   "saag paneer",
+   "a new modem",
+   "a baby carrier or sling as an additional gift",
+   "chana masala"
+  ]
+ },
+ {
+  "qid": "gpt4_5dcc0aab",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 333,
+  "chains_v5": 309,
+  "lost_values": 11,
+  "v4_judge": true,
+  "sample_lost": [
+   "10 cheeses",
+   "a lot of outdoor activities lately",
+   "\"the daily\" podcast",
+   "yoga or pilates routines for beginners to do at home",
+   "music festival in brooklyn"
+  ]
+ },
+ {
+  "qid": "gpt4_70e84552",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 349,
+  "chains_v5": 332,
+  "lost_values": 8,
+  "v4_judge": true,
+  "sample_lost": [
+   "a harmonica",
+   "toilet handle",
+   "3 courses on coursera",
+   "their own ukulele in the next few months",
+   "a new camera lens"
+  ]
+ },
+ {
+  "qid": "gpt4_65aabe59",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 323,
+  "chains_v5": 295,
+  "lost_values": 6,
+  "v4_judge": false,
+  "sample_lost": [
+   "microwave to make popcorn",
+   "cost of accommodations in paris",
+   "instagram stories and igtv",
+   "gift receipt or personalized note for sister's gift",
+   "unflavored pea protein powder"
+  ]
+ },
+ {
+  "qid": "c8090214",
+  "type": "temporal-reasoning",
+  "mode": "historical",
+  "chains_v4": 304,
+  "chains_v5": 289,
+  "lost_values": 0,
+  "v4_judge": true,
+  "sample_lost": []
+ },
+ {
+  "qid": "gpt4_2c50253f",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 361,
+  "chains_v5": 344,
+  "lost_values": 8,
+  "v4_judge": true,
+  "sample_lost": [
+   "the indomitable human spirit",
+   "a different bike route to work",
+   "bike safety in the city",
+   "a variety of drinks available",
+   "lifetime membership for oto2 in bundle"
+  ]
+ },
+ {
+  "qid": "cc6d1ec1",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 347,
+  "chains_v5": 328,
+  "lost_values": 11,
+  "v4_judge": true,
+  "sample_lost": [
+   "new tv show recommendations",
+   "eat healthier lately",
+   "aerials in rocket league",
+   "simple, delicate keychain with sister's initials or name",
+   "miami later this year"
+  ]
+ },
+ {
+  "qid": "d01c6aa8",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 332,
+  "chains_v5": 307,
+  "lost_values": 11,
+  "v4_judge": false,
+  "sample_lost": [
+   "selling some of their own items to other collectors",
+   "quinoa and lentil curry recipe",
+   "eco-friendly coffee filters or low-waste coffee makers",
+   "personalized photo album as a gift",
+   "a pair of dr. martens"
+  ]
+ },
+ {
+  "qid": "gpt4_cd90e484",
+  "type": "temporal-reasoning",
+  "mode": "historical",
+  "chains_v4": 336,
+  "chains_v5": 314,
+  "lost_values": 0,
+  "v4_judge": true,
+  "sample_lost": []
+ },
+ {
+  "qid": "b29f3365",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 336,
+  "chains_v5": 316,
+  "lost_values": 10,
+  "v4_judge": true,
+  "sample_lost": [
+   "modules: s3.py, processor.py, hdfs.py, gpfs.py, encryption.py, compression.py, checksum.py, exceptions.py",
+   "actual pajamas to bed",
+   "a fantasy football draft with friends",
+   "a used ukulele",
+   "a new amp"
+  ]
+ },
+ {
+  "qid": "gpt4_0a05b494",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 346,
+  "chains_v5": 333,
+  "lost_values": 12,
+  "v4_judge": true,
+  "sample_lost": [
+   "take two of the eight labels, learn two of them, and check accuracy",
+   "look into incentives and rebates available in their state",
+   "affordable time tracking software",
+   "new recipe ideas incorporating fresh berries",
+   "look into installing solar panels on their roof"
+  ]
+ },
+ {
+  "qid": "gpt4_5438fa52",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 289,
+  "chains_v5": 272,
+  "lost_values": 5,
+  "v4_judge": true,
+  "sample_lost": [
+   "folders feature to categorize apps",
+   "an antique vase from grandmother's estate",
+   "a few film festivals recently",
+   "yoga classes on tuesdays and thursdays",
+   "using art to promote literacy skills"
+  ]
+ },
+ {
+  "qid": "gpt4_70e84552_abs",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 296,
+  "chains_v5": 275,
+  "lost_values": 10,
+  "v4_judge": true,
+  "sample_lost": [
+   "the proposal on thursday",
+   "a book at the museum gift shop",
+   "etsy and shopify",
+   "more containers specifically designed for meal prep",
+   "art exhibit at local museum"
+  ]
+ },
+ {
+  "qid": "gpt4_c27434e8_abs",
+  "type": "temporal-reasoning",
+  "mode": "current",
+  "chains_v4": 298,
+  "chains_v5": 279,
+  "lost_values": 8,
+  "v4_judge": true,
+  "sample_lost": [
+   "a birding trip to costa rica",
+   "acrylic paints",
+   "a new airbrush compressor",
+   "a painting",
+   "a guided walk at the audubon society workshop"
+  ]
+ },
+ {
+  "qid": "830ce83f",
+  "type": "knowledge-update",
+  "mode": "current",
+  "chains_v4": 291,
+  "chains_v5": 272,
+  "lost_values": 10,
+  "v4_judge": true,
+  "sample_lost": [
+   "new workout playlists",
+   "extra throw pillows and blankets in blue",
+   "brooklyn nine-nine one of their favorite comedies",
+   "san francisco",
+   "ask estate sale organizers about armchair's history"
+  ]
+ },
+ {
+  "qid": "71315a70",
+  "type": "knowledge-update",
+  "mode": "current",
+  "chains_v4": 330,
+  "chains_v5": 308,
+  "lost_values": 8,
+  "v4_judge": true,
+  "sample_lost": [
+   "customized jewelry or photo album as gift ideas",
+   "graduate student",
+   "4-wheel drive vehicle rental",
+   "a marvel movie",
+   "an essential oil diffuser"
+  ]
+ },
+ {
+  "qid": "07741c44",
+  "type": "knowledge-update",
+  "mode": "historical",
+  "chains_v4": 344,
+  "chains_v5": 328,
+  "lost_values": 0,
+  "v4_judge": true,
+  "sample_lost": []
+ },
+ {
+  "qid": "4d6b87c8",
+  "type": "knowledge-update",
+  "mode": "current",
+  "chains_v4": 295,
+  "chains_v5": 279,
+  "lost_values": 6,
+  "v4_judge": true,
+  "sample_lost": [
+   "earl grey tea bags from a local café",
+   "a dinner party next weekend",
+   "to visit grandparents this weekend",
+   "display ideas for handmade jewelry and candles",
+   "a daily tea break"
+  ]
+ },
+ {
+  "qid": "41698283",
+  "type": "knowledge-update",
+  "mode": "current",
+  "chains_v4": 337,
+  "chains_v5": 320,
+  "lost_values": 4,
+  "v4_judge": true,
+  "sample_lost": [
+   "freelance designer",
+   "samsung hw-q90r soundbar",
+   "a new tv",
+   "packing cubes"
+  ]
+ },
+ {
+  "qid": "5a4f22c0",
+  "type": "knowledge-update",
+  "mode": "historical",
+  "chains_v4": 347,
+  "chains_v5": 321,
+  "lost_values": 0,
+  "v4_judge": true,
+  "sample_lost": []
+ },
+ {
+  "qid": "72e3ee87",
+  "type": "knowledge-update",
+  "mode": "current",
+  "chains_v4": 306,
+  "chains_v5": 285,
+  "lost_values": 5,
+  "v4_judge": true,
+  "sample_lost": [
+   "a cultural festival in their neighborhood",
+   "dell xps mid-range model with 16gb ram and 512gb ssd",
+   "visiting a museum",
+   "movie adaptation of \"dear evan hansen\" on amazon prime",
+   "\"chicago\", \"moulin rouge\", and \"sweeney todd\" back to back"
+  ]
+ },
+ {
+  "qid": "2133c1b5",
+  "type": "knowledge-update",
+  "mode": "current",
+  "chains_v4": 319,
+  "chains_v5": 301,
+  "lost_values": 9,
+  "v4_judge": true,
+  "sample_lost": [
+   "morning runs",
+   "set aside $50 per month for gifts",
+   "plants for their living room",
+   "schedule an appointment with healthcare provider",
+   "attend at least one workshop or seminar per month"
+  ]
+ },
+ {
+  "qid": "e61a7584",
+  "type": "knowledge-update",
+  "mode": "current",
+  "chains_v4": 365,
+  "chains_v5": 341,
+  "lost_values": 11,
+  "v4_judge": true,
+  "sample_lost": [
+   "black jeans from h&m",
+   "whose birthday is coming up soon",
+   "hydrangea cuttings from their neighbor's garden",
+   "gifts from local shops",
+   "climb and jump"
+  ]
+ },
+ {
+  "qid": "b01defab",
+  "type": "knowledge-update",
+  "mode": "current",
+  "chains_v4": 318,
+  "chains_v5": 294,
+  "lost_values": 11,
+  "v4_judge": true,
+  "sample_lost": [
+   "medium-dark roast coffee bean",
+   "new vegan breakfast ideas",
+   "a book reading session by poet rachel patel",
+   "a new tea flavor to try",
+   "organize phone home screen"
+  ]
+ },
+ {
+  "qid": "7e974930",
+  "type": "knowledge-update",
+  "mode": "current",
+  "chains_v4": 295,
+  "chains_v5": 283,
+  "lost_values": 8,
+  "v4_judge": true,
+  "sample_lost": [
+   "new 50-inch 4k tv",
+   "experimenting with different textures lately",
+   "check transit agency website for monthly pass purchasing options and prices",
+   "combination of gooey chocolate chips and chewy cookies",
+   "\"the jinx: the life and deaths of robert durst\""
+  ]
+ },
+ {
+  "qid": "eace081b",
+  "type": "knowledge-update",
+  "mode": "current",
+  "chains_v4": 323,
+  "chains_v5": 303,
+  "lost_values": 10,
+  "v4_judge": true,
+  "sample_lost": [
+   "star wars action figure from a local antique store",
+   "\"rack fest\" in nearby city on june 18th",
+   "overwhelmed with personal stuff",
+   "sections up to the present day",
+   "guilty about not visiting aunt as much as desired"
+  ]
+ },
+ {
+  "qid": "0ddfec37",
+  "type": "knowledge-update",
+  "mode": "current",
+  "chains_v4": 327,
+  "chains_v5": 307,
+  "lost_values": 9,
+  "v4_judge": true,
+  "sample_lost": [
+   "balance nlp specialization with web development course",
+   "implement models and techniques learned",
+   "portable external hard drive for backups",
+   "stage combat workshop last month",
+   "a sports-themed party for friends"
+  ]
+ },
+ {
+  "qid": "69fee5aa",
+  "type": "knowledge-update",
+  "mode": "current",
+  "chains_v4": 301,
+  "chains_v5": 284,
+  "lost_values": 7,
+  "v4_judge": false,
+  "sample_lost": [
+   "a new bike helmet",
+   "screen time",
+   "a hotel suite with separate bedrooms and a living area",
+   "habits and habit-forming strategies",
+   "the long flight to hawaii"
+  ]
+ },
+ {
+  "qid": "c7dc5443",
+  "type": "knowledge-update",
+  "mode": "current",
+  "chains_v4": 353,
+  "chains_v5": 338,
+  "lost_values": 8,
+  "v4_judge": true,
+  "sample_lost": [
+   "a multi-day trip to huangshan national park",
+   "a better grasp of the spanish language",
+   "make their donation go further",
+   "get a tax deduction for their donation",
+   "a journal to record travel experiences"
+  ]
+ },
+ {
+  "qid": "10e09553",
+  "type": "knowledge-update",
+  "mode": "historical",
+  "chains_v4": 339,
+  "chains_v5": 324,
+  "lost_values": 0,
+  "v4_judge": true,
+  "sample_lost": []
+ },
+ {
+  "qid": "5c40ec5b",
+  "type": "knowledge-update",
+  "mode": "current",
+  "chains_v4": 337,
+  "chains_v5": 329,
+  "lost_values": 5,
+  "v4_judge": true,
+  "sample_lost": [
+   "a spreadsheet to track time",
+   "azure as server provider",
+   "summer events in minneapolis parks",
+   "track time spent on tasks automatically",
+   "generate reports on time spending to identify areas for improvement"
+  ]
+ },
+ {
+  "qid": "6aeb4375_abs",
+  "type": "knowledge-update",
+  "mode": "current",
+  "chains_v4": 298,
+  "chains_v5": 273,
+  "lost_values": 12,
+  "v4_judge": true,
+  "sample_lost": [
+   "a dessert table with different types of grandmother's favorite dessert",
+   "wait until hair is dry before brushing",
+   "to live and let live",
+   "camping trip with family and friends",
+   "three different korean restaurants"
+  ]
+ },
+ {
+  "qid": "0ddfec37_abs",
+  "type": "knowledge-update",
+  "mode": "current",
+  "chains_v4": 332,
+  "chains_v5": 314,
+  "lost_values": 10,
+  "v4_judge": true,
+  "sample_lost": [
+   "local produce when traveling",
+   "poll their audience",
+   "ask questions in instagram captions",
+   "new camera lens for vintage leica camera",
+   "flexibility, especially hamstrings and hip flexors"
+  ]
+ },
+ {
+  "qid": "7161e7e2",
+  "type": "single-session-assistant",
+  "mode": "current",
+  "chains_v4": 305,
+  "chains_v5": 286,
+  "lost_values": 7,
+  "v4_judge": true,
+  "sample_lost": [
+   "loan/lease gap coverage to policy",
+   "articles about formula 1 history and mechanics",
+   "musical theater recommendations",
+   "different foods for fish",
+   "a new car wash soap today"
+  ]
+ },
+ {
+  "qid": "4c36ccef",
+  "type": "single-session-assistant",
+  "mode": "current",
+  "chains_v4": 366,
+  "chains_v5": 345,
+  "lost_values": 11,
+  "v4_judge": true,
+  "sample_lost": [
+   "a \"game guru\" to explain rules and guide guests",
+   "a fiddle leaf fig",
+   "a snake plant",
+   "a museum tour on ancient civilizations",
+   "google drive"
+  ]
+ },
+ {
+  "qid": "ceb54acb",
+  "type": "single-session-assistant",
+  "mode": "current",
+  "chains_v4": 320,
+  "chains_v5": 306,
+  "lost_values": 6,
+  "v4_judge": true,
+  "sample_lost": [
+   "the maundy thursday service at the episcopal church",
+   "le bistrot des halles",
+   "fans take pandemic protocols seriously",
+   "with their family",
+   "other sports leagues will follow serie a's lead on safety measures"
+  ]
+ },
+ {
+  "qid": "cc539528",
+  "type": "single-session-assistant",
+  "mode": "current",
+  "chains_v4": 330,
+  "chains_v5": 305,
+  "lost_values": 16,
+  "v4_judge": true,
+  "sample_lost": [
+   "robot vacuum",
+   "more countries will adopt sustainable tourism practices",
+   "the white peasant blouse last week",
+   "cooperative games at the game store",
+   "a road trip to a national park"
+  ]
+ },
+ {
+  "qid": "58470ed2",
+  "type": "single-session-assistant",
+  "mode": "current",
+  "chains_v4": 266,
+  "chains_v5": 245,
+  "lost_values": 12,
+  "v4_judge": true,
+  "sample_lost": [
+   "health of horse starlight",
+   "higher inertias are generally better for rough tracks",
+   "next trip",
+   "a first edition of \"to kill a mockingbird\"",
+   "new educational youtube channels to subscribe to"
+  ]
+ },
+ {
+  "qid": "8aef76bc",
+  "type": "single-session-assistant",
+  "mode": "current",
+  "chains_v4": 296,
+  "chains_v5": 282,
+  "lost_values": 8,
+  "v4_judge": true,
+  "sample_lost": [
+   "lord shri krishna as guru",
+   "bed frame and mattress",
+   "a halloween-themed event with friends alex and rachel",
+   "mid-century modern coffee tables",
+   "a new slow cooker"
+  ]
+ },
+ {
+  "qid": "8752c811",
+  "type": "single-session-assistant",
+  "mode": "current",
+  "chains_v4": 370,
+  "chains_v5": 351,
+  "lost_values": 6,
+  "v4_judge": true,
+  "sample_lost": [
+   "main course recommendations for a large group",
+   "skylum luminar",
+   "pheasant hunting trip with friends at a nearby wildlife preserve yesterday",
+   "canon ef 50mm f/1.8 lens",
+   "performing procrustes analysis in r"
+  ]
+ },
+ {
+  "qid": "6222b6eb",
+  "type": "single-session-assistant",
+  "mode": "current",
+  "chains_v4": 301,
+  "chains_v5": 289,
+  "lost_values": 6,
+  "v4_judge": true,
+  "sample_lost": [
+   "has been teaching user how to make traditional indian chicken curry",
+   "is a 28-year-old woman",
+   "mid-century modern coffee tables",
+   "a cable management box",
+   "an afrobeats workshop"
+  ]
+ },
+ {
+  "qid": "51b23612",
+  "type": "single-session-assistant",
+  "mode": "current",
+  "chains_v4": 286,
+  "chains_v5": 272,
+  "lost_values": 4,
+  "v4_judge": true,
+  "sample_lost": [
+   "more playlists on spotify lately",
+   "disneyland",
+   "a new handbag",
+   "podcasts, especially music-related"
+  ]
+ },
+ {
+  "qid": "fca762bc",
+  "type": "single-session-assistant",
+  "mode": "current",
+  "chains_v4": 292,
+  "chains_v5": 276,
+  "lost_values": 3,
+  "v4_judge": true,
+  "sample_lost": [
+   "bought a bag of cookies from the bakery near the office",
+   "different flavors of ice cream",
+   "asics gel-kayano 27 running shoes"
+  ]
+ },
+ {
+  "qid": "5809eb10",
+  "type": "single-session-assistant",
+  "mode": "current",
+  "chains_v4": 312,
+  "chains_v5": 293,
+  "lost_values": 6,
+  "v4_judge": true,
+  "sample_lost": [
+   "another meetup for their professional network",
+   "birthday on the 15th of this month",
+   "a classic negroni before",
+   "a community blog",
+   "brunch with a friend followed by a walk in the park"
+  ]
+ },
+ {
+  "qid": "561fabcd",
+  "type": "single-session-assistant",
+  "mode": "current",
+  "chains_v4": 288,
+  "chains_v5": 275,
+  "lost_values": 4,
+  "v4_judge": true,
+  "sample_lost": [
+   "send glances data to influxdb for monitoring via grafana",
+   "a scarf at a festival",
+   "omni hotels",
+   "xbox exclusives like halo"
+  ]
+ },
+ {
+  "qid": "16c90bf4",
+  "type": "single-session-assistant",
+  "mode": "current",
+  "chains_v4": 308,
+  "chains_v5": 284,
+  "lost_values": 9,
+  "v4_judge": true,
+  "sample_lost": [
+   "a web development project during internship",
+   "a historical fiction novel that explores the life of a strong woman",
+   "library card",
+   "ufc fight between conor mcgregor and donald cerrone with friends",
+   "hungry"
+  ]
+ },
+ {
+  "qid": "e48988bc",
+  "type": "single-session-assistant",
+  "mode": "current",
+  "chains_v4": 300,
+  "chains_v5": 285,
+  "lost_values": 9,
+  "v4_judge": true,
+  "sample_lost": [
+   "at least 2 documentaries every week",
+   "dynasties",
+   "thinly sliced ribeye for bulgogi",
+   "spotify playlists lately",
+   "bulgogi inspiration"
+  ]
+ }
+]

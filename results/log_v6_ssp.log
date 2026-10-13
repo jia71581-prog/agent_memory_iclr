@@ -1,0 +1,9 @@
+QC_V6_SSP: 门控命中 29, 已完成 0, 待跑 29
+progress 25/29
+
+=== QC_V6_SSP 门内子集 n=29 ===
+v5 0.5862 -> v6 0.6897  delta +0.1034  b=7 c=4  McNemar p=0.5488
+折算全 500: v5 0.8980 -> 0.9040 (+0.0060)
+type                          n      v5      v6
+single-session-preference    29   0.586   0.690
+V6 SUBSET QC_V6_SSP DONE

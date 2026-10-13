@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/B1OU+11tmYnDTek4un16yVdoN88</id>
+  <title>arXiv Query: search_query=all:"agentic memory"&amp;id_list=&amp;start=0&amp;max_results=10</title>
+  <updated>2026-09-16T09:25:32Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=all:%22agentic+memory%22&amp;start=0&amp;max_results=10&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>467</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2512.12686v1</id>
+    <title>Memoria: A Scalable Agentic Memory Framework for Personalized Conversational AI</title>
+    <updated>2025-12-14T13:38:06Z</updated>
+    <link href="https://arxiv.org/abs/2512.12686v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2512.12686v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Agentic memory is emerging as a key enabler for large language models (LLM) to maintain continuity, personalization, and long-term context in extended user interactions, critical capabilities for deploying LLMs as truly interactive and adaptive agents. Agentic memory refers to the memory that provides an LLM with agent-like persistence: the ability to retain and act upon information across conversations, similar to how a human would. We present Memoria, a modular memory framework that augments LLM-based conversational systems with persistent, interpretable, and context-rich memory. Memoria integrates two complementary components: dynamic session-level summarization and a weighted knowledge graph (KG)-based user modelling engine that incrementally captures user traits, preferences, and behavioral patterns as structured entities and relationships. This hybrid architecture enables both short-term dialogue coherence and long-term personalization while operating within the token constraints of modern LLMs. We demonstrate how Memoria enables scalable, personalized conversational artificial intelligence (AI) by bridging the gap between stateless LLM interfaces and agentic memory systems, offering a practical solution for industry applications requiring adaptive and evolving user experiences.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-12-14T13:38:06Z</published>
+    <arxiv:comment>Paper accepted at 5th International Conference of AIML Systems 2025, Bangalore, India</arxiv:comment>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Samarth Sarin</name>
+    </author>
+    <author>
+      <name>Lovepreet Singh</name>
+    </author>
+    <author>
+      <name>Bhaskarjit Sarmah</name>
+    </author>
+    <author>
+      <name>Dhagash Mehta</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2605.09330v1</id>
+    <title>The Trap of Trajectory: Towards Understanding and Mitigating Spurious Correlations in Agentic Memory</title>
+    <updated>2026-05-10T05:04:13Z</updated>
+    <link href="https://arxiv.org/abs/2605.09330v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2605.09330v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Agentic memory enables LLMs to persist information beyond a single context window and reuse it in later decisions, but it also introduces a new vulnerability: spurious correlations, where retrieved memory carries miscorrelated evidence and propagates erroneous reasoning into downstream decisions. Despite the widespread use of agentic memory, this risk remains largely underexplored. We address it from two aspects. First, we benchmark several canonical types of spurious patterns identified through causal structure and record them across trajectory-level memory. Diagnosing agentic memory systems on this benchmark reveals that memory improves reasoning on clean inputs but amplifies reliance on spurious patterns when they are present. Second, we propose CAMEL, a plug-and-play calibration method that operates across diverse memory architectures at both write and retrieval time. CAMEL consistently reduces reliance on spurious patterns across all three types while preserving or improving performance on clean inputs and staying robust under adaptive attacks targeting the calibration. Overall, CAMEL offers a principled and lightweight solution toward more reliable agentic memory deployment.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-05-10T05:04:13Z</published>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Luoxi Tang</name>
+    </author>
+    <author>
+      <name>Rupali Rajendra Vaje</name>
+    </author>
+    <author>
+      <name>Yuqiao Meng</name>
+    </author>
+    <author>
+      <name>Sakshi Sunil Narkar</name>
+    </author>
+    <author>
+      <name>Weicheng Ma</name>
+    </author>
+    <author>
+      <name>Zeyu Ding</name>
+    </author>
+    <author>
+      <name>Dazheng Zhang</name>
+    </author>
+    <author>
+      <name>Zhaohan Xi</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2601.03236v2</id>
+    <title>MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents</title>
+    <updated>2026-04-16T05:56:29Z</updated>
+    <link href="https://arxiv.org/abs/2601.03236v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2601.03236v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Memory-Augmented Generation (MAG) extends Large Language Models with external memory to support long-context reasoning, but existing approaches largely rely on semantic similarity over monolithic memory stores, entangling temporal, causal, and entity information. This design limits interpretability and alignment between query intent and retrieved evidence, leading to suboptimal reasoning accuracy. In this paper, we propose MAGMA, a multi-graph agentic memory architecture that represents each memory item across orthogonal semantic, temporal, causal, and entity graphs. MAGMA formulates retrieval as policy-guided traversal over these relational views, enabling query-adaptive selection and structured context construction. By decoupling memory representation from retrieval logic, MAGMA provides transparent reasoning paths and fine-grained control over retrieval. Experiments on LoCoMo and LongMemEval demonstrate that MAGMA consistently outperforms state-of-the-art agentic memory systems in long-horizon reasoning tasks.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-01-06T18:29:43Z</published>
+    <arxiv:comment>ACL 2026 Main</arxiv:comment>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Dongming Jiang</name>
+    </author>
+    <author>
+      <name>Yi Li</name>
+    </author>
+    <author>
+      <name>Guanpeng Li</name>
+    </author>
+    <author>
+      <name>Bingzhe Li</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2604.01560v1</id>
+    <title>DeltaMem: Towards Agentic Memory Management via Reinforcement Learning</title>
+    <updated>2026-04-02T03:13:53Z</updated>
+    <link href="https://arxiv.org/abs/2604.01560v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2604.01560v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Recent advances in persona-centric memory have revealed the powerful capability of multi-agent systems in managing persona memory, especially in conversational scenarios. However, these complex frameworks often suffer from information loss and are fragile across varying scenarios, resulting in suboptimal performance. In this paper, we propose DeltaMem, an agentic memory management system that formulates persona-centric memory management as an end-to-end task within a single-agent setting. To further improve the performance of our agentic memory manager, we draw inspiration from the evolution of human memory and synthesize a user-assistant dialogue dataset along with corresponding operation-level memory updating labels. Building on this, we introduce a novel Memory-based Levenshtein Distance to formalize the memory updating reward, and propose a tailored reinforcement learning framework to further enhance the management capabilities of DeltaMem. Extensive experiments show that both training-free and RL-trained DeltaMem outperform all product-level baselines across diverse long-term memory benchmarks, including LoCoMo, HaluMem, and PersonaMem.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-04-02T03:13:53Z</published>
+    <arxiv:comment>preprint, under review</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Qi Zhang</name>
+    </author>
+    <author>
+      <name>Shen Huang</name>
+    </author>
+    <author>
+      <name>Chu Liu</name>
+    </author>
+    <author>
+      <name>Shouqing Yang</name>
+    </author>
+    <author>
+      <name>Junbo Zhao</name>
+    </author>
+    <author>
+      <name>Haobo Wang</name>
+    </author>
+    <author>
+      <name>Pengjun Xie</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2605.07242v1</id>
+    <title>MEMOREPAIR: Barrier-First Cascade Repair in Agentic Memory</title>
+    <updated>2026-05-08T04:57:29Z</updated>
+    <link href="https://arxiv.org/abs/2605.07242v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2605.07242v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Agentic memory evolves across tasks into durable derived artifacts: summaries, cached outputs, embeddings, learned skills, and executable tool procedures. When a source artifact is deleted, corrected, or invalidated by tool or API migration, descendants derived from that source can remain visible and steer future actions with stale support. We formalize this failure mode as the cascade update problem, where repair targets the visible derived state of the memory store. We present MemoRepair, a barrier-first cascade-repair contract for agentic memory. A repair event induces a controlled transition from invalidated descendant state to validated successor state: affected descendants are withdrawn before repair, successors are constructed from retained support and staged repaired predecessors under the current interface, and republication is restricted to validated predecessor-closed successors. This contract induces a scalarized repair-selection problem for a fixed repair-cost tradeoff. We show that the induced publication problem reduces to maximum-weight predecessor closure and can be solved exactly by a single s-t min-cut. Experiments on ToolBench and MemoryArena show that, with complete influence provenance, MemoRepair reduces invalidated-memory exposure from 69.8-94.3% under systems without cascade repair to 0%. Compared with exhaustive Repair all, it recovers 91.1-94.3% of validated successors while reducing normalized repair-operator cost from 1.00 to 0.57-0.76.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-05-08T04:57:29Z</published>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Yang Zhao</name>
+    </author>
+    <author>
+      <name>Chengxiao Dai</name>
+    </author>
+    <author>
+      <name>Mengying Kou</name>
+    </author>
+    <author>
+      <name>Yue Xiu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2602.19320v2</id>
+    <title>Anatomy of Agentic Memory: Taxonomy and Empirical Analysis of Evaluation and System Limitations</title>
+    <updated>2026-05-20T06:06:23Z</updated>
+    <link href="https://arxiv.org/abs/2602.19320v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2602.19320v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Agentic memory systems enable large language model (LLM) agents to maintain state across long interactions, supporting long-horizon reasoning and personalization beyond fixed context windows. Despite rapid architectural development, the empirical foundations of these systems remain fragile: existing benchmarks are often underscaled, evaluation metrics are misaligned with semantic utility, performance varies significantly across backbone models, and system-level costs are frequently overlooked. This survey presents a structured analysis of agentic memory from both architectural and system perspectives. We first introduce a concise taxonomy of MAG systems based on four memory structures. Then, we analyze key pain points limiting current systems, including benchmark saturation effects, metric validity and judge sensitivity, backbone-dependent accuracy, and the latency and throughput overhead introduced by memory maintenance. By connecting the memory structure to empirical limitations, this survey clarifies why current agentic memory systems often underperform their theoretical promise and outlines directions for more reliable evaluation and scalable system design.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-02-22T19:50:01Z</published>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Dongming Jiang</name>
+    </author>
+    <author>
+      <name>Yi Li</name>
+    </author>
+    <author>
+      <name>Songtao Wei</name>
+    </author>
+    <author>
+      <name>Jinxin Yang</name>
+    </author>
+    <author>
+      <name>Ayushi Kishore</name>
+    </author>
+    <author>
+      <name>Alysa Zhao</name>
+    </author>
+    <author>
+      <name>Dingyi Kang</name>
+    </author>
+    <author>
+      <name>Xu Hu</name>
+    </author>
+    <author>
+      <name>Feng Chen</name>
+    </author>
+    <author>
+      <name>Qiannan Li</name>
+    </author>
+    <author>
+      <name>Bingzhe Li</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2512.06688v1</id>
+    <title>PersonaMem-v2: Towards Personalized Intelligence via Learning Implicit User Personas and Agentic Memory</title>
+    <updated>2025-12-07T06:48:23Z</updated>
+    <link href="https://arxiv.org/abs/2512.06688v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2512.06688v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Personalization is one of the next milestones in advancing AI capability and alignment. We introduce PersonaMem-v2, the state-of-the-art dataset for LLM personalization that simulates 1,000 realistic user-chatbot interactions on 300+ scenarios, 20,000+ user preferences, and 128k-token context windows, where most user preferences are implicitly revealed to reflect real-world interactions. Using this data, we investigate how reinforcement fine-tuning enables a model to improve its long-context reasoning capabilities for user understanding and personalization. We also develop a framework for training an agentic memory system, which maintains a single, human-readable memory that grows with each user over time.
+  In our experiments, frontier LLMs still struggle with implicit personalization, achieving only 37-48% accuracy. While they support long context windows, reasoning remains the bottleneck for implicit personalization tasks. Using reinforcement fine-tuning, we successfully train Qwen3-4B to outperforms GPT-5, reaching 53% accuracy in implicit personalization. Moreover, our agentic memory framework achieves state-of-the-art 55% accuracy while using 16x fewer input tokens, relying on a 2k-token memory instead of full 32k conversation histories. These results underscore the impact of our dataset and demonstrate agentic memory as a scalable path toward real-world personalized intelligence.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-12-07T06:48:23Z</published>
+    <arxiv:comment>Data is available at https://huggingface.co/datasets/bowen-upenn/PersonaMem-v2</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Bowen Jiang</name>
+    </author>
+    <author>
+      <name>Yuan Yuan</name>
+    </author>
+    <author>
+      <name>Maohao Shen</name>
+    </author>
+    <author>
+      <name>Zhuoqun Hao</name>
+    </author>
+    <author>
+      <name>Zhangchen Xu</name>
+    </author>
+    <author>
+      <name>Zichen Chen</name>
+    </author>
+    <author>
+      <name>Ziyi Liu</name>
+    </author>
+    <author>
+      <name>Anvesh Rao Vijjini</name>
+    </author>
+    <author>
+      <name>Jiashu He</name>
+    </author>
+    <author>
+      <name>Hanchao Yu</name>
+    </author>
+    <author>
+      <name>Radha Poovendran</name>
+    </author>
+    <author>
+      <name>Gregory Wornell</name>
+    </author>
+    <author>
+      <name>Lyle Ungar</name>
+    </author>
+    <author>
+      <name>Dan Roth</name>
+    </author>
+    <author>
+      <name>Sihao Chen</name>
+    </author>
+    <author>
+      <name>Camillo Jose Taylor</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2601.08160v2</id>
+    <title>SwiftMem: Fast Agentic Memory via Query-aware Indexing</title>
+    <updated>2026-07-24T08:05:19Z</updated>
+    <link href="https://arxiv.org/abs/2601.08160v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2601.08160v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Agentic memory systems have become critical for enabling LLM agents to maintain long-term context and retrieve relevant information efficiently. However, existing memory frameworks often perform query-agnostic retrieval over the full memory embedding space even when their storage layer is backed by efficient vector indexes such as HNSW. This full-scope retrieval path creates latency bottlenecks as memory grows, hindering real-time agent interactions. We propose SwiftMem, a query-aware agentic memory system that narrows retrieval to query-relevant memory subsets through specialized indexing over temporal and semantic dimensions. Our temporal index enables logarithmic-time range queries for time-sensitive retrieval, while the semantic DAG-Tag index maps queries to relevant topics through hierarchical tag structures. To address memory fragmentation during growth, we introduce an embedding-tag co-consolidation mechanism that reorganizes storage based on semantic clusters to improve locality. Across LoCoMo and LongMemEval$_S$, SwiftMem reaches 10.8/12.7 ms search latency while maintaining competitive LLM-judge accuracy against strong HNSW-backed memory systems. On the calibrated benchmark, LoCoMo Refined, SwiftMem remains close to the top LLM-judge score while preserving an order-of-magnitude latency advantage.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-01-13T02:51:04Z</published>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Anxin Tian</name>
+    </author>
+    <author>
+      <name>Yiming Li</name>
+    </author>
+    <author>
+      <name>Xing Li</name>
+    </author>
+    <author>
+      <name>Hui-Ling Zhen</name>
+    </author>
+    <author>
+      <name>Lei Chen</name>
+    </author>
+    <author>
+      <name>Xianzhi Yu</name>
+    </author>
+    <author>
+      <name>Zhenhua Dong</name>
+    </author>
+    <author>
+      <name>Mingxuan Yuan</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2510.05520v1</id>
+    <title>CAM: A Constructivist View of Agentic Memory for LLM-Based Reading Comprehension</title>
+    <updated>2025-10-07T02:16:30Z</updated>
+    <link href="https://arxiv.org/abs/2510.05520v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2510.05520v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Current Large Language Models (LLMs) are confronted with overwhelming information volume when comprehending long-form documents. This challenge raises the imperative of a cohesive memory module, which can elevate vanilla LLMs into autonomous reading agents. Despite the emergence of some heuristic approaches, a systematic design principle remains absent. To fill this void, we draw inspiration from Jean Piaget's Constructivist Theory, illuminating three traits of the agentic memory -- structured schemata, flexible assimilation, and dynamic accommodation. This blueprint forges a clear path toward a more robust and efficient memory system for LLM-based reading comprehension. To this end, we develop CAM, a prototype implementation of Constructivist Agentic Memory that simultaneously embodies the structurality, flexibility, and dynamicity. At its core, CAM is endowed with an incremental overlapping clustering algorithm for structured memory development, supporting both coherent hierarchical summarization and online batch integration. During inference, CAM adaptively explores the memory structure to activate query-relevant information for contextual response, akin to the human associative process. Compared to existing approaches, our design demonstrates dual advantages in both performance and efficiency across diverse long-text reading comprehension tasks, including question answering, query-based summarization, and claim verification.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-10-07T02:16:30Z</published>
+    <arxiv:comment>Accepted by NeurIPS 2025</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Rui Li</name>
+    </author>
+    <author>
+      <name>Zeyu Zhang</name>
+    </author>
+    <author>
+      <name>Xiaohe Bo</name>
+    </author>
+    <author>
+      <name>Zihang Tian</name>
+    </author>
+    <author>
+      <name>Xu Chen</name>
+    </author>
+    <author>
+      <name>Quanyu Dai</name>
+    </author>
+    <author>
+      <name>Zhenhua Dong</name>
+    </author>
+    <author>
+      <name>Ruiming Tang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2502.12110v11</id>
+    <title>A-MEM: Agentic Memory for LLM Agents</title>
+    <updated>2025-10-08T01:46:37Z</updated>
+    <link href="https://arxiv.org/abs/2502.12110v11" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2502.12110v11" rel="related" type="application/pdf" title="pdf"/>
+    <summary>While large language model (LLM) agents can effectively use external tools for complex real-world tasks, they require memory systems to leverage historical experiences. Current memory systems enable basic storage and retrieval but lack sophisticated memory organization, despite recent attempts to incorporate graph databases. Moreover, these systems' fixed operations and structures limit their adaptability across diverse tasks. To address this limitation, this paper proposes a novel agentic memory system for LLM agents that can dynamically organize memories in an agentic way. Following the basic principles of the Zettelkasten method, we designed our memory system to create interconnected knowledge networks through dynamic indexing and linking. When a new memory is added, we generate a comprehensive note containing multiple structured attributes, including contextual descriptions, keywords, and tags. The system then analyzes historical memories to identify relevant connections, establishing links where meaningful similarities exist. Additionally, this process enables memory evolution - as new memories are integrated, they can trigger updates to the contextual representations and attributes of existing historical memories, allowing the memory network to continuously refine its understanding. Our approach combines the structured organization principles of Zettelkasten with the flexibility of agent-driven decision making, allowing for more adaptive and context-aware memory management. Empirical experiments on six foundation models show superior improvement against existing SOTA baselines. The source code for evaluating performance is available at https://github.com/WujiangXu/A-mem, while the source code of the agentic memory system is available at https://github.com/WujiangXu/A-mem-sys.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.HC" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-02-17T18:36:14Z</published>
+    <arxiv:comment>Advances in Neural Information Processing Systems (NeurIPS 2025)</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Wujiang Xu</name>
+    </author>
+    <author>
+      <name>Zujie Liang</name>
+    </author>
+    <author>
+      <name>Kai Mei</name>
+    </author>
+    <author>
+      <name>Hang Gao</name>
+    </author>
+    <author>
+      <name>Juntao Tan</name>
+    </author>
+    <author>
+      <name>Yongfeng Zhang</name>
+    </author>
+  </entry>
+</feed>

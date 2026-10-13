@@ -1,0 +1,30 @@
+qc_no_lifecycle: total 500, done 0, todo 500
+progress 25/500
+progress 50/500
+progress 75/500
+progress 100/500
+progress 125/500
+progress 150/500
+progress 175/500
+progress 200/500
+progress 225/500
+progress 250/500
+progress 275/500
+progress 300/500
+progress 325/500
+progress 350/500
+progress 375/500
+progress 400/500
+progress 425/500
+progress 450/500
+progress 475/500
+progress 500/500
+=== qc_no_lifecycle full500 ===
+knowledge-update             n= 78 acc=0.962
+multi-session                n=133 acc=0.684
+single-session-assistant     n= 56 acc=0.964
+single-session-preference    n= 30 acc=0.533
+single-session-user          n= 70 acc=0.971
+temporal-reasoning           n=133 acc=0.827
+TOTAL n=500 acc=0.828
+FULL500 qc_no_lifecycle DONE

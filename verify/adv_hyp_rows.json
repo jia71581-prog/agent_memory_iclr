@@ -1,0 +1,4606 @@
+[
+ {
+  "qid": "af8d2e46",
+  "type": "single-session-user",
+  "q": "How many shirts did I pack for my 5-day trip to Costa Rica?",
+  "gold": "7",
+  "gnum": 7.0,
+  "ngs": 1,
+  "judge": true,
+  "pred": "You packed **7 shirts** for that trip (you mentioned you only ended up wearing 3 of them).",
+  "v5": {
+   "items": 15,
+   "groups": 3,
+   "best": 8,
+   "gold_hit": 1,
+   "terms": [
+    "pack",
+    "shirt",
+    "travel"
+   ],
+   "sizes": [
+    5,
+    2,
+    8
+   ]
+  },
+  "nohyp": {
+   "items": 11,
+   "groups": 3,
+   "best": 5,
+   "gold_hit": 1,
+   "terms": [
+    "shirt",
+    "travel",
+    "pack"
+   ],
+   "sizes": [
+    2,
+    4,
+    5
+   ]
+  },
+  "nohand": {
+   "items": 15,
+   "groups": 3,
+   "best": 8,
+   "gold_hit": 1,
+   "terms": [
+    "pack",
+    "shirt",
+    "travel"
+   ],
+   "sizes": [
+    5,
+    2,
+    8
+   ]
+  },
+  "nomerge": {
+   "items": 15,
+   "groups": 3,
+   "best": 8,
+   "gold_hit": 1,
+   "terms": [
+    "pack",
+    "shirt",
+    "travel"
+   ],
+   "sizes": [
+    5,
+    2,
+    8
+   ]
+  }
+ },
+ {
+  "qid": "6b168ec8",
+  "type": "single-session-user",
+  "q": "How many bikes do I own?",
+  "gold": "three",
+  "gnum": 3.0,
+  "ngs": 1,
+  "judge": true,
+  "pred": "You own **three bikes**: a road bike, a mountain bike, and a commuter bike (plus a Trek Emonda mentioned separately).",
+  "v5": {
+   "items": 17,
+   "groups": 3,
+   "best": 11,
+   "gold_hit": 1,
+   "terms": [
+    "own",
+    "bike",
+    "vehicl"
+   ],
+   "sizes": [
+    11,
+    3,
+    3
+   ]
+  },
+  "nohyp": {
+   "items": 14,
+   "groups": 2,
+   "best": 11,
+   "gold_hit": 1,
+   "terms": [
+    "own",
+    "bike"
+   ],
+   "sizes": [
+    11,
+    3
+   ]
+  },
+  "nohand": {
+   "items": 14,
+   "groups": 2,
+   "best": 11,
+   "gold_hit": 1,
+   "terms": [
+    "own",
+    "bike"
+   ],
+   "sizes": [
+    11,
+    3
+   ]
+  },
+  "nomerge": {
+   "items": 17,
+   "groups": 3,
+   "best": 11,
+   "gold_hit": 1,
+   "terms": [
+    "own",
+    "bike",
+    "vehicl"
+   ],
+   "sizes": [
+    11,
+    3,
+    3
+   ]
+  }
+ },
+ {
+  "qid": "21436231",
+  "type": "single-session-user",
+  "q": "How many largemouth bass did I catch on my fishing trip to Lake Michigan?",
+  "gold": "12",
+  "gnum": 12.0,
+  "ngs": 1,
+  "judge": true,
+  "pred": "12 largemouth bass.",
+  "v5": {
+   "items": 32,
+   "groups": 4,
+   "best": 19,
+   "gold_hit": 1,
+   "terms": [
+    "largemouth",
+    "michigan",
+    "pet",
+    "travel"
+   ],
+   "sizes": [
+    1,
+    2,
+    19,
+    10
+   ]
+  },
+  "nohyp": {
+   "items": 3,
+   "groups": 2,
+   "best": 2,
+   "gold_hit": 1,
+   "terms": [
+    "largemouth",
+    "michigan"
+   ],
+   "sizes": [
+    1,
+    2
+   ]
+  },
+  "nohand": {
+   "items": 32,
+   "groups": 4,
+   "best": 19,
+   "gold_hit": 1,
+   "terms": [
+    "largemouth",
+    "michigan",
+    "pet",
+    "travel"
+   ],
+   "sizes": [
+    1,
+    2,
+    19,
+    10
+   ]
+  },
+  "nomerge": {
+   "items": 32,
+   "groups": 4,
+   "best": 19,
+   "gold_hit": 1,
+   "terms": [
+    "largemouth",
+    "michigan",
+    "pet",
+    "travel"
+   ],
+   "sizes": [
+    1,
+    2,
+    19,
+    10
+   ]
+  }
+ },
+ {
+  "qid": "95bcc1c8",
+  "type": "single-session-user",
+  "q": "How many amateur comedians did I watch perform at the open mic night?",
+  "gold": "10",
+  "gnum": 10.0,
+  "ngs": 1,
+  "judge": true,
+  "pred": "You watched **10 amateur comedians** perform at the open mic night.",
+  "v5": {
+   "items": 6,
+   "groups": 3,
+   "best": 3,
+   "gold_hit": 1,
+   "terms": [
+    "comedian",
+    "mic",
+    "night"
+   ],
+   "sizes": [
+    1,
+    3,
+    2
+   ]
+  },
+  "nohyp": {
+   "items": 6,
+   "groups": 3,
+   "best": 3,
+   "gold_hit": 1,
+   "terms": [
+    "comedian",
+    "mic",
+    "night"
+   ],
+   "sizes": [
+    1,
+    3,
+    2
+   ]
+  },
+  "nohand": {
+   "items": 6,
+   "groups": 3,
+   "best": 3,
+   "gold_hit": 1,
+   "terms": [
+    "comedian",
+    "mic",
+    "night"
+   ],
+   "sizes": [
+    1,
+    3,
+    2
+   ]
+  },
+  "nomerge": {
+   "items": 6,
+   "groups": 3,
+   "best": 3,
+   "gold_hit": 1,
+   "terms": [
+    "comedian",
+    "mic",
+    "night"
+   ],
+   "sizes": [
+    1,
+    3,
+    2
+   ]
+  }
+ },
+ {
+  "qid": "0a995998",
+  "type": "multi-session",
+  "q": "How many items of clothing do I need to pick up or return from a store?",
+  "gold": 3,
+  "gnum": 3.0,
+  "ngs": 3,
+  "judge": false,
+  "pred": "You need to pick up **1** item of clothing from a store: the exchanged pair of **boots from Zara**.",
+  "v5": {
+   "items": 47,
+   "groups": 5,
+   "best": 33,
+   "gold_hit": 3,
+   "terms": [
+    "pick",
+    "cloth",
+    "item",
+    "return",
+    "store"
+   ],
+   "sizes": [
+    5,
+    33,
+    1,
+    4,
+    4
+   ]
+  },
+  "nohyp": {
+   "items": 16,
+   "groups": 5,
+   "best": 5,
+   "gold_hit": 3,
+   "terms": [
+    "item",
+    "pick",
+    "return",
+    "store",
+    "cloth"
+   ],
+   "sizes": [
+    1,
+    5,
+    4,
+    4,
+    2
+   ]
+  },
+  "nohand": {
+   "items": 47,
+   "groups": 5,
+   "best": 33,
+   "gold_hit": 3,
+   "terms": [
+    "pick",
+    "cloth",
+    "item",
+    "return",
+    "store"
+   ],
+   "sizes": [
+    5,
+    33,
+    1,
+    4,
+    4
+   ]
+  },
+  "nomerge": {
+   "items": 47,
+   "groups": 5,
+   "best": 33,
+   "gold_hit": 3,
+   "terms": [
+    "pick",
+    "cloth",
+    "item",
+    "return",
+    "store"
+   ],
+   "sizes": [
+    5,
+    33,
+    1,
+    4,
+    4
+   ]
+  }
+ },
+ {
+  "qid": "6d550036",
+  "type": "multi-session",
+  "q": "How many projects have I led or am currently leading?",
+  "gold": 2,
+  "gnum": 2.0,
+  "ngs": 4,
+  "judge": false,
+  "pred": "Based on our conversations, I can identify **4 clear projects** you have led or are currently leading:\n\n1. The **Marketing Research class project** \u2014 you led the data analysis team.\n2. The **high-prio",
+  "v5": {
+   "items": 17,
+   "groups": 3,
+   "best": 14,
+   "gold_hit": 2,
+   "terms": [
+    "led",
+    "lead",
+    "project"
+   ],
+   "sizes": [
+    2,
+    1,
+    14
+   ]
+  },
+  "nohyp": {
+   "items": 17,
+   "groups": 3,
+   "best": 14,
+   "gold_hit": 2,
+   "terms": [
+    "led",
+    "lead",
+    "project"
+   ],
+   "sizes": [
+    2,
+    1,
+    14
+   ]
+  },
+  "nohand": {
+   "items": 17,
+   "groups": 3,
+   "best": 14,
+   "gold_hit": 2,
+   "terms": [
+    "led",
+    "lead",
+    "project"
+   ],
+   "sizes": [
+    2,
+    1,
+    14
+   ]
+  },
+  "nomerge": {
+   "items": 17,
+   "groups": 3,
+   "best": 14,
+   "gold_hit": 2,
+   "terms": [
+    "led",
+    "lead",
+    "project"
+   ],
+   "sizes": [
+    2,
+    1,
+    14
+   ]
+  }
+ },
+ {
+  "qid": "3a704032",
+  "type": "multi-session",
+  "q": "How many plants did I acquire in the last month?",
+  "gold": 3,
+  "gnum": 3.0,
+  "ngs": 3,
+  "judge": false,
+  "pred": "You acquired **2 plants** in the last month: the **peace lily** and the **succulent** (both acquired about two weeks before May 20).",
+  "v5": {
+   "items": 36,
+   "groups": 2,
+   "best": 20,
+   "gold_hit": 3,
+   "terms": [
+    "plant",
+    "acquir"
+   ],
+   "sizes": [
+    16,
+    20
+   ]
+  },
+  "nohyp": {
+   "items": 32,
+   "groups": 2,
+   "best": 20,
+   "gold_hit": 3,
+   "terms": [
+    "plant",
+    "acquir"
+   ],
+   "sizes": [
+    12,
+    20
+   ]
+  },
+  "nohand": {
+   "items": 36,
+   "groups": 2,
+   "best": 20,
+   "gold_hit": 3,
+   "terms": [
+    "plant",
+    "acquir"
+   ],
+   "sizes": [
+    16,
+    20
+   ]
+  },
+  "nomerge": {
+   "items": 36,
+   "groups": 2,
+   "best": 20,
+   "gold_hit": 3,
+   "terms": [
+    "plant",
+    "acquir"
+   ],
+   "sizes": [
+    16,
+    20
+   ]
+  }
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "type": "multi-session",
+  "q": "How many different doctors did I visit?",
+  "gold": "I visited three different doctors: a primary care physician, an ENT specialist, and a dermatologist.",
+  "gnum": 3.0,
+  "ngs": 3,
+  "judge": false,
+  "pred": "I don't have a complete record of every doctor you've seen. From what's in memory, two distinct doctors come up:\n\n- **Dr. Patel** \u2014 ENT specialist who diagnosed you and prescribed your nasal spray\n- Y",
+  "v5": {
+   "items": 26,
+   "groups": 3,
+   "best": 12,
+   "gold_hit": 3,
+   "terms": [
+    "travel",
+    "appointment",
+    "doctor"
+   ],
+   "sizes": [
+    12,
+    6,
+    8
+   ]
+  },
+  "nohyp": {
+   "items": 8,
+   "groups": 2,
+   "best": 5,
+   "gold_hit": 1,
+   "terms": [
+    "doctor",
+    "visit"
+   ],
+   "sizes": [
+    3,
+    5
+   ]
+  },
+  "nohand": {
+   "items": 21,
+   "groups": 3,
+   "best": 12,
+   "gold_hit": 1,
+   "terms": [
+    "travel",
+    "appointment",
+    "doctor"
+   ],
+   "sizes": [
+    12,
+    6,
+    3
+   ]
+  },
+  "nomerge": {
+   "items": 26,
+   "groups": 3,
+   "best": 12,
+   "gold_hit": 3,
+   "terms": [
+    "travel",
+    "appointment",
+    "doctor"
+   ],
+   "sizes": [
+    12,
+    6,
+    8
+   ]
+  }
+ },
+ {
+  "qid": "c4a1ceb8",
+  "type": "multi-session",
+  "q": "How many different types of citrus fruits have I used in my cocktail recipes?",
+  "gold": 3,
+  "gnum": 3.0,
+  "ngs": 4,
+  "judge": true,
+  "pred": "You\u2019ve used **3 different types of citrus fruits** in your cocktail recipes:\n\n1. **Orange** \u2014 in homemade orange bitters and Sangria  \n2. **Lemon** \u2014 in Sangria  \n3. **Lime** \u2014 in the classic Daiquiri",
+  "v5": {
+   "items": 13,
+   "groups": 3,
+   "best": 10,
+   "gold_hit": 2,
+   "terms": [
+    "recip",
+    "type",
+    "citrus"
+   ],
+   "sizes": [
+    10,
+    1,
+    2
+   ]
+  },
+  "nohyp": {
+   "items": 14,
+   "groups": 4,
+   "best": 6,
+   "gold_hit": 4,
+   "terms": [
+    "type",
+    "recip",
+    "citrus",
+    "cocktail"
+   ],
+   "sizes": [
+    1,
+    5,
+    2,
+    6
+   ]
+  },
+  "nohand": {
+   "items": 13,
+   "groups": 3,
+   "best": 10,
+   "gold_hit": 2,
+   "terms": [
+    "recip",
+    "type",
+    "citrus"
+   ],
+   "sizes": [
+    10,
+    1,
+    2
+   ]
+  },
+  "nomerge": {
+   "items": 13,
+   "groups": 3,
+   "best": 10,
+   "gold_hit": 2,
+   "terms": [
+    "recip",
+    "type",
+    "citrus"
+   ],
+   "sizes": [
+    10,
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "qid": "gpt4_a56e767c",
+  "type": "multi-session",
+  "q": "How many movie festivals that I attended?",
+  "gold": "I attended four movie festivals.",
+  "gnum": 4.0,
+  "ngs": 3,
+  "judge": true,
+  "pred": "Based on the context, you mentioned attending **4 film festivals**:\n\n1. **AFI Fest** in LA  \n2. **Seattle International Film Festival**  \n3. **Austin Film Festival** (48-hour film challenge)  \n4. **Po",
+  "v5": {
+   "items": 45,
+   "groups": 4,
+   "best": 27,
+   "gold_hit": 3,
+   "terms": [
+    "attend",
+    "festival",
+    "event",
+    "festival"
+   ],
+   "sizes": [
+    10,
+    7,
+    27,
+    1
+   ]
+  },
+  "nohyp": {
+   "items": 17,
+   "groups": 2,
+   "best": 10,
+   "gold_hit": 3,
+   "terms": [
+    "attend",
+    "festival"
+   ],
+   "sizes": [
+    10,
+    7
+   ]
+  },
+  "nohand": {
+   "items": 45,
+   "groups": 4,
+   "best": 27,
+   "gold_hit": 3,
+   "terms": [
+    "attend",
+    "festival",
+    "event",
+    "festival"
+   ],
+   "sizes": [
+    10,
+    7,
+    27,
+    1
+   ]
+  },
+  "nomerge": {
+   "items": 45,
+   "groups": 4,
+   "best": 27,
+   "gold_hit": 3,
+   "terms": [
+    "festival",
+    "attend",
+    "event",
+    "festival"
+   ],
+   "sizes": [
+    7,
+    10,
+    27,
+    1
+   ]
+  }
+ },
+ {
+  "qid": "46a3abf7",
+  "type": "multi-session",
+  "q": "How many tanks do I currently have, including the one I set up for my friend's kid?",
+  "gold": 3,
+  "gnum": 3.0,
+  "ngs": 3,
+  "judge": false,
+  "pred": "You currently have **2 tanks**:  \n- Your **20-gallon freshwater community tank \u201cAmazonia\u201d**  \n- The **1-gallon tank** you set up for your friend\u2019s kid (with guppies and plants)",
+  "v5": {
+   "items": 24,
+   "groups": 1,
+   "best": 24,
+   "gold_hit": 3,
+   "terms": [
+    "tank"
+   ],
+   "sizes": [
+    24
+   ]
+  },
+  "nohyp": {
+   "items": 27,
+   "groups": 3,
+   "best": 20,
+   "gold_hit": 3,
+   "terms": [
+    "tank",
+    "friend",
+    "friend"
+   ],
+   "sizes": [
+    20,
+    6,
+    1
+   ]
+  },
+  "nohand": {
+   "items": 24,
+   "groups": 1,
+   "best": 24,
+   "gold_hit": 3,
+   "terms": [
+    "tank"
+   ],
+   "sizes": [
+    24
+   ]
+  },
+  "nomerge": {
+   "items": 24,
+   "groups": 1,
+   "best": 24,
+   "gold_hit": 3,
+   "terms": [
+    "tank"
+   ],
+   "sizes": [
+    24
+   ]
+  }
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "type": "multi-session",
+  "q": "How many weddings have I attended in this year?",
+  "gold": "I attended three weddings. The couples were Rachel and Mike, Emily and Sarah, and Jen and Tom.",
+  "gnum": 3.0,
+  "ngs": 3,
+  "judge": false,
+  "pred": "You\u2019ve attended **4 weddings** this year: your cousin Rachel\u2019s (August), your cousin Emily\u2019s (last month), your sister\u2019s, and your friend Jen\u2019s last weekend.",
+  "v5": {
+   "items": 60,
+   "groups": 6,
+   "best": 24,
+   "gold_hit": 3,
+   "terms": [
+    "attend",
+    "event",
+    "attend",
+    "wed",
+    "wed",
+    "wed"
+   ],
+   "sizes": [
+    8,
+    24,
+    1,
+    23,
+    2,
+    2
+   ]
+  },
+  "nohyp": {
+   "items": 36,
+   "groups": 5,
+   "best": 23,
+   "gold_hit": 3,
+   "terms": [
+    "attend",
+    "attend",
+    "wed",
+    "wed",
+    "wed"
+   ],
+   "sizes": [
+    8,
+    1,
+    23,
+    2,
+    2
+   ]
+  },
+  "nohand": {
+   "items": 60,
+   "groups": 6,
+   "best": 24,
+   "gold_hit": 3,
+   "terms": [
+    "attend",
+    "event",
+    "attend",
+    "wed",
+    "wed",
+    "wed"
+   ],
+   "sizes": [
+    8,
+    24,
+    1,
+    23,
+    2,
+    2
+   ]
+  },
+  "nomerge": {
+   "items": 60,
+   "groups": 6,
+   "best": 24,
+   "gold_hit": 3,
+   "terms": [
+    "attend",
+    "event",
+    "wed",
+    "attend",
+    "wed",
+    "wed"
+   ],
+   "sizes": [
+    8,
+    24,
+    23,
+    1,
+    2,
+    2
+   ]
+  }
+ },
+ {
+  "qid": "2e6d26dc",
+  "type": "multi-session",
+  "q": "How many babies were born to friends and family members in the last few months?",
+  "gold": 5,
+  "gnum": 5.0,
+  "ngs": 4,
+  "judge": true,
+  "pred": "5 babies:\n\n- **Max** \u2014 Rachel\u2019s baby boy, born in March  \n- **Charlotte** \u2014 Mike and Emma\u2019s baby girl, born a few weeks after Rachel\u2019s baby shower  \n- **Jasper** \u2014 David and his wife\u2019s baby boy, born ",
+  "v5": {
+   "items": 9,
+   "groups": 7,
+   "best": 2,
+   "gold_hit": 2,
+   "terms": [
+    "born",
+    "born",
+    "family",
+    "member",
+    "member",
+    "born",
+    "born"
+   ],
+   "sizes": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1
+   ]
+  },
+  "nohyp": {
+   "items": 9,
+   "groups": 7,
+   "best": 2,
+   "gold_hit": 2,
+   "terms": [
+    "born",
+    "born",
+    "family",
+    "member",
+    "member",
+    "born",
+    "born"
+   ],
+   "sizes": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1
+   ]
+  },
+  "nohand": {
+   "items": 9,
+   "groups": 7,
+   "best": 2,
+   "gold_hit": 2,
+   "terms": [
+    "born",
+    "born",
+    "family",
+    "member",
+    "member",
+    "born",
+    "born"
+   ],
+   "sizes": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1
+   ]
+  },
+  "nomerge": {
+   "items": 9,
+   "groups": 7,
+   "best": 2,
+   "gold_hit": 2,
+   "terms": [
+    "born",
+    "born",
+    "family",
+    "member",
+    "member",
+    "born",
+    "born"
+   ],
+   "sizes": [
+    1,
+    1,
+    2,
+    2,
+    1,
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "qid": "gpt4_15e38248",
+  "type": "multi-session",
+  "q": "How many pieces of furniture did I buy, assemble, sell, or fix in the past few months?",
+  "gold": "4",
+  "gnum": 4.0,
+  "ngs": 4,
+  "judge": true,
+  "pred": "You bought/ordered **2** pieces (West Elm coffee table, Casper mattress), assembled **1** (IKEA bookshelf), fixed **1** (kitchen table), and sold **0**.  \n**Total: 4 pieces of furniture.**",
+  "v5": {
+   "items": 38,
+   "groups": 4,
+   "best": 23,
+   "gold_hit": 4,
+   "terms": [
+    "fix",
+    "acquir",
+    "furnitur",
+    "assembl"
+   ],
+   "sizes": [
+    1,
+    23,
+    12,
+    2
+   ]
+  },
+  "nohyp": {
+   "items": 33,
+   "groups": 6,
+   "best": 24,
+   "gold_hit": 4,
+   "terms": [
+    "assembl",
+    "fix",
+    "furnitur",
+    "acquir",
+    "sell",
+    "few"
+   ],
+   "sizes": [
+    2,
+    2,
+    2,
+    24,
+    1,
+    2
+   ]
+  },
+  "nohand": {
+   "items": 38,
+   "groups": 4,
+   "best": 23,
+   "gold_hit": 4,
+   "terms": [
+    "fix",
+    "acquir",
+    "furnitur",
+    "assembl"
+   ],
+   "sizes": [
+    1,
+    23,
+    12,
+    2
+   ]
+  },
+  "nomerge": {
+   "items": 38,
+   "groups": 4,
+   "best": 23,
+   "gold_hit": 4,
+   "terms": [
+    "fix",
+    "acquir",
+    "furnitur",
+    "assembl"
+   ],
+   "sizes": [
+    1,
+    23,
+    12,
+    2
+   ]
+  }
+ },
+ {
+  "qid": "88432d0a",
+  "type": "multi-session",
+  "q": "How many times did I bake something in the past two weeks?",
+  "gold": 4,
+  "gnum": 4.0,
+  "ngs": 4,
+  "judge": false,
+  "pred": "You baked something **6 times** in the past two weeks:\n\n1. Sourdough bread \u2014 Tuesday, May 16  \n2. Chocolate cake for your sister\u2019s birthday party \u2014 May 20/21  \n3. Failed sourdough bread attempt \u2014 Tues",
+  "v5": {
+   "items": 43,
+   "groups": 2,
+   "best": 34,
+   "gold_hit": 4,
+   "terms": [
+    "recip",
+    "bake"
+   ],
+   "sizes": [
+    34,
+    9
+   ]
+  },
+  "nohyp": {
+   "items": 10,
+   "groups": 2,
+   "best": 9,
+   "gold_hit": 4,
+   "terms": [
+    "bake",
+    "two"
+   ],
+   "sizes": [
+    9,
+    1
+   ]
+  },
+  "nohand": {
+   "items": 43,
+   "groups": 2,
+   "best": 34,
+   "gold_hit": 4,
+   "terms": [
+    "recip",
+    "bake"
+   ],
+   "sizes": [
+    34,
+    9
+   ]
+  },
+  "nomerge": {
+   "items": 43,
+   "groups": 2,
+   "best": 34,
+   "gold_hit": 4,
+   "terms": [
+    "recip",
+    "bake"
+   ],
+   "sizes": [
+    34,
+    9
+   ]
+  }
+ },
+ {
+  "qid": "80ec1f4f",
+  "type": "multi-session",
+  "q": "How many different museums or galleries did I visit in the month of February?",
+  "gold": 2,
+  "gnum": 2.0,
+  "ngs": 3,
+  "judge": false,
+  "pred": "You visited **1** museum or gallery in February: **The Art Cube**, at its opening night on **15th February**. The Modern Art Museum workshop was in **January**, so it doesn\u2019t count.",
+  "v5": {
+   "items": 17,
+   "groups": 4,
+   "best": 7,
+   "gold_hit": 2,
+   "terms": [
+    "visit",
+    "travel",
+    "appointment",
+    "appointment"
+   ],
+   "sizes": [
+    7,
+    5,
+    4,
+    1
+   ]
+  },
+  "nohyp": {
+   "items": 11,
+   "groups": 4,
+   "best": 7,
+   "gold_hit": 3,
+   "terms": [
+    "visit",
+    "gallery",
+    "february",
+    "gallery"
+   ],
+   "sizes": [
+    7,
+    2,
+    1,
+    1
+   ]
+  },
+  "nohand": {
+   "items": 17,
+   "groups": 4,
+   "best": 7,
+   "gold_hit": 2,
+   "terms": [
+    "visit",
+    "travel",
+    "appointment",
+    "appointment"
+   ],
+   "sizes": [
+    7,
+    5,
+    4,
+    1
+   ]
+  },
+  "nomerge": {
+   "items": 17,
+   "groups": 4,
+   "best": 7,
+   "gold_hit": 2,
+   "terms": [
+    "visit",
+    "travel",
+    "appointment",
+    "appointment"
+   ],
+   "sizes": [
+    7,
+    5,
+    4,
+    1
+   ]
+  }
+ },
+ {
+  "qid": "d23cf73b",
+  "type": "multi-session",
+  "q": "How many different cuisines have I learned to cook or tried out in the past few months?",
+  "gold": 4,
+  "gnum": 4.0,
+  "ngs": 4,
+  "judge": true,
+  "pred": "You\u2019ve learned or tried **4 distinct cuisines**:\n\n1. **Indian** \u2014 learned chicken tikka masala  \n2. **Korean** \u2014 tried bibimbap and made kimchi  \n3. **Ethiopian** \u2014 tried a new Ethiopian restaurant an",
+  "v5": {
+   "items": 11,
+   "groups": 2,
+   "best": 7,
+   "gold_hit": 4,
+   "terms": [
+    "tried",
+    "learn"
+   ],
+   "sizes": [
+    4,
+    7
+   ]
+  },
+  "nohyp": {
+   "items": 11,
+   "groups": 2,
+   "best": 7,
+   "gold_hit": 4,
+   "terms": [
+    "tried",
+    "learn"
+   ],
+   "sizes": [
+    4,
+    7
+   ]
+  },
+  "nohand": {
+   "items": 11,
+   "groups": 2,
+   "best": 7,
+   "gold_hit": 4,
+   "terms": [
+    "tried",
+    "learn"
+   ],
+   "sizes": [
+    4,
+    7
+   ]
+  },
+  "nomerge": {
+   "items": 22,
+   "groups": 3,
+   "best": 11,
+   "gold_hit": 4,
+   "terms": [
+    "tried",
+    "learn",
+    "recip"
+   ],
+   "sizes": [
+    4,
+    7,
+    11
+   ]
+  }
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "type": "multi-session",
+  "q": "How many properties did I view before making an offer on the townhouse in the Brookside neighborhood?",
+  "gold": "I viewed four properties before making an offer on the townhouse in the Brookside neighborhood. The reasons I didn't make an offer on them were: the kitchen of the bungalow needed serious renovation, the property in Cedar Creek was out of my budget, the noise from the highway was a deal-breaker for the 1-bedroom condo, and my offer on the 2-bedroom condo was rejected due to a higher bid.",
+  "gnum": 1.0,
+  "ngs": 5,
+  "judge": false,
+  "pred": "The memory shows **3 properties viewed by the time you made the Brookside offer**:\n\n1. 3-bedroom bungalow in Oakwood \u2014 Jan 22  \n2. 2-bedroom condo \u2014 Feb 15  \n3. 3-bedroom townhouse in Brookside \u2014 Feb ",
+  "v5": {
+   "items": 13,
+   "groups": 6,
+   "best": 4,
+   "gold_hit": 5,
+   "terms": [
+    "neighborhood",
+    "view",
+    "property",
+    "offer",
+    "brooksid",
+    "befor"
+   ],
+   "sizes": [
+    2,
+    2,
+    4,
+    2,
+    1,
+    2
+   ]
+  },
+  "nohyp": {
+   "items": 13,
+   "groups": 6,
+   "best": 4,
+   "gold_hit": 5,
+   "terms": [
+    "neighborhood",
+    "view",
+    "property",
+    "offer",
+    "brooksid",
+    "befor"
+   ],
+   "sizes": [
+    2,
+    2,
+    4,
+    2,
+    1,
+    2
+   ]
+  },
+  "nohand": {
+   "items": 13,
+   "groups": 6,
+   "best": 4,
+   "gold_hit": 5,
+   "terms": [
+    "neighborhood",
+    "view",
+    "property",
+    "offer",
+    "brooksid",
+    "befor"
+   ],
+   "sizes": [
+    2,
+    2,
+    4,
+    2,
+    1,
+    2
+   ]
+  },
+  "nomerge": {
+   "items": 13,
+   "groups": 6,
+   "best": 4,
+   "gold_hit": 5,
+   "terms": [
+    "neighborhood",
+    "view",
+    "property",
+    "offer",
+    "brooksid",
+    "befor"
+   ],
+   "sizes": [
+    2,
+    2,
+    4,
+    2,
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "qid": "d682f1a2",
+  "type": "multi-session",
+  "q": "How many different types of food delivery services have I used recently?",
+  "gold": 3,
+  "gnum": 3.0,
+  "ngs": 3,
+  "judge": false,
+  "pred": "Based on the memory context, you\u2019ve mentioned **two** different food delivery services recently:\n\n1. **Domino\u2019s Pizza** (mentioned on 2023/05/22)\n2. **Fresh Fusion** (mentioned on 2023/05/30)",
+  "v5": {
+   "items": 6,
+   "groups": 2,
+   "best": 4,
+   "gold_hit": 2,
+   "terms": [
+    "servic",
+    "delivery"
+   ],
+   "sizes": [
+    4,
+    2
+   ]
+  },
+  "nohyp": {
+   "items": 6,
+   "groups": 2,
+   "best": 4,
+   "gold_hit": 2,
+   "terms": [
+    "servic",
+    "delivery"
+   ],
+   "sizes": [
+    4,
+    2
+   ]
+  },
+  "nohand": {
+   "items": 6,
+   "groups": 2,
+   "best": 4,
+   "gold_hit": 2,
+   "terms": [
+    "servic",
+    "delivery"
+   ],
+   "sizes": [
+    4,
+    2
+   ]
+  },
+  "nomerge": {
+   "items": 6,
+   "groups": 2,
+   "best": 4,
+   "gold_hit": 2,
+   "terms": [
+    "servic",
+    "delivery"
+   ],
+   "sizes": [
+    4,
+    2
+   ]
+  }
+ },
+ {
+  "qid": "2ce6a0f2",
+  "type": "multi-session",
+  "q": "How many different art-related events did I attend in the past month?",
+  "gold": 4,
+  "gnum": 4.0,
+  "ngs": 4,
+  "judge": false,
+  "pred": "You attended **3 art-related events** in the past month:\n\n1. **\u201cWomen in Art\u201d exhibition** \u2014 February 10  \n2. **Guided tour at the History Museum** (ancient pottery section) \u2014 February 24  \n3. **\u201cThe ",
+  "v5": {
+   "items": 46,
+   "groups": 5,
+   "best": 20,
+   "gold_hit": 4,
+   "terms": [
+    "event",
+    "attend",
+    "art",
+    "attend",
+    "event"
+   ],
+   "sizes": [
+    20,
+    8,
+    16,
+    1,
+    1
+   ]
+  },
+  "nohyp": {
+   "items": 18,
+   "groups": 4,
+   "best": 8,
+   "gold_hit": 3,
+   "terms": [
+    "event",
+    "attend",
+    "attend",
+    "event"
+   ],
+   "sizes": [
+    8,
+    8,
+    1,
+    1
+   ]
+  },
+  "nohand": {
+   "items": 46,
+   "groups": 5,
+   "best": 20,
+   "gold_hit": 4,
+   "terms": [
+    "event",
+    "attend",
+    "art",
+    "attend",
+    "event"
+   ],
+   "sizes": [
+    20,
+    8,
+    16,
+    1,
+    1
+   ]
+  },
+  "nomerge": {
+   "items": 46,
+   "groups": 5,
+   "best": 20,
+   "gold_hit": 4,
+   "terms": [
+    "event",
+    "attend",
+    "art",
+    "attend",
+    "event"
+   ],
+   "sizes": [
+    20,
+    8,
+    16,
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "qid": "00ca467f",
+  "type": "multi-session",
+  "q": "How many doctor's appointments did I go to in March?",
+  "gold": 2,
+  "gnum": 2.0,
+  "ngs": 3,
+  "judge": true,
+  "pred": "You attended **2 doctor\u2019s appointments in March**:\n\n- **March 3** \u2013 Primary care physician **Dr. Smith** (diagnosed bronchitis)\n- **March 20** \u2013 Orthopedic surgeon **Dr. Thompson** (follow-up, knee he",
+  "v5": {
+   "items": 22,
+   "groups": 4,
+   "best": 16,
+   "gold_hit": 3,
+   "terms": [
+    "appointment",
+    "doctor",
+    "doctor",
+    "march"
+   ],
+   "sizes": [
+    16,
+    2,
+    1,
+    3
+   ]
+  },
+  "nohyp": {
+   "items": 5,
+   "groups": 1,
+   "best": 5,
+   "gold_hit": 3,
+   "terms": [
+    "appointment"
+   ],
+   "sizes": [
+    5
+   ]
+  },
+  "nohand": {
+   "items": 20,
+   "groups": 3,
+   "best": 16,
+   "gold_hit": 3,
+   "terms": [
+    "appointment",
+    "march",
+    "appointment"
+   ],
+   "sizes": [
+    16,
+    3,
+    1
+   ]
+  },
+  "nomerge": {
+   "items": 22,
+   "groups": 4,
+   "best": 16,
+   "gold_hit": 3,
+   "terms": [
+    "appointment",
+    "doctor",
+    "doctor",
+    "march"
+   ],
+   "sizes": [
+    16,
+    2,
+    1,
+    3
+   ]
+  }
+ },
+ {
+  "qid": "gpt4_31ff4165",
+  "type": "multi-session",
+  "q": "How many health-related devices do I use in a day?",
+  "gold": "4",
+  "gnum": 4.0,
+  "ngs": 5,
+  "judge": true,
+  "pred": "You use **4 health-related devices in a day**:\n\n1. **Fitbit Versa 3** \u2014 activity/sleep tracking and guided breathing  \n2. **Accu-Chek Aviva Nano** \u2014 blood glucose monitoring (3x/day)  \n3. **Phonak hea",
+  "v5": {
+   "items": 8,
+   "groups": 3,
+   "best": 6,
+   "gold_hit": 2,
+   "terms": [
+    "health",
+    "devic",
+    "relat"
+   ],
+   "sizes": [
+    1,
+    6,
+    1
+   ]
+  },
+  "nohyp": {
+   "items": 3,
+   "groups": 3,
+   "best": 1,
+   "gold_hit": 2,
+   "terms": [
+    "health",
+    "devic",
+    "relat"
+   ],
+   "sizes": [
+    1,
+    1,
+    1
+   ]
+  },
+  "nohand": {
+   "items": 8,
+   "groups": 3,
+   "best": 6,
+   "gold_hit": 2,
+   "terms": [
+    "health",
+    "devic",
+    "relat"
+   ],
+   "sizes": [
+    1,
+    6,
+    1
+   ]
+  },
+  "nomerge": {
+   "items": 8,
+   "groups": 3,
+   "best": 6,
+   "gold_hit": 2,
+   "terms": [
+    "health",
+    "devic",
+    "relat"
+   ],
+   "sizes": [
+    1,
+    6,
+    1
+   ]
+  }
+ },
+ {
+  "qid": "2788b940",
+  "type": "multi-session",
+  "q": "How many fitness classes do I attend in a typical week?",
+  "gold": 5,
+  "gnum": 5.0,
+  "ngs": 4,
+  "judge": true,
+  "pred": "You attend **5 fitness classes** in a typical week:\n\n- **Monday** \u2013 BodyPump (6:30 PM)\n- **Tuesday** \u2013 Zumba\n- **Thursday** \u2013 Zumba\n- **Saturday** \u2013 Hip Hop Abs (10:00 AM)\n- **Sunday** \u2013 Yoga (6:00 PM",
+  "v5": {
+   "items": 18,
+   "groups": 4,
+   "best": 9,
+   "gold_hit": 4,
+   "terms": [
+    "attend",
+    "course",
+    "class",
+    "fitness"
+   ],
+   "sizes": [
+    3,
+    3,
+    9,
+    3
+   ]
+  },
+  "nohyp": {
+   "items": 15,
+   "groups": 3,
+   "best": 9,
+   "gold_hit": 4,
+   "terms": [
+    "attend",
+    "class",
+    "fitness"
+   ],
+   "sizes": [
+    3,
+    9,
+    3
+   ]
+  },
+  "nohand": {
+   "items": 18,
+   "groups": 4,
+   "best": 9,
+   "gold_hit": 4,
+   "terms": [
+    "attend",
+    "course",
+    "class",
+    "fitness"
+   ],
+   "sizes": [
+    3,
+    3,
+    9,
+    3
+   ]
+  },
+  "nomerge": {
+   "items": 18,
+   "groups": 4,
+   "best": 9,
+   "gold_hit": 4,
+   "terms": [
+    "attend",
+    "course",
+    "class",
+    "fitness"
+   ],
+   "sizes": [
+    3,
+    3,
+    9,
+    3
+   ]
+  }
+ },
+ {
+  "qid": "9d25d4e0",
+  "type": "multi-session",
+  "q": "How many pieces of jewelry did I acquire in the last two months?",
+  "gold": 3,
+  "gnum": 3.0,
+  "ngs": 3,
+  "judge": true,
+  "pred": "You acquired **3 pieces of jewelry** in the last two months:\n\n1. Emerald earrings \u2014 flea market, last weekend  \n2. Silver necklace with a small pendant \u2014 April 15  \n3. Engagement ring \u2014 about a month ",
+  "v5": {
+   "items": 41,
+   "groups": 3,
+   "best": 19,
+   "gold_hit": 3,
+   "terms": [
+    "acquir",
+    "jewelry",
+    "piece"
+   ],
+   "sizes": [
+    19,
+    17,
+    5
+   ]
+  },
+  "nohyp": {
+   "items": 27,
+   "groups": 3,
+   "best": 19,
+   "gold_hit": 3,
+   "terms": [
+    "acquir",
+    "piece",
+    "jewelry"
+   ],
+   "sizes": [
+    19,
+    5,
+    3
+   ]
+  },
+  "nohand": {
+   "items": 27,
+   "groups": 3,
+   "best": 19,
+   "gold_hit": 3,
+   "terms": [
+    "acquir",
+    "piece",
+    "jewelry"
+   ],
+   "sizes": [
+    19,
+    5,
+    3
+   ]
+  },
+  "nomerge": {
+   "items": 41,
+   "groups": 3,
+   "best": 19,
+   "gold_hit": 3,
+   "terms": [
+    "acquir",
+    "jewelry",
+    "piece"
+   ],
+   "sizes": [
+    19,
+    17,
+    5
+   ]
+  }
+ },
+ {
+  "qid": "60472f9c",
+  "type": "multi-session",
+  "q": "How many projects have I been working on simultaneously, excluding my thesis?",
+  "gold": 2,
+  "gnum": 2.0,
+  "ngs": 3,
+  "judge": true,
+  "pred": "You\u2019ve been working on **2 projects simultaneously** excluding your thesis: the **Data Mining project** and the **Database Systems project**.",
+  "v5": {
+   "items": 20,
+   "groups": 3,
+   "best": 12,
+   "gold_hit": 3,
+   "terms": [
+    "thesis",
+    "work",
+    "project"
+   ],
+   "sizes": [
+    4,
+    12,
+    4
+   ]
+  },
+  "nohyp": {
+   "items": 20,
+   "groups": 3,
+   "best": 12,
+   "gold_hit": 3,
+   "terms": [
+    "thesis",
+    "work",
+    "project"
+   ],
+   "sizes": [
+    4,
+    12,
+    4
+   ]
+  },
+  "nohand": {
+   "items": 20,
+   "groups": 3,
+   "best": 12,
+   "gold_hit": 3,
+   "terms": [
+    "thesis",
+    "work",
+    "project"
+   ],
+   "sizes": [
+    4,
+    12,
+    4
+   ]
+  },
+  "nomerge": {
+   "items": 20,
+   "groups": 3,
+   "best": 12,
+   "gold_hit": 3,
+   "terms": [
+    "thesis",
+    "work",
+    "project"
+   ],
+   "sizes": [
+    4,
+    12,
+    4
+   ]
+  }
+ },
+ {
+  "qid": "a9f6b44c",
+  "type": "multi-session",
+  "q": "How many bikes did I service or plan to service in March?",
+  "gold": 2,
+  "gnum": 2.0,
+  "ngs": 3,
+  "judge": true,
+  "pred": "You serviced or planned to service **2 bikes** in March:\n\n- **Road bike** \u2014 chain cleaned/lubricated (March 2nd; also mentioned March 22nd) and serviced at Pedal Power.\n- **Commuter bike** \u2014 planned t",
+  "v5": {
+   "items": 72,
+   "groups": 4,
+   "best": 40,
+   "gold_hit": 3,
+   "terms": [
+    "servic",
+    "bike",
+    "plan",
+    "vehicl"
+   ],
+   "sizes": [
+    6,
+    18,
+    40,
+    8
+   ]
+  },
+  "nohyp": {
+   "items": 64,
+   "groups": 3,
+   "best": 40,
+   "gold_hit": 3,
+   "terms": [
+    "servic",
+    "bike",
+    "plan"
+   ],
+   "sizes": [
+    6,
+    18,
+    40
+   ]
+  },
+  "nohand": {
+   "items": 64,
+   "groups": 3,
+   "best": 40,
+   "gold_hit": 3,
+   "terms": [
+    "servic",
+    "bike",
+    "plan"
+   ],
+   "sizes": [
+    6,
+    18,
+    40
+   ]
+  },
+  "nomerge": {
+   "items": 72,
+   "groups": 4,
+   "best": 40,
+   "gold_hit": 3,
+   "terms": [
+    "servic",
+    "bike",
+    "plan",
+    "vehicl"
+   ],
+   "sizes": [
+    6,
+    18,
+    40,
+    8
+   ]
+  }
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "type": "multi-session",
+  "q": "How many kitchen items did I replace or fix?",
+  "gold": "I replaced or fixed five items: the kitchen faucet, the kitchen mat, the toaster, the coffee maker, and the kitchen shelves.",
+  "gnum": 5.0,
+  "ngs": 5,
+  "judge": true,
+  "pred": "You replaced or fixed **5 kitchen items**:\n\n1. Fixed the kitchen shelves  \n2. Replaced the faucet  \n3. Replaced the kitchen mat  \n4. Replaced the old coffee maker (with an espresso machine)  \n5. Repla",
+  "v5": {
+   "items": 19,
+   "groups": 4,
+   "best": 8,
+   "gold_hit": 5,
+   "terms": [
+    "fix",
+    "replac",
+    "item",
+    "kitchen"
+   ],
+   "sizes": [
+    3,
+    8,
+    2,
+    6
+   ]
+  },
+  "nohyp": {
+   "items": 19,
+   "groups": 4,
+   "best": 8,
+   "gold_hit": 5,
+   "terms": [
+    "fix",
+    "replac",
+    "item",
+    "kitchen"
+   ],
+   "sizes": [
+    3,
+    8,
+    2,
+    6
+   ]
+  },
+  "nohand": {
+   "items": 19,
+   "groups": 4,
+   "best": 8,
+   "gold_hit": 5,
+   "terms": [
+    "fix",
+    "replac",
+    "item",
+    "kitchen"
+   ],
+   "sizes": [
+    3,
+    8,
+    2,
+    6
+   ]
+  },
+  "nomerge": {
+   "items": 19,
+   "groups": 4,
+   "best": 8,
+   "gold_hit": 5,
+   "terms": [
+    "fix",
+    "replac",
+    "item",
+    "kitchen"
+   ],
+   "sizes": [
+    3,
+    8,
+    2,
+    6
+   ]
+  }
+ },
+ {
+  "qid": "gpt4_e05b82a6",
+  "type": "multi-session",
+  "q": "How many times did I ride rollercoasters across all the events I attended from July to October?",
+  "gold": "10 times",
+  "gnum": 10.0,
+  "ngs": 4,
+  "judge": false,
+  "pred": "You rode rollercoasters **9 times** across those events:\n\n- **3 times** on **Revenge of the Mummy** at Universal Studios Hollywood \u2014 October 15\n- **3 times** on **Space Mountain: Ghost Galaxy** at Dis",
+  "v5": {
+   "items": 37,
+   "groups": 3,
+   "best": 21,
+   "gold_hit": 4,
+   "terms": [
+    "attend",
+    "rollercoaster",
+    "event"
+   ],
+   "sizes": [
+    11,
+    5,
+    21
+   ]
+  },
+  "nohyp": {
+   "items": 19,
+   "groups": 5,
+   "best": 11,
+   "gold_hit": 4,
+   "terms": [
+    "rollercoaster",
+    "attend",
+    "across",
+    "ride",
+    "july"
+   ],
+   "sizes": [
+    5,
+    11,
+    1,
+    1,
+    1
+   ]
+  },
+  "nohand": {
+   "items": 37,
+   "groups": 3,
+   "best": 21,
+   "gold_hit": 4,
+   "terms": [
+    "attend",
+    "rollercoaster",
+    "event"
+   ],
+   "sizes": [
+    11,
+    5,
+    21
+   ]
+  },
+  "nomerge": {
+   "items": 37,
+   "groups": 3,
+   "best": 21,
+   "gold_hit": 4,
+   "terms": [
+    "attend",
+    "rollercoaster",
+    "event"
+   ],
+   "sizes": [
+    11,
+    5,
+    21
+   ]
+  }
+ },
+ {
+  "qid": "1a8a66a6",
+  "type": "multi-session",
+  "q": "How many magazine subscriptions do I currently have?",
+  "gold": 2,
+  "gnum": 2.0,
+  "ngs": 4,
+  "judge": false,
+  "pred": "You currently have **1 magazine subscription** \u2014 **The New Yorker** (since early February). Your **Forbes** subscription was canceled in early March.",
+  "v5": {
+   "items": 7,
+   "groups": 1,
+   "best": 7,
+   "gold_hit": 3,
+   "terms": [
+    "subscription"
+   ],
+   "sizes": [
+    7
+   ]
+  },
+  "nohyp": {
+   "items": 7,
+   "groups": 1,
+   "best": 7,
+   "gold_hit": 3,
+   "terms": [
+    "subscription"
+   ],
+   "sizes": [
+    7
+   ]
+  },
+  "nohand": {
+   "items": 7,
+   "groups": 1,
+   "best": 7,
+   "gold_hit": 3,
+   "terms": [
+    "subscription"
+   ],
+   "sizes": [
+    7
+   ]
+  },
+  "nomerge": {
+   "items": 7,
+   "groups": 1,
+   "best": 7,
+   "gold_hit": 3,
+   "terms": [
+    "subscription"
+   ],
+   "sizes": [
+    7
+   ]
+  }
+ },
+ {
+  "qid": "c2ac3c61",
+  "type": "multi-session",
+  "q": "How many online courses have I completed in total?",
+  "gold": 5,
+  "gnum": 5.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "You\u2019ve completed **5 online courses in total**: **3 on Coursera** and **2 on edX**.",
+  "v5": {
+   "items": 26,
+   "groups": 3,
+   "best": 15,
+   "gold_hit": 2,
+   "terms": [
+    "course",
+    "complet",
+    "onlin"
+   ],
+   "sizes": [
+    15,
+    4,
+    7
+   ]
+  },
+  "nohyp": {
+   "items": 15,
+   "groups": 3,
+   "best": 7,
+   "gold_hit": 2,
+   "terms": [
+    "course",
+    "complet",
+    "onlin"
+   ],
+   "sizes": [
+    4,
+    4,
+    7
+   ]
+  },
+  "nohand": {
+   "items": 26,
+   "groups": 3,
+   "best": 15,
+   "gold_hit": 2,
+   "terms": [
+    "course",
+    "complet",
+    "onlin"
+   ],
+   "sizes": [
+    15,
+    4,
+    7
+   ]
+  },
+  "nomerge": {
+   "items": 26,
+   "groups": 3,
+   "best": 13,
+   "gold_hit": 2,
+   "terms": [
+    "onlin",
+    "complet",
+    "course"
+   ],
+   "sizes": [
+    9,
+    4,
+    13
+   ]
+  }
+ },
+ {
+  "qid": "bf659f65",
+  "type": "multi-session",
+  "q": "How many music albums or EPs have I purchased or downloaded?",
+  "gold": 3,
+  "gnum": 3.0,
+  "ngs": 3,
+  "judge": false,
+  "pred": "You\u2019ve purchased or downloaded **2** music albums/EPs in the memory context:\n\n1. **Happier Than Ever** \u2014 downloaded on Spotify  \n2. **Midnight Sky** (The Whiskey Wanderers EP) \u2014 purchased at a festiva",
+  "v5": {
+   "items": 19,
+   "groups": 2,
+   "best": 17,
+   "gold_hit": 3,
+   "terms": [
+    "download",
+    "acquir"
+   ],
+   "sizes": [
+    2,
+    17
+   ]
+  },
+  "nohyp": {
+   "items": 19,
+   "groups": 2,
+   "best": 17,
+   "gold_hit": 3,
+   "terms": [
+    "download",
+    "acquir"
+   ],
+   "sizes": [
+    2,
+    17
+   ]
+  },
+  "nohand": {
+   "items": 19,
+   "groups": 2,
+   "best": 17,
+   "gold_hit": 3,
+   "terms": [
+    "download",
+    "acquir"
+   ],
+   "sizes": [
+    2,
+    17
+   ]
+  },
+  "nomerge": {
+   "items": 2,
+   "groups": 1,
+   "best": 2,
+   "gold_hit": 1,
+   "terms": [
+    "download"
+   ],
+   "sizes": [
+    2
+   ]
+  }
+ },
+ {
+  "qid": "81507db6",
+  "type": "multi-session",
+  "q": "How many graduation ceremonies have I attended in the past three months?",
+  "gold": 3,
+  "gnum": 3.0,
+  "ngs": 5,
+  "judge": true,
+  "pred": "You attended **3 graduation ceremonies** in the past three months:\n\n1. **Emma\u2019s preschool graduation** \u2014 about two months ago  \n2. **Rachel\u2019s master\u2019s degree graduation** \u2014 a couple of weeks ago  \n3. ",
+  "v5": {
+   "items": 14,
+   "groups": 4,
+   "best": 10,
+   "gold_hit": 5,
+   "terms": [
+    "attend",
+    "ceremony",
+    "graduation",
+    "graduation"
+   ],
+   "sizes": [
+    10,
+    2,
+    1,
+    1
+   ]
+  },
+  "nohyp": {
+   "items": 14,
+   "groups": 4,
+   "best": 10,
+   "gold_hit": 5,
+   "terms": [
+    "attend",
+    "ceremony",
+    "graduation",
+    "graduation"
+   ],
+   "sizes": [
+    10,
+    2,
+    1,
+    1
+   ]
+  },
+  "nohand": {
+   "items": 14,
+   "groups": 4,
+   "best": 10,
+   "gold_hit": 5,
+   "terms": [
+    "attend",
+    "ceremony",
+    "graduation",
+    "graduation"
+   ],
+   "sizes": [
+    10,
+    2,
+    1,
+    1
+   ]
+  },
+  "nomerge": {
+   "items": 14,
+   "groups": 4,
+   "best": 10,
+   "gold_hit": 5,
+   "terms": [
+    "attend",
+    "ceremony",
+    "graduation",
+    "graduation"
+   ],
+   "sizes": [
+    10,
+    2,
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "qid": "4f54b7c9",
+  "type": "multi-session",
+  "q": "How many antique items did I inherit or acquire from my family members?",
+  "gold": "5",
+  "gnum": 5.0,
+  "ngs": 2,
+  "judge": false,
+  "pred": "You inherited or acquired **4 antique items** from family members:\n\n1. Antique tea set \u2014 from cousin Rachel  \n2. Vintage diamond necklace \u2014 inherited from grandmother  \n3. Antique music box \u2014 inherite",
+  "v5": {
+   "items": 33,
+   "groups": 5,
+   "best": 16,
+   "gold_hit": 2,
+   "terms": [
+    "inherit",
+    "antiqu",
+    "family",
+    "acquir",
+    "acquir"
+   ],
+   "sizes": [
+    3,
+    6,
+    6,
+    16,
+    2
+   ]
+  },
+  "nohyp": {
+   "items": 33,
+   "groups": 5,
+   "best": 16,
+   "gold_hit": 2,
+   "terms": [
+    "inherit",
+    "antiqu",
+    "family",
+    "acquir",
+    "acquir"
+   ],
+   "sizes": [
+    3,
+    6,
+    6,
+    16,
+    2
+   ]
+  },
+  "nohand": {
+   "items": 33,
+   "groups": 5,
+   "best": 16,
+   "gold_hit": 2,
+   "terms": [
+    "inherit",
+    "antiqu",
+    "family",
+    "acquir",
+    "acquir"
+   ],
+   "sizes": [
+    3,
+    6,
+    6,
+    16,
+    2
+   ]
+  },
+  "nomerge": {
+   "items": 33,
+   "groups": 5,
+   "best": 16,
+   "gold_hit": 2,
+   "terms": [
+    "inherit",
+    "antiqu",
+    "family",
+    "acquir",
+    "acquir"
+   ],
+   "sizes": [
+    3,
+    6,
+    6,
+    16,
+    2
+   ]
+  }
+ },
+ {
+  "qid": "6456829e",
+  "type": "multi-session",
+  "q": "How many plants did I initially plant for tomatoes and cucumbers?",
+  "gold": "8",
+  "gnum": 8.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "You initially planted **5 tomato plants** and **3 cucumber plants**.",
+  "v5": {
+   "items": 12,
+   "groups": 4,
+   "best": 7,
+   "gold_hit": 2,
+   "terms": [
+    "plant",
+    "initially",
+    "initially",
+    "cucumber"
+   ],
+   "sizes": [
+    7,
+    1,
+    1,
+    3
+   ]
+  },
+  "nohyp": {
+   "items": 11,
+   "groups": 4,
+   "best": 6,
+   "gold_hit": 2,
+   "terms": [
+    "plant",
+    "initially",
+    "initially",
+    "cucumber"
+   ],
+   "sizes": [
+    6,
+    1,
+    1,
+    3
+   ]
+  },
+  "nohand": {
+   "items": 12,
+   "groups": 4,
+   "best": 7,
+   "gold_hit": 2,
+   "terms": [
+    "plant",
+    "initially",
+    "initially",
+    "cucumber"
+   ],
+   "sizes": [
+    7,
+    1,
+    1,
+    3
+   ]
+  },
+  "nomerge": {
+   "items": 12,
+   "groups": 4,
+   "best": 7,
+   "gold_hit": 2,
+   "terms": [
+    "plant",
+    "initially",
+    "initially",
+    "cucumber"
+   ],
+   "sizes": [
+    7,
+    1,
+    1,
+    3
+   ]
+  }
+ },
+ {
+  "qid": "681a1674",
+  "type": "multi-session",
+  "q": "How many Marvel movies did I re-watch?",
+  "gold": "2",
+  "gnum": 2.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "You mentioned re-watching **two** Marvel movies: **Avengers: Endgame** and **Spider-Man: No Way Home**.",
+  "v5": {
+   "items": 19,
+   "groups": 5,
+   "best": 6,
+   "gold_hit": 2,
+   "terms": [
+    "re",
+    "watch",
+    "marvel",
+    "devic",
+    "devic"
+   ],
+   "sizes": [
+    3,
+    6,
+    2,
+    5,
+    3
+   ]
+  },
+  "nohyp": {
+   "items": 11,
+   "groups": 3,
+   "best": 6,
+   "gold_hit": 2,
+   "terms": [
+    "re",
+    "watch",
+    "marvel"
+   ],
+   "sizes": [
+    3,
+    6,
+    2
+   ]
+  },
+  "nohand": {
+   "items": 19,
+   "groups": 5,
+   "best": 6,
+   "gold_hit": 2,
+   "terms": [
+    "re",
+    "watch",
+    "marvel",
+    "devic",
+    "devic"
+   ],
+   "sizes": [
+    3,
+    6,
+    2,
+    5,
+    3
+   ]
+  },
+  "nomerge": {
+   "items": 19,
+   "groups": 5,
+   "best": 6,
+   "gold_hit": 2,
+   "terms": [
+    "re",
+    "watch",
+    "marvel",
+    "devic",
+    "devic"
+   ],
+   "sizes": [
+    3,
+    6,
+    2,
+    5,
+    3
+   ]
+  }
+ },
+ {
+  "qid": "4adc0475",
+  "type": "multi-session",
+  "q": "What is the total number of goals and assists I have in the recreational indoor soccer league?",
+  "gold": "5",
+  "gnum": 5.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "You have **3 goals** and **2 assists** in the recreational indoor soccer league, for a total of **5**.",
+  "v5": {
+   "items": 7,
+   "groups": 3,
+   "best": 4,
+   "gold_hit": 2,
+   "terms": [
+    "assist",
+    "league",
+    "goal"
+   ],
+   "sizes": [
+    2,
+    1,
+    4
+   ]
+  },
+  "nohyp": {
+   "items": 7,
+   "groups": 3,
+   "best": 4,
+   "gold_hit": 2,
+   "terms": [
+    "assist",
+    "league",
+    "goal"
+   ],
+   "sizes": [
+    2,
+    1,
+    4
+   ]
+  },
+  "nohand": {
+   "items": 7,
+   "groups": 3,
+   "best": 4,
+   "gold_hit": 2,
+   "terms": [
+    "assist",
+    "league",
+    "goal"
+   ],
+   "sizes": [
+    2,
+    1,
+    4
+   ]
+  },
+  "nomerge": {
+   "items": 7,
+   "groups": 3,
+   "best": 4,
+   "gold_hit": 2,
+   "terms": [
+    "assist",
+    "league",
+    "goal"
+   ],
+   "sizes": [
+    2,
+    1,
+    4
+   ]
+  }
+ },
+ {
+  "qid": "ef66a6e5",
+  "type": "multi-session",
+  "q": "How many sports have I played competitively in the past?",
+  "gold": "two",
+  "gnum": 2.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "You\u2019ve played **2 sports competitively** in the past:\n\n1. **Swimming** \u2013 competitively in college  \n2. **Tennis** \u2013 competitively in high school",
+  "v5": {
+   "items": 3,
+   "groups": 2,
+   "best": 2,
+   "gold_hit": 2,
+   "terms": [
+    "sport",
+    "competitively"
+   ],
+   "sizes": [
+    1,
+    2
+   ]
+  },
+  "nohyp": {
+   "items": 3,
+   "groups": 2,
+   "best": 2,
+   "gold_hit": 2,
+   "terms": [
+    "sport",
+    "competitively"
+   ],
+   "sizes": [
+    1,
+    2
+   ]
+  },
+  "nohand": {
+   "items": 3,
+   "groups": 2,
+   "best": 2,
+   "gold_hit": 2,
+   "terms": [
+    "sport",
+    "competitively"
+   ],
+   "sizes": [
+    1,
+    2
+   ]
+  },
+  "nomerge": {
+   "items": 3,
+   "groups": 2,
+   "best": 2,
+   "gold_hit": 2,
+   "terms": [
+    "sport",
+    "competitively"
+   ],
+   "sizes": [
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "qid": "8979f9ec",
+  "type": "multi-session",
+  "q": "What is the total number of lunch meals I got from the chicken fajitas and lentil soup?",
+  "gold": "8 meals",
+  "gnum": 8.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "You got **8 lunch meals total**: **3** from the chicken fajitas and **5** from the lentil soup.",
+  "v5": {
+   "items": 20,
+   "groups": 5,
+   "best": 11,
+   "gold_hit": 2,
+   "terms": [
+    "lentil",
+    "acquir",
+    "fajita",
+    "lunch",
+    "meal"
+   ],
+   "sizes": [
+    2,
+    11,
+    4,
+    1,
+    2
+   ]
+  },
+  "nohyp": {
+   "items": 19,
+   "groups": 4,
+   "best": 11,
+   "gold_hit": 2,
+   "terms": [
+    "lentil",
+    "acquir",
+    "fajita",
+    "meal"
+   ],
+   "sizes": [
+    2,
+    11,
+    4,
+    2
+   ]
+  },
+  "nohand": {
+   "items": 20,
+   "groups": 5,
+   "best": 11,
+   "gold_hit": 2,
+   "terms": [
+    "lentil",
+    "acquir",
+    "fajita",
+    "lunch",
+    "meal"
+   ],
+   "sizes": [
+    2,
+    11,
+    4,
+    1,
+    2
+   ]
+  },
+  "nomerge": {
+   "items": 20,
+   "groups": 5,
+   "best": 11,
+   "gold_hit": 2,
+   "terms": [
+    "lentil",
+    "acquir",
+    "fajita",
+    "lunch",
+    "meal"
+   ],
+   "sizes": [
+    2,
+    11,
+    4,
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "qid": "60159905",
+  "type": "multi-session",
+  "q": "How many dinner parties have I attended in the past month?",
+  "gold": "three",
+  "gnum": 3.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "You attended **3** dinner parties in the past month:\n\n1. **Alex\u2019s place** \u2014 low-key dinner party / potluck with different cuisines (yesterday, around May 20)\n2. **Mike\u2019s place** \u2014 BBQ and football (ab",
+  "v5": {
+   "items": 37,
+   "groups": 5,
+   "best": 21,
+   "gold_hit": 2,
+   "terms": [
+    "attend",
+    "dinner",
+    "event",
+    "party",
+    "party"
+   ],
+   "sizes": [
+    7,
+    4,
+    21,
+    4,
+    1
+   ]
+  },
+  "nohyp": {
+   "items": 16,
+   "groups": 4,
+   "best": 7,
+   "gold_hit": 2,
+   "terms": [
+    "dinner",
+    "attend",
+    "party",
+    "party"
+   ],
+   "sizes": [
+    4,
+    7,
+    4,
+    1
+   ]
+  },
+  "nohand": {
+   "items": 37,
+   "groups": 5,
+   "best": 21,
+   "gold_hit": 2,
+   "terms": [
+    "attend",
+    "dinner",
+    "event",
+    "party",
+    "party"
+   ],
+   "sizes": [
+    7,
+    4,
+    21,
+    4,
+    1
+   ]
+  },
+  "nomerge": {
+   "items": 37,
+   "groups": 5,
+   "best": 21,
+   "gold_hit": 2,
+   "terms": [
+    "attend",
+    "dinner",
+    "event",
+    "party",
+    "party"
+   ],
+   "sizes": [
+    7,
+    4,
+    21,
+    4,
+    1
+   ]
+  }
+ },
+ {
+  "qid": "8e91e7d9",
+  "type": "multi-session",
+  "q": "What is the total number of siblings I have?",
+  "gold": "4",
+  "gnum": 4.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "Based on your conversation history, you have **4 siblings**: 3 sisters (you grew up in a family with 3 sisters) and 1 brother (who, like you, is a big Manchester United fan).",
+  "v5": {
+   "items": 5,
+   "groups": 1,
+   "best": 5,
+   "gold_hit": 1,
+   "terms": [
+    "sible"
+   ],
+   "sizes": [
+    5
+   ]
+  },
+  "nohyp": {
+   "items": 0,
+   "groups": 0,
+   "best": 0,
+   "gold_hit": 0,
+   "terms": [],
+   "sizes": []
+  },
+  "nohand": {
+   "items": 0,
+   "groups": 0,
+   "best": 0,
+   "gold_hit": 0,
+   "terms": [],
+   "sizes": []
+  },
+  "nomerge": {
+   "items": 5,
+   "groups": 1,
+   "best": 5,
+   "gold_hit": 1,
+   "terms": [
+    "sible"
+   ],
+   "sizes": [
+    5
+   ]
+  }
+ },
+ {
+  "qid": "21d02d0d",
+  "type": "multi-session",
+  "q": "How many fun runs did I miss in March due to work commitments?",
+  "gold": "2",
+  "gnum": 2.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "You missed **2** fun runs in March: the **March 5th** and **March 26th** 5K fun runs.",
+  "v5": {
+   "items": 2,
+   "groups": 1,
+   "best": 2,
+   "gold_hit": 2,
+   "terms": [
+    "miss"
+   ],
+   "sizes": [
+    2
+   ]
+  },
+  "nohyp": {
+   "items": 2,
+   "groups": 1,
+   "best": 2,
+   "gold_hit": 2,
+   "terms": [
+    "miss"
+   ],
+   "sizes": [
+    2
+   ]
+  },
+  "nohand": {
+   "items": 2,
+   "groups": 1,
+   "best": 2,
+   "gold_hit": 2,
+   "terms": [
+    "miss"
+   ],
+   "sizes": [
+    2
+   ]
+  },
+  "nomerge": {
+   "items": 2,
+   "groups": 1,
+   "best": 2,
+   "gold_hit": 2,
+   "terms": [
+    "miss"
+   ],
+   "sizes": [
+    2
+   ]
+  }
+ },
+ {
+  "qid": "6456829e_abs",
+  "type": "multi-session",
+  "q": "How many plants did I initially plant for tomatoes and chili peppers?",
+  "gold": "The information provided is not enough. You mentioned planting 5 plants for tomatoes but you did not mention chili peppers.",
+  "gnum": 5.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "You initially planted **5 tomato plants**. I don\u2019t have any memory of how many chili pepper plants you planted, so I can\u2019t give a combined total.",
+  "v5": {
+   "items": 6,
+   "groups": 1,
+   "best": 6,
+   "gold_hit": 2,
+   "terms": [
+    "plant"
+   ],
+   "sizes": [
+    6
+   ]
+  },
+  "nohyp": {
+   "items": 4,
+   "groups": 1,
+   "best": 4,
+   "gold_hit": 2,
+   "terms": [
+    "plant"
+   ],
+   "sizes": [
+    4
+   ]
+  },
+  "nohand": {
+   "items": 6,
+   "groups": 1,
+   "best": 6,
+   "gold_hit": 2,
+   "terms": [
+    "plant"
+   ],
+   "sizes": [
+    6
+   ]
+  },
+  "nomerge": {
+   "items": 6,
+   "groups": 1,
+   "best": 6,
+   "gold_hit": 2,
+   "terms": [
+    "plant"
+   ],
+   "sizes": [
+    6
+   ]
+  }
+ },
+ {
+  "qid": "6aeb4375",
+  "type": "knowledge-update",
+  "q": "How many Korean restaurants have I tried in my city?",
+  "gold": "four",
+  "gnum": 4.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "You\u2019ve tried **four** Korean restaurants in your city.",
+  "v5": {
+   "items": 12,
+   "groups": 3,
+   "best": 7,
+   "gold_hit": 2,
+   "terms": [
+    "tried",
+    "location",
+    "restaurant"
+   ],
+   "sizes": [
+    7,
+    2,
+    3
+   ]
+  },
+  "nohyp": {
+   "items": 12,
+   "groups": 3,
+   "best": 7,
+   "gold_hit": 2,
+   "terms": [
+    "tried",
+    "location",
+    "restaurant"
+   ],
+   "sizes": [
+    7,
+    2,
+    3
+   ]
+  },
+  "nohand": {
+   "items": 12,
+   "groups": 3,
+   "best": 7,
+   "gold_hit": 2,
+   "terms": [
+    "tried",
+    "location",
+    "restaurant"
+   ],
+   "sizes": [
+    7,
+    2,
+    3
+   ]
+  },
+  "nomerge": {
+   "items": 12,
+   "groups": 3,
+   "best": 7,
+   "gold_hit": 2,
+   "terms": [
+    "tried",
+    "location",
+    "restaurant"
+   ],
+   "sizes": [
+    7,
+    2,
+    3
+   ]
+  }
+ },
+ {
+  "qid": "89941a93",
+  "type": "knowledge-update",
+  "q": "How many bikes do I currently own?",
+  "gold": "4",
+  "gnum": 4.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "You currently own **4 bikes**: a road bike, a mountain bike, a commuter bike, and a new hybrid bike.",
+  "v5": {
+   "items": 22,
+   "groups": 2,
+   "best": 13,
+   "gold_hit": 2,
+   "terms": [
+    "own",
+    "bike"
+   ],
+   "sizes": [
+    9,
+    13
+   ]
+  },
+  "nohyp": {
+   "items": 22,
+   "groups": 2,
+   "best": 13,
+   "gold_hit": 2,
+   "terms": [
+    "own",
+    "bike"
+   ],
+   "sizes": [
+    9,
+    13
+   ]
+  },
+  "nohand": {
+   "items": 22,
+   "groups": 2,
+   "best": 13,
+   "gold_hit": 2,
+   "terms": [
+    "own",
+    "bike"
+   ],
+   "sizes": [
+    9,
+    13
+   ]
+  },
+  "nomerge": {
+   "items": 22,
+   "groups": 2,
+   "best": 13,
+   "gold_hit": 2,
+   "terms": [
+    "own",
+    "bike"
+   ],
+   "sizes": [
+    9,
+    13
+   ]
+  }
+ },
+ {
+  "qid": "a1eacc2a",
+  "type": "knowledge-update",
+  "q": "How many short stories have I written since I started writing regularly?",
+  "gold": "seven",
+  "gnum": 7.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "As of your last update (May 30), you had completed **7 short stories** since starting to write regularly.",
+  "v5": {
+   "items": 41,
+   "groups": 6,
+   "best": 19,
+   "gold_hit": 2,
+   "terms": [
+    "written",
+    "short",
+    "regularly",
+    "write",
+    "story",
+    "cloth"
+   ],
+   "sizes": [
+    2,
+    7,
+    3,
+    19,
+    4,
+    6
+   ]
+  },
+  "nohyp": {
+   "items": 35,
+   "groups": 5,
+   "best": 19,
+   "gold_hit": 2,
+   "terms": [
+    "written",
+    "short",
+    "regularly",
+    "write",
+    "story"
+   ],
+   "sizes": [
+    2,
+    7,
+    3,
+    19,
+    4
+   ]
+  },
+  "nohand": {
+   "items": 41,
+   "groups": 6,
+   "best": 19,
+   "gold_hit": 2,
+   "terms": [
+    "written",
+    "short",
+    "regularly",
+    "write",
+    "story",
+    "cloth"
+   ],
+   "sizes": [
+    2,
+    7,
+    3,
+    19,
+    4,
+    6
+   ]
+  },
+  "nomerge": {
+   "items": 41,
+   "groups": 6,
+   "best": 19,
+   "gold_hit": 2,
+   "terms": [
+    "written",
+    "short",
+    "regularly",
+    "write",
+    "story",
+    "cloth"
+   ],
+   "sizes": [
+    2,
+    7,
+    3,
+    19,
+    4,
+    6
+   ]
+  }
+ },
+ {
+  "qid": "031748ae",
+  "type": "knowledge-update",
+  "q": "How many engineers do I lead when I just started my new role as Senior Software Engineer? How many engineers do I lead now?",
+  "gold": "When you just started your new role as Senior Software Engineer, you led 4 engineers. Now, you lead 5 engineers",
+  "gnum": 4.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "When you **just started** as Senior Software Engineer, you led **4 engineers**.  \n**Now**, you lead **5 engineers**.",
+  "v5": {
+   "items": 16,
+   "groups": 3,
+   "best": 8,
+   "gold_hit": 2,
+   "terms": [
+    "job",
+    "lead",
+    "start"
+   ],
+   "sizes": [
+    8,
+    3,
+    5
+   ]
+  },
+  "nohyp": {
+   "items": 16,
+   "groups": 3,
+   "best": 8,
+   "gold_hit": 2,
+   "terms": [
+    "job",
+    "lead",
+    "start"
+   ],
+   "sizes": [
+    8,
+    3,
+    5
+   ]
+  },
+  "nohand": {
+   "items": 16,
+   "groups": 3,
+   "best": 8,
+   "gold_hit": 2,
+   "terms": [
+    "job",
+    "lead",
+    "start"
+   ],
+   "sizes": [
+    8,
+    3,
+    5
+   ]
+  },
+  "nomerge": {
+   "items": 16,
+   "groups": 3,
+   "best": 8,
+   "gold_hit": 2,
+   "terms": [
+    "job",
+    "lead",
+    "start"
+   ],
+   "sizes": [
+    8,
+    3,
+    5
+   ]
+  }
+ },
+ {
+  "qid": "f9e8c073",
+  "type": "knowledge-update",
+  "q": "How many sessions of the bereavement support group did I attend?",
+  "gold": "five",
+  "gnum": 5.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "You attended **five sessions** of the bereavement support group, based on your most recent recollection.  \n(Earlier, you had mentioned attending **three sessions**, so there is a discrepancy.)",
+  "v5": {
+   "items": 17,
+   "groups": 3,
+   "best": 11,
+   "gold_hit": 2,
+   "terms": [
+    "bereavement",
+    "attend",
+    "appointment"
+   ],
+   "sizes": [
+    1,
+    11,
+    5
+   ]
+  },
+  "nohyp": {
+   "items": 12,
+   "groups": 2,
+   "best": 11,
+   "gold_hit": 2,
+   "terms": [
+    "bereavement",
+    "attend"
+   ],
+   "sizes": [
+    1,
+    11
+   ]
+  },
+  "nohand": {
+   "items": 17,
+   "groups": 3,
+   "best": 11,
+   "gold_hit": 2,
+   "terms": [
+    "bereavement",
+    "attend",
+    "appointment"
+   ],
+   "sizes": [
+    1,
+    11,
+    5
+   ]
+  },
+  "nomerge": {
+   "items": 17,
+   "groups": 3,
+   "best": 11,
+   "gold_hit": 2,
+   "terms": [
+    "bereavement",
+    "attend",
+    "appointment"
+   ],
+   "sizes": [
+    1,
+    11,
+    5
+   ]
+  }
+ },
+ {
+  "qid": "b6019101",
+  "type": "knowledge-update",
+  "q": "How many MCU films did I watch in the last 3 months?",
+  "gold": "5",
+  "gnum": 5.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "You said you watched **5 MCU films** in the last 3 months (as of May 29, 2023).",
+  "v5": {
+   "items": 11,
+   "groups": 4,
+   "best": 8,
+   "gold_hit": 2,
+   "terms": [
+    "watch",
+    "devic",
+    "film",
+    "film"
+   ],
+   "sizes": [
+    8,
+    1,
+    1,
+    1
+   ]
+  },
+  "nohyp": {
+   "items": 10,
+   "groups": 3,
+   "best": 8,
+   "gold_hit": 2,
+   "terms": [
+    "watch",
+    "film",
+    "film"
+   ],
+   "sizes": [
+    8,
+    1,
+    1
+   ]
+  },
+  "nohand": {
+   "items": 11,
+   "groups": 4,
+   "best": 8,
+   "gold_hit": 2,
+   "terms": [
+    "watch",
+    "devic",
+    "film",
+    "film"
+   ],
+   "sizes": [
+    8,
+    1,
+    1,
+    1
+   ]
+  },
+  "nomerge": {
+   "items": 11,
+   "groups": 4,
+   "best": 8,
+   "gold_hit": 2,
+   "terms": [
+    "watch",
+    "devic",
+    "film",
+    "film"
+   ],
+   "sizes": [
+    8,
+    1,
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "qid": "45dc21b6",
+  "type": "knowledge-update",
+  "q": "How many of Emma's recipes have I tried out?",
+  "gold": "3",
+  "gnum": 3.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "You have tried **3** of Emma's recipes.",
+  "v5": {
+   "items": 23,
+   "groups": 3,
+   "best": 19,
+   "gold_hit": 2,
+   "terms": [
+    "tried",
+    "emma",
+    "recip"
+   ],
+   "sizes": [
+    3,
+    1,
+    19
+   ]
+  },
+  "nohyp": {
+   "items": 11,
+   "groups": 3,
+   "best": 7,
+   "gold_hit": 2,
+   "terms": [
+    "tried",
+    "emma",
+    "recip"
+   ],
+   "sizes": [
+    3,
+    1,
+    7
+   ]
+  },
+  "nohand": {
+   "items": 23,
+   "groups": 3,
+   "best": 19,
+   "gold_hit": 2,
+   "terms": [
+    "tried",
+    "emma",
+    "recip"
+   ],
+   "sizes": [
+    3,
+    1,
+    19
+   ]
+  },
+  "nomerge": {
+   "items": 23,
+   "groups": 3,
+   "best": 19,
+   "gold_hit": 2,
+   "terms": [
+    "tried",
+    "emma",
+    "recip"
+   ],
+   "sizes": [
+    3,
+    1,
+    19
+   ]
+  }
+ },
+ {
+  "qid": "618f13b2",
+  "type": "knowledge-update",
+  "q": "How many times have I worn my new black Converse Chuck Taylor All Star sneakers?",
+  "gold": "six",
+  "gnum": 6.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "You\u2019ve worn your new black Converse Chuck Taylor All Star sneakers **six times** (as of 2023/05/30).",
+  "v5": {
+   "items": 4,
+   "groups": 2,
+   "best": 3,
+   "gold_hit": 2,
+   "terms": [
+    "taylor",
+    "worn"
+   ],
+   "sizes": [
+    3,
+    1
+   ]
+  },
+  "nohyp": {
+   "items": 4,
+   "groups": 2,
+   "best": 3,
+   "gold_hit": 2,
+   "terms": [
+    "taylor",
+    "worn"
+   ],
+   "sizes": [
+    3,
+    1
+   ]
+  },
+  "nohand": {
+   "items": 4,
+   "groups": 2,
+   "best": 3,
+   "gold_hit": 2,
+   "terms": [
+    "taylor",
+    "worn"
+   ],
+   "sizes": [
+    3,
+    1
+   ]
+  },
+  "nomerge": {
+   "items": 4,
+   "groups": 2,
+   "best": 3,
+   "gold_hit": 2,
+   "terms": [
+    "taylor",
+    "worn"
+   ],
+   "sizes": [
+    3,
+    1
+   ]
+  }
+ },
+ {
+  "qid": "8fb83627",
+  "type": "knowledge-update",
+  "q": "How many issues of National Geographic have I finished reading?",
+  "gold": "Five",
+  "gnum": 5.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "You\u2019ve finished **5 issues** of National Geographic.",
+  "v5": {
+   "items": 20,
+   "groups": 3,
+   "best": 13,
+   "gold_hit": 2,
+   "terms": [
+    "finish",
+    "geographic",
+    "read"
+   ],
+   "sizes": [
+    5,
+    2,
+    13
+   ]
+  },
+  "nohyp": {
+   "items": 20,
+   "groups": 3,
+   "best": 13,
+   "gold_hit": 2,
+   "terms": [
+    "finish",
+    "geographic",
+    "read"
+   ],
+   "sizes": [
+    5,
+    2,
+    13
+   ]
+  },
+  "nohand": {
+   "items": 20,
+   "groups": 3,
+   "best": 13,
+   "gold_hit": 2,
+   "terms": [
+    "finish",
+    "geographic",
+    "read"
+   ],
+   "sizes": [
+    5,
+    2,
+    13
+   ]
+  },
+  "nomerge": {
+   "items": 20,
+   "groups": 3,
+   "best": 13,
+   "gold_hit": 2,
+   "terms": [
+    "finish",
+    "geographic",
+    "read"
+   ],
+   "sizes": [
+    5,
+    2,
+    13
+   ]
+  }
+ },
+ {
+  "qid": "4b24c848",
+  "type": "knowledge-update",
+  "q": "How many tops have I bought from H&M so far?",
+  "gold": "five",
+  "gnum": 5.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "You\u2019ve bought **five tops from H&M so far** (as of your last mention on 2023/09/30). Earlier, you had bought three.",
+  "v5": {
+   "items": 26,
+   "groups": 3,
+   "best": 19,
+   "gold_hit": 2,
+   "terms": [
+    "acquir",
+    "cloth",
+    "cloth"
+   ],
+   "sizes": [
+    19,
+    6,
+    1
+   ]
+  },
+  "nohyp": {
+   "items": 21,
+   "groups": 2,
+   "best": 19,
+   "gold_hit": 2,
+   "terms": [
+    "acquir",
+    "top"
+   ],
+   "sizes": [
+    19,
+    2
+   ]
+  },
+  "nohand": {
+   "items": 26,
+   "groups": 3,
+   "best": 19,
+   "gold_hit": 2,
+   "terms": [
+    "acquir",
+    "cloth",
+    "cloth"
+   ],
+   "sizes": [
+    19,
+    6,
+    1
+   ]
+  },
+  "nomerge": {
+   "items": 26,
+   "groups": 3,
+   "best": 19,
+   "gold_hit": 2,
+   "terms": [
+    "acquir",
+    "cloth",
+    "cloth"
+   ],
+   "sizes": [
+    19,
+    6,
+    1
+   ]
+  }
+ },
+ {
+  "qid": "603deb26",
+  "type": "knowledge-update",
+  "q": "How many times have I tried making a Negroni at home since my friend Emma showed me how to make it?",
+  "gold": "10",
+  "gnum": 10.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "10 times.",
+  "v5": {
+   "items": 40,
+   "groups": 5,
+   "best": 26,
+   "gold_hit": 2,
+   "terms": [
+    "negroni",
+    "home",
+    "event",
+    "friend",
+    "emma"
+   ],
+   "sizes": [
+    5,
+    5,
+    26,
+    2,
+    2
+   ]
+  },
+  "nohyp": {
+   "items": 14,
+   "groups": 4,
+   "best": 5,
+   "gold_hit": 2,
+   "terms": [
+    "negroni",
+    "home",
+    "friend",
+    "emma"
+   ],
+   "sizes": [
+    5,
+    5,
+    2,
+    2
+   ]
+  },
+  "nohand": {
+   "items": 40,
+   "groups": 5,
+   "best": 26,
+   "gold_hit": 2,
+   "terms": [
+    "negroni",
+    "home",
+    "event",
+    "friend",
+    "emma"
+   ],
+   "sizes": [
+    5,
+    5,
+    26,
+    2,
+    2
+   ]
+  },
+  "nomerge": {
+   "items": 40,
+   "groups": 5,
+   "best": 26,
+   "gold_hit": 2,
+   "terms": [
+    "negroni",
+    "home",
+    "event",
+    "friend",
+    "emma"
+   ],
+   "sizes": [
+    5,
+    5,
+    26,
+    2,
+    2
+   ]
+  }
+ },
+ {
+  "qid": "7401057b",
+  "type": "knowledge-update",
+  "q": "How many free night's stays can I redeem at any Hilton property with my accumulated points?",
+  "gold": "Two",
+  "gnum": 2.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "You can redeem **two free night\u2019s stays** at any Hilton property with your accumulated points.",
+  "v5": {
+   "items": 5,
+   "groups": 3,
+   "best": 2,
+   "gold_hit": 2,
+   "terms": [
+    "accumulat",
+    "redeem",
+    "point"
+   ],
+   "sizes": [
+    2,
+    1,
+    2
+   ]
+  },
+  "nohyp": {
+   "items": 5,
+   "groups": 3,
+   "best": 2,
+   "gold_hit": 2,
+   "terms": [
+    "accumulat",
+    "redeem",
+    "point"
+   ],
+   "sizes": [
+    2,
+    1,
+    2
+   ]
+  },
+  "nohand": {
+   "items": 5,
+   "groups": 3,
+   "best": 2,
+   "gold_hit": 2,
+   "terms": [
+    "accumulat",
+    "redeem",
+    "point"
+   ],
+   "sizes": [
+    2,
+    1,
+    2
+   ]
+  },
+  "nomerge": {
+   "items": 5,
+   "groups": 3,
+   "best": 2,
+   "gold_hit": 2,
+   "terms": [
+    "accumulat",
+    "redeem",
+    "point"
+   ],
+   "sizes": [
+    2,
+    1,
+    2
+   ]
+  }
+ },
+ {
+  "qid": "06db6396",
+  "type": "knowledge-update",
+  "q": "How many projects have I completed since starting painting classes?",
+  "gold": "5",
+  "gnum": 5.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "You\u2019ve completed **5 projects** since starting painting classes.",
+  "v5": {
+   "items": 4,
+   "groups": 2,
+   "best": 3,
+   "gold_hit": 2,
+   "terms": [
+    "project",
+    "complet"
+   ],
+   "sizes": [
+    1,
+    3
+   ]
+  },
+  "nohyp": {
+   "items": 4,
+   "groups": 2,
+   "best": 3,
+   "gold_hit": 2,
+   "terms": [
+    "project",
+    "complet"
+   ],
+   "sizes": [
+    1,
+    3
+   ]
+  },
+  "nohand": {
+   "items": 4,
+   "groups": 2,
+   "best": 3,
+   "gold_hit": 2,
+   "terms": [
+    "project",
+    "complet"
+   ],
+   "sizes": [
+    1,
+    3
+   ]
+  },
+  "nomerge": {
+   "items": 4,
+   "groups": 2,
+   "best": 3,
+   "gold_hit": 2,
+   "terms": [
+    "project",
+    "complet"
+   ],
+   "sizes": [
+    1,
+    3
+   ]
+  }
+ },
+ {
+  "qid": "ba61f0b9",
+  "type": "knowledge-update",
+  "q": "How many women are on the team led by my former manager Rachel?",
+  "gold": "6",
+  "gnum": 6.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "6 women.",
+  "v5": {
+   "items": 12,
+   "groups": 4,
+   "best": 9,
+   "gold_hit": 2,
+   "terms": [
+    "former",
+    "former",
+    "women",
+    "team"
+   ],
+   "sizes": [
+    1,
+    1,
+    1,
+    9
+   ]
+  },
+  "nohyp": {
+   "items": 12,
+   "groups": 4,
+   "best": 9,
+   "gold_hit": 2,
+   "terms": [
+    "former",
+    "former",
+    "women",
+    "team"
+   ],
+   "sizes": [
+    1,
+    1,
+    1,
+    9
+   ]
+  },
+  "nohand": {
+   "items": 12,
+   "groups": 4,
+   "best": 9,
+   "gold_hit": 2,
+   "terms": [
+    "former",
+    "former",
+    "women",
+    "team"
+   ],
+   "sizes": [
+    1,
+    1,
+    1,
+    9
+   ]
+  },
+  "nomerge": {
+   "items": 12,
+   "groups": 4,
+   "best": 9,
+   "gold_hit": 2,
+   "terms": [
+    "former",
+    "former",
+    "women",
+    "team"
+   ],
+   "sizes": [
+    1,
+    1,
+    1,
+    9
+   ]
+  }
+ },
+ {
+  "qid": "26bdc477",
+  "type": "knowledge-update",
+  "q": "How many trips have I taken my Canon EOS 80D camera on?",
+  "gold": "five",
+  "gnum": 5.0,
+  "ngs": 2,
+  "judge": true,
+  "pred": "Five trips.",
+  "v5": {
+   "items": 8,
+   "groups": 2,
+   "best": 4,
+   "gold_hit": 2,
+   "terms": [
+    "taken",
+    "camera"
+   ],
+   "sizes": [
+    4,
+    4
+   ]
+  },
+  "nohyp": {
+   "items": 8,
+   "groups": 2,
+   "best": 4,
+   "gold_hit": 2,
+   "terms": [
+    "taken",
+    "camera"
+   ],
+   "sizes": [
+    4,
+    4
+   ]
+  },
+  "nohand": {
+   "items": 8,
+   "groups": 2,
+   "best": 4,
+   "gold_hit": 2,
+   "terms": [
+    "taken",
+    "camera"
+   ],
+   "sizes": [
+    4,
+    4
+   ]
+  },
+  "nomerge": {
+   "items": 30,
+   "groups": 3,
+   "best": 22,
+   "gold_hit": 2,
+   "terms": [
+    "taken",
+    "camera",
+    "travel"
+   ],
+   "sizes": [
+    4,
+    4,
+    22
+   ]
+  }
+ },
+ {
+  "qid": "18dcd5a5",
+  "type": "single-session-assistant",
+  "q": "I'm going back to our previous chat about the Lost Temple of the Djinn one-shot. Can you remind me how many mummies the party will face in the temple?",
+  "gold": "4",
+  "gnum": 4.0,
+  "ngs": 1,
+  "judge": true,
+  "pred": "The party will face **4 mummies** in the temple.",
+  "v5": {
+   "items": 42,
+   "groups": 8,
+   "best": 30,
+   "gold_hit": 1,
+   "terms": [
+    "previous",
+    "will",
+    "going",
+    "event",
+    "party",
+    "can",
+    "shot",
+    "temple"
+   ],
+   "sizes": [
+    1,
+    1,
+    2,
+    30,
+    5,
+    1,
+    1,
+    1
+   ]
+  },
+  "nohyp": {
+   "items": 12,
+   "groups": 7,
+   "best": 5,
+   "gold_hit": 1,
+   "terms": [
+    "previous",
+    "will",
+    "going",
+    "can",
+    "shot",
+    "temple",
+    "party"
+   ],
+   "sizes": [
+    1,
+    1,
+    2,
+    1,
+    1,
+    1,
+    5
+   ]
+  },
+  "nohand": {
+   "items": 42,
+   "groups": 8,
+   "best": 30,
+   "gold_hit": 1,
+   "terms": [
+    "previous",
+    "will",
+    "going",
+    "event",
+    "party",
+    "can",
+    "shot",
+    "temple"
+   ],
+   "sizes": [
+    1,
+    1,
+    2,
+    30,
+    5,
+    1,
+    1,
+    1
+   ]
+  },
+  "nomerge": {
+   "items": 42,
+   "groups": 8,
+   "best": 30,
+   "gold_hit": 1,
+   "terms": [
+    "previous",
+    "will",
+    "going",
+    "event",
+    "party",
+    "can",
+    "shot",
+    "temple"
+   ],
+   "sizes": [
+    1,
+    1,
+    2,
+    30,
+    5,
+    1,
+    1,
+    1
+   ]
+  }
+ },
+ {
+  "qid": "e8a79c70",
+  "type": "single-session-assistant",
+  "q": "I was going through our previous conversation about making a classic French omelette, and I wanted to confirm - how many eggs did you say we need for the recipe?",
+  "gold": "2-3 eggs",
+  "gnum": 2.0,
+  "ngs": 1,
+  "judge": true,
+  "pred": "For a classic French omelette, the recipe called for **2\u20133 eggs**.",
+  "v5": {
+   "items": 27,
+   "groups": 5,
+   "best": 20,
+   "gold_hit": 1,
+   "terms": [
+    "recip",
+    "french",
+    "previous",
+    "egg",
+    "conversation"
+   ],
+   "sizes": [
+    20,
+    2,
+    1,
+    1,
+    3
+   ]
+  },
+  "nohyp": {
+   "items": 17,
+   "groups": 5,
+   "best": 10,
+   "gold_hit": 1,
+   "terms": [
+    "french",
+    "previous",
+    "egg",
+    "conversation",
+    "recip"
+   ],
+   "sizes": [
+    2,
+    1,
+    1,
+    3,
+    10
+   ]
+  },
+  "nohand": {
+   "items": 27,
+   "groups": 5,
+   "best": 20,
+   "gold_hit": 1,
+   "terms": [
+    "recip",
+    "french",
+    "previous",
+    "egg",
+    "conversation"
+   ],
+   "sizes": [
+    20,
+    2,
+    1,
+    1,
+    3
+   ]
+  },
+  "nomerge": {
+   "items": 27,
+   "groups": 5,
+   "best": 20,
+   "gold_hit": 1,
+   "terms": [
+    "recip",
+    "french",
+    "previous",
+    "egg",
+    "conversation"
+   ],
+   "sizes": [
+    20,
+    2,
+    1,
+    1,
+    3
+   ]
+  }
+ },
+ {
+  "qid": "4baee567",
+  "type": "single-session-assistant",
+  "q": "I was looking back at our previous chat and I wanted to confirm, how many times did the Chiefs play the Jaguars at Arrowhead Stadium?",
+  "gold": "The Chiefs played the Jaguars 12 times at Arrowhead Stadium.",
+  "gnum": 12.0,
+  "ngs": 1,
+  "judge": true,
+  "pred": "Based on the previous chat, the Chiefs played the Jaguars at Arrowhead Stadium **12 times** (regular season only, not playoffs, as of the 2021 knowledge cutoff).",
+  "v5": {
+   "items": 10,
+   "groups": 3,
+   "best": 5,
+   "gold_hit": 1,
+   "terms": [
+    "jaguar",
+    "play",
+    "look"
+   ],
+   "sizes": [
+    3,
+    2,
+    5
+   ]
+  },
+  "nohyp": {
+   "items": 10,
+   "groups": 3,
+   "best": 5,
+   "gold_hit": 1,
+   "terms": [
+    "jaguar",
+    "play",
+    "look"
+   ],
+   "sizes": [
+    3,
+    2,
+    5
+   ]
+  },
+  "nohand": {
+   "items": 10,
+   "groups": 3,
+   "best": 5,
+   "gold_hit": 1,
+   "terms": [
+    "jaguar",
+    "play",
+    "look"
+   ],
+   "sizes": [
+    3,
+    2,
+    5
+   ]
+  },
+  "nomerge": {
+   "items": 10,
+   "groups": 3,
+   "best": 5,
+   "gold_hit": 1,
+   "terms": [
+    "jaguar",
+    "play",
+    "look"
+   ],
+   "sizes": [
+    3,
+    2,
+    5
+   ]
+  }
+ }
+]

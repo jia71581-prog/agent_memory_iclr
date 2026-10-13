@@ -1,0 +1,52 @@
+=== 1. per-detector enrichment vs chance (one-sided Fisher) ===
+  D1 proper    abs  5/30  ans  17/470  recall/FPR lift  4.61x  p=0.0071
+  D2 content   abs 12/30  ans  63/470  recall/FPR lift  2.98x  p=0.0005
+  D3 bigram    abs 10/30  ans 126/470  recall/FPR lift  1.24x  p=0.2791
+  D4 unlinked  abs 15/30  ans 164/470  recall/FPR lift  1.43x  p=0.0717
+  union        abs 26/30  ans 244/470  recall/FPR lift  1.67x  p=0.0001
+  gated D1|D2  abs 12/30  ans  42/470  recall/FPR lift  4.48x  p=0.0000
+
+=== 2. is D1 a subset of D2 (why 'D2' == 'D1|D2')? ===
+  questions with a missing proper noun absent from the missing-content set: 0/500
+
+=== 3. TRUTHFULNESS of the note: are 'never appears' terms morphologically present? ===
+  abs firings (12): 12 asserted-absent terms; 3 have a morphological/prefix neighbour IN memory (25%) -> the note's sentence is misleading there
+      0862e8bf_abs         note says 'hamster' never appears; memory contains 'hamst'
+      gpt4_372c3eed_abs    note says 'masters' never appears; memory contains 'master'
+      a96c20ee_abs         note says 'undergrad' never appears; memory contains 'understandable'
+  answerable firings (42): 44 asserted-absent terms; 31 have a morphological/prefix neighbour IN memory (70%) -> the note's sentence is misleading there
+      d52b4f67             note says 'cousins' never appears; memory contains 'cousin'
+      e01b8e2f             note says 'weeklong' never appears; memory contains 'weekly'
+      bc8a6e93             note says 'nieces' never appears; memory contains 'niece'
+      dd2973ad             note says 'doctors' never appears; memory contains 'doctor'
+      00ca467f             note says 'doctors' never appears; memory contains 'doctor'
+      eeda8a6d             note says 'aquariums' never appears; memory contains 'aquarium'
+      gpt4_372c3eed        note says 'bachelors' never appears; memory contains 'bachelor'
+      81507db6             note says 'ceremonies' never appears; memory contains 'ceremon'
+      d3ab962e             note says 'hikes' never appears; memory contains 'hike'
+      91b15a6e             note says 'minimum' never appears; memory contains 'minimal'
+      27016adc             note says 'propertys' never appears; memory contains 'property'
+      720133ac             note says 'lolas' never appears; memory contains 'lola'
+
+=== 4. questions whose note is entirely spurious (every term has a neighbour) ===
+  abs: 3/12 firings where EVERY asserted-absent term has a neighbour in memory
+  answerable: 29/42 firings where EVERY asserted-absent term has a neighbour in memory
+
+=== 5. token cost of the note (claim: ~25 prompt tokens) ===
+  n=54 notes, chars min/median/max = 341/345/356
+  ~chars/4 tokens: median 86, i.e. 3.5x the stated 25 tokens
+
+=== 6. upside/downside ledger of shipping the gated note ===
+  abs firings on questions ALREADY correct (no upside, possible no-op): 11
+  abs firings on actual losses (max upside):                          1 ['a96c20ee_abs']
+  answerable firings on ALREADY-CORRECT answers (downside exposure):  33
+  answerable firings already wrong (nothing to lose):                 9
+  of the 33 at-risk correct answers, how many already decline? 1 -> the model currently does NOT treat term-absence as a reason to refuse
+  break-even flip rate on the at-risk set: 3.0% (above this the note is net-negative on judge accuracy over 500)
+
+=== 7. robustness: can ANY threshold of this family reach gate-worthy precision? ===
+  gated D1|D2 with >=1 missing terms: abs 12/30 ans  42/470 prec 0.222
+  gated D1|D2 with >=2 missing terms: abs  0/30 ans   2/470 prec 0.000
+  gated D1|D2 with >=3 missing terms: abs  0/30 ans   0/470 prec 0.000
+  gated D1 (proper nouns only):          abs  5/30 ans  10/470 prec 0.333
+  gated D1|D2 AND D4 (conjunction):      abs  4/30 ans  16/470 prec 0.200

@@ -1,0 +1,8074 @@
+{
+ "rows": [
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4361,
+   "completion_tokens": 78,
+   "reasoning_tokens": 67,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5963,
+   "completion_tokens": 85,
+   "reasoning_tokens": 74,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5211,
+   "completion_tokens": 116,
+   "reasoning_tokens": 97,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7528,
+   "completion_tokens": 111,
+   "reasoning_tokens": 97,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7636,
+   "completion_tokens": 143,
+   "reasoning_tokens": 118,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4952,
+   "completion_tokens": 148,
+   "reasoning_tokens": 133,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5396,
+   "completion_tokens": 126,
+   "reasoning_tokens": 101,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 204,
+   "completion_tokens": 44,
+   "reasoning_tokens": 41,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 213,
+   "completion_tokens": 28,
+   "reasoning_tokens": 25,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 219,
+   "completion_tokens": 56,
+   "reasoning_tokens": 53,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 214,
+   "completion_tokens": 47,
+   "reasoning_tokens": 44,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 206,
+   "completion_tokens": 24,
+   "reasoning_tokens": 21,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 219,
+   "completion_tokens": 60,
+   "reasoning_tokens": 57,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 223,
+   "completion_tokens": 72,
+   "reasoning_tokens": 69,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6868,
+   "completion_tokens": 112,
+   "reasoning_tokens": 98,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8200,
+   "completion_tokens": 223,
+   "reasoning_tokens": 188,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5478,
+   "completion_tokens": 114,
+   "reasoning_tokens": 101,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4594,
+   "completion_tokens": 70,
+   "reasoning_tokens": 60,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7874,
+   "completion_tokens": 73,
+   "reasoning_tokens": 60,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5503,
+   "completion_tokens": 126,
+   "reasoning_tokens": 107,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8132,
+   "completion_tokens": 1004,
+   "reasoning_tokens": 965,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 236,
+   "completion_tokens": 59,
+   "reasoning_tokens": 56,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 209,
+   "completion_tokens": 45,
+   "reasoning_tokens": 42,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 221,
+   "completion_tokens": 55,
+   "reasoning_tokens": 52,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 213,
+   "completion_tokens": 103,
+   "reasoning_tokens": 100,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 210,
+   "completion_tokens": 39,
+   "reasoning_tokens": 36,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 206,
+   "completion_tokens": 35,
+   "reasoning_tokens": 32,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5088,
+   "completion_tokens": 112,
+   "reasoning_tokens": 89,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6165,
+   "completion_tokens": 131,
+   "reasoning_tokens": 115,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7133,
+   "completion_tokens": 76,
+   "reasoning_tokens": 73,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8332,
+   "completion_tokens": 131,
+   "reasoning_tokens": 117,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4410,
+   "completion_tokens": 105,
+   "reasoning_tokens": 86,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8219,
+   "completion_tokens": 82,
+   "reasoning_tokens": 72,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 237,
+   "completion_tokens": 70,
+   "reasoning_tokens": 66,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 196,
+   "completion_tokens": 25,
+   "reasoning_tokens": 22,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 221,
+   "completion_tokens": 82,
+   "reasoning_tokens": 79,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 218,
+   "completion_tokens": 47,
+   "reasoning_tokens": 44,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 216,
+   "completion_tokens": 36,
+   "reasoning_tokens": 33,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6068,
+   "completion_tokens": 203,
+   "reasoning_tokens": 191,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 205,
+   "completion_tokens": 41,
+   "reasoning_tokens": 38,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 216,
+   "completion_tokens": 53,
+   "reasoning_tokens": 50,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6828,
+   "completion_tokens": 100,
+   "reasoning_tokens": 58,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5783,
+   "completion_tokens": 187,
+   "reasoning_tokens": 172,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5412,
+   "completion_tokens": 84,
+   "reasoning_tokens": 65,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7192,
+   "completion_tokens": 111,
+   "reasoning_tokens": 95,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 3802,
+   "completion_tokens": 89,
+   "reasoning_tokens": 81,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9223,
+   "completion_tokens": 60,
+   "reasoning_tokens": 56,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 206,
+   "completion_tokens": 43,
+   "reasoning_tokens": 40,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 236,
+   "completion_tokens": 38,
+   "reasoning_tokens": 35,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 217,
+   "completion_tokens": 51,
+   "reasoning_tokens": 48,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 196,
+   "completion_tokens": 36,
+   "reasoning_tokens": 33,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 222,
+   "completion_tokens": 71,
+   "reasoning_tokens": 68,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 207,
+   "completion_tokens": 40,
+   "reasoning_tokens": 37,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8640,
+   "completion_tokens": 108,
+   "reasoning_tokens": 86,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 3690,
+   "completion_tokens": 95,
+   "reasoning_tokens": 82,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4428,
+   "completion_tokens": 81,
+   "reasoning_tokens": 66,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 210,
+   "completion_tokens": 46,
+   "reasoning_tokens": 43,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7308,
+   "completion_tokens": 104,
+   "reasoning_tokens": 88,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 214,
+   "completion_tokens": 179,
+   "reasoning_tokens": 176,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 18061,
+   "completion_tokens": 268,
+   "reasoning_tokens": 218,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8959,
+   "completion_tokens": 123,
+   "reasoning_tokens": 119,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 227,
+   "completion_tokens": 59,
+   "reasoning_tokens": 56,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6365,
+   "completion_tokens": 87,
+   "reasoning_tokens": 75,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 212,
+   "completion_tokens": 44,
+   "reasoning_tokens": 41,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5974,
+   "completion_tokens": 109,
+   "reasoning_tokens": 88,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 215,
+   "completion_tokens": 60,
+   "reasoning_tokens": 57,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7076,
+   "completion_tokens": 92,
+   "reasoning_tokens": 79,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 208,
+   "completion_tokens": 49,
+   "reasoning_tokens": 46,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 209,
+   "completion_tokens": 52,
+   "reasoning_tokens": 49,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 263,
+   "completion_tokens": 74,
+   "reasoning_tokens": 71,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 213,
+   "completion_tokens": 56,
+   "reasoning_tokens": 53,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5055,
+   "completion_tokens": 193,
+   "reasoning_tokens": 180,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4834,
+   "completion_tokens": 91,
+   "reasoning_tokens": 86,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 208,
+   "completion_tokens": 40,
+   "reasoning_tokens": 37,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7168,
+   "completion_tokens": 153,
+   "reasoning_tokens": 142,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6182,
+   "completion_tokens": 226,
+   "reasoning_tokens": 188,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7121,
+   "completion_tokens": 783,
+   "reasoning_tokens": 742,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5538,
+   "completion_tokens": 140,
+   "reasoning_tokens": 121,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 211,
+   "completion_tokens": 36,
+   "reasoning_tokens": 33,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7519,
+   "completion_tokens": 96,
+   "reasoning_tokens": 92,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 207,
+   "completion_tokens": 36,
+   "reasoning_tokens": 33,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 206,
+   "completion_tokens": 45,
+   "reasoning_tokens": 42,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 233,
+   "completion_tokens": 57,
+   "reasoning_tokens": 54,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 240,
+   "completion_tokens": 48,
+   "reasoning_tokens": 45,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 219,
+   "completion_tokens": 47,
+   "reasoning_tokens": 44,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4684,
+   "completion_tokens": 88,
+   "reasoning_tokens": 78,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 203,
+   "completion_tokens": 26,
+   "reasoning_tokens": 23,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9355,
+   "completion_tokens": 145,
+   "reasoning_tokens": 133,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4249,
+   "completion_tokens": 80,
+   "reasoning_tokens": 68,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6453,
+   "completion_tokens": 93,
+   "reasoning_tokens": 72,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8338,
+   "completion_tokens": 103,
+   "reasoning_tokens": 82,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5124,
+   "completion_tokens": 101,
+   "reasoning_tokens": 84,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4306,
+   "completion_tokens": 203,
+   "reasoning_tokens": 178,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 204,
+   "completion_tokens": 46,
+   "reasoning_tokens": 43,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 217,
+   "completion_tokens": 57,
+   "reasoning_tokens": 54,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 209,
+   "completion_tokens": 44,
+   "reasoning_tokens": 41,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7808,
+   "completion_tokens": 119,
+   "reasoning_tokens": 97,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 218,
+   "completion_tokens": 59,
+   "reasoning_tokens": 56,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 212,
+   "completion_tokens": 49,
+   "reasoning_tokens": 46,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 221,
+   "completion_tokens": 38,
+   "reasoning_tokens": 35,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5552,
+   "completion_tokens": 85,
+   "reasoning_tokens": 68,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8457,
+   "completion_tokens": 75,
+   "reasoning_tokens": 62,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7366,
+   "completion_tokens": 71,
+   "reasoning_tokens": 61,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8644,
+   "completion_tokens": 137,
+   "reasoning_tokens": 120,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 220,
+   "completion_tokens": 36,
+   "reasoning_tokens": 33,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 12746,
+   "completion_tokens": 141,
+   "reasoning_tokens": 125,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 224,
+   "completion_tokens": 62,
+   "reasoning_tokens": 59,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 3646,
+   "completion_tokens": 124,
+   "reasoning_tokens": 108,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6267,
+   "completion_tokens": 102,
+   "reasoning_tokens": 94,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 219,
+   "completion_tokens": 38,
+   "reasoning_tokens": 35,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 208,
+   "completion_tokens": 57,
+   "reasoning_tokens": 54,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 209,
+   "completion_tokens": 42,
+   "reasoning_tokens": 39,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7539,
+   "completion_tokens": 100,
+   "reasoning_tokens": 79,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7084,
+   "completion_tokens": 42,
+   "reasoning_tokens": 28,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 215,
+   "completion_tokens": 72,
+   "reasoning_tokens": 69,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 216,
+   "completion_tokens": 49,
+   "reasoning_tokens": 46,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 3513,
+   "completion_tokens": 80,
+   "reasoning_tokens": 75,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6726,
+   "completion_tokens": 130,
+   "reasoning_tokens": 113,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4842,
+   "completion_tokens": 76,
+   "reasoning_tokens": 64,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 212,
+   "completion_tokens": 48,
+   "reasoning_tokens": 45,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 221,
+   "completion_tokens": 50,
+   "reasoning_tokens": 47,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 202,
+   "completion_tokens": 35,
+   "reasoning_tokens": 32,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8746,
+   "completion_tokens": 192,
+   "reasoning_tokens": 162,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 214,
+   "completion_tokens": 58,
+   "reasoning_tokens": 55,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 208,
+   "completion_tokens": 50,
+   "reasoning_tokens": 47,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7468,
+   "completion_tokens": 160,
+   "reasoning_tokens": 141,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4991,
+   "completion_tokens": 159,
+   "reasoning_tokens": 119,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6282,
+   "completion_tokens": 222,
+   "reasoning_tokens": 185,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 219,
+   "completion_tokens": 50,
+   "reasoning_tokens": 47,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 229,
+   "completion_tokens": 69,
+   "reasoning_tokens": 66,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5256,
+   "completion_tokens": 450,
+   "reasoning_tokens": 393,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6095,
+   "completion_tokens": 140,
+   "reasoning_tokens": 80,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 227,
+   "completion_tokens": 85,
+   "reasoning_tokens": 82,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 249,
+   "completion_tokens": 84,
+   "reasoning_tokens": 81,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 200,
+   "completion_tokens": 25,
+   "reasoning_tokens": 22,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 276,
+   "completion_tokens": 107,
+   "reasoning_tokens": 104,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 253,
+   "completion_tokens": 152,
+   "reasoning_tokens": 149,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 266,
+   "completion_tokens": 125,
+   "reasoning_tokens": 122,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 11387,
+   "completion_tokens": 434,
+   "reasoning_tokens": 389,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7572,
+   "completion_tokens": 622,
+   "reasoning_tokens": 550,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6574,
+   "completion_tokens": 346,
+   "reasoning_tokens": 273,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5569,
+   "completion_tokens": 198,
+   "reasoning_tokens": 170,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 256,
+   "completion_tokens": 46,
+   "reasoning_tokens": 43,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 274,
+   "completion_tokens": 42,
+   "reasoning_tokens": 39,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7371,
+   "completion_tokens": 1255,
+   "reasoning_tokens": 1166,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 241,
+   "completion_tokens": 86,
+   "reasoning_tokens": 83,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 276,
+   "completion_tokens": 143,
+   "reasoning_tokens": 139,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 355,
+   "completion_tokens": 35,
+   "reasoning_tokens": 32,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5707,
+   "completion_tokens": 543,
+   "reasoning_tokens": 485,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5686,
+   "completion_tokens": 1510,
+   "reasoning_tokens": 1423,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6874,
+   "completion_tokens": 558,
+   "reasoning_tokens": 539,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10772,
+   "completion_tokens": 2467,
+   "reasoning_tokens": 2410,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 276,
+   "completion_tokens": 63,
+   "reasoning_tokens": 60,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 283,
+   "completion_tokens": 70,
+   "reasoning_tokens": 66,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7820,
+   "completion_tokens": 704,
+   "reasoning_tokens": 632,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 259,
+   "completion_tokens": 52,
+   "reasoning_tokens": 48,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7612,
+   "completion_tokens": 371,
+   "reasoning_tokens": 337,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 268,
+   "completion_tokens": 79,
+   "reasoning_tokens": 75,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 232,
+   "completion_tokens": 41,
+   "reasoning_tokens": 38,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9940,
+   "completion_tokens": 362,
+   "reasoning_tokens": 309,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7141,
+   "completion_tokens": 1630,
+   "reasoning_tokens": 1572,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8429,
+   "completion_tokens": 1858,
+   "reasoning_tokens": 1815,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 256,
+   "completion_tokens": 38,
+   "reasoning_tokens": 35,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 229,
+   "completion_tokens": 85,
+   "reasoning_tokens": 81,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 258,
+   "completion_tokens": 46,
+   "reasoning_tokens": 42,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7442,
+   "completion_tokens": 3317,
+   "reasoning_tokens": 3194,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 247,
+   "completion_tokens": 64,
+   "reasoning_tokens": 61,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10375,
+   "completion_tokens": 1155,
+   "reasoning_tokens": 1099,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 319,
+   "completion_tokens": 159,
+   "reasoning_tokens": 155,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7558,
+   "completion_tokens": 841,
+   "reasoning_tokens": 774,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 15683,
+   "completion_tokens": 1055,
+   "reasoning_tokens": 989,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4168,
+   "completion_tokens": 2675,
+   "reasoning_tokens": 2612,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8272,
+   "completion_tokens": 1667,
+   "reasoning_tokens": 1566,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 269,
+   "completion_tokens": 159,
+   "reasoning_tokens": 155,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 267,
+   "completion_tokens": 45,
+   "reasoning_tokens": 42,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 273,
+   "completion_tokens": 107,
+   "reasoning_tokens": 103,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 298,
+   "completion_tokens": 48,
+   "reasoning_tokens": 45,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 268,
+   "completion_tokens": 107,
+   "reasoning_tokens": 103,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8038,
+   "completion_tokens": 349,
+   "reasoning_tokens": 328,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10374,
+   "completion_tokens": 182,
+   "reasoning_tokens": 139,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 243,
+   "completion_tokens": 30,
+   "reasoning_tokens": 27,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8137,
+   "completion_tokens": 898,
+   "reasoning_tokens": 807,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 219,
+   "completion_tokens": 100,
+   "reasoning_tokens": 96,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7107,
+   "completion_tokens": 2476,
+   "reasoning_tokens": 2416,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8414,
+   "completion_tokens": 495,
+   "reasoning_tokens": 422,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8558,
+   "completion_tokens": 1094,
+   "reasoning_tokens": 1037,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 260,
+   "completion_tokens": 93,
+   "reasoning_tokens": 89,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 381,
+   "completion_tokens": 52,
+   "reasoning_tokens": 48,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 258,
+   "completion_tokens": 50,
+   "reasoning_tokens": 47,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7069,
+   "completion_tokens": 726,
+   "reasoning_tokens": 605,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8532,
+   "completion_tokens": 319,
+   "reasoning_tokens": 291,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6394,
+   "completion_tokens": 506,
+   "reasoning_tokens": 429,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 247,
+   "completion_tokens": 80,
+   "reasoning_tokens": 77,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 274,
+   "completion_tokens": 34,
+   "reasoning_tokens": 31,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9048,
+   "completion_tokens": 3074,
+   "reasoning_tokens": 2991,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9916,
+   "completion_tokens": 2150,
+   "reasoning_tokens": 2055,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 3843,
+   "completion_tokens": 714,
+   "reasoning_tokens": 631,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 285,
+   "completion_tokens": 40,
+   "reasoning_tokens": 37,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9655,
+   "completion_tokens": 685,
+   "reasoning_tokens": 585,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10152,
+   "completion_tokens": 965,
+   "reasoning_tokens": 845,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 323,
+   "completion_tokens": 130,
+   "reasoning_tokens": 126,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 297,
+   "completion_tokens": 47,
+   "reasoning_tokens": 44,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 288,
+   "completion_tokens": 304,
+   "reasoning_tokens": 301,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6682,
+   "completion_tokens": 133,
+   "reasoning_tokens": 107,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6681,
+   "completion_tokens": 6144,
+   "reasoning_tokens": 6144,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5426,
+   "completion_tokens": 766,
+   "reasoning_tokens": 687,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 320,
+   "completion_tokens": 101,
+   "reasoning_tokens": 97,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8485,
+   "completion_tokens": 376,
+   "reasoning_tokens": 326,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 274,
+   "completion_tokens": 783,
+   "reasoning_tokens": 780,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 277,
+   "completion_tokens": 57,
+   "reasoning_tokens": 54,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 242,
+   "completion_tokens": 57,
+   "reasoning_tokens": 54,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 294,
+   "completion_tokens": 46,
+   "reasoning_tokens": 42,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4174,
+   "completion_tokens": 306,
+   "reasoning_tokens": 275,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 254,
+   "completion_tokens": 46,
+   "reasoning_tokens": 42,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 230,
+   "completion_tokens": 72,
+   "reasoning_tokens": 69,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6766,
+   "completion_tokens": 464,
+   "reasoning_tokens": 403,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8399,
+   "completion_tokens": 407,
+   "reasoning_tokens": 340,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9235,
+   "completion_tokens": 561,
+   "reasoning_tokens": 449,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9154,
+   "completion_tokens": 1385,
+   "reasoning_tokens": 1295,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 268,
+   "completion_tokens": 39,
+   "reasoning_tokens": 36,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 289,
+   "completion_tokens": 96,
+   "reasoning_tokens": 93,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 315,
+   "completion_tokens": 126,
+   "reasoning_tokens": 122,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 310,
+   "completion_tokens": 186,
+   "reasoning_tokens": 183,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4915,
+   "completion_tokens": 1053,
+   "reasoning_tokens": 931,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8874,
+   "completion_tokens": 1570,
+   "reasoning_tokens": 1497,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8980,
+   "completion_tokens": 370,
+   "reasoning_tokens": 331,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 271,
+   "completion_tokens": 73,
+   "reasoning_tokens": 69,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 328,
+   "completion_tokens": 76,
+   "reasoning_tokens": 73,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5938,
+   "completion_tokens": 1013,
+   "reasoning_tokens": 936,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6576,
+   "completion_tokens": 2158,
+   "reasoning_tokens": 2093,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 242,
+   "completion_tokens": 87,
+   "reasoning_tokens": 83,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10791,
+   "completion_tokens": 999,
+   "reasoning_tokens": 936,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8628,
+   "completion_tokens": 823,
+   "reasoning_tokens": 775,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8552,
+   "completion_tokens": 398,
+   "reasoning_tokens": 299,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4173,
+   "completion_tokens": 367,
+   "reasoning_tokens": 334,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 278,
+   "completion_tokens": 90,
+   "reasoning_tokens": 86,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8752,
+   "completion_tokens": 280,
+   "reasoning_tokens": 244,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 286,
+   "completion_tokens": 86,
+   "reasoning_tokens": 82,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 265,
+   "completion_tokens": 68,
+   "reasoning_tokens": 65,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 301,
+   "completion_tokens": 33,
+   "reasoning_tokens": 30,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 243,
+   "completion_tokens": 81,
+   "reasoning_tokens": 77,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 227,
+   "completion_tokens": 46,
+   "reasoning_tokens": 42,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 231,
+   "completion_tokens": 35,
+   "reasoning_tokens": 32,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7289,
+   "completion_tokens": 190,
+   "reasoning_tokens": 157,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7900,
+   "completion_tokens": 265,
+   "reasoning_tokens": 150,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6242,
+   "completion_tokens": 609,
+   "reasoning_tokens": 523,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8633,
+   "completion_tokens": 625,
+   "reasoning_tokens": 535,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9033,
+   "completion_tokens": 373,
+   "reasoning_tokens": 346,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 246,
+   "completion_tokens": 51,
+   "reasoning_tokens": 48,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 306,
+   "completion_tokens": 43,
+   "reasoning_tokens": 40,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 284,
+   "completion_tokens": 48,
+   "reasoning_tokens": 45,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 331,
+   "completion_tokens": 92,
+   "reasoning_tokens": 89,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 235,
+   "completion_tokens": 61,
+   "reasoning_tokens": 58,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4389,
+   "completion_tokens": 108,
+   "reasoning_tokens": 87,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8064,
+   "completion_tokens": 193,
+   "reasoning_tokens": 159,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 236,
+   "completion_tokens": 54,
+   "reasoning_tokens": 51,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7235,
+   "completion_tokens": 1750,
+   "reasoning_tokens": 1635,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7128,
+   "completion_tokens": 462,
+   "reasoning_tokens": 342,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9200,
+   "completion_tokens": 1651,
+   "reasoning_tokens": 1574,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 360,
+   "completion_tokens": 216,
+   "reasoning_tokens": 213,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6289,
+   "completion_tokens": 1453,
+   "reasoning_tokens": 1163,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7140,
+   "completion_tokens": 194,
+   "reasoning_tokens": 151,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 286,
+   "completion_tokens": 35,
+   "reasoning_tokens": 32,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8082,
+   "completion_tokens": 967,
+   "reasoning_tokens": 840,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 259,
+   "completion_tokens": 551,
+   "reasoning_tokens": 548,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full-retry",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6681,
+   "completion_tokens": 7300,
+   "reasoning_tokens": 7170,
+   "cache_hit": 6528
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7505,
+   "completion_tokens": 1666,
+   "reasoning_tokens": 1476,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 524,
+   "completion_tokens": 118,
+   "reasoning_tokens": 115,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 294,
+   "completion_tokens": 116,
+   "reasoning_tokens": 112,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 396,
+   "completion_tokens": 121,
+   "reasoning_tokens": 118,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7378,
+   "completion_tokens": 678,
+   "reasoning_tokens": 506,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 328,
+   "completion_tokens": 104,
+   "reasoning_tokens": 100,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 3668,
+   "completion_tokens": 373,
+   "reasoning_tokens": 209,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 423,
+   "completion_tokens": 267,
+   "reasoning_tokens": 264,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4161,
+   "completion_tokens": 1668,
+   "reasoning_tokens": 1600,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6571,
+   "completion_tokens": 886,
+   "reasoning_tokens": 728,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 3964,
+   "completion_tokens": 1113,
+   "reasoning_tokens": 893,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 13050,
+   "completion_tokens": 1406,
+   "reasoning_tokens": 1146,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 506,
+   "completion_tokens": 222,
+   "reasoning_tokens": 218,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7761,
+   "completion_tokens": 1321,
+   "reasoning_tokens": 1212,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 474,
+   "completion_tokens": 312,
+   "reasoning_tokens": 309,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 3616,
+   "completion_tokens": 359,
+   "reasoning_tokens": 308,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 442,
+   "completion_tokens": 637,
+   "reasoning_tokens": 634,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 456,
+   "completion_tokens": 514,
+   "reasoning_tokens": 511,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 358,
+   "completion_tokens": 181,
+   "reasoning_tokens": 177,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 3166,
+   "completion_tokens": 398,
+   "reasoning_tokens": 359,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 2716,
+   "completion_tokens": 1159,
+   "reasoning_tokens": 1025,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 313,
+   "completion_tokens": 1537,
+   "reasoning_tokens": 1534,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 348,
+   "completion_tokens": 158,
+   "reasoning_tokens": 154,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4188,
+   "completion_tokens": 593,
+   "reasoning_tokens": 477,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 418,
+   "completion_tokens": 127,
+   "reasoning_tokens": 124,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 3038,
+   "completion_tokens": 684,
+   "reasoning_tokens": 505,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 305,
+   "completion_tokens": 261,
+   "reasoning_tokens": 257,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 395,
+   "completion_tokens": 169,
+   "reasoning_tokens": 166,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4957,
+   "completion_tokens": 919,
+   "reasoning_tokens": 663,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8174,
+   "completion_tokens": 1172,
+   "reasoning_tokens": 930,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 3910,
+   "completion_tokens": 293,
+   "reasoning_tokens": 148,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4508,
+   "completion_tokens": 582,
+   "reasoning_tokens": 487,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 514,
+   "completion_tokens": 178,
+   "reasoning_tokens": 175,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4046,
+   "completion_tokens": 1233,
+   "reasoning_tokens": 1113,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 431,
+   "completion_tokens": 319,
+   "reasoning_tokens": 316,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 514,
+   "completion_tokens": 246,
+   "reasoning_tokens": 242,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7715,
+   "completion_tokens": 621,
+   "reasoning_tokens": 497,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4060,
+   "completion_tokens": 770,
+   "reasoning_tokens": 591,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4825,
+   "completion_tokens": 759,
+   "reasoning_tokens": 531,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 418,
+   "completion_tokens": 530,
+   "reasoning_tokens": 526,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 437,
+   "completion_tokens": 2048,
+   "reasoning_tokens": 2048,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 388,
+   "completion_tokens": 388,
+   "reasoning_tokens": 384,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 3657,
+   "completion_tokens": 449,
+   "reasoning_tokens": 313,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6281,
+   "completion_tokens": 946,
+   "reasoning_tokens": 720,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 299,
+   "completion_tokens": 2048,
+   "reasoning_tokens": 2048,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 411,
+   "completion_tokens": 201,
+   "reasoning_tokens": 198,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 384,
+   "completion_tokens": 637,
+   "reasoning_tokens": 634,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 531,
+   "completion_tokens": 446,
+   "reasoning_tokens": 443,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 460,
+   "completion_tokens": 508,
+   "reasoning_tokens": 505,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8238,
+   "completion_tokens": 728,
+   "reasoning_tokens": 618,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4896,
+   "completion_tokens": 800,
+   "reasoning_tokens": 652,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 496,
+   "completion_tokens": 323,
+   "reasoning_tokens": 320,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 409,
+   "completion_tokens": 772,
+   "reasoning_tokens": 769,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge-retry",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 437,
+   "completion_tokens": 630,
+   "reasoning_tokens": 627,
+   "cache_hit": 384
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7249,
+   "completion_tokens": 169,
+   "reasoning_tokens": 141,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7477,
+   "completion_tokens": 150,
+   "reasoning_tokens": 112,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4854,
+   "completion_tokens": 1126,
+   "reasoning_tokens": 910,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7457,
+   "completion_tokens": 350,
+   "reasoning_tokens": 316,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 405,
+   "completion_tokens": 224,
+   "reasoning_tokens": 221,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 239,
+   "completion_tokens": 38,
+   "reasoning_tokens": 35,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4544,
+   "completion_tokens": 1274,
+   "reasoning_tokens": 872,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 232,
+   "completion_tokens": 48,
+   "reasoning_tokens": 45,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8039,
+   "completion_tokens": 282,
+   "reasoning_tokens": 221,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 274,
+   "completion_tokens": 38,
+   "reasoning_tokens": 35,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 495,
+   "completion_tokens": 263,
+   "reasoning_tokens": 260,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 235,
+   "completion_tokens": 56,
+   "reasoning_tokens": 53,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 655,
+   "completion_tokens": 237,
+   "reasoning_tokens": 233,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4391,
+   "completion_tokens": 319,
+   "reasoning_tokens": 290,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7514,
+   "completion_tokens": 1454,
+   "reasoning_tokens": 1359,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9599,
+   "completion_tokens": 168,
+   "reasoning_tokens": 126,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5451,
+   "completion_tokens": 187,
+   "reasoning_tokens": 164,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 229,
+   "completion_tokens": 61,
+   "reasoning_tokens": 58,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8573,
+   "completion_tokens": 399,
+   "reasoning_tokens": 341,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5870,
+   "completion_tokens": 133,
+   "reasoning_tokens": 110,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 247,
+   "completion_tokens": 40,
+   "reasoning_tokens": 37,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 221,
+   "completion_tokens": 56,
+   "reasoning_tokens": 53,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 294,
+   "completion_tokens": 106,
+   "reasoning_tokens": 103,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 222,
+   "completion_tokens": 36,
+   "reasoning_tokens": 33,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6189,
+   "completion_tokens": 192,
+   "reasoning_tokens": 137,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 256,
+   "completion_tokens": 95,
+   "reasoning_tokens": 91,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8312,
+   "completion_tokens": 210,
+   "reasoning_tokens": 194,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 11023,
+   "completion_tokens": 2679,
+   "reasoning_tokens": 2612,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6252,
+   "completion_tokens": 190,
+   "reasoning_tokens": 163,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10498,
+   "completion_tokens": 297,
+   "reasoning_tokens": 262,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 11352,
+   "completion_tokens": 955,
+   "reasoning_tokens": 859,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 266,
+   "completion_tokens": 44,
+   "reasoning_tokens": 41,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 235,
+   "completion_tokens": 62,
+   "reasoning_tokens": 59,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 230,
+   "completion_tokens": 72,
+   "reasoning_tokens": 69,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 213,
+   "completion_tokens": 113,
+   "reasoning_tokens": 110,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8892,
+   "completion_tokens": 173,
+   "reasoning_tokens": 141,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 265,
+   "completion_tokens": 126,
+   "reasoning_tokens": 122,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 304,
+   "completion_tokens": 51,
+   "reasoning_tokens": 48,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7009,
+   "completion_tokens": 240,
+   "reasoning_tokens": 209,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8995,
+   "completion_tokens": 332,
+   "reasoning_tokens": 304,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 237,
+   "completion_tokens": 70,
+   "reasoning_tokens": 67,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6098,
+   "completion_tokens": 153,
+   "reasoning_tokens": 116,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 231,
+   "completion_tokens": 60,
+   "reasoning_tokens": 57,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7070,
+   "completion_tokens": 341,
+   "reasoning_tokens": 296,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 234,
+   "completion_tokens": 53,
+   "reasoning_tokens": 50,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8327,
+   "completion_tokens": 985,
+   "reasoning_tokens": 951,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8137,
+   "completion_tokens": 512,
+   "reasoning_tokens": 492,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 241,
+   "completion_tokens": 43,
+   "reasoning_tokens": 40,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8773,
+   "completion_tokens": 258,
+   "reasoning_tokens": 235,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 237,
+   "completion_tokens": 41,
+   "reasoning_tokens": 38,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 219,
+   "completion_tokens": 44,
+   "reasoning_tokens": 41,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7868,
+   "completion_tokens": 318,
+   "reasoning_tokens": 287,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 227,
+   "completion_tokens": 37,
+   "reasoning_tokens": 33,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9110,
+   "completion_tokens": 325,
+   "reasoning_tokens": 260,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 223,
+   "completion_tokens": 61,
+   "reasoning_tokens": 58,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 11104,
+   "completion_tokens": 309,
+   "reasoning_tokens": 244,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 11490,
+   "completion_tokens": 243,
+   "reasoning_tokens": 207,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4594,
+   "completion_tokens": 1193,
+   "reasoning_tokens": 1135,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 272,
+   "completion_tokens": 44,
+   "reasoning_tokens": 41,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6779,
+   "completion_tokens": 247,
+   "reasoning_tokens": 209,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 252,
+   "completion_tokens": 96,
+   "reasoning_tokens": 93,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 273,
+   "completion_tokens": 34,
+   "reasoning_tokens": 31,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 236,
+   "completion_tokens": 72,
+   "reasoning_tokens": 69,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9025,
+   "completion_tokens": 253,
+   "reasoning_tokens": 219,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4226,
+   "completion_tokens": 216,
+   "reasoning_tokens": 187,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7143,
+   "completion_tokens": 174,
+   "reasoning_tokens": 170,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 239,
+   "completion_tokens": 83,
+   "reasoning_tokens": 80,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 227,
+   "completion_tokens": 41,
+   "reasoning_tokens": 38,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 252,
+   "completion_tokens": 138,
+   "reasoning_tokens": 134,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 241,
+   "completion_tokens": 46,
+   "reasoning_tokens": 43,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 202,
+   "completion_tokens": 33,
+   "reasoning_tokens": 30,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10045,
+   "completion_tokens": 194,
+   "reasoning_tokens": 157,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5910,
+   "completion_tokens": 571,
+   "reasoning_tokens": 533,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9176,
+   "completion_tokens": 94,
+   "reasoning_tokens": 72,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8203,
+   "completion_tokens": 331,
+   "reasoning_tokens": 281,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4724,
+   "completion_tokens": 211,
+   "reasoning_tokens": 180,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 222,
+   "completion_tokens": 38,
+   "reasoning_tokens": 35,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 243,
+   "completion_tokens": 81,
+   "reasoning_tokens": 78,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 234,
+   "completion_tokens": 48,
+   "reasoning_tokens": 45,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 239,
+   "completion_tokens": 107,
+   "reasoning_tokens": 103,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 251,
+   "completion_tokens": 86,
+   "reasoning_tokens": 83,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5267,
+   "completion_tokens": 194,
+   "reasoning_tokens": 158,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8593,
+   "completion_tokens": 244,
+   "reasoning_tokens": 216,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7095,
+   "completion_tokens": 270,
+   "reasoning_tokens": 232,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10553,
+   "completion_tokens": 192,
+   "reasoning_tokens": 148,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 233,
+   "completion_tokens": 42,
+   "reasoning_tokens": 39,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9051,
+   "completion_tokens": 837,
+   "reasoning_tokens": 797,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 233,
+   "completion_tokens": 40,
+   "reasoning_tokens": 37,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 236,
+   "completion_tokens": 88,
+   "reasoning_tokens": 84,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 248,
+   "completion_tokens": 79,
+   "reasoning_tokens": 76,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 237,
+   "completion_tokens": 74,
+   "reasoning_tokens": 70,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8443,
+   "completion_tokens": 163,
+   "reasoning_tokens": 83,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8299,
+   "completion_tokens": 202,
+   "reasoning_tokens": 175,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7943,
+   "completion_tokens": 720,
+   "reasoning_tokens": 668,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 278,
+   "completion_tokens": 57,
+   "reasoning_tokens": 54,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 230,
+   "completion_tokens": 39,
+   "reasoning_tokens": 35,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 250,
+   "completion_tokens": 45,
+   "reasoning_tokens": 42,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10766,
+   "completion_tokens": 342,
+   "reasoning_tokens": 296,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4766,
+   "completion_tokens": 182,
+   "reasoning_tokens": 144,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 250,
+   "completion_tokens": 45,
+   "reasoning_tokens": 42,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 395,
+   "completion_tokens": 2029,
+   "reasoning_tokens": 2025,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5613,
+   "completion_tokens": 2760,
+   "reasoning_tokens": 2615,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 233,
+   "completion_tokens": 95,
+   "reasoning_tokens": 91,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6168,
+   "completion_tokens": 594,
+   "reasoning_tokens": 550,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9988,
+   "completion_tokens": 197,
+   "reasoning_tokens": 166,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9144,
+   "completion_tokens": 346,
+   "reasoning_tokens": 304,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6360,
+   "completion_tokens": 142,
+   "reasoning_tokens": 113,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 236,
+   "completion_tokens": 72,
+   "reasoning_tokens": 69,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 242,
+   "completion_tokens": 80,
+   "reasoning_tokens": 76,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 226,
+   "completion_tokens": 37,
+   "reasoning_tokens": 33,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 243,
+   "completion_tokens": 50,
+   "reasoning_tokens": 47,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8477,
+   "completion_tokens": 1713,
+   "reasoning_tokens": 1647,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7259,
+   "completion_tokens": 2039,
+   "reasoning_tokens": 1923,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6520,
+   "completion_tokens": 190,
+   "reasoning_tokens": 165,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 341,
+   "completion_tokens": 160,
+   "reasoning_tokens": 156,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10327,
+   "completion_tokens": 173,
+   "reasoning_tokens": 142,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7755,
+   "completion_tokens": 207,
+   "reasoning_tokens": 157,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6099,
+   "completion_tokens": 357,
+   "reasoning_tokens": 284,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 262,
+   "completion_tokens": 72,
+   "reasoning_tokens": 69,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 236,
+   "completion_tokens": 42,
+   "reasoning_tokens": 39,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 227,
+   "completion_tokens": 48,
+   "reasoning_tokens": 45,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 272,
+   "completion_tokens": 40,
+   "reasoning_tokens": 37,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 249,
+   "completion_tokens": 46,
+   "reasoning_tokens": 43,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 321,
+   "completion_tokens": 123,
+   "reasoning_tokens": 119,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5713,
+   "completion_tokens": 164,
+   "reasoning_tokens": 132,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5544,
+   "completion_tokens": 255,
+   "reasoning_tokens": 220,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7753,
+   "completion_tokens": 691,
+   "reasoning_tokens": 656,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6853,
+   "completion_tokens": 559,
+   "reasoning_tokens": 505,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7268,
+   "completion_tokens": 401,
+   "reasoning_tokens": 347,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 234,
+   "completion_tokens": 31,
+   "reasoning_tokens": 28,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 230,
+   "completion_tokens": 53,
+   "reasoning_tokens": 49,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 277,
+   "completion_tokens": 58,
+   "reasoning_tokens": 55,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10284,
+   "completion_tokens": 157,
+   "reasoning_tokens": 135,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5903,
+   "completion_tokens": 199,
+   "reasoning_tokens": 195,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8157,
+   "completion_tokens": 261,
+   "reasoning_tokens": 226,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 233,
+   "completion_tokens": 46,
+   "reasoning_tokens": 43,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 231,
+   "completion_tokens": 50,
+   "reasoning_tokens": 47,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5175,
+   "completion_tokens": 773,
+   "reasoning_tokens": 728,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6516,
+   "completion_tokens": 2374,
+   "reasoning_tokens": 2323,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 224,
+   "completion_tokens": 46,
+   "reasoning_tokens": 42,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9491,
+   "completion_tokens": 296,
+   "reasoning_tokens": 248,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10554,
+   "completion_tokens": 248,
+   "reasoning_tokens": 207,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 253,
+   "completion_tokens": 116,
+   "reasoning_tokens": 113,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 263,
+   "completion_tokens": 88,
+   "reasoning_tokens": 85,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 252,
+   "completion_tokens": 119,
+   "reasoning_tokens": 115,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 240,
+   "completion_tokens": 292,
+   "reasoning_tokens": 289,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7198,
+   "completion_tokens": 841,
+   "reasoning_tokens": 684,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 275,
+   "completion_tokens": 68,
+   "reasoning_tokens": 65,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 265,
+   "completion_tokens": 111,
+   "reasoning_tokens": 108,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5397,
+   "completion_tokens": 292,
+   "reasoning_tokens": 252,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5579,
+   "completion_tokens": 179,
+   "reasoning_tokens": 141,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7669,
+   "completion_tokens": 343,
+   "reasoning_tokens": 303,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7276,
+   "completion_tokens": 337,
+   "reasoning_tokens": 289,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 246,
+   "completion_tokens": 107,
+   "reasoning_tokens": 104,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 241,
+   "completion_tokens": 45,
+   "reasoning_tokens": 42,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 377,
+   "completion_tokens": 151,
+   "reasoning_tokens": 147,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 250,
+   "completion_tokens": 50,
+   "reasoning_tokens": 47,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8192,
+   "completion_tokens": 206,
+   "reasoning_tokens": 168,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 271,
+   "completion_tokens": 73,
+   "reasoning_tokens": 70,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7007,
+   "completion_tokens": 177,
+   "reasoning_tokens": 140,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7357,
+   "completion_tokens": 363,
+   "reasoning_tokens": 310,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7171,
+   "completion_tokens": 273,
+   "reasoning_tokens": 207,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6984,
+   "completion_tokens": 316,
+   "reasoning_tokens": 264,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 242,
+   "completion_tokens": 71,
+   "reasoning_tokens": 68,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 242,
+   "completion_tokens": 81,
+   "reasoning_tokens": 78,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 280,
+   "completion_tokens": 64,
+   "reasoning_tokens": 61,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 340,
+   "completion_tokens": 49,
+   "reasoning_tokens": 46,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6212,
+   "completion_tokens": 210,
+   "reasoning_tokens": 181,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 259,
+   "completion_tokens": 95,
+   "reasoning_tokens": 92,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7024,
+   "completion_tokens": 200,
+   "reasoning_tokens": 163,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9466,
+   "completion_tokens": 731,
+   "reasoning_tokens": 691,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6188,
+   "completion_tokens": 210,
+   "reasoning_tokens": 164,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 248,
+   "completion_tokens": 113,
+   "reasoning_tokens": 110,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5603,
+   "completion_tokens": 1851,
+   "reasoning_tokens": 1767,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 239,
+   "completion_tokens": 104,
+   "reasoning_tokens": 101,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 259,
+   "completion_tokens": 47,
+   "reasoning_tokens": 44,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 11968,
+   "completion_tokens": 450,
+   "reasoning_tokens": 372,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 288,
+   "completion_tokens": 130,
+   "reasoning_tokens": 127,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6147,
+   "completion_tokens": 320,
+   "reasoning_tokens": 282,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5521,
+   "completion_tokens": 228,
+   "reasoning_tokens": 196,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 241,
+   "completion_tokens": 62,
+   "reasoning_tokens": 59,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 267,
+   "completion_tokens": 66,
+   "reasoning_tokens": 63,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 309,
+   "completion_tokens": 319,
+   "reasoning_tokens": 315,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8917,
+   "completion_tokens": 1383,
+   "reasoning_tokens": 1246,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8589,
+   "completion_tokens": 202,
+   "reasoning_tokens": 170,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 380,
+   "completion_tokens": 84,
+   "reasoning_tokens": 81,
+   "cache_hit": 256
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 256,
+   "completion_tokens": 80,
+   "reasoning_tokens": 77,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 397,
+   "completion_tokens": 115,
+   "reasoning_tokens": 111,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7003,
+   "completion_tokens": 1371,
+   "reasoning_tokens": 1338,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 245,
+   "completion_tokens": 55,
+   "reasoning_tokens": 52,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7895,
+   "completion_tokens": 3751,
+   "reasoning_tokens": 3605,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10811,
+   "completion_tokens": 6144,
+   "reasoning_tokens": 6144,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10207,
+   "completion_tokens": 749,
+   "reasoning_tokens": 677,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6846,
+   "completion_tokens": 1304,
+   "reasoning_tokens": 1263,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 293,
+   "completion_tokens": 63,
+   "reasoning_tokens": 60,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8365,
+   "completion_tokens": 1740,
+   "reasoning_tokens": 1679,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 271,
+   "completion_tokens": 76,
+   "reasoning_tokens": 73,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8039,
+   "completion_tokens": 1103,
+   "reasoning_tokens": 994,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6158,
+   "completion_tokens": 469,
+   "reasoning_tokens": 406,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 396,
+   "completion_tokens": 258,
+   "reasoning_tokens": 254,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 338,
+   "completion_tokens": 117,
+   "reasoning_tokens": 113,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 283,
+   "completion_tokens": 176,
+   "reasoning_tokens": 173,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5966,
+   "completion_tokens": 395,
+   "reasoning_tokens": 342,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 288,
+   "completion_tokens": 227,
+   "reasoning_tokens": 224,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7137,
+   "completion_tokens": 185,
+   "reasoning_tokens": 138,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 262,
+   "completion_tokens": 90,
+   "reasoning_tokens": 86,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 282,
+   "completion_tokens": 75,
+   "reasoning_tokens": 72,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9080,
+   "completion_tokens": 516,
+   "reasoning_tokens": 462,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 256,
+   "completion_tokens": 49,
+   "reasoning_tokens": 46,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6964,
+   "completion_tokens": 340,
+   "reasoning_tokens": 304,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7899,
+   "completion_tokens": 913,
+   "reasoning_tokens": 885,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge-retry",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 299,
+   "completion_tokens": 4344,
+   "reasoning_tokens": 4341,
+   "cache_hit": 256
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 248,
+   "completion_tokens": 68,
+   "reasoning_tokens": 65,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7533,
+   "completion_tokens": 199,
+   "reasoning_tokens": 165,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 268,
+   "completion_tokens": 70,
+   "reasoning_tokens": 66,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7275,
+   "completion_tokens": 353,
+   "reasoning_tokens": 315,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8255,
+   "completion_tokens": 6144,
+   "reasoning_tokens": 6144,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8695,
+   "completion_tokens": 336,
+   "reasoning_tokens": 280,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 270,
+   "completion_tokens": 94,
+   "reasoning_tokens": 91,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 262,
+   "completion_tokens": 47,
+   "reasoning_tokens": 44,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5307,
+   "completion_tokens": 351,
+   "reasoning_tokens": 304,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4187,
+   "completion_tokens": 2314,
+   "reasoning_tokens": 2175,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6104,
+   "completion_tokens": 268,
+   "reasoning_tokens": 229,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 254,
+   "completion_tokens": 84,
+   "reasoning_tokens": 81,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8944,
+   "completion_tokens": 258,
+   "reasoning_tokens": 211,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full-retry",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10811,
+   "completion_tokens": 5570,
+   "reasoning_tokens": 5527,
+   "cache_hit": 10624
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 238,
+   "completion_tokens": 78,
+   "reasoning_tokens": 75,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5487,
+   "completion_tokens": 399,
+   "reasoning_tokens": 365,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 250,
+   "completion_tokens": 129,
+   "reasoning_tokens": 125,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 269,
+   "completion_tokens": 156,
+   "reasoning_tokens": 153,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7322,
+   "completion_tokens": 170,
+   "reasoning_tokens": 144,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4571,
+   "completion_tokens": 586,
+   "reasoning_tokens": 540,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 258,
+   "completion_tokens": 86,
+   "reasoning_tokens": 83,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 247,
+   "completion_tokens": 131,
+   "reasoning_tokens": 128,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 348,
+   "completion_tokens": 532,
+   "reasoning_tokens": 529,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 267,
+   "completion_tokens": 85,
+   "reasoning_tokens": 82,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8874,
+   "completion_tokens": 186,
+   "reasoning_tokens": 150,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 247,
+   "completion_tokens": 89,
+   "reasoning_tokens": 86,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4628,
+   "completion_tokens": 252,
+   "reasoning_tokens": 199,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9106,
+   "completion_tokens": 6127,
+   "reasoning_tokens": 5923,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 257,
+   "completion_tokens": 87,
+   "reasoning_tokens": 84,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8044,
+   "completion_tokens": 413,
+   "reasoning_tokens": 373,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 11872,
+   "completion_tokens": 5139,
+   "reasoning_tokens": 5004,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 268,
+   "completion_tokens": 64,
+   "reasoning_tokens": 61,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 345,
+   "completion_tokens": 79,
+   "reasoning_tokens": 75,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 279,
+   "completion_tokens": 98,
+   "reasoning_tokens": 95,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 486,
+   "completion_tokens": 129,
+   "reasoning_tokens": 125,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9552,
+   "completion_tokens": 209,
+   "reasoning_tokens": 182,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6276,
+   "completion_tokens": 273,
+   "reasoning_tokens": 219,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5319,
+   "completion_tokens": 213,
+   "reasoning_tokens": 186,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7979,
+   "completion_tokens": 976,
+   "reasoning_tokens": 929,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 244,
+   "completion_tokens": 63,
+   "reasoning_tokens": 60,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 230,
+   "completion_tokens": 59,
+   "reasoning_tokens": 56,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 274,
+   "completion_tokens": 127,
+   "reasoning_tokens": 124,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 256,
+   "completion_tokens": 58,
+   "reasoning_tokens": 55,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8080,
+   "completion_tokens": 463,
+   "reasoning_tokens": 411,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8993,
+   "completion_tokens": 102,
+   "reasoning_tokens": 74,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8374,
+   "completion_tokens": 178,
+   "reasoning_tokens": 129,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6316,
+   "completion_tokens": 1110,
+   "reasoning_tokens": 1068,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 256,
+   "completion_tokens": 44,
+   "reasoning_tokens": 41,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7819,
+   "completion_tokens": 3107,
+   "reasoning_tokens": 3102,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 229,
+   "completion_tokens": 43,
+   "reasoning_tokens": 40,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 213,
+   "completion_tokens": 26,
+   "reasoning_tokens": 23,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 248,
+   "completion_tokens": 179,
+   "reasoning_tokens": 175,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7295,
+   "completion_tokens": 175,
+   "reasoning_tokens": 159,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 240,
+   "completion_tokens": 171,
+   "reasoning_tokens": 167,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8080,
+   "completion_tokens": 686,
+   "reasoning_tokens": 650,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7560,
+   "completion_tokens": 177,
+   "reasoning_tokens": 163,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6153,
+   "completion_tokens": 1364,
+   "reasoning_tokens": 1300,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 224,
+   "completion_tokens": 69,
+   "reasoning_tokens": 66,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 235,
+   "completion_tokens": 30,
+   "reasoning_tokens": 27,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 211,
+   "completion_tokens": 36,
+   "reasoning_tokens": 33,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 267,
+   "completion_tokens": 72,
+   "reasoning_tokens": 68,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4082,
+   "completion_tokens": 305,
+   "reasoning_tokens": 272,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6134,
+   "completion_tokens": 297,
+   "reasoning_tokens": 255,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 238,
+   "completion_tokens": 56,
+   "reasoning_tokens": 53,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7324,
+   "completion_tokens": 586,
+   "reasoning_tokens": 507,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 249,
+   "completion_tokens": 88,
+   "reasoning_tokens": 85,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9738,
+   "completion_tokens": 3464,
+   "reasoning_tokens": 3400,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9801,
+   "completion_tokens": 1889,
+   "reasoning_tokens": 1819,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9021,
+   "completion_tokens": 397,
+   "reasoning_tokens": 331,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 272,
+   "completion_tokens": 108,
+   "reasoning_tokens": 104,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 265,
+   "completion_tokens": 65,
+   "reasoning_tokens": 61,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6483,
+   "completion_tokens": 1202,
+   "reasoning_tokens": 1103,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9371,
+   "completion_tokens": 145,
+   "reasoning_tokens": 130,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5939,
+   "completion_tokens": 289,
+   "reasoning_tokens": 274,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 12348,
+   "completion_tokens": 3626,
+   "reasoning_tokens": 3592,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 213,
+   "completion_tokens": 51,
+   "reasoning_tokens": 48,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 225,
+   "completion_tokens": 69,
+   "reasoning_tokens": 66,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 245,
+   "completion_tokens": 45,
+   "reasoning_tokens": 42,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 291,
+   "completion_tokens": 297,
+   "reasoning_tokens": 294,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8390,
+   "completion_tokens": 196,
+   "reasoning_tokens": 161,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 309,
+   "completion_tokens": 143,
+   "reasoning_tokens": 139,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9952,
+   "completion_tokens": 263,
+   "reasoning_tokens": 214,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8730,
+   "completion_tokens": 169,
+   "reasoning_tokens": 123,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7979,
+   "completion_tokens": 361,
+   "reasoning_tokens": 321,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5662,
+   "completion_tokens": 2130,
+   "reasoning_tokens": 2068,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8450,
+   "completion_tokens": 508,
+   "reasoning_tokens": 476,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 265,
+   "completion_tokens": 102,
+   "reasoning_tokens": 99,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 241,
+   "completion_tokens": 103,
+   "reasoning_tokens": 100,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 269,
+   "completion_tokens": 63,
+   "reasoning_tokens": 59,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 272,
+   "completion_tokens": 90,
+   "reasoning_tokens": 87,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 235,
+   "completion_tokens": 78,
+   "reasoning_tokens": 75,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9191,
+   "completion_tokens": 423,
+   "reasoning_tokens": 389,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7388,
+   "completion_tokens": 217,
+   "reasoning_tokens": 176,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7535,
+   "completion_tokens": 312,
+   "reasoning_tokens": 261,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7178,
+   "completion_tokens": 636,
+   "reasoning_tokens": 590,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 250,
+   "completion_tokens": 36,
+   "reasoning_tokens": 33,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 260,
+   "completion_tokens": 89,
+   "reasoning_tokens": 86,
+   "cache_hit": 256
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 254,
+   "completion_tokens": 44,
+   "reasoning_tokens": 41,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full-retry",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8255,
+   "completion_tokens": 12288,
+   "reasoning_tokens": 12288,
+   "cache_hit": 8064
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4425,
+   "completion_tokens": 98,
+   "reasoning_tokens": 84,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 249,
+   "completion_tokens": 86,
+   "reasoning_tokens": 83,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 278,
+   "completion_tokens": 497,
+   "reasoning_tokens": 494,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 270,
+   "completion_tokens": 52,
+   "reasoning_tokens": 49,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9151,
+   "completion_tokens": 351,
+   "reasoning_tokens": 318,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10627,
+   "completion_tokens": 312,
+   "reasoning_tokens": 263,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 214,
+   "completion_tokens": 41,
+   "reasoning_tokens": 38,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8233,
+   "completion_tokens": 1692,
+   "reasoning_tokens": 1630,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 226,
+   "completion_tokens": 40,
+   "reasoning_tokens": 36,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8251,
+   "completion_tokens": 337,
+   "reasoning_tokens": 304,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8250,
+   "completion_tokens": 317,
+   "reasoning_tokens": 280,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 258,
+   "completion_tokens": 89,
+   "reasoning_tokens": 86,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 259,
+   "completion_tokens": 48,
+   "reasoning_tokens": 45,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8317,
+   "completion_tokens": 545,
+   "reasoning_tokens": 484,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 240,
+   "completion_tokens": 48,
+   "reasoning_tokens": 45,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 245,
+   "completion_tokens": 40,
+   "reasoning_tokens": 37,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 3856,
+   "completion_tokens": 469,
+   "reasoning_tokens": 396,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6825,
+   "completion_tokens": 257,
+   "reasoning_tokens": 199,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8662,
+   "completion_tokens": 616,
+   "reasoning_tokens": 532,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 266,
+   "completion_tokens": 57,
+   "reasoning_tokens": 53,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8634,
+   "completion_tokens": 245,
+   "reasoning_tokens": 229,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6648,
+   "completion_tokens": 622,
+   "reasoning_tokens": 574,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 284,
+   "completion_tokens": 176,
+   "reasoning_tokens": 172,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 295,
+   "completion_tokens": 50,
+   "reasoning_tokens": 47,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 272,
+   "completion_tokens": 55,
+   "reasoning_tokens": 52,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 281,
+   "completion_tokens": 112,
+   "reasoning_tokens": 108,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8801,
+   "completion_tokens": 465,
+   "reasoning_tokens": 413,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 220,
+   "completion_tokens": 49,
+   "reasoning_tokens": 46,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9820,
+   "completion_tokens": 1032,
+   "reasoning_tokens": 960,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 249,
+   "completion_tokens": 49,
+   "reasoning_tokens": 46,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7305,
+   "completion_tokens": 323,
+   "reasoning_tokens": 279,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 276,
+   "completion_tokens": 41,
+   "reasoning_tokens": 38,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 271,
+   "completion_tokens": 82,
+   "reasoning_tokens": 79,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4402,
+   "completion_tokens": 219,
+   "reasoning_tokens": 215,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4909,
+   "completion_tokens": 552,
+   "reasoning_tokens": 502,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 3680,
+   "completion_tokens": 625,
+   "reasoning_tokens": 567,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 254,
+   "completion_tokens": 43,
+   "reasoning_tokens": 40,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7008,
+   "completion_tokens": 734,
+   "reasoning_tokens": 670,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6499,
+   "completion_tokens": 245,
+   "reasoning_tokens": 190,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 238,
+   "completion_tokens": 81,
+   "reasoning_tokens": 78,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 259,
+   "completion_tokens": 44,
+   "reasoning_tokens": 41,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 263,
+   "completion_tokens": 48,
+   "reasoning_tokens": 45,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9306,
+   "completion_tokens": 256,
+   "reasoning_tokens": 216,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 277,
+   "completion_tokens": 41,
+   "reasoning_tokens": 38,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 257,
+   "completion_tokens": 50,
+   "reasoning_tokens": 47,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8333,
+   "completion_tokens": 187,
+   "reasoning_tokens": 155,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 11340,
+   "completion_tokens": 198,
+   "reasoning_tokens": 174,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 250,
+   "completion_tokens": 53,
+   "reasoning_tokens": 50,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10970,
+   "completion_tokens": 1132,
+   "reasoning_tokens": 1088,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5258,
+   "completion_tokens": 444,
+   "reasoning_tokens": 401,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5457,
+   "completion_tokens": 342,
+   "reasoning_tokens": 313,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8845,
+   "completion_tokens": 361,
+   "reasoning_tokens": 327,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7886,
+   "completion_tokens": 766,
+   "reasoning_tokens": 710,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 256,
+   "completion_tokens": 60,
+   "reasoning_tokens": 57,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6276,
+   "completion_tokens": 1597,
+   "reasoning_tokens": 1539,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 250,
+   "completion_tokens": 63,
+   "reasoning_tokens": 60,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 254,
+   "completion_tokens": 106,
+   "reasoning_tokens": 103,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6249,
+   "completion_tokens": 413,
+   "reasoning_tokens": 357,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 246,
+   "completion_tokens": 99,
+   "reasoning_tokens": 96,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5610,
+   "completion_tokens": 195,
+   "reasoning_tokens": 160,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 258,
+   "completion_tokens": 55,
+   "reasoning_tokens": 52,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 227,
+   "completion_tokens": 68,
+   "reasoning_tokens": 65,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6187,
+   "completion_tokens": 292,
+   "reasoning_tokens": 253,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 265,
+   "completion_tokens": 42,
+   "reasoning_tokens": 39,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 237,
+   "completion_tokens": 81,
+   "reasoning_tokens": 78,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 233,
+   "completion_tokens": 82,
+   "reasoning_tokens": 79,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6056,
+   "completion_tokens": 348,
+   "reasoning_tokens": 306,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 249,
+   "completion_tokens": 41,
+   "reasoning_tokens": 38,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6629,
+   "completion_tokens": 301,
+   "reasoning_tokens": 262,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8657,
+   "completion_tokens": 455,
+   "reasoning_tokens": 422,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7690,
+   "completion_tokens": 169,
+   "reasoning_tokens": 140,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 245,
+   "completion_tokens": 82,
+   "reasoning_tokens": 79,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 244,
+   "completion_tokens": 44,
+   "reasoning_tokens": 41,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 237,
+   "completion_tokens": 80,
+   "reasoning_tokens": 77,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 263,
+   "completion_tokens": 112,
+   "reasoning_tokens": 109,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8254,
+   "completion_tokens": 318,
+   "reasoning_tokens": 284,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 232,
+   "completion_tokens": 74,
+   "reasoning_tokens": 71,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 11332,
+   "completion_tokens": 929,
+   "reasoning_tokens": 883,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5480,
+   "completion_tokens": 462,
+   "reasoning_tokens": 428,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9103,
+   "completion_tokens": 330,
+   "reasoning_tokens": 291,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6663,
+   "completion_tokens": 265,
+   "reasoning_tokens": 190,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9281,
+   "completion_tokens": 146,
+   "reasoning_tokens": 107,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 240,
+   "completion_tokens": 45,
+   "reasoning_tokens": 42,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 254,
+   "completion_tokens": 33,
+   "reasoning_tokens": 30,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8941,
+   "completion_tokens": 356,
+   "reasoning_tokens": 306,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 247,
+   "completion_tokens": 37,
+   "reasoning_tokens": 34,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 281,
+   "completion_tokens": 49,
+   "reasoning_tokens": 46,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 261,
+   "completion_tokens": 76,
+   "reasoning_tokens": 73,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6516,
+   "completion_tokens": 1819,
+   "reasoning_tokens": 1788,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 246,
+   "completion_tokens": 60,
+   "reasoning_tokens": 56,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 3219,
+   "completion_tokens": 239,
+   "reasoning_tokens": 202,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 227,
+   "completion_tokens": 28,
+   "reasoning_tokens": 24,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5744,
+   "completion_tokens": 360,
+   "reasoning_tokens": 323,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6294,
+   "completion_tokens": 599,
+   "reasoning_tokens": 555,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9823,
+   "completion_tokens": 206,
+   "reasoning_tokens": 156,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9722,
+   "completion_tokens": 652,
+   "reasoning_tokens": 589,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9451,
+   "completion_tokens": 356,
+   "reasoning_tokens": 318,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 257,
+   "completion_tokens": 153,
+   "reasoning_tokens": 150,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 265,
+   "completion_tokens": 65,
+   "reasoning_tokens": 62,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 245,
+   "completion_tokens": 85,
+   "reasoning_tokens": 82,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 273,
+   "completion_tokens": 81,
+   "reasoning_tokens": 78,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 253,
+   "completion_tokens": 111,
+   "reasoning_tokens": 108,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7477,
+   "completion_tokens": 271,
+   "reasoning_tokens": 227,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4550,
+   "completion_tokens": 257,
+   "reasoning_tokens": 229,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 257,
+   "completion_tokens": 59,
+   "reasoning_tokens": 56,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 285,
+   "completion_tokens": 122,
+   "reasoning_tokens": 119,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8652,
+   "completion_tokens": 1819,
+   "reasoning_tokens": 1791,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5959,
+   "completion_tokens": 267,
+   "reasoning_tokens": 226,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7704,
+   "completion_tokens": 160,
+   "reasoning_tokens": 131,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 254,
+   "completion_tokens": 85,
+   "reasoning_tokens": 82,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 223,
+   "completion_tokens": 48,
+   "reasoning_tokens": 45,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5979,
+   "completion_tokens": 394,
+   "reasoning_tokens": 334,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 261,
+   "completion_tokens": 58,
+   "reasoning_tokens": 55,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6124,
+   "completion_tokens": 795,
+   "reasoning_tokens": 752,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 241,
+   "completion_tokens": 88,
+   "reasoning_tokens": 85,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 229,
+   "completion_tokens": 47,
+   "reasoning_tokens": 44,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5672,
+   "completion_tokens": 943,
+   "reasoning_tokens": 898,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6016,
+   "completion_tokens": 380,
+   "reasoning_tokens": 350,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 256,
+   "completion_tokens": 33,
+   "reasoning_tokens": 30,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8284,
+   "completion_tokens": 423,
+   "reasoning_tokens": 378,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5304,
+   "completion_tokens": 169,
+   "reasoning_tokens": 153,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8186,
+   "completion_tokens": 302,
+   "reasoning_tokens": 271,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 238,
+   "completion_tokens": 90,
+   "reasoning_tokens": 87,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 223,
+   "completion_tokens": 71,
+   "reasoning_tokens": 68,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7149,
+   "completion_tokens": 261,
+   "reasoning_tokens": 216,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 212,
+   "completion_tokens": 53,
+   "reasoning_tokens": 50,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 228,
+   "completion_tokens": 69,
+   "reasoning_tokens": 66,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 250,
+   "completion_tokens": 120,
+   "reasoning_tokens": 116,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 242,
+   "completion_tokens": 97,
+   "reasoning_tokens": 94,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4238,
+   "completion_tokens": 356,
+   "reasoning_tokens": 329,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 248,
+   "completion_tokens": 36,
+   "reasoning_tokens": 33,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5449,
+   "completion_tokens": 335,
+   "reasoning_tokens": 305,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5785,
+   "completion_tokens": 296,
+   "reasoning_tokens": 238,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6666,
+   "completion_tokens": 307,
+   "reasoning_tokens": 257,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 227,
+   "completion_tokens": 44,
+   "reasoning_tokens": 41,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5026,
+   "completion_tokens": 281,
+   "reasoning_tokens": 240,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 257,
+   "completion_tokens": 38,
+   "reasoning_tokens": 35,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 261,
+   "completion_tokens": 34,
+   "reasoning_tokens": 31,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6437,
+   "completion_tokens": 192,
+   "reasoning_tokens": 176,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10151,
+   "completion_tokens": 162,
+   "reasoning_tokens": 151,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 248,
+   "completion_tokens": 123,
+   "reasoning_tokens": 120,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 238,
+   "completion_tokens": 53,
+   "reasoning_tokens": 50,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9782,
+   "completion_tokens": 379,
+   "reasoning_tokens": 332,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 212,
+   "completion_tokens": 60,
+   "reasoning_tokens": 57,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 214,
+   "completion_tokens": 38,
+   "reasoning_tokens": 35,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8167,
+   "completion_tokens": 1427,
+   "reasoning_tokens": 1374,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10675,
+   "completion_tokens": 251,
+   "reasoning_tokens": 221,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8785,
+   "completion_tokens": 384,
+   "reasoning_tokens": 335,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8824,
+   "completion_tokens": 184,
+   "reasoning_tokens": 152,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 247,
+   "completion_tokens": 58,
+   "reasoning_tokens": 55,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5608,
+   "completion_tokens": 664,
+   "reasoning_tokens": 636,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 255,
+   "completion_tokens": 93,
+   "reasoning_tokens": 90,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 251,
+   "completion_tokens": 70,
+   "reasoning_tokens": 67,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 231,
+   "completion_tokens": 82,
+   "reasoning_tokens": 79,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 231,
+   "completion_tokens": 34,
+   "reasoning_tokens": 31,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4961,
+   "completion_tokens": 414,
+   "reasoning_tokens": 354,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6384,
+   "completion_tokens": 258,
+   "reasoning_tokens": 238,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8136,
+   "completion_tokens": 270,
+   "reasoning_tokens": 238,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 251,
+   "completion_tokens": 108,
+   "reasoning_tokens": 105,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 222,
+   "completion_tokens": 29,
+   "reasoning_tokens": 26,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9600,
+   "completion_tokens": 211,
+   "reasoning_tokens": 195,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5276,
+   "completion_tokens": 3761,
+   "reasoning_tokens": 3747,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 257,
+   "completion_tokens": 35,
+   "reasoning_tokens": 32,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 234,
+   "completion_tokens": 36,
+   "reasoning_tokens": 33,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7483,
+   "completion_tokens": 271,
+   "reasoning_tokens": 220,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4044,
+   "completion_tokens": 665,
+   "reasoning_tokens": 613,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 214,
+   "completion_tokens": 46,
+   "reasoning_tokens": 43,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5291,
+   "completion_tokens": 319,
+   "reasoning_tokens": 290,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5620,
+   "completion_tokens": 209,
+   "reasoning_tokens": 186,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 209,
+   "completion_tokens": 30,
+   "reasoning_tokens": 27,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7856,
+   "completion_tokens": 247,
+   "reasoning_tokens": 199,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 249,
+   "completion_tokens": 91,
+   "reasoning_tokens": 88,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5924,
+   "completion_tokens": 173,
+   "reasoning_tokens": 158,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 228,
+   "completion_tokens": 69,
+   "reasoning_tokens": 66,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6694,
+   "completion_tokens": 253,
+   "reasoning_tokens": 218,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 219,
+   "completion_tokens": 60,
+   "reasoning_tokens": 57,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6100,
+   "completion_tokens": 2001,
+   "reasoning_tokens": 1964,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 253,
+   "completion_tokens": 88,
+   "reasoning_tokens": 85,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6580,
+   "completion_tokens": 120,
+   "reasoning_tokens": 106,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6563,
+   "completion_tokens": 228,
+   "reasoning_tokens": 185,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 214,
+   "completion_tokens": 54,
+   "reasoning_tokens": 51,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6098,
+   "completion_tokens": 300,
+   "reasoning_tokens": 279,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 230,
+   "completion_tokens": 50,
+   "reasoning_tokens": 47,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6554,
+   "completion_tokens": 237,
+   "reasoning_tokens": 215,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 211,
+   "completion_tokens": 25,
+   "reasoning_tokens": 22,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5249,
+   "completion_tokens": 147,
+   "reasoning_tokens": 129,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 241,
+   "completion_tokens": 55,
+   "reasoning_tokens": 52,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 239,
+   "completion_tokens": 134,
+   "reasoning_tokens": 131,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 242,
+   "completion_tokens": 171,
+   "reasoning_tokens": 168,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4617,
+   "completion_tokens": 186,
+   "reasoning_tokens": 162,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 218,
+   "completion_tokens": 52,
+   "reasoning_tokens": 49,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 219,
+   "completion_tokens": 41,
+   "reasoning_tokens": 38,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 219,
+   "completion_tokens": 55,
+   "reasoning_tokens": 52,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8004,
+   "completion_tokens": 170,
+   "reasoning_tokens": 153,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8581,
+   "completion_tokens": 267,
+   "reasoning_tokens": 235,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7030,
+   "completion_tokens": 302,
+   "reasoning_tokens": 283,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6104,
+   "completion_tokens": 575,
+   "reasoning_tokens": 510,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 232,
+   "completion_tokens": 58,
+   "reasoning_tokens": 55,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 216,
+   "completion_tokens": 45,
+   "reasoning_tokens": 42,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6790,
+   "completion_tokens": 316,
+   "reasoning_tokens": 281,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 231,
+   "completion_tokens": 33,
+   "reasoning_tokens": 30,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5596,
+   "completion_tokens": 564,
+   "reasoning_tokens": 518,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 217,
+   "completion_tokens": 57,
+   "reasoning_tokens": 54,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 263,
+   "completion_tokens": 45,
+   "reasoning_tokens": 42,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4793,
+   "completion_tokens": 284,
+   "reasoning_tokens": 265,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8861,
+   "completion_tokens": 190,
+   "reasoning_tokens": 133,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6349,
+   "completion_tokens": 175,
+   "reasoning_tokens": 158,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 241,
+   "completion_tokens": 40,
+   "reasoning_tokens": 37,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5872,
+   "completion_tokens": 219,
+   "reasoning_tokens": 188,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 253,
+   "completion_tokens": 53,
+   "reasoning_tokens": 50,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7867,
+   "completion_tokens": 378,
+   "reasoning_tokens": 352,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7332,
+   "completion_tokens": 1080,
+   "reasoning_tokens": 1042,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6408,
+   "completion_tokens": 179,
+   "reasoning_tokens": 144,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 249,
+   "completion_tokens": 102,
+   "reasoning_tokens": 99,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 217,
+   "completion_tokens": 50,
+   "reasoning_tokens": 47,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6543,
+   "completion_tokens": 163,
+   "reasoning_tokens": 93,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 231,
+   "completion_tokens": 42,
+   "reasoning_tokens": 39,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 255,
+   "completion_tokens": 56,
+   "reasoning_tokens": 53,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 243,
+   "completion_tokens": 28,
+   "reasoning_tokens": 25,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 236,
+   "completion_tokens": 27,
+   "reasoning_tokens": 24,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 228,
+   "completion_tokens": 71,
+   "reasoning_tokens": 68,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5934,
+   "completion_tokens": 166,
+   "reasoning_tokens": 153,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7142,
+   "completion_tokens": 295,
+   "reasoning_tokens": 268,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5277,
+   "completion_tokens": 160,
+   "reasoning_tokens": 127,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10256,
+   "completion_tokens": 257,
+   "reasoning_tokens": 232,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 11626,
+   "completion_tokens": 405,
+   "reasoning_tokens": 387,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 209,
+   "completion_tokens": 43,
+   "reasoning_tokens": 40,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 225,
+   "completion_tokens": 43,
+   "reasoning_tokens": 40,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 236,
+   "completion_tokens": 64,
+   "reasoning_tokens": 61,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 237,
+   "completion_tokens": 89,
+   "reasoning_tokens": 86,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 218,
+   "completion_tokens": 51,
+   "reasoning_tokens": 48,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6573,
+   "completion_tokens": 579,
+   "reasoning_tokens": 534,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4831,
+   "completion_tokens": 141,
+   "reasoning_tokens": 103,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9980,
+   "completion_tokens": 189,
+   "reasoning_tokens": 157,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5730,
+   "completion_tokens": 215,
+   "reasoning_tokens": 192,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7015,
+   "completion_tokens": 247,
+   "reasoning_tokens": 205,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 243,
+   "completion_tokens": 97,
+   "reasoning_tokens": 94,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8426,
+   "completion_tokens": 329,
+   "reasoning_tokens": 313,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 223,
+   "completion_tokens": 58,
+   "reasoning_tokens": 55,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 246,
+   "completion_tokens": 86,
+   "reasoning_tokens": 83,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4329,
+   "completion_tokens": 188,
+   "reasoning_tokens": 146,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 242,
+   "completion_tokens": 70,
+   "reasoning_tokens": 66,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 216,
+   "completion_tokens": 60,
+   "reasoning_tokens": 57,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 11201,
+   "completion_tokens": 1572,
+   "reasoning_tokens": 1521,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7544,
+   "completion_tokens": 216,
+   "reasoning_tokens": 158,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4736,
+   "completion_tokens": 454,
+   "reasoning_tokens": 419,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 252,
+   "completion_tokens": 128,
+   "reasoning_tokens": 125,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 250,
+   "completion_tokens": 82,
+   "reasoning_tokens": 78,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 235,
+   "completion_tokens": 41,
+   "reasoning_tokens": 38,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 245,
+   "completion_tokens": 70,
+   "reasoning_tokens": 67,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 276,
+   "completion_tokens": 164,
+   "reasoning_tokens": 161,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4713,
+   "completion_tokens": 954,
+   "reasoning_tokens": 898,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4206,
+   "completion_tokens": 1075,
+   "reasoning_tokens": 960,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5034,
+   "completion_tokens": 228,
+   "reasoning_tokens": 194,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6609,
+   "completion_tokens": 561,
+   "reasoning_tokens": 507,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7840,
+   "completion_tokens": 738,
+   "reasoning_tokens": 652,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 262,
+   "completion_tokens": 32,
+   "reasoning_tokens": 29,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 3748,
+   "completion_tokens": 707,
+   "reasoning_tokens": 670,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 267,
+   "completion_tokens": 88,
+   "reasoning_tokens": 85,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 332,
+   "completion_tokens": 96,
+   "reasoning_tokens": 93,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 302,
+   "completion_tokens": 87,
+   "reasoning_tokens": 84,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 278,
+   "completion_tokens": 237,
+   "reasoning_tokens": 233,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 237,
+   "completion_tokens": 142,
+   "reasoning_tokens": 138,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8047,
+   "completion_tokens": 160,
+   "reasoning_tokens": 104,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6178,
+   "completion_tokens": 129,
+   "reasoning_tokens": 106,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5892,
+   "completion_tokens": 129,
+   "reasoning_tokens": 114,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6567,
+   "completion_tokens": 254,
+   "reasoning_tokens": 190,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6745,
+   "completion_tokens": 353,
+   "reasoning_tokens": 331,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 247,
+   "completion_tokens": 41,
+   "reasoning_tokens": 38,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 294,
+   "completion_tokens": 55,
+   "reasoning_tokens": 52,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 235,
+   "completion_tokens": 30,
+   "reasoning_tokens": 27,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 258,
+   "completion_tokens": 72,
+   "reasoning_tokens": 69,
+   "cache_hit": 256
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9513,
+   "completion_tokens": 193,
+   "reasoning_tokens": 164,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 12037,
+   "completion_tokens": 172,
+   "reasoning_tokens": 155,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 280,
+   "completion_tokens": 103,
+   "reasoning_tokens": 99,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 11145,
+   "completion_tokens": 301,
+   "reasoning_tokens": 270,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6218,
+   "completion_tokens": 255,
+   "reasoning_tokens": 229,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8467,
+   "completion_tokens": 87,
+   "reasoning_tokens": 70,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 256,
+   "completion_tokens": 31,
+   "reasoning_tokens": 28,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 265,
+   "completion_tokens": 45,
+   "reasoning_tokens": 42,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8381,
+   "completion_tokens": 228,
+   "reasoning_tokens": 209,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 11207,
+   "completion_tokens": 105,
+   "reasoning_tokens": 84,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 275,
+   "completion_tokens": 56,
+   "reasoning_tokens": 53,
+   "cache_hit": 256
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 248,
+   "completion_tokens": 34,
+   "reasoning_tokens": 31,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6976,
+   "completion_tokens": 82,
+   "reasoning_tokens": 61,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8286,
+   "completion_tokens": 187,
+   "reasoning_tokens": 167,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 224,
+   "completion_tokens": 51,
+   "reasoning_tokens": 48,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 252,
+   "completion_tokens": 66,
+   "reasoning_tokens": 63,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6731,
+   "completion_tokens": 121,
+   "reasoning_tokens": 91,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6693,
+   "completion_tokens": 191,
+   "reasoning_tokens": 157,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 254,
+   "completion_tokens": 59,
+   "reasoning_tokens": 56,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 11265,
+   "completion_tokens": 225,
+   "reasoning_tokens": 151,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 243,
+   "completion_tokens": 36,
+   "reasoning_tokens": 33,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4731,
+   "completion_tokens": 124,
+   "reasoning_tokens": 114,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 244,
+   "completion_tokens": 64,
+   "reasoning_tokens": 61,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8413,
+   "completion_tokens": 259,
+   "reasoning_tokens": 208,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 277,
+   "completion_tokens": 72,
+   "reasoning_tokens": 69,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4597,
+   "completion_tokens": 150,
+   "reasoning_tokens": 117,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 276,
+   "completion_tokens": 92,
+   "reasoning_tokens": 89,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7478,
+   "completion_tokens": 208,
+   "reasoning_tokens": 184,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 235,
+   "completion_tokens": 41,
+   "reasoning_tokens": 38,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8040,
+   "completion_tokens": 147,
+   "reasoning_tokens": 124,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 267,
+   "completion_tokens": 51,
+   "reasoning_tokens": 48,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5997,
+   "completion_tokens": 175,
+   "reasoning_tokens": 143,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 296,
+   "completion_tokens": 85,
+   "reasoning_tokens": 82,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 248,
+   "completion_tokens": 85,
+   "reasoning_tokens": 82,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8718,
+   "completion_tokens": 328,
+   "reasoning_tokens": 298,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8122,
+   "completion_tokens": 167,
+   "reasoning_tokens": 128,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 266,
+   "completion_tokens": 2048,
+   "reasoning_tokens": 2048,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 266,
+   "completion_tokens": 85,
+   "reasoning_tokens": 82,
+   "cache_hit": 256
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 270,
+   "completion_tokens": 37,
+   "reasoning_tokens": 34,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10144,
+   "completion_tokens": 232,
+   "reasoning_tokens": 202,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5911,
+   "completion_tokens": 117,
+   "reasoning_tokens": 102,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 265,
+   "completion_tokens": 27,
+   "reasoning_tokens": 24,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9283,
+   "completion_tokens": 244,
+   "reasoning_tokens": 213,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 277,
+   "completion_tokens": 96,
+   "reasoning_tokens": 93,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 333,
+   "completion_tokens": 85,
+   "reasoning_tokens": 82,
+   "cache_hit": 256
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5974,
+   "completion_tokens": 162,
+   "reasoning_tokens": 131,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 266,
+   "completion_tokens": 38,
+   "reasoning_tokens": 35,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 238,
+   "completion_tokens": 55,
+   "reasoning_tokens": 52,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5869,
+   "completion_tokens": 177,
+   "reasoning_tokens": 172,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10513,
+   "completion_tokens": 118,
+   "reasoning_tokens": 100,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5489,
+   "completion_tokens": 204,
+   "reasoning_tokens": 150,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 255,
+   "completion_tokens": 29,
+   "reasoning_tokens": 26,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 290,
+   "completion_tokens": 94,
+   "reasoning_tokens": 91,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6977,
+   "completion_tokens": 110,
+   "reasoning_tokens": 86,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9858,
+   "completion_tokens": 155,
+   "reasoning_tokens": 129,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 247,
+   "completion_tokens": 27,
+   "reasoning_tokens": 24,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 225,
+   "completion_tokens": 35,
+   "reasoning_tokens": 32,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4588,
+   "completion_tokens": 75,
+   "reasoning_tokens": 58,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 276,
+   "completion_tokens": 48,
+   "reasoning_tokens": 45,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6416,
+   "completion_tokens": 147,
+   "reasoning_tokens": 127,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 256,
+   "completion_tokens": 55,
+   "reasoning_tokens": 52,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 9174,
+   "completion_tokens": 127,
+   "reasoning_tokens": 121,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 279,
+   "completion_tokens": 79,
+   "reasoning_tokens": 76,
+   "cache_hit": 256
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 242,
+   "completion_tokens": 51,
+   "reasoning_tokens": 48,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5932,
+   "completion_tokens": 97,
+   "reasoning_tokens": 85,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8998,
+   "completion_tokens": 133,
+   "reasoning_tokens": 124,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 242,
+   "completion_tokens": 35,
+   "reasoning_tokens": 32,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 236,
+   "completion_tokens": 30,
+   "reasoning_tokens": 27,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10269,
+   "completion_tokens": 150,
+   "reasoning_tokens": 103,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5722,
+   "completion_tokens": 195,
+   "reasoning_tokens": 180,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 233,
+   "completion_tokens": 41,
+   "reasoning_tokens": 38,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 242,
+   "completion_tokens": 37,
+   "reasoning_tokens": 34,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8675,
+   "completion_tokens": 144,
+   "reasoning_tokens": 119,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 3649,
+   "completion_tokens": 2797,
+   "reasoning_tokens": 2763,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 237,
+   "completion_tokens": 54,
+   "reasoning_tokens": 51,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 10597,
+   "completion_tokens": 179,
+   "reasoning_tokens": 146,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4884,
+   "completion_tokens": 350,
+   "reasoning_tokens": 313,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 2680,
+   "completion_tokens": 230,
+   "reasoning_tokens": 172,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 300,
+   "completion_tokens": 47,
+   "reasoning_tokens": 44,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 254,
+   "completion_tokens": 70,
+   "reasoning_tokens": 67,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 255,
+   "completion_tokens": 28,
+   "reasoning_tokens": 25,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8387,
+   "completion_tokens": 143,
+   "reasoning_tokens": 115,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 265,
+   "completion_tokens": 38,
+   "reasoning_tokens": 35,
+   "cache_hit": 256
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 8680,
+   "completion_tokens": 199,
+   "reasoning_tokens": 195,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 278,
+   "completion_tokens": 57,
+   "reasoning_tokens": 54,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6171,
+   "completion_tokens": 156,
+   "reasoning_tokens": 142,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6638,
+   "completion_tokens": 229,
+   "reasoning_tokens": 189,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 253,
+   "completion_tokens": 61,
+   "reasoning_tokens": 58,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6684,
+   "completion_tokens": 349,
+   "reasoning_tokens": 324,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5245,
+   "completion_tokens": 147,
+   "reasoning_tokens": 118,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 254,
+   "completion_tokens": 29,
+   "reasoning_tokens": 26,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 5323,
+   "completion_tokens": 107,
+   "reasoning_tokens": 91,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 284,
+   "completion_tokens": 65,
+   "reasoning_tokens": 62,
+   "cache_hit": 256
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 252,
+   "completion_tokens": 84,
+   "reasoning_tokens": 81,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 255,
+   "completion_tokens": 27,
+   "reasoning_tokens": 24,
+   "cache_hit": 128
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 6789,
+   "completion_tokens": 155,
+   "reasoning_tokens": 110,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 257,
+   "completion_tokens": 63,
+   "reasoning_tokens": 60,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 281,
+   "completion_tokens": 44,
+   "reasoning_tokens": 41,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer/full",
+   "model": "deepseek-flash",
+   "prompt_tokens": 7027,
+   "completion_tokens": 585,
+   "reasoning_tokens": 497,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 244,
+   "completion_tokens": 50,
+   "reasoning_tokens": 47,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 319,
+   "completion_tokens": 84,
+   "reasoning_tokens": 81,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 238,
+   "completion_tokens": 50,
+   "reasoning_tokens": 47,
+   "cache_hit": 128
+  },
+  {
+   "op": "judge-retry",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 266,
+   "completion_tokens": 4150,
+   "reasoning_tokens": 4147,
+   "cache_hit": 256
+  }
+ ],
+ "summary": {
+  "answer/full/deepseek-flash": {
+   "calls": 500,
+   "prompt": 3615843,
+   "completion": 287000
+  },
+  "judge/deepseek-v4-pro": {
+   "calls": 500,
+   "prompt": 131213,
+   "completion": 53047
+  },
+  "answer/full-retry/deepseek-flash": {
+   "calls": 3,
+   "prompt": 25747,
+   "completion": 25158
+  },
+  "judge-retry/deepseek-v4-pro": {
+   "calls": 3,
+   "prompt": 1002,
+   "completion": 9124
+  }
+ }
+}

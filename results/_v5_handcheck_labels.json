@@ -1,0 +1,362 @@
+[
+{
+"n": 1,
+"qid": "00ca467f",
+"rule": "AGG.enum",
+"mine": "AGG.enum",
+"agree": true,
+"consequential": false,
+"q": "How many doctor's appointments did I go to in March?"
+},
+{
+"n": 2,
+"qid": "2ce6a0f2",
+"rule": "AGG.enum",
+"mine": "AGG.enum",
+"agree": true,
+"consequential": false,
+"q": "How many different art-related events did I attend in the past month?"
+},
+{
+"n": 3,
+"qid": "618f13b2",
+"rule": "AGG.enum",
+"mine": "AGG.latest_count",
+"agree": false,
+"consequential": true,
+"q": "How many times have I worn my new black Converse Chuck Taylor All Star sneakers?"
+},
+{
+"n": 4,
+"qid": "80ec1f4f_abs",
+"rule": "AGG.enum",
+"mine": "AGG.enum",
+"agree": true,
+"consequential": false,
+"q": "How many different museums or galleries did I visit in December?"
+},
+{
+"n": 5,
+"qid": "af8d2e46",
+"rule": "AGG.enum",
+"mine": "LOOKUP.plain",
+"agree": false,
+"consequential": false,
+"q": "How many shirts did I pack for my 5-day trip to Costa Rica?"
+},
+{
+"n": 6,
+"qid": "ef66a6e5",
+"rule": "AGG.enum",
+"mine": "AGG.enum",
+"agree": true,
+"consequential": false,
+"q": "How many sports have I played competitively in the past?"
+},
+{
+"n": 7,
+"qid": "001be529",
+"rule": "LOOKUP.plain",
+"mine": "TEMP.offset",
+"agree": false,
+"consequential": true,
+"q": "How long did I wait for the decision on my asylum application?"
+},
+{
+"n": 8,
+"qid": "4fd1909e",
+"rule": "LOOKUP.plain",
+"mine": "LOOKUP.plain",
+"agree": true,
+"consequential": false,
+"q": "Where did I attend the Imagine Dragons concert?"
+},
+{
+"n": 9,
+"qid": "830ce83f",
+"rule": "LOOKUP.plain",
+"mine": "LOOKUP.latest",
+"agree": false,
+"consequential": false,
+"q": "Where did Rachel move to after her recent relocation?"
+},
+{
+"n": 10,
+"qid": "c19f7a0b",
+"rule": "LOOKUP.plain",
+"mine": "LOOKUP.rate",
+"agree": false,
+"consequential": false,
+"q": "What time do I usually get home from work on weeknights?"
+},
+{
+"n": 11,
+"qid": "08e075c7",
+"rule": "TEMP.offset",
+"mine": "TEMP.offset",
+"agree": true,
+"consequential": false,
+"q": "How long have I been using my Fitbit Charge 3?"
+},
+{
+"n": 12,
+"qid": "5e1b23de",
+"rule": "TEMP.offset",
+"mine": "TEMP.offset",
+"agree": true,
+"consequential": false,
+"q": "How many months ago did I attend the photography workshop?"
+},
+{
+"n": 13,
+"qid": "a3045048",
+"rule": "TEMP.offset",
+"mine": "TEMP.offset",
+"agree": true,
+"consequential": false,
+"q": "How many days before my best friend's birthday party did I order her gift?"
+},
+{
+"n": 14,
+"qid": "e831120c",
+"rule": "TEMP.offset",
+"mine": "TEMP.offset",
+"agree": true,
+"consequential": false,
+"q": "How many weeks did it take me to watch all the Marvel Cinematic Universe movies and the ma"
+},
+{
+"n": 15,
+"qid": "gpt4_7a0daae1",
+"rule": "TEMP.offset",
+"mine": "TEMP.offset",
+"agree": true,
+"consequential": false,
+"q": "How many weeks passed between the day I bought my new tennis racket and the day I received"
+},
+{
+"n": 16,
+"qid": "41698283",
+"rule": "TEMP.order",
+"mine": "TEMP.order",
+"agree": true,
+"consequential": false,
+"q": "What type of camera lens did I purchase most recently?"
+},
+{
+"n": 17,
+"qid": "gpt4_2655b836",
+"rule": "TEMP.order",
+"mine": "TEMP.order",
+"agree": true,
+"consequential": false,
+"q": "What was the first issue I had with my new car after its first service?"
+},
+{
+"n": 18,
+"qid": "gpt4_6ed717ea",
+"rule": "TEMP.order",
+"mine": "TEMP.order",
+"agree": true,
+"consequential": false,
+"q": "Which item did I purchase first, the dog bed for Max or the training pads for Luna?"
+},
+{
+"n": 19,
+"qid": "gpt4_98f46fc6",
+"rule": "TEMP.order",
+"mine": "TEMP.order",
+"agree": true,
+"consequential": false,
+"q": "Which event did I participate in first, the charity gala or the charity bake sale?"
+},
+{
+"n": 20,
+"qid": "078150f1",
+"rule": "AGG.arith",
+"mine": "AGG.arith",
+"agree": true,
+"consequential": false,
+"q": "How much more money did I raise than my initial goal in the charity cycling event?"
+},
+{
+"n": 21,
+"qid": "4adc0475",
+"rule": "AGG.arith",
+"mine": "AGG.arith",
+"agree": true,
+"consequential": false,
+"q": "What is the total number of goals and assists I have in the recreational indoor soccer lea"
+},
+{
+"n": 22,
+"qid": "bb7c3b45",
+"rule": "AGG.arith",
+"mine": "AGG.arith",
+"agree": true,
+"consequential": false,
+"q": "How much did I save on the Jimmy Choo heels?"
+},
+{
+"n": 23,
+"qid": "0e5e2d1a",
+"rule": "RECALL.assistant",
+"mine": "RECALL.assistant",
+"agree": true,
+"consequential": false,
+"q": "I wanted to follow up on our previous conversation about binaural beats for anxiety and de"
+},
+{
+"n": 24,
+"qid": "51b23612",
+"rule": "RECALL.assistant",
+"mine": "RECALL.assistant",
+"agree": true,
+"consequential": false,
+"q": "I was going through our previous conversation about political propaganda and humor, and I "
+},
+{
+"n": 25,
+"qid": "8cf51dda",
+"rule": "RECALL.assistant",
+"mine": "RECALL.assistant",
+"agree": true,
+"consequential": false,
+"q": "I'm going back to our previous conversation about the grant aim page on molecular subtypes"
+},
+{
+"n": 26,
+"qid": "06878be2",
+"rule": "PREF.advice",
+"mine": "PREF.advice",
+"agree": true,
+"consequential": false,
+"q": "Can you suggest some accessories that would complement my current photography setup?"
+},
+{
+"n": 27,
+"qid": "32260d93",
+"rule": "PREF.advice",
+"mine": "PREF.advice",
+"agree": true,
+"consequential": false,
+"q": "Can you recommend a show or movie for me to watch tonight?"
+},
+{
+"n": 28,
+"qid": "8a2466db",
+"rule": "PREF.advice",
+"mine": "PREF.advice",
+"agree": true,
+"consequential": false,
+"q": "Can you recommend some resources where I can learn more about video editing?"
+},
+{
+"n": 29,
+"qid": "0bc8ad93",
+"rule": "TEMP.anchor",
+"mine": "TEMP.anchor",
+"agree": true,
+"consequential": false,
+"q": "I mentioned visiting a museum two months ago. Did I visit with a friend or not?"
+},
+{
+"n": 30,
+"qid": "a82c026e",
+"rule": "TEMP.anchor",
+"mine": "TEMP.anchor",
+"agree": true,
+"consequential": false,
+"q": "What game did I finally beat last weekend?"
+},
+{
+"n": 31,
+"qid": "gpt4_59149c78",
+"rule": "TEMP.anchor",
+"mine": "TEMP.anchor",
+"agree": true,
+"consequential": false,
+"q": "I mentioned that I participated in an art-related event two weeks ago. Where was that even"
+},
+{
+"n": 32,
+"qid": "0a995998",
+"rule": "AGG.latest_count",
+"mine": "AGG.enum",
+"agree": false,
+"consequential": true,
+"q": "How many items of clothing do I need to pick up or return from a store?"
+},
+{
+"n": 33,
+"qid": "2311e44b_abs",
+"rule": "AGG.latest_count",
+"mine": "AGG.arith",
+"agree": false,
+"consequential": true,
+"q": "How many pages do I have left to read in 'Sapiens'?"
+},
+{
+"n": 34,
+"qid": "9ee3ecd6",
+"rule": "AGG.latest_count",
+"mine": "AGG.arith",
+"agree": false,
+"consequential": true,
+"q": "How many points do I need to earn to redeem a free skincare product at Sephora?"
+},
+{
+"n": 35,
+"qid": "07741c44",
+"rule": "LOOKUP.history",
+"mine": "LOOKUP.history",
+"agree": true,
+"consequential": false,
+"q": "Where do I initially keep my old sneakers?"
+},
+{
+"n": 36,
+"qid": "c4ea545c",
+"rule": "LOOKUP.history",
+"mine": "LOOKUP.history",
+"agree": true,
+"consequential": false,
+"q": "Do I go to the gym more frequently than I did previously?"
+},
+{
+"n": 37,
+"qid": "031748ae",
+"rule": "LOOKUP.latest",
+"mine": "LOOKUP.history",
+"agree": false,
+"consequential": true,
+"q": "How many engineers do I lead when I just started my new role as Senior Software Engineer? "
+},
+{
+"n": 38,
+"qid": "5a4f22c0",
+"rule": "LOOKUP.latest",
+"mine": "LOOKUP.latest",
+"agree": true,
+"consequential": false,
+"q": "What company is Rachel, an old colleague from my previous company, currently working at?"
+},
+{
+"n": 39,
+"qid": "2698e78f",
+"rule": "LOOKUP.rate",
+"mine": "LOOKUP.rate",
+"agree": true,
+"consequential": false,
+"q": "How often do I see my therapist, Dr. Smith?"
+},
+{
+"n": 40,
+"qid": "945e3d21",
+"rule": "LOOKUP.rate",
+"mine": "LOOKUP.rate",
+"agree": true,
+"consequential": false,
+"q": "How often do I attend yoga classes to help with my anxiety?"
+}
+]

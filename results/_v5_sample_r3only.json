@@ -1,0 +1,233 @@
+{
+ "pool_size": 1767,
+ "sample": [
+  {
+   "qid": "gpt4_c27434e8",
+   "keys": [
+    "user::averaged comments on most popular yosemite post",
+    "user::averaged likes on most popular yosemite post"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_d84a3211",
+   "keys": [
+    "user::departure city for la trip",
+    "user::departure city for tokyo trip"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "184da446",
+   "keys": [
+    "user::wants to make",
+    "user::wants to try making"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "6aeb4375_abs",
+   "keys": [
+    "user::bought a birthday gift for",
+    "user::bought a gift for",
+    "user::bought gifts for"
+   ],
+   "sizes": [
+    1,
+    1,
+    2
+   ]
+  },
+  {
+   "qid": "681a1674",
+   "keys": [
+    "user::rug color preference",
+    "user::rug feature preference",
+    "user::rug pile preference",
+    "user::rug preference",
+    "user::rug texture preference"
+   ],
+   "sizes": [
+    1,
+    1,
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "d6233ab6",
+   "keys": [
+    "user::is getting back into",
+    "user::wants to get back into"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "982b5123",
+   "keys": [
+    "user::mountain road trip drive time",
+    "user::mountain road trip timing"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "195a1a1b",
+   "keys": [
+    "user::onboarding at studytube",
+    "user::onboarding duration at studytube"
+   ],
+   "sizes": [
+    5,
+    1
+   ]
+  },
+  {
+   "qid": "58bf7951",
+   "keys": [
+    "user::is planning a trip to",
+    "user::plans to document trip"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "46a3abf7",
+   "keys": [
+    "user::finds interesting",
+    "user::finds it interesting that"
+   ],
+   "sizes": [
+    2,
+    1
+   ]
+  },
+  {
+   "qid": "078150f1",
+   "keys": [
+    "user::is planning a trip to",
+    "user::planning a road trip to"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_93159ced",
+   "keys": [
+    "user::is planning a photography trip to",
+    "user::is planning a trip to"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "720133ac",
+   "keys": [
+    "user::bought a pet grooming kit",
+    "user::wants a pet grooming kit"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "2698e78f_abs",
+   "keys": [
+    "user::is interested in visiting",
+    "user::would love to visit"
+   ],
+   "sizes": [
+    2,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_70e84552",
+   "keys": [
+    "user::kimchi recipe preference",
+    "user::recipe interest"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_68e94288",
+   "keys": [
+    "user::throw pillow color preference",
+    "user::throw pillow pattern preference"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "81507db6",
+   "keys": [
+    "user::finds writing short stories",
+    "user::recently started writing short stories again"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "9ea5eabc",
+   "keys": [
+    "user::requested format",
+    "user::requested speech format"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "80ec1f4f_abs",
+   "keys": [
+    "user::bathroom mirror",
+    "user::cleaned bathroom mirror"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "1b9b7252",
+   "keys": [
+    "user::has always wanted to attend",
+    "user::wants to attend"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  }
+ ]
+}

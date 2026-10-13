@@ -1,0 +1,1 @@
+[["user", "has servers", "k8s-master and k8s-node1"], ["k8s-master", "IP address", "172.28.128.10"], ["k8s-node1", "IP address", "172.28.128.11"], ["k8s-master", "operating system", "Ubuntu"], ["k8s-node1", "operating system", "Ubuntu"]]

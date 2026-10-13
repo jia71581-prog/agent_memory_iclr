@@ -1,0 +1,1 @@
+[["user", "is working on", "a Flask web application"], ["user", "has file", "job_posting.html"], ["user", "has file", "main.py"], ["user", "sees", "\"No jobs found\" message when running the app"], ["user", "asked about", "installing Bootstrap CSS"], ["user", "runs Flask app on", "port 3000"], ["user", "runs Flask app with", "debug=True"]]

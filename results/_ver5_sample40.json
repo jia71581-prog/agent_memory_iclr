@@ -1,0 +1,460 @@
+[
+ {
+  "qid": "c4f10528",
+  "shape": "RECALL.assistant",
+  "fired": [
+   "R1a"
+  ],
+  "type": "SSA",
+  "n_ev": 1,
+  "q": "I'm planning to visit Bandung again and I was wondering if you could remind me of the name of that restaurant in Cihampelas Walk that serves a great Nasi Goreng?",
+  "gold": "Miss Bee Providore"
+ },
+ {
+  "qid": "28bcfaac",
+  "shape": "RECALL.assistant",
+  "fired": [
+   "R1a",
+   "R1b",
+   "R1c",
+   "R1d"
+  ],
+  "type": "SSA",
+  "n_ev": 1,
+  "q": "I'm going back to our previous conversation about music theory. You mentioned some online resources for learning music theory. Can you remind me of the website you recommended for free lessons and exercises?",
+  "gold": "MusicTheory.net"
+ },
+ {
+  "qid": "c8f1aeed",
+  "shape": "RECALL.assistant",
+  "fired": [
+   "R1a",
+   "R1b",
+   "R1c",
+   "R1d"
+  ],
+  "type": "SSA",
+  "n_ev": 1,
+  "q": "I wanted to follow up on our previous conversation about fracking in the Marcellus Shale region. You mentioned that some states require fracking companies to monitor groundwater quality at nearby wells before drilling and for a certain period after drilling is complete. Can you remind me which state you mentioned as an example that has this requirement?",
+  "gold": "Pennsylvania"
+ },
+ {
+  "qid": "e8a79c70",
+  "shape": "RECALL.assistant",
+  "fired": [
+   "R1c"
+  ],
+  "type": "SSA",
+  "n_ev": 1,
+  "q": "I was going through our previous conversation about making a classic French omelette, and I wanted to confirm - how many eggs did you say we need for the recipe?",
+  "gold": "2-3 eggs"
+ },
+ {
+  "qid": "32260d93",
+  "shape": "PREF.advice",
+  "fired": [
+   "R2b"
+  ],
+  "type": "SSP",
+  "n_ev": 1,
+  "q": "Can you recommend a show or movie for me to watch tonight?",
+  "gold": "The user would prefer recommendations for stand-up comedy specials on Netflix, especially those that are known for their storytelling. They may not prefer recommendations for other genres or platforms."
+ },
+ {
+  "qid": "1da05512",
+  "shape": "PREF.advice",
+  "fired": [
+   "R2c"
+  ],
+  "type": "SSP",
+  "n_ev": 1,
+  "q": "I'm trying to decide whether to buy a NAS device now or wait. What do you think?",
+  "gold": "The user would prefer responses that take into account their current home network storage capacity issues and recent reliance on external hard drives, highlighting the potential benefits of a NAS device in addressing the"
+ },
+ {
+  "qid": "75f70248",
+  "shape": "PREF.advice",
+  "fired": [
+   "R2c"
+  ],
+  "type": "SSP",
+  "n_ev": 1,
+  "q": "I've been sneezing quite a bit lately. Do you think it might be my living room?",
+  "gold": "The user would prefer responses that consider the potential impact of their cat, Luna, and her shedding on their sneezing, as well as the recent deep clean of the living room and its possible effect on stirring up dust. "
+ },
+ {
+  "qid": "a3045048",
+  "shape": "TEMP.offset",
+  "fired": [
+   "R3e"
+  ],
+  "type": "TR",
+  "n_ev": 2,
+  "q": "How many days before my best friend's birthday party did I order her gift?",
+  "gold": "7 days. 8 days (including the last day) is also acceptable."
+ },
+ {
+  "qid": "08e075c7",
+  "shape": "TEMP.offset",
+  "fired": [
+   "R3d"
+  ],
+  "type": "KU",
+  "n_ev": 2,
+  "q": "How long have I been using my Fitbit Charge 3?",
+  "gold": "9 months"
+ },
+ {
+  "qid": "6613b389",
+  "shape": "TEMP.offset",
+  "fired": [
+   "R3e"
+  ],
+  "type": "TR",
+  "n_ev": 3,
+  "q": "How many months before my anniversary did Rachel get engaged?",
+  "gold": "2"
+ },
+ {
+  "qid": "f0853d11",
+  "shape": "TEMP.offset",
+  "fired": [
+   "R3b"
+  ],
+  "type": "TR",
+  "n_ev": 2,
+  "q": "How many days had passed between the 'Walk for Hunger' event and the 'Coastal Cleanup' event?",
+  "gold": "14 days. 8 days (including the last day) is also acceptable."
+ },
+ {
+  "qid": "gpt4_93f6379c",
+  "shape": "TEMP.order",
+  "fired": [
+   "R4a"
+  ],
+  "type": "TR",
+  "n_ev": 3,
+  "q": "Which group did I join first, 'Page Turners' or 'Marketing Professionals'?",
+  "gold": "Page Turners"
+ },
+ {
+  "qid": "gpt4_5438fa52",
+  "shape": "TEMP.order",
+  "fired": [
+   "R4a"
+  ],
+  "type": "TR",
+  "n_ev": 2,
+  "q": "Which event happened first, my attendance at a cultural festival or the start of my Spanish classes?",
+  "gold": "Spanish classes"
+ },
+ {
+  "qid": "gpt4_fe651585_abs",
+  "shape": "TEMP.order",
+  "fired": [
+   "R4a"
+  ],
+  "type": "TR",
+  "n_ev": 2,
+  "q": "Who became a parent first, Tom or Alex?",
+  "gold": "The information provided is not enough. You mentioned Alex becoming a parent in January, but you didn't mention anything about Tom."
+ },
+ {
+  "qid": "gpt4_5dcc0aab",
+  "shape": "TEMP.anchor",
+  "fired": [
+   "P3"
+  ],
+  "type": "TR",
+  "n_ev": 5,
+  "q": "Which pair of shoes did I clean last month?",
+  "gold": "white Adidas sneakers"
+ },
+ {
+  "qid": "gpt4_59149c78",
+  "shape": "TEMP.anchor",
+  "fired": [
+   "P1"
+  ],
+  "type": "TR",
+  "n_ev": 2,
+  "q": "I mentioned that I participated in an art-related event two weeks ago. Where was that event held at?",
+  "gold": "The Metropolitan Museum of Art."
+ },
+ {
+  "qid": "8ebdbe50",
+  "shape": "TEMP.anchor",
+  "fired": [
+   "P3"
+  ],
+  "type": "SSU",
+  "n_ev": 1,
+  "q": "What certification did I complete last month?",
+  "gold": "Data Science"
+ },
+ {
+  "qid": "gpt4_d12ceb0e",
+  "shape": "AGG.arith",
+  "fired": [
+   "Q3",
+   "R5d"
+  ],
+  "type": "MS",
+  "n_ev": 3,
+  "q": "What is the average age of me, my parents, and my grandparents?",
+  "gold": "59.6"
+ },
+ {
+  "qid": "3fe836c9",
+  "shape": "AGG.arith",
+  "fired": [
+   "Q2",
+   "R5a"
+  ],
+  "type": "MS",
+  "n_ev": 2,
+  "q": "How much more was the pre-approval amount than the final sale price of the house?",
+  "gold": "$25,000"
+ },
+ {
+  "qid": "cc06de0d",
+  "shape": "AGG.arith",
+  "fired": [
+   "Q2",
+   "R5a"
+  ],
+  "type": "MS",
+  "n_ev": 2,
+  "q": "For my daily commute, how much more expensive was the taxi ride compared to the train fare?",
+  "gold": "$6"
+ },
+ {
+  "qid": "gpt4_59c863d7",
+  "shape": "AGG.enum",
+  "fired": [
+   "Q1",
+   "E2",
+   "E3"
+  ],
+  "type": "MS",
+  "n_ev": 4,
+  "q": "How many model kits have I worked on or bought?",
+  "gold": "I have worked on or bought five model kits. The scales of the models are: Revell F-15 Eagle (scale not mentioned), Tamiya 1/48 scale Spitfire Mk.V, 1/16 scale German Tiger I tank, 1/72 scale B-29 bomber, and 1/24 scale '"
+ },
+ {
+  "qid": "8e91e7d9",
+  "shape": "AGG.enum",
+  "fired": [
+   "Q3",
+   "Q4",
+   "U3"
+  ],
+  "type": "MS",
+  "n_ev": 2,
+  "q": "What is the total number of siblings I have?",
+  "gold": "4"
+ },
+ {
+  "qid": "01493427",
+  "shape": "AGG.enum",
+  "fired": [
+   "Q1",
+   "W5",
+   "E3"
+  ],
+  "type": "KU",
+  "n_ev": 2,
+  "q": "How many new postcards have I added to my collection since I started collecting again?",
+  "gold": "25"
+ },
+ {
+  "qid": "87f22b4a",
+  "shape": "AGG.enum",
+  "fired": [
+   "Q2",
+   "W2",
+   "E2",
+   "E5"
+  ],
+  "type": "MS",
+  "n_ev": 2,
+  "q": "How much have I made from selling eggs this month?",
+  "gold": "$120"
+ },
+ {
+  "qid": "0f05491a",
+  "shape": "AGG.latest_count",
+  "fired": [
+   "Q1",
+   "T1"
+  ],
+  "type": "KU",
+  "n_ev": 2,
+  "q": "How many stars do I need to reach the gold level on my Starbucks Rewards app?",
+  "gold": "120"
+ },
+ {
+  "qid": "2311e44b",
+  "shape": "AGG.latest_count",
+  "fired": [
+   "Q1",
+   "T1",
+   "T3"
+  ],
+  "type": "MS",
+  "n_ev": 2,
+  "q": "How many pages do I have left to read in 'The Nightingale'?",
+  "gold": "190"
+ },
+ {
+  "qid": "c960da58",
+  "shape": "AGG.latest_count",
+  "fired": [
+   "Q1",
+   "T1"
+  ],
+  "type": "SSU",
+  "n_ev": 1,
+  "q": "How many playlists do I have on Spotify?",
+  "gold": "20"
+ },
+ {
+  "qid": "2698e78f_abs",
+  "shape": "LOOKUP.rate",
+  "fired": [
+   "R9a"
+  ],
+  "type": "KU",
+  "n_ev": 2,
+  "q": "How often do I see Dr. Johnson?",
+  "gold": "The information provided is not enough. You mentioned seeing Dr. Smith but not Dr. Johnson."
+ },
+ {
+  "qid": "945e3d21",
+  "shape": "LOOKUP.rate",
+  "fired": [
+   "R9a"
+  ],
+  "type": "KU",
+  "n_ev": 2,
+  "q": "How often do I attend yoga classes to help with my anxiety?",
+  "gold": "Three times a week."
+ },
+ {
+  "qid": "a4996e51",
+  "shape": "LOOKUP.rate",
+  "fired": [
+   "R9b"
+  ],
+  "type": "MS",
+  "n_ev": 2,
+  "q": "How many hours do I work in a typical week during peak campaign seasons?",
+  "gold": "50"
+ },
+ {
+  "qid": "031748ae",
+  "shape": "LOOKUP.latest",
+  "fired": [
+   "M_latest",
+   "Q1"
+  ],
+  "type": "KU",
+  "n_ev": 2,
+  "q": "How many engineers do I lead when I just started my new role as Senior Software Engineer? How many engineers do I lead now?",
+  "gold": "When you just started your new role as Senior Software Engineer, you led 4 engineers. Now, you lead 5 engineers"
+ },
+ {
+  "qid": "86f00804",
+  "shape": "LOOKUP.latest",
+  "fired": [
+   "M_latest"
+  ],
+  "type": "SSU",
+  "n_ev": 1,
+  "q": "What book am I currently reading?",
+  "gold": "The Seven Husbands of Evelyn Hugo"
+ },
+ {
+  "qid": "ed4ddc30",
+  "shape": "LOOKUP.latest",
+  "fired": [
+   "M_latest",
+   "Q1"
+  ],
+  "type": "KU",
+  "n_ev": 2,
+  "q": "How many dozen eggs do we currently have stocked up in our refrigerator?",
+  "gold": "20"
+ },
+ {
+  "qid": "c5e8278d",
+  "shape": "LOOKUP.history",
+  "fired": [
+   "M_history"
+  ],
+  "type": "SSU",
+  "n_ev": 1,
+  "q": "What was my last name before I changed it?",
+  "gold": "Johnson"
+ },
+ {
+  "qid": "dd2973ad",
+  "shape": "LOOKUP.history",
+  "fired": [
+   "M_history"
+  ],
+  "type": "MS",
+  "n_ev": 2,
+  "q": "What time did I go to bed on the day before I had a doctor's appointment?",
+  "gold": "2 AM"
+ },
+ {
+  "qid": "dccbc061",
+  "shape": "LOOKUP.history",
+  "fired": [
+   "M_history"
+  ],
+  "type": "SSU",
+  "n_ev": 1,
+  "q": "What was my previous stance on spirituality?",
+  "gold": "A staunch atheist"
+ },
+ {
+  "qid": "4fd1909e",
+  "shape": "LOOKUP.plain",
+  "fired": [],
+  "type": "SSU",
+  "n_ev": 1,
+  "q": "Where did I attend the Imagine Dragons concert?",
+  "gold": "Xfinity Center"
+ },
+ {
+  "qid": "gpt4_2c50253f",
+  "shape": "LOOKUP.plain",
+  "fired": [],
+  "type": "TR",
+  "n_ev": 2,
+  "q": "What time do I wake up on Tuesdays and Thursdays?",
+  "gold": "6:45 AM"
+ },
+ {
+  "qid": "91b15a6e",
+  "shape": "LOOKUP.plain",
+  "fired": [
+   "Q3"
+  ],
+  "type": "MS",
+  "n_ev": 2,
+  "q": "What is the minimum amount I could get if I sold the vintage diamond necklace and the antique vanity?",
+  "gold": "$5,150"
+ },
+ {
+  "qid": "66f24dbb",
+  "shape": "LOOKUP.plain",
+  "fired": [],
+  "type": "SSU",
+  "n_ev": 1,
+  "q": "What did I buy for my sister's birthday gift?",
+  "gold": "a yellow dress"
+ }
+]

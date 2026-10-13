@@ -1,0 +1,32 @@
+{
+ "rows": [
+  {
+   "op": "extract",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4305,
+   "completion_tokens": 177,
+   "reasoning_tokens": 0,
+   "cache_hit": 4096
+  },
+  {
+   "op": "extract-retry",
+   "model": "deepseek-flash",
+   "prompt_tokens": 4329,
+   "completion_tokens": 168,
+   "reasoning_tokens": 0,
+   "cache_hit": 4096
+  }
+ ],
+ "summary": {
+  "extract/deepseek-flash": {
+   "calls": 1,
+   "prompt": 4305,
+   "completion": 177
+  },
+  "extract-retry/deepseek-flash": {
+   "calls": 1,
+   "prompt": 4329,
+   "completion": 168
+  }
+ }
+}

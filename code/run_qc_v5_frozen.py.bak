@@ -1,0 +1,197 @@
+"""QC-Lifecycle 主方法 runner。
+
+管线:
+ 1. build_lifecycle(q) → 事实链 store(会话级内容哈希缓存,flash 抽取)
+ 2. classify_query(question) → current / historical / neutral(neutral 默认 current 视图)
+ 3. render_view(store, mode) → 生命周期视图文本
+ 4. BM25 检索原文轮 top-k(视图给结构化事实,原文轮给细节兜底;两者互补)
+ 5. deepseek-v4-pro 回答 → 双指标判分
+
+用法: python3 run_qc.py <N题> [--full500] [--ablate=no_lifecycle|no_qc|view_only]
+  no_lifecycle : 跳过视图,只用 BM25 原文(k 与主方法一致,归因对照)
+  no_qc        : 视图固定用 historical 模式(不做查询条件化,≈MemoryLACE 精神)
+  view_only    : 只给视图不给原文轮(测视图信息完备度)
+"""
+import json
+import os
+import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from common import load_dataset, answer_chat, token_f1, llm_judge, CostLedger, SHARED_ANSWER_PROMPT
+from query_classifier import classify_query
+from lifecycle import build_lifecycle, render_view
+from run_baseline import bm25_rank, stratified_sample
+
+N = 60
+ABLATE = None
+FULL = False
+V5 = os.environ.get("QC_V5") == "1"  # v5: 相关性排序视图截断 + 角色配额/会话扩展检索
+TOP_K = 20        # 视图已提供结构化事实,原文轮配额比基线小(归因对照 = qc_no_lifecycle 同 k)
+VIEW_CHAR_CAP = 20000
+V5_USER_QUOTA = 14   # v5 原文轮角色配额:用户轮/助手轮
+V5_ASST_QUOTA = 6
+V5_SESSION_AUG = 1   # 额外并入 session-BM25 最高分的 N 个会话的用户轮
+
+SYSTEM_PROMPT = SHARED_ANSWER_PROMPT  # 全臂统一(见 common.py 说明);来源差异只在上下文分节标题
+
+
+def _rank_view_lines(store, mode, question, cap):
+    """v5: 视图超出 cap 时按与问题的相关性保留链,而非按 entity::attribute 字母序。
+    v4 的字母序截断在 470/470 题上触发,平均丢弃 34% 的链,丢弃标准与问题无关。"""
+    keys = list(store)
+    if not keys:
+        return ""
+    texts = [" ".join(f"{c['entity']} {c['attribute']} {c['value']}" for c in store[k]) for k in keys]
+    order = bm25_rank(question, texts)
+    kept, total = [], 0
+    for i in order:
+        line = render_view({keys[i]: store[keys[i]]}, mode)
+        if total + len(line) + 1 > cap:
+            continue  # 跳过超预算的长链,继续尝试后面更短的
+        kept.append((i, line))
+        total += len(line) + 1
+    kept.sort(key=lambda x: x[0])  # 恢复原有稳定顺序,避免把相关性泄漏成位置线索
+    return "\n".join(l for _, l in kept)
+
+
+def _select_turns_v5(q, question, top_k):
+    """v5 检索:角色配额(用户轮优先)+ 最高分会话的用户轮并入。
+    依据:gold 证据轮召回 SSP 0.500->0.727 / MS 0.644->0.728 / TR 0.783->0.838(离线实测)。"""
+    units, by_sess = [], {}
+    for si, (date, sess) in enumerate(zip(q["haystack_dates"], q["haystack_sessions"])):
+        for t in sess:
+            if t.get("content"):
+                idx = len(units)
+                units.append((date, t["role"], t["content"], si))
+                by_sess.setdefault(si, []).append(idx)
+    if not units:
+        return units, []
+    order = bm25_rank(question, [u[2] for u in units])
+    user_idx = [i for i in order if units[i][1] != "assistant"]
+    asst_idx = [i for i in order if units[i][1] == "assistant"]
+    chosen = user_idx[:V5_USER_QUOTA] + asst_idx[:V5_ASST_QUOTA]
+    # 会话级 BM25(仅用户文本)选最高分会话,并入其用户轮
+    sess_ids = sorted(by_sess)
+    sess_text = [" ".join(units[i][2] for i in by_sess[s] if units[i][1] != "assistant") for s in sess_ids]
+    for rank in bm25_rank(question, sess_text)[:V5_SESSION_AUG]:
+        for i in by_sess[sess_ids[rank]]:
+            if units[i][1] != "assistant":
+                chosen.append(i)
+    # 去重并按 BM25 名次补齐/截断到预算轮数
+    seen, final = set(), []
+    for i in chosen:
+        if i not in seen:
+            seen.add(i)
+            final.append(i)
+    for i in order:
+        if len(final) >= top_k + 6:  # 会话扩展允许小幅超额,下方按字符预算再收
+            break
+        if i not in seen:
+            seen.add(i)
+            final.append(i)
+    return units, sorted(final[:top_k + 6])
+
+
+def answer_question(q, ledger):
+    label, fired = classify_query(q["question"])
+    mode = "historical" if label == "historical" else "current"
+    if ABLATE == "no_qc":
+        mode = "historical"
+
+    view_txt = ""
+    if ABLATE != "no_lifecycle":
+        store = build_lifecycle(q, ledger)
+        if V5:
+            view_txt = _rank_view_lines(store, mode, q["question"], VIEW_CHAR_CAP)
+        else:
+            view_txt = render_view(store, mode)
+            if len(view_txt) > VIEW_CHAR_CAP:  # 行边界截断(render_view 输出已确定性排序)
+                kept, total = [], 0
+                for line in view_txt.splitlines():
+                    if total + len(line) + 1 > VIEW_CHAR_CAP:
+                        break
+                    kept.append(line)
+                    total += len(line) + 1
+                view_txt = "\n".join(kept)
+
+    raw_txt = ""
+    if ABLATE != "view_only":
+        if V5:
+            units, sel = _select_turns_v5(q, q["question"], TOP_K)
+            raw_txt = "\n".join(f"[{units[i][0]}] [{units[i][1]}] {units[i][2]}" for i in sel)
+        else:
+            units = []
+            for date, sess in zip(q["haystack_dates"], q["haystack_sessions"]):
+                for t in sess:
+                    if t.get("content"):
+                        units.append((date, t["role"], t["content"]))
+            order = sorted(bm25_rank(q["question"], [u[2] for u in units])[:TOP_K])
+            raw_txt = "\n".join(f"[{units[i][0]}] [{units[i][1]}] {units[i][2]}" for i in order)
+
+    parts = []
+    if view_txt:
+        head = ("Current-state fact view (latest value per fact; [CONFLICT] marks values reported "
+                "at the same time that could not be ordered)"
+                if mode == "current" else
+                "Fact evolution view (full value history per fact, oldest -> newest)")
+        parts.append(f"### {head}\n{view_txt}")
+    if raw_txt:
+        parts.append(f"### Retrieved raw conversation turns\n{raw_txt}")
+    ctx = "\n\n".join(parts)
+
+    ans = answer_chat(SYSTEM_PROMPT,
+                      f"{ctx}\n\nQuestion (asked on {q['question_date']}): {q['question']}",
+                      ledger, op="answer/qc")
+    return ans, label, mode
+
+
+def main():
+    data = load_dataset("s_cleaned")
+    sample = data if FULL else stratified_sample(data, N)
+    tag = f"qc{'_' + ABLATE if ABLATE else ''}"
+    ledger = CostLedger()
+    results = []
+    for i, q in enumerate(sample):
+        try:
+            ans, label, mode = answer_question(q, ledger)
+            f1 = token_f1(ans, q["answer"])
+            correct = llm_judge(q["question"], q["question_type"], q["answer"], ans, ledger=ledger)
+        except Exception as e:
+            print(f"[{i+1}] ERROR {q['question_id']}: {e}", flush=True)
+            results.append({"qid": q["question_id"], "type": q["question_type"], "error": str(e)})
+            continue
+        results.append({"qid": q["question_id"], "type": q["question_type"],
+                        "qlabel": label, "view_mode": mode,
+                        "f1": round(f1, 3), "judge": bool(correct), "pred": ans[:4000]})
+        print(f"[{i+1}/{len(sample)}] {q['question_type'][:22]:22s} q={label[:4]} judge={'Y' if correct else 'N'} f1={f1:.2f}", flush=True)
+
+    ok = [r for r in results if "judge" in r]
+    by_type = {}
+    for r in ok:
+        s = by_type.setdefault(r["type"], {"n": 0, "judge": 0, "f1": 0.0})
+        s["n"] += 1
+        s["judge"] += r["judge"]
+        s["f1"] += r["f1"]
+    print(f"\n=== {tag} | n={len(ok)} ===")
+    for t, s in sorted(by_type.items()):
+        print(f"{t:28s} n={s['n']:3d} judge_acc={s['judge']/s['n']:.3f} f1={s['f1']/s['n']:.3f}")
+    total = sum(r["judge"] for r in ok) / max(1, len(ok))
+    print(f"总体 judge_acc={total:.3f}")
+    out = f"/root/agent_memory_iclr/results/{tag}_n{len(sample)}.json"
+    with open(out, "w") as f:
+        json.dump({"system": tag, "results": results,
+                   "by_type": {t: {"n": s["n"], "judge_acc": s["judge"]/s["n"], "f1": s["f1"]/s["n"]}
+                                for t, s in by_type.items()},
+                   "total_judge_acc": total, "cost": ledger.summary()}, f, ensure_ascii=False, indent=1)
+    print("saved:", out)
+
+
+if __name__ == "__main__":
+    for a in sys.argv[1:]:
+        if a.startswith("--ablate="):
+            ABLATE = a.split("=", 1)[1]
+        elif a == "--full500":
+            FULL = True
+        else:
+            N = int(a)
+    main()

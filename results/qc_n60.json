@@ -1,0 +1,590 @@
+{
+ "system": "qc",
+ "results": [
+  {
+   "qid": "6a1eabeb",
+   "type": "knowledge-update",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": true,
+   "pred": "Your memory shows two different personal best times for a charity 5K:\n\n- **27:12** — mentioned on May 23\n- **25:50** — mentioned on May 30\n\nYour latest stated personal best was **25:50**."
+  },
+  {
+   "qid": "0a995998",
+   "type": "multi-session",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "You have **1 item of clothing to pick up from a store**: the exchanged larger-size boots at **Zara**."
+  },
+  {
+   "qid": "7161e7e2",
+   "type": "single-session-assistant",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.556,
+   "judge": true,
+   "pred": "Admon was assigned to the **Sunday 8 am – 4 pm (Day Shift)** in the final GM social media agent rotation sheet."
+  },
+  {
+   "qid": "8a2466db",
+   "type": "single-session-preference",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.128,
+   "judge": true,
+   "pred": "Based on your interest in Adobe Premiere Pro and color grading, here are some resources to learn more about video editing:\n\n- **Adobe’s official documentation and tutorials** for Premiere Pro\n- **YouT"
+  },
+  {
+   "qid": "e47becba",
+   "type": "single-session-user",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.2,
+   "judge": true,
+   "pred": "You graduated with a degree in Business Administration."
+  },
+  {
+   "qid": "gpt4_59149c77",
+   "type": "temporal-reasoning",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.154,
+   "judge": true,
+   "pred": "7 days passed between your visit to the Museum of Modern Art (MoMA) on 2023/01/08 and the “Ancient Civilizations” exhibit at the Metropolitan Museum of Art on 2023/01/15."
+  },
+  {
+   "qid": "6aeb4375",
+   "type": "knowledge-update",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": true,
+   "pred": "You’ve mentioned trying **four different Korean restaurants** in your city so far."
+  },
+  {
+   "qid": "6d550036",
+   "type": "multi-session",
+   "qlabel": "current",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": true,
+   "pred": "Based on the context, you have explicitly led or are currently leading **2 projects**:\n\n1. **Marketing Research class project** — you led the data analysis team.  \n2. **Current product feature launch*"
+  },
+  {
+   "qid": "c4f10528",
+   "type": "single-session-assistant",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.667,
+   "judge": true,
+   "pred": "Miss Bee Providore."
+  },
+  {
+   "qid": "06878be2",
+   "type": "single-session-preference",
+   "qlabel": "current",
+   "view_mode": "current",
+   "f1": 0.115,
+   "judge": true,
+   "pred": "Based on your current photography setup — Sony A7R IV, Sony 24-70mm f/2.8 lens, and Godox V1 flash — accessories that would complement it include:\n\n- A comfortable, durable Sony-specific camera bag li"
+  },
+  {
+   "qid": "118b2229",
+   "type": "single-session-user",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.5,
+   "judge": true,
+   "pred": "Your daily commute is 45 minutes each way."
+  },
+  {
+   "qid": "gpt4_f49edff3",
+   "type": "temporal-reasoning",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.456,
+   "judge": true,
+   "pred": "From first to last:\n\n1. The day you helped your friend prepare the nursery — 2023-02-05  \n2. The day you helped your cousin pick out stuff for her baby shower — 2023-02-10  \n3. The day you ordered a c"
+  },
+  {
+   "qid": "830ce83f",
+   "type": "knowledge-update",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "Rachel recently moved to a new apartment in Chicago."
+  },
+  {
+   "qid": "gpt4_59c863d7",
+   "type": "multi-session",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.292,
+   "judge": false,
+   "pred": "Based on what you've shared, you’ve worked on or bought **4 model kits**:\n\n1. **Revell F-15 Eagle** — picked up in late April and finished  \n2. **1/24 scale '69 Camaro** — acquired at a model show  \n3"
+  },
+  {
+   "qid": "89527b6b",
+   "type": "single-session-assistant",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": true,
+   "pred": "Blue."
+  },
+  {
+   "qid": "75832dbd",
+   "type": "single-session-preference",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.211,
+   "judge": false,
+   "pred": "Based on your interests in deep learning for medical image analysis, explainable AI, and multi-agent/multi-modal reinforcement learning, relevant conferences and publications likely include:\n\n- **Medi"
+  },
+  {
+   "qid": "51a45a95",
+   "type": "single-session-user",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": true,
+   "pred": "At Target."
+  },
+  {
+   "qid": "71017276",
+   "type": "temporal-reasoning",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.25,
+   "judge": true,
+   "pred": "4 weeks ago (on March 4, 2023)."
+  },
+  {
+   "qid": "852ce960",
+   "type": "knowledge-update",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "You were pre-approved for **$350,000** from Wells Fargo."
+  },
+  {
+   "qid": "b5ef892d",
+   "type": "multi-session",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": true,
+   "pred": "Based on what you’ve shared, you spent **8 days** on camping trips in the United States this year:\n\n- **5 days** camping in Yellowstone National Park last month\n- **3 days** solo camping in Big Sur in"
+  },
+  {
+   "qid": "e9327a54",
+   "type": "single-session-assistant",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.5,
+   "judge": true,
+   "pred": "The Sugar Factory at Icon Park — that’s the one with the giant milkshakes."
+  },
+  {
+   "qid": "0edc2aef",
+   "type": "single-session-preference",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.123,
+   "judge": false,
+   "pred": "I don't have any details about your Miami trip or hotel preferences for Miami, so I can't suggest a specific hotel. If you share your preferences or requirements, I can help."
+  },
+  {
+   "qid": "58bf7951",
+   "type": "single-session-user",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.667,
+   "judge": true,
+   "pred": "The Glass Menagerie."
+  },
+  {
+   "qid": "b46e15ed",
+   "type": "temporal-reasoning",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don't know — the memory doesn’t record two charity events occurring on consecutive days."
+  },
+  {
+   "qid": "945e3d21",
+   "type": "knowledge-update",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.129,
+   "judge": true,
+   "pred": "You currently attend yoga classes **three times a week**. You’ve mentioned that yoga helps clear your head, and you feel more focused on days when you attend."
+  },
+  {
+   "qid": "e831120c",
+   "type": "multi-session",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.071,
+   "judge": true,
+   "pred": "You watched the Marvel Cinematic Universe movies in about **2 weeks** and the main Star Wars films in about **1.5 weeks**, so roughly **3.5 weeks total**."
+  },
+  {
+   "qid": "4c36ccef",
+   "type": "single-session-assistant",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.154,
+   "judge": true,
+   "pred": "Roscioli was the restaurant I recommended for a romantic dinner in Rome."
+  },
+  {
+   "qid": "35a27287",
+   "type": "single-session-preference",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.085,
+   "judge": false,
+   "pred": "I don’t know — I don’t have your location or any specific cultural events around you this weekend in my context."
+  },
+  {
+   "qid": "1e043500",
+   "type": "single-session-user",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": true,
+   "pred": "Your Spotify playlist is called **Summer Vibes**."
+  },
+  {
+   "qid": "gpt4_fa19884c",
+   "type": "temporal-reasoning",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.182,
+   "judge": true,
+   "pred": "6 days passed between March 25, 2023, and March 31, 2023."
+  },
+  {
+   "qid": "d7c942c3",
+   "type": "knowledge-update",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": true,
+   "pred": "Yes, your mom is using the same grocery list app as you now, and you can share lists with her."
+  },
+  {
+   "qid": "3a704032",
+   "type": "multi-session",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "Based on your notes, you acquired **2 plants** in the last month:\n\n1. **Peace lily** — brought home on May 24.\n2. **Snake plant** — got from your sister, noted as acquired “last month.”"
+  },
+  {
+   "qid": "6ae235be",
+   "type": "single-session-assistant",
+   "qlabel": "historical",
+   "view_mode": "historical",
+   "f1": 0.258,
+   "judge": true,
+   "pred": "At the Lake Charles Refinery, the main refining processes are:\n\n- Atmospheric distillation\n- Fluid catalytic cracking (FCC)\n- Alkylation\n- Hydrotreating"
+  },
+  {
+   "qid": "32260d93",
+   "type": "single-session-preference",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.1,
+   "judge": false,
+   "pred": "Based on your interest in the true crime genre, you might enjoy a true crime documentary or series tonight. While I don't have specific titles from our previous conversation, popular options include *"
+  },
+  {
+   "qid": "c5e8278d",
+   "type": "single-session-user",
+   "qlabel": "historical",
+   "view_mode": "historical",
+   "f1": 1.0,
+   "judge": true,
+   "pred": "Johnson"
+  },
+  {
+   "qid": "0bc8ad92",
+   "type": "temporal-reasoning",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.105,
+   "judge": true,
+   "pred": "About 5 months have passed since you last visited a museum with a friend (Science Museum on 2022/10/22)."
+  },
+  {
+   "qid": "71315a70",
+   "type": "knowledge-update",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": true,
+   "pred": "As of 2023/06/17, you mentioned you’ve spent **10–12 hours** on your abstract ocean sculpture."
+  },
+  {
+   "qid": "gpt4_d84a3211",
+   "type": "multi-session",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "Based on your recorded expenses, you’ve spent **$65** on bike-related items since the start of the year:\n\n- Bike chain replacement: **$25**\n- Bike lights: **$40**\n\nCosts for the helmet and tune-up wer"
+  },
+  {
+   "qid": "7e00a6cb",
+   "type": "single-session-assistant",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.25,
+   "judge": true,
+   "pred": "The hostel near the Red Light District I recommended was **International Budget Hostel**."
+  },
+  {
+   "qid": "195a1a1b",
+   "type": "single-session-preference",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.044,
+   "judge": true,
+   "pred": "Based on your interests, here are some evening activities you might enjoy:\n\n- **Guitar practice**: Try experimenting with chorus and phaser effects.\n- **Knitting**: Work on your next beanie project wi"
+  },
+  {
+   "qid": "6ade9755",
+   "type": "single-session-user",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.1,
+   "judge": true,
+   "pred": "You take yoga classes at **Serenity Yoga**, and you also practice at home with the **Down Dog** app."
+  },
+  {
+   "qid": "af082822",
+   "type": "temporal-reasoning",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.5,
+   "judge": true,
+   "pred": "2 weeks ago."
+  },
+  {
+   "qid": "89941a93",
+   "type": "knowledge-update",
+   "qlabel": "current",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": true,
+   "pred": "You currently own **4 bikes**: your road bike, mountain bike, commuter bike, and a new hybrid bike you recently purchased."
+  },
+  {
+   "qid": "aae3761f",
+   "type": "multi-session",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.128,
+   "judge": true,
+   "pred": "Based on your driving times for three road trip destinations:\n\n- Tennessee mountains: **5 hours**\n- Outer Banks, North Carolina: **4 hours**\n- Washington D.C.: **6 hours**\n\n**Total driving time: 15 ho"
+  },
+  {
+   "qid": "1903aded",
+   "type": "single-session-assistant",
+   "qlabel": "historical",
+   "view_mode": "historical",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don’t have the list of work-from-home jobs for seniors in the provided context, so I can’t confirm the 7th job."
+  },
+  {
+   "qid": "afdc33df",
+   "type": "single-session-preference",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.198,
+   "judge": true,
+   "pred": "Based on what you’ve shared, a few tailored tips:\n\n- Use your new utensil holder and dividers to keep counters clutter-free.\n- Wipe down the granite countertop daily with a soft cloth and mild cleaner"
+  },
+  {
+   "qid": "6f9b354f",
+   "type": "single-session-user",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.533,
+   "judge": true,
+   "pred": "You repainted your bedroom walls a lighter shade of gray."
+  },
+  {
+   "qid": "gpt4_4929293a",
+   "type": "temporal-reasoning",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.25,
+   "judge": true,
+   "pred": "Michael’s engagement party happened first, on 2023/05/06, before your cousin’s wedding on 2023/06/15."
+  },
+  {
+   "qid": "ce6d2d27",
+   "type": "knowledge-update",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": true,
+   "pred": "You’ve mentioned both Thursday and Friday; your most recent messages say Friday."
+  },
+  {
+   "qid": "gpt4_f2262a51",
+   "type": "multi-session",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.24,
+   "judge": true,
+   "pred": "3 different doctors: Dr. Smith, Dr. Patel, and Dr. Lee."
+  },
+  {
+   "qid": "ceb54acb",
+   "type": "single-session-assistant",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.065,
+   "judge": true,
+   "pred": "The other four alternative terms were:\n\n1. **Sexual fixations**\n2. **Problematic sexual behaviors**\n3. **Sexual impulsivity**\n4. **Compulsive sexuality**"
+  },
+  {
+   "qid": "caf03d32",
+   "type": "single-session-preference",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.159,
+   "judge": false,
+   "pred": "Yes—based on what you’ve shared, you’re still getting the hang of slow cooking, so a few tips can help:\n\n- Don’t lift the lid during cooking; it releases heat and adds time.\n- Fill the slow cooker onl"
+  },
+  {
+   "qid": "58ef2f1c",
+   "type": "single-session-user",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": true,
+   "pred": "You mentioned volunteering at the “Love is in the Air” fundraising dinner on Valentine’s Day, back in February."
+  },
+  {
+   "qid": "gpt4_b5700ca9",
+   "type": "temporal-reasoning",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.4,
+   "judge": true,
+   "pred": "4 days ago."
+  },
+  {
+   "qid": "9ea5eabc",
+   "type": "knowledge-update",
+   "qlabel": "current",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "Your most recent family trip was to Hawaii."
+  },
+  {
+   "qid": "dd2973ad",
+   "type": "multi-session",
+   "qlabel": "historical",
+   "view_mode": "historical",
+   "f1": 0.0,
+   "judge": true,
+   "pred": "You went to bed at **2 AM**."
+  },
+  {
+   "qid": "f523d9fe",
+   "type": "single-session-assistant",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": true,
+   "pred": "Yes, you used **\"Doc Martin\"** as the example — you said it went down after a while, and only the last season remained available."
+  },
+  {
+   "qid": "54026fce",
+   "type": "single-session-preference",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.155,
+   "judge": false,
+   "pred": "Consider suggesting a weekly **virtual coffee break** with your team. Frame it as a collaborative idea in your next team meeting:\n\n1. Open with a question, like *“How can we stay connected while worki"
+  },
+  {
+   "qid": "f8c5f88b",
+   "type": "single-session-user",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.267,
+   "judge": true,
+   "pred": "You bought your new tennis racket from a sports store downtown."
+  },
+  {
+   "qid": "9a707b81",
+   "type": "temporal-reasoning",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.085,
+   "judge": false,
+   "pred": "You attended the baking class at the local culinary school on **March 20, 2022**. As of **April 15, 2022**, that was **26 days ago**.\n\nFor reference, you baked your friend’s birthday cake on **April 1"
+  }
+ ],
+ "by_type": {
+  "knowledge-update": {
+   "n": 10,
+   "judge_acc": 0.7,
+   "f1": 0.0129
+  },
+  "multi-session": {
+   "n": 10,
+   "judge_acc": 0.6,
+   "f1": 0.0731
+  },
+  "single-session-assistant": {
+   "n": 10,
+   "judge_acc": 0.9,
+   "f1": 0.24499999999999997
+  },
+  "single-session-preference": {
+   "n": 10,
+   "judge_acc": 0.4,
+   "f1": 0.1318
+  },
+  "single-session-user": {
+   "n": 10,
+   "judge_acc": 1.0,
+   "f1": 0.3267
+  },
+  "temporal-reasoning": {
+   "n": 10,
+   "judge_acc": 0.8,
+   "f1": 0.23820000000000002
+  }
+ },
+ "total_judge_acc": 0.7333333333333333,
+ "cost": {
+  "answer/qc/deepseek-v4-pro": {
+   "calls": 60,
+   "prompt": 648684,
+   "completion": 35960
+  },
+  "judge/deepseek-v4-pro": {
+   "calls": 60,
+   "prompt": 15564,
+   "completion": 7794
+  }
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "acc": 0.9,
+ "results": [
+  {
+   "qid": "6a1eabeb",
+   "judge": true,
+   "f1": 0.25,
+   "gold": "25 minutes and 50 seconds (or 25:50)",
+   "pred": "Your personal best 5K time was **25:50**."
+  },
+  {
+   "qid": "6aeb4375",
+   "judge": true,
+   "f1": 0.182,
+   "gold": "four",
+   "pred": "You’ve tried four different Korean restaurants in your city."
+  },
+  {
+   "qid": "830ce83f",
+   "judge": true,
+   "f1": 0.091,
+   "gold": "the suburbs",
+   "pred": "Rachel recently moved back to the suburbs (as of the latest available update). Earlier she had moved to a new apartment in the city/Chicago."
+  },
+  {
+   "qid": "852ce960",
+   "judge": false,
+   "f1": 0.167,
+   "gold": "$400,000",
+   "pred": "You were pre-approved for **$350,000** from Wells Fargo."
+  },
+  {
+   "qid": "945e3d21",
+   "judge": true,
+   "f1": 0.24,
+   "gold": "Three times a week.",
+   "pred": "You attend yoga classes **three times a week**; you’ve mentioned it helps clear your head and feel more grounded on anxious days."
+  },
+  {
+   "qid": "d7c942c3",
+   "judge": true,
+   "f1": 0.067,
+   "gold": "Yes.",
+   "pred": "Yes, your mom is using the same grocery list app as you. You mentioned on April 30, 2023 that she now uses the same app, so you can share lists easily"
+  },
+  {
+   "qid": "71315a70",
+   "judge": true,
+   "f1": 0.3,
+   "gold": "10-12 hours",
+   "pred": "You’ve spent 10–12 hours on your abstract ocean sculpture. It’s still a work in progress."
+  },
+  {
+   "qid": "89941a93",
+   "judge": true,
+   "f1": 0.0,
+   "gold": "4",
+   "pred": "You currently own **four bikes**: a road bike, a mountain bike, a commuter bike, and a new hybrid bike."
+  },
+  {
+   "qid": "ce6d2d27",
+   "judge": true,
+   "f1": 0.0,
+   "gold": "Friday",
+   "pred": "Fridays."
+  },
+  {
+   "qid": "9ea5eabc",
+   "judge": true,
+   "f1": 1.0,
+   "gold": "Paris",
+   "pred": "Paris."
+  }
+ ],
+ "cost": {
+  "answer/qc/deepseek-v4-pro": {
+   "calls": 10,
+   "prompt": 108403,
+   "completion": 3744
+  },
+  "judge/deepseek-v4-pro": {
+   "calls": 10,
+   "prompt": 2186,
+   "completion": 584
+  }
+ }
+}

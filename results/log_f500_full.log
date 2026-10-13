@@ -1,0 +1,10 @@
+full: total 500, done 500, todo 0
+=== full full500 ===
+knowledge-update             n= 78 acc=0.949
+multi-session                n=133 acc=0.677
+single-session-assistant     n= 56 acc=0.964
+single-session-preference    n= 30 acc=0.333
+single-session-user          n= 70 acc=0.986
+temporal-reasoning           n=133 acc=0.842
+TOTAL n=500 acc=0.818
+FULL500 full DONE

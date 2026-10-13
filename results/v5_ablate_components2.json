@@ -1,0 +1,42 @@
+{
+ "A qform=0 sweep=1 intext=1": {
+  "deltaTL": 0.75,
+  "deltaLiteral": 0.75,
+  "ord_computable": 0.627906976744186,
+  "ord_correct_of_all": 0.3953488372093023,
+  "same_day_split": 28,
+  "anchor_hit": 0.9047619047619048,
+  "datesPres": 0.9478696741854636,
+  "chars": 2326
+ },
+ "B qform=0 sweep=0 intext=1": {
+  "deltaTL": 0.75,
+  "deltaLiteral": 0.75,
+  "ord_computable": 0.627906976744186,
+  "ord_correct_of_all": 0.3953488372093023,
+  "same_day_split": 28,
+  "anchor_hit": 0.9047619047619048,
+  "datesPres": 0.9478696741854636,
+  "chars": 2326
+ },
+ "C qform=0 sweep=1 intext=0": {
+  "deltaTL": 0.6166666666666667,
+  "deltaLiteral": 0.6833333333333333,
+  "ord_computable": 0.4883720930232558,
+  "ord_correct_of_all": 0.18604651162790697,
+  "same_day_split": 0,
+  "anchor_hit": 0.9047619047619048,
+  "datesPres": 0.9478696741854636,
+  "chars": 1308
+ },
+ "D qform=1 sweep=1 intext=1": {
+  "deltaTL": 0.7166666666666667,
+  "deltaLiteral": 0.7166666666666667,
+  "ord_computable": 0.627906976744186,
+  "ord_correct_of_all": 0.3953488372093023,
+  "same_day_split": 28,
+  "anchor_hit": 0.9047619047619048,
+  "datesPres": 0.9368421052631579,
+  "chars": 2110
+ }
+}

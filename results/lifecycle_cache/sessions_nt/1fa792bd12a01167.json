@@ -1,0 +1,1 @@
+[["user", "wants", "all network adapters copied from old VM config to new one 100% as-is"], ["user", "wants", "any additional vhdx files from old VM config re-attached to new one"], ["user", "wants", "the converted vhdx omitted when re-attaching disks"]]

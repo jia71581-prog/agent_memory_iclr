@@ -1,0 +1,181 @@
+config                    chains med    p90  reduction    edges  view_cur med
+v5 default(R1+R2+R4')          298.0    342     0.055    12862         29615
+R1+R2 only                     298.0    342     0.055    12860         29615
++R3 jaccard 0.6                294.0    337     0.067    15031         29376
++R3 jaccard 0.5                290.0    332     0.080    17601         29084
+v4 (no merge)                  316.5    358     0.000        0         30397
+
+head-merge CEILING (merge all same (entity,head)): chains median 224.0 (v4 316.5, reduction 0.292); largest head bucket median 10
+share of v4 chains whose (entity,head) is UNIQUE in that question: median 0.554  -> upper bound on any head-based merging
+
+=== sample FINAL: pool 5909 clusters, drew 30 ===
+[1] gpt4_4929293a rules=R1 sizes=[2, 1, 4]
+      user::is watching
+      user::watched
+      user::watches
+[2] d905b33f rules=R1 sizes=[1, 1]
+      user::attended
+      user::is attending
+[3] 61f8c8f8 rules=R1 sizes=[2, 1, 13]
+      user::is planning
+      user::planning
+      user::plans to
+[4] gpt4_45189cb4 rules=R1 sizes=[7, 2]
+      user::attended
+      user::recently attended
+[5] d905b33f rules=R1 sizes=[2, 1]
+      user::received
+      user::recently received
+[6] gpt4_e414231f rules=R1 sizes=[1, 14, 6, 1]
+      user::hopes to
+      user::wants
+      user::wants to
+      user::wish
+[7] a3045048 rules=R1 sizes=[1, 1]
+      user::brother
+      user::has a brother
+[8] 6b7dfb22 rules=R1 sizes=[5, 7]
+      user::considering
+      user::is considering
+[9] dccbc061 rules=R1 sizes=[4, 2, 1]
+      user::attended
+      user::has been attending
+      user::recently attended
+[10] 89527b6b rules=R1 sizes=[1, 1]
+      user::interested in trying
+      user::is interested in trying
+[11] 75499fd8 rules=R1 sizes=[1, 1, 3]
+      user::has been using
+      user::is using
+      user::uses
+[12] gpt4_93159ced_abs rules=R1 sizes=[2, 2]
+      user::considering
+      user::considers
+[13] d24813b1 rules=R1 sizes=[1, 1]
+      user::is planning to make
+      user::plans to make
+[14] gpt4_fe651585 rules=R1 sizes=[3, 1]
+      user::attended
+      user::has been attending
+[15] b01defab rules=R1 sizes=[3, 6, 14, 5]
+      user::expressed interest in
+      user::interest in
+      user::interested in
+      user::is interested in
+[16] ec81a493 rules=R1 sizes=[1, 6, 2]
+      user::hopes
+      user::wants
+      user::wants to
+[17] cc6d1ec1 rules=R1 sizes=[1, 1]
+      user::listening to
+      user::listens to
+[18] cc539528 rules=R1 sizes=[1, 1, 1]
+      user::has played
+      user::played
+      user::recently played
+[19] d596882b rules=R1 sizes=[1, 2]
+      user::attended
+      user::recently attended
+[20] f4f1d8a4 rules=R1 sizes=[1, 1]
+      user::new project
+      user::project
+[21] ccb36322 rules=R1 sizes=[2, 1]
+      user::greatgrandfathers navigation tool
+      user::has a greatgrandfathers navigation tool
+[22] a96c20ee_abs rules=R1 sizes=[2, 1, 1, 1]
+      user::interest
+      user::liked
+      user::likes
+      user::prefers
+[23] 1d4e3b97 rules=R1 sizes=[1, 1, 2]
+      user::considering buying
+      user::considering getting
+      user::is considering buying
+[24] 8ebdbe50 rules=R1 sizes=[3, 1]
+      user::attended
+      user::recently attended
+[25] 6071bd76 rules=R1 sizes=[1, 1]
+      user::definition of unlikely
+      user::definition of very unlikely
+[26] gpt4_61e13b3c rules=R1 sizes=[2, 1]
+      user::concern about
+      user::is concerned about
+[27] gpt4_fa19884c rules=R1 sizes=[1, 1, 1]
+      user::is planning
+      user::plans to do
+      user::plans to mention
+[28] 58bf7951 rules=R1 sizes=[2, 1]
+      user::wants product descriptions to
+      user::wants product descriptions to be
+[29] 75832dbd rules=R1 sizes=[1, 3]
+      user::is planning to use
+      user::plans to use
+[30] 5a4f22c0 rules=R1 sizes=[2, 2, 1]
+      user::wants
+      user::wants to
+      user::wants to do
+
+=== R3-attributable clusters: pool 1742, drew 20 ===
+[1] c8090214_abs sizes=[2, 1]
+      user::plans to include in the listing
+      user::plans to mention in the listing
+[2] gpt4_f2262a51 sizes=[1, 1]
+      user::screening and checkup service hours
+      user::screening service hours
+[3] f9e8c073 sizes=[4, 2]
+      user::is interested in using
+      user::likes the idea of using
+[4] f685340e_abs sizes=[1, 1]
+      lollipop json::element fields include
+      lollipop json::shape element fields include
+[5] e25c3b8d sizes=[1, 1]
+      user::converse chuck taylor all star sneakers
+      user::wore converse chuck taylor all star sneakers to
+[6] fca70973 sizes=[1, 1, 1]
+      user::is planning a trip to
+      user::is planning to book a trip to
+      user::plans trip to
+[7] e4e14d04 sizes=[1, 1]
+      user::favorite characters in the seven husbands of evelyn hugo
+      user::favorite part of the seven husbands of evelyn hugo
+[8] caf03d32 sizes=[1, 1]
+      user::ordered throw pillows
+      user::throw pillows
+[9] 58bf7951 sizes=[1, 1]
+      user::is planning a trip to
+      user::plans to document trip
+[10] 28dc39ac sizes=[1, 1]
+      user::completion time for the last of us part ii
+      user::time spent completing the last of us part ii
+[11] efc3f7c2 sizes=[1, 1, 2, 1]
+      user::is planning a road trip to
+      user::planned day trip
+      user::planning a trip to
+      user::plans trip to
+[12] c8090214 sizes=[1, 1]
+      user::iphone 13 pro purchase price
+      user::iphone 13 pro regular price
+[13] 92a0aa75 sizes=[1, 1]
+      user::desired alternate executor
+      user::desired executor
+[14] 07741c45 sizes=[1, 2]
+      user::finds grey tshirt
+      user::purchased grey tshirt
+[15] gpt4_2d58bcd6 sizes=[1, 1]
+      user::considering making
+      user::will consider making
+[16] gpt4_2312f94c sizes=[1, 1]
+      user::decision on wireless charging pad
+      user::owns wireless charging pad
+[17] 80ec1f4f_abs sizes=[1, 1]
+      user::finds cutting back on social media
+      user::finds social media
+[18] 4d6b87c8 sizes=[1, 1]
+      user::planned milk for peanut butter banana overnight oats
+      user::planned peanut butter for peanut butter banana overnight oats
+[19] edced276_abs sizes=[1, 1]
+      user::got a new snake plant
+      user::snake plant
+[20] 51b23612 sizes=[1, 1]
+      user::favorite characters in the last of us part ii
+      user::favorite moment in the last of us part ii

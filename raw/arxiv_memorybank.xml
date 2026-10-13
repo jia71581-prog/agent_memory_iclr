@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/Lf5ABliqmZpD5dtz40Xn7GRs0FM</id>
+  <title>arXiv Query: search_query=all:"MemoryBank"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-09-16T09:25:28Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=all:%22MemoryBank%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>3</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2305.10250v3</id>
+    <title>MemoryBank: Enhancing Large Language Models with Long-Term Memory</title>
+    <updated>2023-05-21T06:20:28Z</updated>
+    <link href="https://arxiv.org/abs/2305.10250v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2305.10250v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Revolutionary advancements in Large Language Models have drastically reshaped our interactions with artificial intelligence systems. Despite this, a notable hindrance remains-the deficiency of a long-term memory mechanism within these models. This shortfall becomes increasingly evident in situations demanding sustained interaction, such as personal companion systems and psychological counseling. Therefore, we propose MemoryBank, a novel memory mechanism tailored for LLMs. MemoryBank enables the models to summon relevant memories, continually evolve through continuous memory updates, comprehend, and adapt to a user personality by synthesizing information from past interactions. To mimic anthropomorphic behaviors and selectively preserve memory, MemoryBank incorporates a memory updating mechanism, inspired by the Ebbinghaus Forgetting Curve theory, which permits the AI to forget and reinforce memory based on time elapsed and the relative significance of the memory, thereby offering a human-like memory mechanism. MemoryBank is versatile in accommodating both closed-source models like ChatGPT and open-source models like ChatGLM. We exemplify application of MemoryBank through the creation of an LLM-based chatbot named SiliconFriend in a long-term AI Companion scenario. Further tuned with psychological dialogs, SiliconFriend displays heightened empathy in its interactions. Experiment involves both qualitative analysis with real-world user dialogs and quantitative analysis with simulated dialogs. In the latter, ChatGPT acts as users with diverse characteristics and generates long-term dialog contexts covering a wide array of topics. The results of our analysis reveal that SiliconFriend, equipped with MemoryBank, exhibits a strong capability for long-term companionship as it can provide emphatic response, recall relevant memories and understand user personality.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-05-17T14:40:29Z</published>
+    <arxiv:comment>10 pages</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Wanjun Zhong</name>
+    </author>
+    <author>
+      <name>Lianghong Guo</name>
+    </author>
+    <author>
+      <name>Qiqi Gao</name>
+    </author>
+    <author>
+      <name>He Ye</name>
+    </author>
+    <author>
+      <name>Yanlin Wang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2601.20276v1</id>
+    <title>Beyond the Needle's Illusion: Decoupled Evaluation of Evidence Access and Use under Semantic Interference at 326M-Token Scale</title>
+    <updated>2026-01-28T05:44:00Z</updated>
+    <link href="https://arxiv.org/abs/2601.20276v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2601.20276v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Long-context LLM agents must access the right evidence from large environments and use it faithfully. However, the popular Needle-in-a-Haystack (NIAH) evaluation mostly measures benign span localization. The needle is near-unique, and the haystack is largely irrelevant. We introduce EverMemBench-S (EMB-S), an adversarial NIAH-style benchmark built on a 326M-token MemoryBank. While the full MemoryBank spans 326M tokens for retrieval-based (RAG) evaluation, we evaluate native long-context models only at scales that fit within each model's context window (up to 1M tokens in this work) to ensure a fair comparison. EMB-S pairs queries with collision-tested near-miss hard negatives and gold evidence sets spanning one or more documents, validated via human screening and LLM verification. We also propose a decoupled diagnostic protocol that reports evidence access (document-ID localization) separately from end-to-end QA quality under full-context prompting. This enables consistent diagnosis for both native long-context prompting and retrieval pipelines. Across a reference-corpus ladder from domain-isolated 64K contexts to a globally shared 326M-token environment, we observe a clear reality gap. Systems that saturate benign NIAH degrade sharply in evidence access under semantic interference. These results indicate that semantic discrimination, not context length alone, is the dominant bottleneck for long-context memory at scale.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-01-28T05:44:00Z</published>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Tianwei Lin</name>
+    </author>
+    <author>
+      <name>Zuyi Zhou</name>
+    </author>
+    <author>
+      <name>Xinda Zhao</name>
+    </author>
+    <author>
+      <name>Chenke Wang</name>
+    </author>
+    <author>
+      <name>Xiaohong Li</name>
+    </author>
+    <author>
+      <name>Yu Chen</name>
+    </author>
+    <author>
+      <name>Chuanrui Hu</name>
+    </author>
+    <author>
+      <name>Jian Pei</name>
+    </author>
+    <author>
+      <name>Yafeng Deng</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2508.15294v4</id>
+    <title>A Multi-Memory Segment System for Generating High-Quality Long-Term Memory Content in Agents</title>
+    <updated>2026-05-08T05:43:33Z</updated>
+    <link href="https://arxiv.org/abs/2508.15294v4" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2508.15294v4" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In the current field of agent memory, extensive explorations have been conducted in the area of memory retrieval, yet few studies have focused on exploring the memory content. Most research simply stores summarized versions of historical dialogues, as exemplified by methods like A-MEM and MemoryBank. However, when humans form long-term memories, the process involves multi-dimensional and multi-component generation, rather than merely creating simple summaries. The low-quality memory content generated by existing methods can adversely affect recall performance and response quality. In order to better construct high-quality long-term memory content, we have designed a multi-memory segment system (MMS) inspired by cognitive psychology theory. The system processes short-term memory into multiple long-term memory segments, and constructs retrieval memory units and contextual memory units based on these segments, with a one-to-one correspondence between the two. During the retrieval phase, MMS will match the most relevant retrieval memory units based on the user's query. Then, the corresponding contextual memory units is obtained as the context for the response stage to enhance knowledge, thereby effectively utilizing historical data. We conducted experiments on the LoCoMo dataset and further performed ablation experiments, experiments on the robustness regarding the number of input memories, and overhead experiments, which demonstrated the effectiveness and practical value of our method.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.MA" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-08-21T06:29:42Z</published>
+    <arxiv:comment>The content has been significantly revised and the author has also changed. Therefore, the paper will be withdrawn for revision and then uploaded after the completion of the modifications</arxiv:comment>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Gaoke Zhang</name>
+    </author>
+    <author>
+      <name>Bo Wang</name>
+    </author>
+    <author>
+      <name>Yunlong Ma</name>
+    </author>
+    <author>
+      <name>Dongming Zhao</name>
+    </author>
+    <author>
+      <name>Zifei Yu</name>
+    </author>
+  </entry>
+</feed>

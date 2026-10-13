@@ -1,0 +1,13 @@
+[1/10] judge=Y gold='25 minutes and 50 seconds (or 25:50)' pred='Your most recently stated personal best time in the charity '
+[2/10] judge=Y gold='four' pred='You’ve tried **four different Korean restaurants** in your c'
+[3/10] judge=Y gold='the suburbs' pred='Rachel recently moved back to the suburbs.'
+[4/10] judge=Y gold='$400,000' pred='You mentioned two different pre-approval amounts from Wells '
+[5/10] judge=Y gold='Three times a week.' pred='As of November 30, you mentioned attending yoga classes **th'
+[6/10] judge=Y gold='Yes.' pred='Yes — you mentioned on April 30 that your mom is now using t'
+[7/10] judge=Y gold='10-12 hours' pred='You’ve spent about **10–12 hours** on your abstract ocean sc'
+[8/10] judge=Y gold='4' pred='You currently own **four bikes**: your road bike, mountain b'
+[9/10] judge=Y gold='Friday' pred='Fridays.'
+[10/10] judge=N gold='Paris' pred='You went to Hawaii on your most recent family trip.'
+
+KU v3 acc = 0.90 (v2 was 0.70, full baseline 0.90)
+KU CHECK DONE

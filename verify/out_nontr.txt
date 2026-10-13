@@ -1,0 +1,72 @@
+====================================================================================================
+94f70d80 | single-session-user | fam delta_between | gold: 4 hours
+Q: How long did it take me to assemble the IKEA bookshelf?
+    Pairwise elapsed time between the most relevant event dates (the arithmetic is already done; pick the pair the question names):
+      2023/05/20 -> 2023/05/21 : 1 days = 0.1 weeks
+      2023/05/20 -> 2023/05/22 : 2 days = 0.3 weeks
+      2023/05/20 -> 2023/05/23 : 3 days = 0.4 weeks
+      2023/05/20 -> 2023/05/26 : 6 days = 0.9 weeks
+      2023/05/20 -> 2023/05/30 : 10 days = 1.4 weeks
+      2023/05/21 -> 2023/05/22 : 1 days = 0.1 weeks
+      2023/05/21 -> 2023/05/23 : 2 days = 0.3 weeks
+      2023/05/21 -> 2023/05/26 : 5 days = 0.7 weeks
+====================================================================================================
+8ebdbe50 | single-session-user | fam anchor_lookup | gold: Data Science
+Q: What certification did I complete last month?
+    Dates named or implied by the question, resolved:
+      "last month" -> 2023/04/30 (Sun)  [30 days / 4.3 weeks / 1 full months before the question; confidence med]
+    Everything the user reported doing within +/-4 days of the resolved anchor 2023/04/30 (listed regardless of wording overlap with the question):
+      - I need to add my latest certification in Data Science, which I completed last month, to my profile.
+      - In the meantime, I need to update my LinkedIn profile to reflect my latest certification in Data Science, which I completed last month.
+      - I bought a bunch of them at Whole Foods last month and I'm not really sure where to start.
+      - I actually bought a bunch of tofu, tempeh, and seitan at Whole Foods last month.
+    Events dated exactly on the resolved anchor 2023/04/30 ("last month"):
+      (none dated exactly on that day)
+====================================================================================================
+caf9ead2 | single-session-user | fam delta_between | gold: 5 hours
+Q: How long did it take to move to the new apartment?
+    Pairwise elapsed time between the most relevant event dates (the arithmetic is already done; pick the pair the question names):
+      2023/05/20 -> 2023/05/21 : 1 days = 0.1 weeks
+      2023/05/20 -> 2023/05/24 : 4 days = 0.6 weeks
+      2023/05/20 -> 2023/05/26 : 6 days = 0.9 weeks
+      2023/05/20 -> 2023/05/29 : 9 days = 1.3 weeks
+      2023/05/20 -> 2023/05/30 : 10 days = 1.4 weeks
+      2023/05/21 -> 2023/05/24 : 3 days = 0.4 weeks
+      2023/05/21 -> 2023/05/26 : 5 days = 0.7 weeks
+      2023/05/21 -> 2023/05/29 : 8 days = 1.1 weeks
+====================================================================================================
+8550ddae | single-session-user | fam anchor_lookup | gold: lavender gin fizz
+Q: What type of cocktail recipe did I try last weekend?
+    Dates named or implied by the question, resolved:
+      "last weekend" -> 2023/05/27 (Sat)  [3 days / 0.4 weeks before the question; confidence high]
+    Everything the user reported doing within +/-1 days of the resolved anchor 2023/05/27 (listed regardless of wording overlap with the question):
+      - Instead, they need to think of concrete or imaginary solutions to their own problem, which the celebrity would have proposed, if he would have been faced with the question...
+      - By the way, I just spent around 40 hours playing 'Cyberpunk 2077' and I'm still not done with it, so I think a good monitor would be a great investment.
+      - Speaking of gaming, I finally completed "The Last of Us Part II" on my PlayStation 5 after playing it for 10 hrs last weekend.
+      - I need a new outfit for a night out with friends this weekend.
+      - I've been loving the new brand I discovered at Target, but I'm always open to trying out new products.
+      - I need some advice on building a skincare routine.
+====================================================================================================
+15745da0 | single-session-user | fam delta_between | gold: three months
+Q: How long have I been collecting vintage cameras?
+    Pairwise elapsed time between the most relevant event dates (the arithmetic is already done; pick the pair the question names):
+      2023/02/21 -> 2023/05/14 : 82 days = 11.7 weeks
+      2023/02/21 -> 2023/05/21 : 89 days = 12.7 weeks
+      2023/02/21 -> 2023/05/24 : 92 days = 13.1 weeks
+      2023/02/21 -> 2023/05/29 : 97 days = 13.9 weeks
+      2023/05/14 -> 2023/05/21 : 7 days = 1.0 weeks
+      2023/05/14 -> 2023/05/24 : 10 days = 1.4 weeks
+      2023/05/14 -> 2023/05/29 : 15 days = 2.1 weeks
+      2023/05/21 -> 2023/05/24 : 3 days = 0.4 weeks
+====================================================================================================
+311778f1 | single-session-user | fam delta_between | gold: 10
+Q: How many hours did I spend watching documentaries on Netflix last month?
+    Dates named or implied by the question, resolved:
+      "last month" -> 2023/04/30 (Sun)  [30 days / 4.3 weeks / 1 full months before the question; confidence med]
+    Pairwise elapsed time between the most relevant event dates (the arithmetic is already done; pick the pair the question names):
+      2023/04/22 -> 2023/04/25 : 3 days = 0.4 weeks
+      2023/04/22 -> 2023/05/22 : 30 days = 4.3 weeks
+      2023/04/22 -> 2023/05/25 : 33 days = 4.7 weeks
+      2023/04/22 -> 2023/05/27 : 35 days = 5.0 weeks
+      2023/04/22 -> 2023/05/29 : 37 days = 5.3 weeks
+      2023/04/25 -> 2023/05/22 : 27 days = 3.9 weeks

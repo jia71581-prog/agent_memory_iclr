@@ -1,0 +1,5316 @@
+{
+ "all_gold_session_values": [
+  [
+   "8a2466db",
+   "user",
+   "uses video editing software",
+   "Adobe Premiere Pro",
+   true,
+   true
+  ],
+  [
+   "8a2466db",
+   "user",
+   "enjoys using",
+   "Adobe Premiere Pro",
+   true,
+   true
+  ],
+  [
+   "8a2466db",
+   "user",
+   "skill level with color grading",
+   "still getting the hang of it",
+   true,
+   false
+  ],
+  [
+   "8a2466db",
+   "user",
+   "decided to use",
+   "Lumetri Color Panel for now",
+   true,
+   true
+  ],
+  [
+   "8a2466db",
+   "user",
+   "wants to learn",
+   "advanced settings for video editing in Adobe Premiere Pro",
+   true,
+   false
+  ],
+  [
+   "06878be2",
+   "user",
+   "camera model",
+   "Sony A7R IV",
+   true,
+   true
+  ],
+  [
+   "06878be2",
+   "user",
+   "lens model",
+   "Sony 24-70mm f/2.8",
+   true,
+   true
+  ],
+  [
+   "06878be2",
+   "user",
+   "flash choice",
+   "Godox V1",
+   true,
+   true
+  ],
+  [
+   "06878be2",
+   "user",
+   "tripod of interest",
+   "Gitzo GT3543LS",
+   true,
+   false
+  ],
+  [
+   "06878be2",
+   "user",
+   "is a Sony camera user",
+   "yes",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "works in",
+   "deep learning for medical image analysis",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "recent advancements in deep learning for medical image analysis",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "popular datasets for segmentation tasks in medical image analysis",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "explainable AI for medical image analysis",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "research papers on explainable AI in medical image analysis",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "techniques for visualizing and interpreting deep learning models",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "advanced topics in deep learning for medical image analysis",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "multi-modal image fusion",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "transfer learning in medical imaging",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "domain adaptation in medical imaging",
+   true,
+   true
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "is planning a trip to",
+   "Seattle",
+   true,
+   false
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "wants a hotel with",
+   "a great view of the city",
+   true,
+   false
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "likes hotels with",
+   "unique features such as a rooftop pool or a hot tub on the balcony",
+   true,
+   true
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "is considering staying at",
+   "The Edgewater Hotel",
+   true,
+   true
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "wants",
+   "a room with a hot tub on the balcony facing the Space Needle",
+   true,
+   false
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "wants",
+   "a complimentary room service breakfast",
+   true,
+   false
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "wants",
+   "a $100 credit towards a couples' massage at the hotel's spa",
+   true,
+   false
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "wants",
+   "a room with a fireplace",
+   true,
+   false
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "chose",
+   "the Space Needle Romance Package at The Edgewater Hotel",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "language learning interest",
+   "French listening skills",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "language learning interest",
+   "French and Spanish conversational skills",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "language learning interest",
+   "idiomatic expressions and colloquialisms in French and Spanish",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "language learning interest",
+   "informal language in French and Spanish",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "language learning interest",
+   "language exchange events focused on conversational practice",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "language learning interest",
+   "French and Spanish language exchange opportunities",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "language learning interest",
+   "cultural events celebrating language diversity and cultural exchange",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "volunteered at",
+   "a cultural festival last month",
+   true,
+   false
+  ],
+  [
+   "35a27287",
+   "user",
+   "wants to attend",
+   "language exchange events",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "wants to attend",
+   "cultural events in their area",
+   true,
+   false
+  ],
+  [
+   "32260d93",
+   "user",
+   "plans to attend a comedy writing workshop at a local writing center",
+   "Friday",
+   true,
+   true
+  ],
+  [
+   "32260d93",
+   "user",
+   "is going to attend the comedy writing workshop",
+   "Friday",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "has a project",
+   "due soon",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "needs to finish",
+   "a report",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "needs to respond to",
+   "some emails",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "most time-consuming tasks",
+   "working on project, responding to emails, attending meetings",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "available task hours per day",
+   "7-8 hours",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "most productive time",
+   "10 am to 12 pm",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "morning routine",
+   "30-minute exercise routine",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "schedule preference",
+   "structured",
+   true,
+   false
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "wants to minimize",
+   "procrastination and social media usage",
+   true,
+   false
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "existing time management tools",
+   "none",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "open to using",
+   "a time management tool",
+   true,
+   false
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "preferred wind-down time",
+   "9:30 pm",
+   true,
+   false
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "tried",
+   "\"Sleep\" guided meditation by Headspace",
+   true,
+   false
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "found Headspace \"Sleep\" meditation",
+   "relaxing and calming",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "favorite part of Headspace \"Sleep\" meditation",
+   "imagery and visualization",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "plans to try",
+   "\"Body Scan\" meditation by Insight Timer",
+   true,
+   false
+  ],
+  [
+   "afdc33df",
+   "user",
+   "has issue with",
+   "garbage disposal",
+   true,
+   true
+  ],
+  [
+   "afdc33df",
+   "user",
+   "has issue with",
+   "kitchen faucet leaking slightly",
+   true,
+   true
+  ],
+  [
+   "afdc33df",
+   "user",
+   "has issue with",
+   "scratches on granite countertop near sink",
+   true,
+   true
+  ],
+  [
+   "afdc33df",
+   "user",
+   "recently bought",
+   "a new utensil holder",
+   true,
+   true
+  ],
+  [
+   "afdc33df",
+   "user",
+   "wants to try making",
+   "yogurt in slow cooker",
+   true,
+   false
+  ],
+  [
+   "afdc33df",
+   "user",
+   "wants to keep",
+   "countertops clutter-free",
+   true,
+   false
+  ],
+  [
+   "caf03d32",
+   "user",
+   "recently learned to use",
+   "slow cooker",
+   true,
+   true
+  ],
+  [
+   "caf03d32",
+   "user",
+   "made",
+   "beef stew in slow cooker",
+   true,
+   true
+  ],
+  [
+   "caf03d32",
+   "user",
+   "wants to try",
+   "more slow cooker recipes",
+   true,
+   false
+  ],
+  [
+   "caf03d32",
+   "user",
+   "is trying to eat more",
+   "plant-based meals",
+   true,
+   true
+  ],
+  [
+   "caf03d32",
+   "user",
+   "wants to make",
+   "slow cooker yogurt with cashew base",
+   true,
+   false
+  ],
+  [
+   "54026fce",
+   "user",
+   "enjoys",
+   "the flexibility of working from home",
+   false,
+   false
+  ],
+  [
+   "54026fce",
+   "user",
+   "misses",
+   "social interactions and watercooler conversations with colleagues",
+   false,
+   false
+  ],
+  [
+   "54026fce",
+   "user",
+   "likes",
+   "the idea of virtual coffee breaks",
+   true,
+   true
+  ],
+  [
+   "54026fce",
+   "user",
+   "likes",
+   "the suggestion to discuss and agree with the team first",
+   true,
+   true
+  ],
+  [
+   "54026fce",
+   "user",
+   "likes",
+   "the idea of framing it as a collaborative suggestion",
+   true,
+   true
+  ],
+  [
+   "54026fce",
+   "user",
+   "thinks",
+   "it's helpful to acknowledge potential challenges and come up with strategies to overcome them",
+   true,
+   false
+  ],
+  [
+   "54026fce",
+   "user",
+   "suggests",
+   "establishing a regular schedule for virtual coffee breaks",
+   true,
+   false
+  ],
+  [
+   "54026fce",
+   "user",
+   "suggests",
+   "communicating the importance of attending",
+   true,
+   false
+  ],
+  [
+   "54026fce",
+   "user",
+   "suggests",
+   "using a reliable and easy-to-use video conferencing platform",
+   true,
+   false
+  ],
+  [
+   "54026fce",
+   "user",
+   "proposes",
+   "setting ground rules for virtual coffee breaks",
+   true,
+   false
+  ],
+  [
+   "54026fce",
+   "user",
+   "proposes",
+   "no work talk allowed",
+   true,
+   false
+  ],
+  [
+   "54026fce",
+   "user",
+   "proposes",
+   "keeping the conversation light and casual",
+   true,
+   false
+  ],
+  [
+   "06f04340",
+   "user",
+   "has been using",
+   "basil and mint in cooking lately",
+   true,
+   true
+  ],
+  [
+   "06f04340",
+   "user",
+   "has harvested",
+   "cherry tomatoes from their garden",
+   true,
+   true
+  ],
+  [
+   "06f04340",
+   "user",
+   "has",
+   "cherry tomatoes in their garden",
+   true,
+   true
+  ],
+  [
+   "06f04340",
+   "user",
+   "has",
+   "pepper plants",
+   true,
+   true
+  ],
+  [
+   "06f04340",
+   "user",
+   "tried using",
+   "neem oil to get rid of aphids on pepper plants",
+   true,
+   false
+  ],
+  [
+   "06f04340",
+   "user",
+   "found neem oil",
+   "did not work for aphids",
+   true,
+   true
+  ],
+  [
+   "06f04340",
+   "user",
+   "is considering introducing",
+   "beneficial insects (ladybugs or lacewings) to garden",
+   true,
+   true
+  ],
+  [
+   "06f04340",
+   "user",
+   "has",
+   "aphid population in garden",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "is looking for",
+   "art supply recommendations for acrylic paints and brushes",
+   false,
+   false
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "has been looking at",
+   "flower paintings on Instagram",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "wants tips on",
+   "painting realistic flowers",
+   true,
+   false
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "is trying to incorporate",
+   "more texture into their paintings",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "wants recommendations for",
+   "palette knife techniques",
+   true,
+   false
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "is unsure about",
+   "how to price paintings for online sale",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "has been doing",
+   "research on pricing paintings",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "is thinking about",
+   "selling paintings online",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "has tried",
+   "taking photos of artwork before",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "finds their artwork photos",
+   "never turn out right",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "is thinking of setting up",
+   "a small studio space in their apartment",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "has been looking at",
+   "online tutorials for studio setup",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "sometimes gets",
+   "distracted or loses steam midway through a project",
+   true,
+   false
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "has been getting inspiration from",
+   "social media",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "recently started",
+   "a 30-day painting challenge",
+   true,
+   false
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "thinks breaking project into smaller tasks and setting deadlines",
+   "will help stay on track",
+   true,
+   false
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "plans to experiment with",
+   "new cocktails this weekend",
+   false,
+   false
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "attended",
+   "a mixology class",
+   true,
+   true
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "has made",
+   "a classic Pimm's Cup",
+   true,
+   true
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "has made",
+   "classic cocktails recently",
+   true,
+   true
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "plans to try",
+   "muddling cucumber slices in the Pimm's Cup with a Twist",
+   true,
+   false
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "plans to use",
+   "a flavored simple syrup for the Pimm's Cup with a Twist",
+   false,
+   false
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "chose",
+   "grapefruit simple syrup",
+   true,
+   true
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "chose",
+   "Ruby Red Grapefruit for the simple syrup",
+   true,
+   true
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "plans to serve the Pimm's Cup with a Twist in",
+   "a Collins glass",
+   true,
+   false
+  ],
+  [
+   "09d032c9",
+   "user",
+   "is looking for advice on",
+   "organizing tech accessories while traveling",
+   true,
+   true
+  ],
+  [
+   "09d032c9",
+   "user",
+   "has",
+   "a new portable power bank",
+   false,
+   false
+  ],
+  [
+   "09d032c9",
+   "user",
+   "has",
+   "a wireless charging pad",
+   false,
+   false
+  ],
+  [
+   "09d032c9",
+   "user",
+   "owns",
+   "an Apple Watch",
+   true,
+   true
+  ],
+  [
+   "09d032c9",
+   "user",
+   "is considering purchasing",
+   "a new 4K smart TV from LG",
+   true,
+   true
+  ],
+  [
+   "09d032c9",
+   "user",
+   "wants to know more about",
+   "LG OLED C9 series features and performance",
+   true,
+   false
+  ],
+  [
+   "09d032c9",
+   "user",
+   "wants to know more about",
+   "AI-powered image enhancement on LG OLED C9 series",
+   true,
+   false
+  ],
+  [
+   "38146c39",
+   "user",
+   "has been experimenting with",
+   "different types of sugar",
+   false,
+   false
+  ],
+  [
+   "38146c39",
+   "user",
+   "found that",
+   "turbinado sugar adds a richer flavor",
+   true,
+   true
+  ],
+  [
+   "38146c39",
+   "user",
+   "is particularly interested in",
+   "using turbinado sugar in a carrot cake recipe",
+   true,
+   true
+  ],
+  [
+   "38146c39",
+   "user",
+   "plans to try",
+   "muscovado sugar in the cream cheese frosting",
+   true,
+   false
+  ],
+  [
+   "38146c39",
+   "user",
+   "likes the idea of",
+   "a stronger, more intense flavor to balance out the spices in the carrot cake",
+   true,
+   true
+  ],
+  [
+   "d24813b1",
+   "user",
+   "is looking for",
+   "a chocolate cake recipe with caramel ganache frosting",
+   true,
+   true
+  ],
+  [
+   "d24813b1",
+   "user",
+   "is planning to make",
+   "a cake for a friend's birthday",
+   true,
+   true
+  ],
+  [
+   "d24813b1",
+   "user",
+   "previously made",
+   "a lemon poppyseed cake for a colleague's going-away party",
+   true,
+   false
+  ],
+  [
+   "d24813b1",
+   "user",
+   "previously made",
+   "a lemon poppyseed cake that was a hit",
+   true,
+   false
+  ],
+  [
+   "d24813b1",
+   "user",
+   "is interested in making",
+   "lemon lavender pound cake",
+   true,
+   true
+  ],
+  [
+   "d24813b1",
+   "user",
+   "decided to use",
+   "dried lavender buds added to the batter",
+   true,
+   true
+  ],
+  [
+   "d24813b1",
+   "user",
+   "is not sure about",
+   "using lavender syrup or infused milk",
+   true,
+   true
+  ],
+  [
+   "d24813b1",
+   "user",
+   "plans to serve",
+   "the cake at a birthday party",
+   true,
+   false
+  ],
+  [
+   "d24813b1",
+   "user",
+   "is thinking of making",
+   "chocolate chip cookies for the party",
+   true,
+   true
+  ],
+  [
+   "57f827a0",
+   "user",
+   "is designing",
+   "a mid-century modern bedroom dresser",
+   true,
+   true
+  ],
+  [
+   "57f827a0",
+   "user",
+   "dresser wood type",
+   "walnut",
+   true,
+   true
+  ],
+  [
+   "57f827a0",
+   "user",
+   "dresser finish",
+   "oil-based stain",
+   true,
+   true
+  ],
+  [
+   "57f827a0",
+   "user",
+   "dresser topcoat finish",
+   "satin",
+   true,
+   true
+  ],
+  [
+   "57f827a0",
+   "user",
+   "dresser hardware",
+   "brass accents",
+   true,
+   true
+  ],
+  [
+   "57f827a0",
+   "user",
+   "dresser hardware",
+   "simple knobs",
+   true,
+   true
+  ],
+  [
+   "57f827a0",
+   "user",
+   "plans to search for inspiration",
+   "design blogs and websites",
+   true,
+   false
+  ],
+  [
+   "95228167",
+   "user",
+   "considering upgrading from",
+   "Fender Stratocaster",
+   true,
+   true
+  ],
+  [
+   "95228167",
+   "user",
+   "considering upgrading to",
+   "Gibson Les Paul",
+   true,
+   true
+  ],
+  [
+   "95228167",
+   "user",
+   "interested in",
+   "playing acoustic-like fingerpicking patterns (e.g., \"Blackbird\" intro)",
+   true,
+   true
+  ],
+  [
+   "95228167",
+   "user",
+   "interested in",
+   "open D tuning",
+   true,
+   true
+  ],
+  [
+   "95228167",
+   "user",
+   "interested in",
+   "getting good sound out of open D tuning on electric guitar",
+   true,
+   true
+  ],
+  [
+   "95228167",
+   "user",
+   "considering trying out",
+   "Les Paul with coil-tap or coil-splitting feature",
+   true,
+   true
+  ],
+  [
+   "505af2f5",
+   "user",
+   "goal",
+   "reduce sugar intake",
+   true,
+   true
+  ],
+  [
+   "505af2f5",
+   "user",
+   "goal",
+   "save money",
+   true,
+   true
+  ],
+  [
+   "505af2f5",
+   "user",
+   "creamer ingredients",
+   "almond milk, vanilla extract, and honey",
+   true,
+   true
+  ],
+  [
+   "505af2f5",
+   "user",
+   "granola ingredients",
+   "rolled oats, almonds, and honey",
+   true,
+   true
+  ],
+  [
+   "505af2f5",
+   "user",
+   "craving sweet treats",
+   "more often in the afternoon around 3-4 pm",
+   true,
+   true
+  ],
+  [
+   "505af2f5",
+   "user",
+   "has been skipping breakfast",
+   "more frequently",
+   true,
+   true
+  ],
+  [
+   "75f70248",
+   "user",
+   "has issue with",
+   "TV picture flickering",
+   true,
+   true
+  ],
+  [
+   "75f70248",
+   "user",
+   "owns",
+   "a cat",
+   true,
+   true
+  ],
+  [
+   "75f70248",
+   "user",
+   "cat",
+   "sheds a lot",
+   true,
+   true
+  ],
+  [
+   "75f70248",
+   "user",
+   "plans to get",
+   "a spider plant or a snake plant",
+   true,
+   true
+  ],
+  [
+   "75f70248",
+   "user",
+   "plans to get",
+   "a planter with good drainage",
+   true,
+   true
+  ],
+  [
+   "75f70248",
+   "user",
+   "plans to get",
+   "a potting mix that drains well",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "is considering majoring in",
+   "Economics",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "was part of",
+   "high school debate team",
+   true,
+   false
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "took",
+   "advanced placement courses in economics",
+   true,
+   false
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "is weighing pros and cons of",
+   "pursuing a Master's degree",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "is unsure about committing to",
+   "a full Master's program",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "has taken",
+   "online certification courses in Python programming",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "has taken",
+   "online certification courses in data visualization",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "has been reading books on",
+   "machine learning",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "has been reading books on",
+   "artificial intelligence",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "wants to build skills in",
+   "machine learning",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "wants to build skills in",
+   "deep learning",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "has old high school friends who plan to",
+   "work after graduating university",
+   true,
+   true
+  ],
+  [
+   "1da05512",
+   "user",
+   "has issue with",
+   "home network's storage capacity",
+   true,
+   true
+  ],
+  [
+   "1da05512",
+   "user",
+   "is considering getting",
+   "a NAS device",
+   true,
+   true
+  ],
+  [
+   "1da05512",
+   "user",
+   "identifies as",
+   "a beginner with NAS devices",
+   true,
+   true
+  ],
+  [
+   "1da05512",
+   "user",
+   "is already backing up files to",
+   "an external hard drive",
+   true,
+   true
+  ],
+  [
+   "1da05512",
+   "user",
+   "wants NAS as",
+   "central backup location for all devices",
+   true,
+   false
+  ],
+  [
+   "1da05512",
+   "user",
+   "has",
+   "a laptop",
+   true,
+   true
+  ],
+  [
+   "1da05512",
+   "user",
+   "has",
+   "a phone",
+   true,
+   true
+  ],
+  [
+   "1da05512",
+   "user",
+   "is concerned about",
+   "security of data on NAS",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "recently visited theme parks",
+   "Disneyland, Knott's Berry Farm, Six Flags Magic Mountain, and Universal Studios Hollywood",
+   true,
+   false
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "upcoming theme park events",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "Halloween-themed events",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "Halloween-themed food items",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "unique food experiences at theme park events",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "exclusive dining experiences and Halloween-themed menus",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "VIP Experience's Gourmet Buffet at Halloween Horror Nights",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "Behind-the-Scenes Tour add-on to the VIP Experience",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "booking Universal Studios Hollywood VIP Experience's Gourmet Buffet and Behind-the-Scenes Tour package",
+   true,
+   true
+  ],
+  [
+   "b6025781",
+   "user",
+   "has previously eaten",
+   "grilled chicken",
+   true,
+   true
+  ],
+  [
+   "b6025781",
+   "user",
+   "has previously eaten",
+   "turkey breast",
+   true,
+   true
+  ],
+  [
+   "b6025781",
+   "user",
+   "has never tried",
+   "lentil bolognese",
+   true,
+   true
+  ],
+  [
+   "b6025781",
+   "user",
+   "has never tried",
+   "mushroom bolognese",
+   true,
+   true
+  ],
+  [
+   "b6025781",
+   "user",
+   "plans to add",
+   "roasted sweet potatoes to meal prep this week",
+   true,
+   true
+  ],
+  [
+   "b6025781",
+   "user",
+   "chose seasoning option",
+   "Classic Herbs for roasted sweet potatoes",
+   true,
+   true
+  ],
+  [
+   "b6025781",
+   "user",
+   "has in fridge",
+   "fresh rosemary",
+   true,
+   true
+  ],
+  [
+   "b6025781",
+   "user",
+   "plans to make",
+   "homemade granola to snack on throughout the week",
+   false,
+   false
+  ],
+  [
+   "a89d7624",
+   "user",
+   "attended concerts recently",
+   "three",
+   true,
+   true
+  ],
+  [
+   "a89d7624",
+   "user",
+   "attended concert",
+   "The Killers at Red Rocks Amphitheater",
+   true,
+   true
+  ],
+  [
+   "a89d7624",
+   "user",
+   "met",
+   "Brandon Flowers",
+   true,
+   true
+  ],
+  [
+   "a89d7624",
+   "user",
+   "met Brandon Flowers",
+   "after The Killers' concert in Denver",
+   true,
+   true
+  ],
+  [
+   "a89d7624",
+   "user",
+   "previously visited",
+   "Denver",
+   true,
+   true
+  ],
+  [
+   "a89d7624",
+   "user",
+   "enjoys",
+   "Denver's music scene",
+   true,
+   true
+  ],
+  [
+   "a89d7624",
+   "user",
+   "is planning",
+   "to return to Denver for another concert",
+   false,
+   false
+  ],
+  [
+   "a89d7624",
+   "user",
+   "is considering",
+   "getting dinner at The Ship Rock Grille before the concert",
+   true,
+   true
+  ],
+  [
+   "a89d7624",
+   "user",
+   "is considering",
+   "arriving at Red Rocks early to grab dinner before the concert",
+   true,
+   true
+  ],
+  [
+   "a89d7624",
+   "user",
+   "is considering",
+   "asking The Ship Rock Grille about tables with a view of the stage",
+   true,
+   true
+  ],
+  [
+   "b0479f84",
+   "user",
+   "recently watched",
+   "documentaries on Netflix",
+   true,
+   false
+  ],
+  [
+   "b0479f84",
+   "user",
+   "recently finished",
+   "\"Tiger King\"",
+   true,
+   false
+  ],
+  [
+   "b0479f84",
+   "user",
+   "interested in",
+   "nature and wildlife documentaries",
+   true,
+   true
+  ],
+  [
+   "b0479f84",
+   "user",
+   "has seen",
+   "stunning footage of coral reefs",
+   true,
+   true
+  ],
+  [
+   "b0479f84",
+   "user",
+   "previously did not understand",
+   "importance of coral reefs",
+   true,
+   true
+  ],
+  [
+   "b0479f84",
+   "user",
+   "interested in",
+   "learning more about eco-tourism",
+   true,
+   true
+  ],
+  [
+   "b0479f84",
+   "user",
+   "chose",
+   "Belize as eco-tourism destination",
+   true,
+   true
+  ],
+  [
+   "b0479f84",
+   "user",
+   "heard about",
+   "great snorkeling and diving in Belize",
+   true,
+   true
+  ],
+  [
+   "1d4e3b97",
+   "user",
+   "planned bike ride distance",
+   "20 miles",
+   true,
+   false
+  ],
+  [
+   "1d4e3b97",
+   "user",
+   "planned bike ride timing",
+   "this weekend",
+   true,
+   true
+  ],
+  [
+   "1d4e3b97",
+   "user",
+   "owns",
+   "a new Garmin bike computer",
+   true,
+   false
+  ],
+  [
+   "1d4e3b97",
+   "user",
+   "replaced bike chain and cassette",
+   "February 1st",
+   true,
+   true
+  ],
+  [
+   "1d4e3b97",
+   "user",
+   "bike performance",
+   "improved after chain and cassette replacement",
+   true,
+   true
+  ],
+  [
+   "1d4e3b97",
+   "user",
+   "current bike helmet",
+   "outdated",
+   true,
+   true
+  ],
+  [
+   "1d4e3b97",
+   "user",
+   "plans to order",
+   "a new Specialized bike helmet",
+   true,
+   false
+  ],
+  [
+   "07b6f563",
+   "user",
+   "owns",
+   "iPhone 13 Pro",
+   true,
+   true
+  ],
+  [
+   "07b6f563",
+   "user",
+   "needs replacement for",
+   "cracked screen protector on iPhone 13 Pro",
+   true,
+   true
+  ],
+  [
+   "07b6f563",
+   "user",
+   "is looking for",
+   "phone wallet case for iPhone 13 Pro",
+   true,
+   true
+  ],
+  [
+   "07b6f563",
+   "user",
+   "is interested in",
+   "portable power bank",
+   true,
+   true
+  ],
+  [
+   "07b6f563",
+   "user",
+   "owns",
+   "portable power bank from Best Buy",
+   true,
+   false
+  ],
+  [
+   "07b6f563",
+   "user",
+   "reports portable power bank from Best Buy",
+   "works great",
+   true,
+   false
+  ],
+  [
+   "07b6f563",
+   "user",
+   "might consider getting",
+   "new power bank with more capacity or advanced features",
+   true,
+   true
+  ],
+  [
+   "07b6f563",
+   "user",
+   "is thinking of getting",
+   "wireless charging power bank",
+   true,
+   true
+  ],
+  [
+   "07b6f563",
+   "user",
+   "is considering",
+   "wireless charging power bank for convenience with iPhone 13 Pro",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "listens to podcast genres",
+   "true crime and self-improvement",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "listens to podcasts during",
+   "commute",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "wants to branch out into",
+   "other podcast genres",
+   true,
+   false
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "commute duration",
+   "about 40 minutes each way",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "interested in podcast genres",
+   "history and science",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "interested in",
+   "history podcasts",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "interested in book",
+   "Guns, Germs, and Steel by Jared Diamond",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "interested in concept",
+   "lucky latitudes in Guns, Germs, and Steel",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "is heading to",
+   "Tokyo soon",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "will stay at",
+   "Park Hyatt Tokyo",
+   true,
+   false
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "plans to visit",
+   "Tsukiji Fish Market",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "recently got",
+   "a Suica card",
+   true,
+   false
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "plans to visit",
+   "Nikko National Park",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "plans to take",
+   "a guided tour to Nikko National Park",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "has downloaded",
+   "TripIt app",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "plans to take",
+   "train from airport to hotel",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "plans to do",
+   "shopping in Tokyo",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "plans to visit",
+   "Tokyo Tower",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "plans to try",
+   "fresh sushi for breakfast at Tsukiji Fish Market",
+   false,
+   false
+  ]
+ ],
+ "user_entity_only": [
+  [
+   "8a2466db",
+   "user",
+   "uses video editing software",
+   "Adobe Premiere Pro",
+   true,
+   true
+  ],
+  [
+   "8a2466db",
+   "user",
+   "enjoys using",
+   "Adobe Premiere Pro",
+   true,
+   true
+  ],
+  [
+   "8a2466db",
+   "user",
+   "skill level with color grading",
+   "still getting the hang of it",
+   true,
+   false
+  ],
+  [
+   "8a2466db",
+   "user",
+   "decided to use",
+   "Lumetri Color Panel for now",
+   true,
+   true
+  ],
+  [
+   "8a2466db",
+   "user",
+   "wants to learn",
+   "advanced settings for video editing in Adobe Premiere Pro",
+   true,
+   false
+  ],
+  [
+   "06878be2",
+   "user",
+   "camera model",
+   "Sony A7R IV",
+   true,
+   true
+  ],
+  [
+   "06878be2",
+   "user",
+   "lens model",
+   "Sony 24-70mm f/2.8",
+   true,
+   true
+  ],
+  [
+   "06878be2",
+   "user",
+   "flash choice",
+   "Godox V1",
+   true,
+   true
+  ],
+  [
+   "06878be2",
+   "user",
+   "tripod of interest",
+   "Gitzo GT3543LS",
+   true,
+   false
+  ],
+  [
+   "06878be2",
+   "user",
+   "is a Sony camera user",
+   "yes",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "works in",
+   "deep learning for medical image analysis",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "recent advancements in deep learning for medical image analysis",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "popular datasets for segmentation tasks in medical image analysis",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "explainable AI for medical image analysis",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "research papers on explainable AI in medical image analysis",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "techniques for visualizing and interpreting deep learning models",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "advanced topics in deep learning for medical image analysis",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "multi-modal image fusion",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "transfer learning in medical imaging",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "domain adaptation in medical imaging",
+   true,
+   true
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "is planning a trip to",
+   "Seattle",
+   true,
+   false
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "wants a hotel with",
+   "a great view of the city",
+   true,
+   false
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "likes hotels with",
+   "unique features such as a rooftop pool or a hot tub on the balcony",
+   true,
+   true
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "is considering staying at",
+   "The Edgewater Hotel",
+   true,
+   true
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "wants",
+   "a room with a hot tub on the balcony facing the Space Needle",
+   true,
+   false
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "wants",
+   "a complimentary room service breakfast",
+   true,
+   false
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "wants",
+   "a $100 credit towards a couples' massage at the hotel's spa",
+   true,
+   false
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "wants",
+   "a room with a fireplace",
+   true,
+   false
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "chose",
+   "the Space Needle Romance Package at The Edgewater Hotel",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "language learning interest",
+   "French listening skills",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "language learning interest",
+   "French and Spanish conversational skills",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "language learning interest",
+   "idiomatic expressions and colloquialisms in French and Spanish",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "language learning interest",
+   "informal language in French and Spanish",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "language learning interest",
+   "language exchange events focused on conversational practice",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "language learning interest",
+   "French and Spanish language exchange opportunities",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "language learning interest",
+   "cultural events celebrating language diversity and cultural exchange",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "volunteered at",
+   "a cultural festival last month",
+   true,
+   false
+  ],
+  [
+   "35a27287",
+   "user",
+   "wants to attend",
+   "language exchange events",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "wants to attend",
+   "cultural events in their area",
+   true,
+   false
+  ],
+  [
+   "32260d93",
+   "user",
+   "plans to attend a comedy writing workshop at a local writing center",
+   "Friday",
+   true,
+   true
+  ],
+  [
+   "32260d93",
+   "user",
+   "is going to attend the comedy writing workshop",
+   "Friday",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "has a project",
+   "due soon",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "needs to finish",
+   "a report",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "needs to respond to",
+   "some emails",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "most time-consuming tasks",
+   "working on project, responding to emails, attending meetings",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "available task hours per day",
+   "7-8 hours",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "most productive time",
+   "10 am to 12 pm",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "morning routine",
+   "30-minute exercise routine",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "schedule preference",
+   "structured",
+   true,
+   false
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "wants to minimize",
+   "procrastination and social media usage",
+   true,
+   false
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "existing time management tools",
+   "none",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "open to using",
+   "a time management tool",
+   true,
+   false
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "preferred wind-down time",
+   "9:30 pm",
+   true,
+   false
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "tried",
+   "\"Sleep\" guided meditation by Headspace",
+   true,
+   false
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "found Headspace \"Sleep\" meditation",
+   "relaxing and calming",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "favorite part of Headspace \"Sleep\" meditation",
+   "imagery and visualization",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "plans to try",
+   "\"Body Scan\" meditation by Insight Timer",
+   true,
+   false
+  ],
+  [
+   "afdc33df",
+   "user",
+   "has issue with",
+   "garbage disposal",
+   true,
+   true
+  ],
+  [
+   "afdc33df",
+   "user",
+   "has issue with",
+   "kitchen faucet leaking slightly",
+   true,
+   true
+  ],
+  [
+   "afdc33df",
+   "user",
+   "has issue with",
+   "scratches on granite countertop near sink",
+   true,
+   true
+  ],
+  [
+   "afdc33df",
+   "user",
+   "recently bought",
+   "a new utensil holder",
+   true,
+   true
+  ],
+  [
+   "afdc33df",
+   "user",
+   "wants to try making",
+   "yogurt in slow cooker",
+   true,
+   false
+  ],
+  [
+   "afdc33df",
+   "user",
+   "wants to keep",
+   "countertops clutter-free",
+   true,
+   false
+  ],
+  [
+   "caf03d32",
+   "user",
+   "recently learned to use",
+   "slow cooker",
+   true,
+   true
+  ],
+  [
+   "caf03d32",
+   "user",
+   "made",
+   "beef stew in slow cooker",
+   true,
+   true
+  ],
+  [
+   "caf03d32",
+   "user",
+   "wants to try",
+   "more slow cooker recipes",
+   true,
+   false
+  ],
+  [
+   "caf03d32",
+   "user",
+   "is trying to eat more",
+   "plant-based meals",
+   true,
+   true
+  ],
+  [
+   "caf03d32",
+   "user",
+   "wants to make",
+   "slow cooker yogurt with cashew base",
+   true,
+   false
+  ],
+  [
+   "54026fce",
+   "user",
+   "enjoys",
+   "the flexibility of working from home",
+   false,
+   false
+  ],
+  [
+   "54026fce",
+   "user",
+   "misses",
+   "social interactions and watercooler conversations with colleagues",
+   false,
+   false
+  ],
+  [
+   "54026fce",
+   "user",
+   "likes",
+   "the idea of virtual coffee breaks",
+   true,
+   true
+  ],
+  [
+   "54026fce",
+   "user",
+   "likes",
+   "the suggestion to discuss and agree with the team first",
+   true,
+   true
+  ],
+  [
+   "54026fce",
+   "user",
+   "likes",
+   "the idea of framing it as a collaborative suggestion",
+   true,
+   true
+  ],
+  [
+   "54026fce",
+   "user",
+   "thinks",
+   "it's helpful to acknowledge potential challenges and come up with strategies to overcome them",
+   true,
+   false
+  ],
+  [
+   "54026fce",
+   "user",
+   "suggests",
+   "establishing a regular schedule for virtual coffee breaks",
+   true,
+   false
+  ],
+  [
+   "54026fce",
+   "user",
+   "suggests",
+   "communicating the importance of attending",
+   true,
+   false
+  ],
+  [
+   "54026fce",
+   "user",
+   "suggests",
+   "using a reliable and easy-to-use video conferencing platform",
+   true,
+   false
+  ],
+  [
+   "54026fce",
+   "user",
+   "proposes",
+   "setting ground rules for virtual coffee breaks",
+   true,
+   false
+  ],
+  [
+   "54026fce",
+   "user",
+   "proposes",
+   "no work talk allowed",
+   true,
+   false
+  ],
+  [
+   "54026fce",
+   "user",
+   "proposes",
+   "keeping the conversation light and casual",
+   true,
+   false
+  ],
+  [
+   "06f04340",
+   "user",
+   "has been using",
+   "basil and mint in cooking lately",
+   true,
+   true
+  ],
+  [
+   "06f04340",
+   "user",
+   "has harvested",
+   "cherry tomatoes from their garden",
+   true,
+   true
+  ],
+  [
+   "06f04340",
+   "user",
+   "has",
+   "cherry tomatoes in their garden",
+   true,
+   true
+  ],
+  [
+   "06f04340",
+   "user",
+   "has",
+   "pepper plants",
+   true,
+   true
+  ],
+  [
+   "06f04340",
+   "user",
+   "tried using",
+   "neem oil to get rid of aphids on pepper plants",
+   true,
+   false
+  ],
+  [
+   "06f04340",
+   "user",
+   "found neem oil",
+   "did not work for aphids",
+   true,
+   true
+  ],
+  [
+   "06f04340",
+   "user",
+   "is considering introducing",
+   "beneficial insects (ladybugs or lacewings) to garden",
+   true,
+   true
+  ],
+  [
+   "06f04340",
+   "user",
+   "has",
+   "aphid population in garden",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "is looking for",
+   "art supply recommendations for acrylic paints and brushes",
+   false,
+   false
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "has been looking at",
+   "flower paintings on Instagram",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "wants tips on",
+   "painting realistic flowers",
+   true,
+   false
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "is trying to incorporate",
+   "more texture into their paintings",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "wants recommendations for",
+   "palette knife techniques",
+   true,
+   false
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "is unsure about",
+   "how to price paintings for online sale",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "has been doing",
+   "research on pricing paintings",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "is thinking about",
+   "selling paintings online",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "has tried",
+   "taking photos of artwork before",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "finds their artwork photos",
+   "never turn out right",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "is thinking of setting up",
+   "a small studio space in their apartment",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "has been looking at",
+   "online tutorials for studio setup",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "sometimes gets",
+   "distracted or loses steam midway through a project",
+   true,
+   false
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "has been getting inspiration from",
+   "social media",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "recently started",
+   "a 30-day painting challenge",
+   true,
+   false
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "thinks breaking project into smaller tasks and setting deadlines",
+   "will help stay on track",
+   true,
+   false
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "plans to experiment with",
+   "new cocktails this weekend",
+   false,
+   false
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "attended",
+   "a mixology class",
+   true,
+   true
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "has made",
+   "a classic Pimm's Cup",
+   true,
+   true
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "has made",
+   "classic cocktails recently",
+   true,
+   true
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "plans to try",
+   "muddling cucumber slices in the Pimm's Cup with a Twist",
+   true,
+   false
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "plans to use",
+   "a flavored simple syrup for the Pimm's Cup with a Twist",
+   false,
+   false
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "chose",
+   "grapefruit simple syrup",
+   true,
+   true
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "chose",
+   "Ruby Red Grapefruit for the simple syrup",
+   true,
+   true
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "plans to serve the Pimm's Cup with a Twist in",
+   "a Collins glass",
+   true,
+   false
+  ],
+  [
+   "09d032c9",
+   "user",
+   "is looking for advice on",
+   "organizing tech accessories while traveling",
+   true,
+   true
+  ],
+  [
+   "09d032c9",
+   "user",
+   "has",
+   "a new portable power bank",
+   false,
+   false
+  ],
+  [
+   "09d032c9",
+   "user",
+   "has",
+   "a wireless charging pad",
+   false,
+   false
+  ],
+  [
+   "09d032c9",
+   "user",
+   "owns",
+   "an Apple Watch",
+   true,
+   true
+  ],
+  [
+   "09d032c9",
+   "user",
+   "is considering purchasing",
+   "a new 4K smart TV from LG",
+   true,
+   true
+  ],
+  [
+   "09d032c9",
+   "user",
+   "wants to know more about",
+   "LG OLED C9 series features and performance",
+   true,
+   false
+  ],
+  [
+   "09d032c9",
+   "user",
+   "wants to know more about",
+   "AI-powered image enhancement on LG OLED C9 series",
+   true,
+   false
+  ],
+  [
+   "38146c39",
+   "user",
+   "has been experimenting with",
+   "different types of sugar",
+   false,
+   false
+  ],
+  [
+   "38146c39",
+   "user",
+   "found that",
+   "turbinado sugar adds a richer flavor",
+   true,
+   true
+  ],
+  [
+   "38146c39",
+   "user",
+   "is particularly interested in",
+   "using turbinado sugar in a carrot cake recipe",
+   true,
+   true
+  ],
+  [
+   "38146c39",
+   "user",
+   "plans to try",
+   "muscovado sugar in the cream cheese frosting",
+   true,
+   false
+  ],
+  [
+   "38146c39",
+   "user",
+   "likes the idea of",
+   "a stronger, more intense flavor to balance out the spices in the carrot cake",
+   true,
+   true
+  ],
+  [
+   "d24813b1",
+   "user",
+   "is looking for",
+   "a chocolate cake recipe with caramel ganache frosting",
+   true,
+   true
+  ],
+  [
+   "d24813b1",
+   "user",
+   "is planning to make",
+   "a cake for a friend's birthday",
+   true,
+   true
+  ],
+  [
+   "d24813b1",
+   "user",
+   "previously made",
+   "a lemon poppyseed cake for a colleague's going-away party",
+   true,
+   false
+  ],
+  [
+   "d24813b1",
+   "user",
+   "previously made",
+   "a lemon poppyseed cake that was a hit",
+   true,
+   false
+  ],
+  [
+   "d24813b1",
+   "user",
+   "is interested in making",
+   "lemon lavender pound cake",
+   true,
+   true
+  ],
+  [
+   "d24813b1",
+   "user",
+   "decided to use",
+   "dried lavender buds added to the batter",
+   true,
+   true
+  ],
+  [
+   "d24813b1",
+   "user",
+   "is not sure about",
+   "using lavender syrup or infused milk",
+   true,
+   true
+  ],
+  [
+   "d24813b1",
+   "user",
+   "plans to serve",
+   "the cake at a birthday party",
+   true,
+   false
+  ],
+  [
+   "d24813b1",
+   "user",
+   "is thinking of making",
+   "chocolate chip cookies for the party",
+   true,
+   true
+  ],
+  [
+   "57f827a0",
+   "user",
+   "is designing",
+   "a mid-century modern bedroom dresser",
+   true,
+   true
+  ],
+  [
+   "57f827a0",
+   "user",
+   "dresser wood type",
+   "walnut",
+   true,
+   true
+  ],
+  [
+   "57f827a0",
+   "user",
+   "dresser finish",
+   "oil-based stain",
+   true,
+   true
+  ],
+  [
+   "57f827a0",
+   "user",
+   "dresser topcoat finish",
+   "satin",
+   true,
+   true
+  ],
+  [
+   "57f827a0",
+   "user",
+   "dresser hardware",
+   "brass accents",
+   true,
+   true
+  ],
+  [
+   "57f827a0",
+   "user",
+   "dresser hardware",
+   "simple knobs",
+   true,
+   true
+  ],
+  [
+   "57f827a0",
+   "user",
+   "plans to search for inspiration",
+   "design blogs and websites",
+   true,
+   false
+  ],
+  [
+   "95228167",
+   "user",
+   "considering upgrading from",
+   "Fender Stratocaster",
+   true,
+   true
+  ],
+  [
+   "95228167",
+   "user",
+   "considering upgrading to",
+   "Gibson Les Paul",
+   true,
+   true
+  ],
+  [
+   "95228167",
+   "user",
+   "interested in",
+   "playing acoustic-like fingerpicking patterns (e.g., \"Blackbird\" intro)",
+   true,
+   true
+  ],
+  [
+   "95228167",
+   "user",
+   "interested in",
+   "open D tuning",
+   true,
+   true
+  ],
+  [
+   "95228167",
+   "user",
+   "interested in",
+   "getting good sound out of open D tuning on electric guitar",
+   true,
+   true
+  ],
+  [
+   "95228167",
+   "user",
+   "considering trying out",
+   "Les Paul with coil-tap or coil-splitting feature",
+   true,
+   true
+  ],
+  [
+   "505af2f5",
+   "user",
+   "goal",
+   "reduce sugar intake",
+   true,
+   true
+  ],
+  [
+   "505af2f5",
+   "user",
+   "goal",
+   "save money",
+   true,
+   true
+  ],
+  [
+   "505af2f5",
+   "user",
+   "creamer ingredients",
+   "almond milk, vanilla extract, and honey",
+   true,
+   true
+  ],
+  [
+   "505af2f5",
+   "user",
+   "granola ingredients",
+   "rolled oats, almonds, and honey",
+   true,
+   true
+  ],
+  [
+   "505af2f5",
+   "user",
+   "craving sweet treats",
+   "more often in the afternoon around 3-4 pm",
+   true,
+   true
+  ],
+  [
+   "505af2f5",
+   "user",
+   "has been skipping breakfast",
+   "more frequently",
+   true,
+   true
+  ],
+  [
+   "75f70248",
+   "user",
+   "has issue with",
+   "TV picture flickering",
+   true,
+   true
+  ],
+  [
+   "75f70248",
+   "user",
+   "owns",
+   "a cat",
+   true,
+   true
+  ],
+  [
+   "75f70248",
+   "user",
+   "cat",
+   "sheds a lot",
+   true,
+   true
+  ],
+  [
+   "75f70248",
+   "user",
+   "plans to get",
+   "a spider plant or a snake plant",
+   true,
+   true
+  ],
+  [
+   "75f70248",
+   "user",
+   "plans to get",
+   "a planter with good drainage",
+   true,
+   true
+  ],
+  [
+   "75f70248",
+   "user",
+   "plans to get",
+   "a potting mix that drains well",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "is considering majoring in",
+   "Economics",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "was part of",
+   "high school debate team",
+   true,
+   false
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "took",
+   "advanced placement courses in economics",
+   true,
+   false
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "is weighing pros and cons of",
+   "pursuing a Master's degree",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "is unsure about committing to",
+   "a full Master's program",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "has taken",
+   "online certification courses in Python programming",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "has taken",
+   "online certification courses in data visualization",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "has been reading books on",
+   "machine learning",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "has been reading books on",
+   "artificial intelligence",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "wants to build skills in",
+   "machine learning",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "wants to build skills in",
+   "deep learning",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "has old high school friends who plan to",
+   "work after graduating university",
+   true,
+   true
+  ],
+  [
+   "1da05512",
+   "user",
+   "has issue with",
+   "home network's storage capacity",
+   true,
+   true
+  ],
+  [
+   "1da05512",
+   "user",
+   "is considering getting",
+   "a NAS device",
+   true,
+   true
+  ],
+  [
+   "1da05512",
+   "user",
+   "identifies as",
+   "a beginner with NAS devices",
+   true,
+   true
+  ],
+  [
+   "1da05512",
+   "user",
+   "is already backing up files to",
+   "an external hard drive",
+   true,
+   true
+  ],
+  [
+   "1da05512",
+   "user",
+   "wants NAS as",
+   "central backup location for all devices",
+   true,
+   false
+  ],
+  [
+   "1da05512",
+   "user",
+   "has",
+   "a laptop",
+   true,
+   true
+  ],
+  [
+   "1da05512",
+   "user",
+   "has",
+   "a phone",
+   true,
+   true
+  ],
+  [
+   "1da05512",
+   "user",
+   "is concerned about",
+   "security of data on NAS",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "recently visited theme parks",
+   "Disneyland, Knott's Berry Farm, Six Flags Magic Mountain, and Universal Studios Hollywood",
+   true,
+   false
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "upcoming theme park events",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "Halloween-themed events",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "Halloween-themed food items",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "unique food experiences at theme park events",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "exclusive dining experiences and Halloween-themed menus",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "VIP Experience's Gourmet Buffet at Halloween Horror Nights",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "Behind-the-Scenes Tour add-on to the VIP Experience",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "booking Universal Studios Hollywood VIP Experience's Gourmet Buffet and Behind-the-Scenes Tour package",
+   true,
+   true
+  ],
+  [
+   "b6025781",
+   "user",
+   "has previously eaten",
+   "grilled chicken",
+   true,
+   true
+  ],
+  [
+   "b6025781",
+   "user",
+   "has previously eaten",
+   "turkey breast",
+   true,
+   true
+  ],
+  [
+   "b6025781",
+   "user",
+   "has never tried",
+   "lentil bolognese",
+   true,
+   true
+  ],
+  [
+   "b6025781",
+   "user",
+   "has never tried",
+   "mushroom bolognese",
+   true,
+   true
+  ],
+  [
+   "b6025781",
+   "user",
+   "plans to add",
+   "roasted sweet potatoes to meal prep this week",
+   true,
+   true
+  ],
+  [
+   "b6025781",
+   "user",
+   "chose seasoning option",
+   "Classic Herbs for roasted sweet potatoes",
+   true,
+   true
+  ],
+  [
+   "b6025781",
+   "user",
+   "has in fridge",
+   "fresh rosemary",
+   true,
+   true
+  ],
+  [
+   "b6025781",
+   "user",
+   "plans to make",
+   "homemade granola to snack on throughout the week",
+   false,
+   false
+  ],
+  [
+   "a89d7624",
+   "user",
+   "attended concerts recently",
+   "three",
+   true,
+   true
+  ],
+  [
+   "a89d7624",
+   "user",
+   "attended concert",
+   "The Killers at Red Rocks Amphitheater",
+   true,
+   true
+  ],
+  [
+   "a89d7624",
+   "user",
+   "met",
+   "Brandon Flowers",
+   true,
+   true
+  ],
+  [
+   "a89d7624",
+   "user",
+   "met Brandon Flowers",
+   "after The Killers' concert in Denver",
+   true,
+   true
+  ],
+  [
+   "a89d7624",
+   "user",
+   "previously visited",
+   "Denver",
+   true,
+   true
+  ],
+  [
+   "a89d7624",
+   "user",
+   "enjoys",
+   "Denver's music scene",
+   true,
+   true
+  ],
+  [
+   "a89d7624",
+   "user",
+   "is planning",
+   "to return to Denver for another concert",
+   false,
+   false
+  ],
+  [
+   "a89d7624",
+   "user",
+   "is considering",
+   "getting dinner at The Ship Rock Grille before the concert",
+   true,
+   true
+  ],
+  [
+   "a89d7624",
+   "user",
+   "is considering",
+   "arriving at Red Rocks early to grab dinner before the concert",
+   true,
+   true
+  ],
+  [
+   "a89d7624",
+   "user",
+   "is considering",
+   "asking The Ship Rock Grille about tables with a view of the stage",
+   true,
+   true
+  ],
+  [
+   "b0479f84",
+   "user",
+   "recently watched",
+   "documentaries on Netflix",
+   true,
+   false
+  ],
+  [
+   "b0479f84",
+   "user",
+   "recently finished",
+   "\"Tiger King\"",
+   true,
+   false
+  ],
+  [
+   "b0479f84",
+   "user",
+   "interested in",
+   "nature and wildlife documentaries",
+   true,
+   true
+  ],
+  [
+   "b0479f84",
+   "user",
+   "has seen",
+   "stunning footage of coral reefs",
+   true,
+   true
+  ],
+  [
+   "b0479f84",
+   "user",
+   "previously did not understand",
+   "importance of coral reefs",
+   true,
+   true
+  ],
+  [
+   "b0479f84",
+   "user",
+   "interested in",
+   "learning more about eco-tourism",
+   true,
+   true
+  ],
+  [
+   "b0479f84",
+   "user",
+   "chose",
+   "Belize as eco-tourism destination",
+   true,
+   true
+  ],
+  [
+   "b0479f84",
+   "user",
+   "heard about",
+   "great snorkeling and diving in Belize",
+   true,
+   true
+  ],
+  [
+   "1d4e3b97",
+   "user",
+   "planned bike ride distance",
+   "20 miles",
+   true,
+   false
+  ],
+  [
+   "1d4e3b97",
+   "user",
+   "planned bike ride timing",
+   "this weekend",
+   true,
+   true
+  ],
+  [
+   "1d4e3b97",
+   "user",
+   "owns",
+   "a new Garmin bike computer",
+   true,
+   false
+  ],
+  [
+   "1d4e3b97",
+   "user",
+   "replaced bike chain and cassette",
+   "February 1st",
+   true,
+   true
+  ],
+  [
+   "1d4e3b97",
+   "user",
+   "bike performance",
+   "improved after chain and cassette replacement",
+   true,
+   true
+  ],
+  [
+   "1d4e3b97",
+   "user",
+   "current bike helmet",
+   "outdated",
+   true,
+   true
+  ],
+  [
+   "1d4e3b97",
+   "user",
+   "plans to order",
+   "a new Specialized bike helmet",
+   true,
+   false
+  ],
+  [
+   "07b6f563",
+   "user",
+   "owns",
+   "iPhone 13 Pro",
+   true,
+   true
+  ],
+  [
+   "07b6f563",
+   "user",
+   "needs replacement for",
+   "cracked screen protector on iPhone 13 Pro",
+   true,
+   true
+  ],
+  [
+   "07b6f563",
+   "user",
+   "is looking for",
+   "phone wallet case for iPhone 13 Pro",
+   true,
+   true
+  ],
+  [
+   "07b6f563",
+   "user",
+   "is interested in",
+   "portable power bank",
+   true,
+   true
+  ],
+  [
+   "07b6f563",
+   "user",
+   "owns",
+   "portable power bank from Best Buy",
+   true,
+   false
+  ],
+  [
+   "07b6f563",
+   "user",
+   "reports portable power bank from Best Buy",
+   "works great",
+   true,
+   false
+  ],
+  [
+   "07b6f563",
+   "user",
+   "might consider getting",
+   "new power bank with more capacity or advanced features",
+   true,
+   true
+  ],
+  [
+   "07b6f563",
+   "user",
+   "is thinking of getting",
+   "wireless charging power bank",
+   true,
+   true
+  ],
+  [
+   "07b6f563",
+   "user",
+   "is considering",
+   "wireless charging power bank for convenience with iPhone 13 Pro",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "listens to podcast genres",
+   "true crime and self-improvement",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "listens to podcasts during",
+   "commute",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "wants to branch out into",
+   "other podcast genres",
+   true,
+   false
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "commute duration",
+   "about 40 minutes each way",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "interested in podcast genres",
+   "history and science",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "interested in",
+   "history podcasts",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "interested in book",
+   "Guns, Germs, and Steel by Jared Diamond",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "interested in concept",
+   "lucky latitudes in Guns, Germs, and Steel",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "is heading to",
+   "Tokyo soon",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "will stay at",
+   "Park Hyatt Tokyo",
+   true,
+   false
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "plans to visit",
+   "Tsukiji Fish Market",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "recently got",
+   "a Suica card",
+   true,
+   false
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "plans to visit",
+   "Nikko National Park",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "plans to take",
+   "a guided tour to Nikko National Park",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "has downloaded",
+   "TripIt app",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "plans to take",
+   "train from airport to hotel",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "plans to do",
+   "shopping in Tokyo",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "plans to visit",
+   "Tokyo Tower",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "plans to try",
+   "fresh sushi for breakfast at Tsukiji Fish Market",
+   false,
+   false
+  ]
+ ],
+ "value_in_gold_evidence_turn": [
+  [
+   "8a2466db",
+   "user",
+   "uses video editing software",
+   "Adobe Premiere Pro",
+   true,
+   true
+  ],
+  [
+   "8a2466db",
+   "user",
+   "enjoys using",
+   "Adobe Premiere Pro",
+   true,
+   true
+  ],
+  [
+   "06878be2",
+   "user",
+   "camera model",
+   "Sony A7R IV",
+   true,
+   true
+  ],
+  [
+   "06878be2",
+   "user",
+   "lens model",
+   "Sony 24-70mm f/2.8",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "works in",
+   "deep learning for medical image analysis",
+   true,
+   true
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "likes hotels with",
+   "unique features such as a rooftop pool or a hot tub on the balcony",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "language learning interest",
+   "idiomatic expressions and colloquialisms in French and Spanish",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "preferred wind-down time",
+   "9:30 pm",
+   true,
+   false
+  ],
+  [
+   "afdc33df",
+   "user",
+   "recently bought",
+   "a new utensil holder",
+   true,
+   true
+  ],
+  [
+   "afdc33df",
+   "user",
+   "wants to keep",
+   "countertops clutter-free",
+   true,
+   false
+  ],
+  [
+   "caf03d32",
+   "user",
+   "recently learned to use",
+   "slow cooker",
+   true,
+   true
+  ],
+  [
+   "54026fce",
+   "user",
+   "enjoys",
+   "the flexibility of working from home",
+   false,
+   false
+  ],
+  [
+   "54026fce",
+   "user",
+   "misses",
+   "social interactions and watercooler conversations with colleagues",
+   false,
+   false
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "has been getting inspiration from",
+   "social media",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "recently started",
+   "a 30-day painting challenge",
+   true,
+   false
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "attended",
+   "a mixology class",
+   true,
+   true
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "has made",
+   "a classic Pimm's Cup",
+   true,
+   true
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "has made",
+   "classic cocktails recently",
+   true,
+   true
+  ],
+  [
+   "38146c39",
+   "user",
+   "has been experimenting with",
+   "different types of sugar",
+   false,
+   false
+  ],
+  [
+   "38146c39",
+   "user",
+   "found that",
+   "turbinado sugar adds a richer flavor",
+   true,
+   true
+  ],
+  [
+   "95228167",
+   "user",
+   "considering upgrading from",
+   "Fender Stratocaster",
+   true,
+   true
+  ],
+  [
+   "95228167",
+   "user",
+   "considering upgrading to",
+   "Gibson Les Paul",
+   true,
+   true
+  ],
+  [
+   "505af2f5",
+   "user",
+   "goal",
+   "save money",
+   true,
+   true
+  ],
+  [
+   "505af2f5",
+   "user",
+   "creamer ingredients",
+   "almond milk, vanilla extract, and honey",
+   true,
+   true
+  ],
+  [
+   "75f70248",
+   "user",
+   "owns",
+   "a cat",
+   true,
+   true
+  ],
+  [
+   "75f70248",
+   "user",
+   "cat",
+   "sheds a lot",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "is considering majoring in",
+   "Economics",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "took",
+   "advanced placement courses in economics",
+   true,
+   false
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "is unsure about committing to",
+   "a full Master's program",
+   true,
+   true
+  ],
+  [
+   "1da05512",
+   "user",
+   "has issue with",
+   "home network's storage capacity",
+   true,
+   true
+  ],
+  [
+   "1da05512",
+   "user",
+   "is considering getting",
+   "a NAS device",
+   true,
+   true
+  ],
+  [
+   "1da05512",
+   "user",
+   "is already backing up files to",
+   "an external hard drive",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "recently visited theme parks",
+   "Disneyland, Knott's Berry Farm, Six Flags Magic Mountain, and Universal Studios Hollywood",
+   true,
+   false
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "upcoming theme park events",
+   true,
+   true
+  ],
+  [
+   "a89d7624",
+   "user",
+   "met",
+   "Brandon Flowers",
+   true,
+   true
+  ],
+  [
+   "a89d7624",
+   "user",
+   "previously visited",
+   "Denver",
+   true,
+   true
+  ],
+  [
+   "b0479f84",
+   "user",
+   "recently finished",
+   "\"Tiger King\"",
+   true,
+   false
+  ],
+  [
+   "1d4e3b97",
+   "user",
+   "replaced bike chain and cassette",
+   "February 1st",
+   true,
+   true
+  ],
+  [
+   "07b6f563",
+   "user",
+   "owns",
+   "iPhone 13 Pro",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "listens to podcast genres",
+   "true crime and self-improvement",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "listens to podcasts during",
+   "commute",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "commute duration",
+   "about 40 minutes each way",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "interested in",
+   "history podcasts",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "plans to visit",
+   "Tsukiji Fish Market",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "plans to visit",
+   "Nikko National Park",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "plans to take",
+   "a guided tour to Nikko National Park",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "has downloaded",
+   "TripIt app",
+   true,
+   true
+  ]
+ ],
+ "user_and_in_evidence": [
+  [
+   "8a2466db",
+   "user",
+   "uses video editing software",
+   "Adobe Premiere Pro",
+   true,
+   true
+  ],
+  [
+   "8a2466db",
+   "user",
+   "enjoys using",
+   "Adobe Premiere Pro",
+   true,
+   true
+  ],
+  [
+   "06878be2",
+   "user",
+   "camera model",
+   "Sony A7R IV",
+   true,
+   true
+  ],
+  [
+   "06878be2",
+   "user",
+   "lens model",
+   "Sony 24-70mm f/2.8",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "works in",
+   "deep learning for medical image analysis",
+   true,
+   true
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "likes hotels with",
+   "unique features such as a rooftop pool or a hot tub on the balcony",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "language learning interest",
+   "idiomatic expressions and colloquialisms in French and Spanish",
+   true,
+   true
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "preferred wind-down time",
+   "9:30 pm",
+   true,
+   false
+  ],
+  [
+   "afdc33df",
+   "user",
+   "recently bought",
+   "a new utensil holder",
+   true,
+   true
+  ],
+  [
+   "afdc33df",
+   "user",
+   "wants to keep",
+   "countertops clutter-free",
+   true,
+   false
+  ],
+  [
+   "caf03d32",
+   "user",
+   "recently learned to use",
+   "slow cooker",
+   true,
+   true
+  ],
+  [
+   "54026fce",
+   "user",
+   "enjoys",
+   "the flexibility of working from home",
+   false,
+   false
+  ],
+  [
+   "54026fce",
+   "user",
+   "misses",
+   "social interactions and watercooler conversations with colleagues",
+   false,
+   false
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "has been getting inspiration from",
+   "social media",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "recently started",
+   "a 30-day painting challenge",
+   true,
+   false
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "attended",
+   "a mixology class",
+   true,
+   true
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "has made",
+   "a classic Pimm's Cup",
+   true,
+   true
+  ],
+  [
+   "1a1907b4",
+   "user",
+   "has made",
+   "classic cocktails recently",
+   true,
+   true
+  ],
+  [
+   "38146c39",
+   "user",
+   "has been experimenting with",
+   "different types of sugar",
+   false,
+   false
+  ],
+  [
+   "38146c39",
+   "user",
+   "found that",
+   "turbinado sugar adds a richer flavor",
+   true,
+   true
+  ],
+  [
+   "95228167",
+   "user",
+   "considering upgrading from",
+   "Fender Stratocaster",
+   true,
+   true
+  ],
+  [
+   "95228167",
+   "user",
+   "considering upgrading to",
+   "Gibson Les Paul",
+   true,
+   true
+  ],
+  [
+   "505af2f5",
+   "user",
+   "goal",
+   "save money",
+   true,
+   true
+  ],
+  [
+   "505af2f5",
+   "user",
+   "creamer ingredients",
+   "almond milk, vanilla extract, and honey",
+   true,
+   true
+  ],
+  [
+   "75f70248",
+   "user",
+   "owns",
+   "a cat",
+   true,
+   true
+  ],
+  [
+   "75f70248",
+   "user",
+   "cat",
+   "sheds a lot",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "is considering majoring in",
+   "Economics",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "took",
+   "advanced placement courses in economics",
+   true,
+   false
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "is unsure about committing to",
+   "a full Master's program",
+   true,
+   true
+  ],
+  [
+   "1da05512",
+   "user",
+   "has issue with",
+   "home network's storage capacity",
+   true,
+   true
+  ],
+  [
+   "1da05512",
+   "user",
+   "is considering getting",
+   "a NAS device",
+   true,
+   true
+  ],
+  [
+   "1da05512",
+   "user",
+   "is already backing up files to",
+   "an external hard drive",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "recently visited theme parks",
+   "Disneyland, Knott's Berry Farm, Six Flags Magic Mountain, and Universal Studios Hollywood",
+   true,
+   false
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "upcoming theme park events",
+   true,
+   true
+  ],
+  [
+   "a89d7624",
+   "user",
+   "met",
+   "Brandon Flowers",
+   true,
+   true
+  ],
+  [
+   "a89d7624",
+   "user",
+   "previously visited",
+   "Denver",
+   true,
+   true
+  ],
+  [
+   "b0479f84",
+   "user",
+   "recently finished",
+   "\"Tiger King\"",
+   true,
+   false
+  ],
+  [
+   "1d4e3b97",
+   "user",
+   "replaced bike chain and cassette",
+   "February 1st",
+   true,
+   true
+  ],
+  [
+   "07b6f563",
+   "user",
+   "owns",
+   "iPhone 13 Pro",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "listens to podcast genres",
+   "true crime and self-improvement",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "listens to podcasts during",
+   "commute",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "commute duration",
+   "about 40 minutes each way",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "interested in",
+   "history podcasts",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "plans to visit",
+   "Tsukiji Fish Market",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "plans to visit",
+   "Nikko National Park",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "plans to take",
+   "a guided tour to Nikko National Park",
+   true,
+   true
+  ],
+  [
+   "0a34ad58",
+   "user",
+   "has downloaded",
+   "TripIt app",
+   true,
+   true
+  ]
+ ],
+ "pref_attr": [
+  [
+   "8a2466db",
+   "user",
+   "enjoys using",
+   "Adobe Premiere Pro",
+   true,
+   true
+  ],
+  [
+   "8a2466db",
+   "user",
+   "wants to learn",
+   "advanced settings for video editing in Adobe Premiere Pro",
+   true,
+   false
+  ],
+  [
+   "06878be2",
+   "user",
+   "tripod of interest",
+   "Gitzo GT3543LS",
+   true,
+   false
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "recent advancements in deep learning for medical image analysis",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "popular datasets for segmentation tasks in medical image analysis",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "explainable AI for medical image analysis",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "research papers on explainable AI in medical image analysis",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "techniques for visualizing and interpreting deep learning models",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "advanced topics in deep learning for medical image analysis",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "multi-modal image fusion",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "transfer learning in medical imaging",
+   true,
+   true
+  ],
+  [
+   "75832dbd",
+   "user",
+   "interested in",
+   "domain adaptation in medical imaging",
+   true,
+   true
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "wants a hotel with",
+   "a great view of the city",
+   true,
+   false
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "likes hotels with",
+   "unique features such as a rooftop pool or a hot tub on the balcony",
+   true,
+   true
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "wants",
+   "a room with a hot tub on the balcony facing the Space Needle",
+   true,
+   false
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "wants",
+   "a complimentary room service breakfast",
+   true,
+   false
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "wants",
+   "a $100 credit towards a couples' massage at the hotel's spa",
+   true,
+   false
+  ],
+  [
+   "0edc2aef",
+   "user",
+   "wants",
+   "a room with a fireplace",
+   true,
+   false
+  ],
+  [
+   "35a27287",
+   "user",
+   "language learning interest",
+   "French listening skills",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "language learning interest",
+   "French and Spanish conversational skills",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "language learning interest",
+   "idiomatic expressions and colloquialisms in French and Spanish",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "language learning interest",
+   "informal language in French and Spanish",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "language learning interest",
+   "language exchange events focused on conversational practice",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "language learning interest",
+   "French and Spanish language exchange opportunities",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "language learning interest",
+   "cultural events celebrating language diversity and cultural exchange",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "wants to attend",
+   "language exchange events",
+   true,
+   true
+  ],
+  [
+   "35a27287",
+   "user",
+   "wants to attend",
+   "cultural events in their area",
+   true,
+   false
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "schedule preference",
+   "structured",
+   true,
+   false
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "wants to minimize",
+   "procrastination and social media usage",
+   true,
+   false
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "preferred wind-down time",
+   "9:30 pm",
+   true,
+   false
+  ],
+  [
+   "195a1a1b",
+   "user",
+   "favorite part of Headspace \"Sleep\" meditation",
+   "imagery and visualization",
+   true,
+   true
+  ],
+  [
+   "afdc33df",
+   "user",
+   "wants to try making",
+   "yogurt in slow cooker",
+   true,
+   false
+  ],
+  [
+   "afdc33df",
+   "user",
+   "wants to keep",
+   "countertops clutter-free",
+   true,
+   false
+  ],
+  [
+   "caf03d32",
+   "user",
+   "wants to try",
+   "more slow cooker recipes",
+   true,
+   false
+  ],
+  [
+   "caf03d32",
+   "user",
+   "wants to make",
+   "slow cooker yogurt with cashew base",
+   true,
+   false
+  ],
+  [
+   "54026fce",
+   "user",
+   "enjoys",
+   "the flexibility of working from home",
+   false,
+   false
+  ],
+  [
+   "54026fce",
+   "user",
+   "likes",
+   "the idea of virtual coffee breaks",
+   true,
+   true
+  ],
+  [
+   "54026fce",
+   "user",
+   "likes",
+   "the suggestion to discuss and agree with the team first",
+   true,
+   true
+  ],
+  [
+   "54026fce",
+   "user",
+   "likes",
+   "the idea of framing it as a collaborative suggestion",
+   true,
+   true
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "wants tips on",
+   "painting realistic flowers",
+   true,
+   false
+  ],
+  [
+   "6b7dfb22",
+   "user",
+   "wants recommendations for",
+   "palette knife techniques",
+   true,
+   false
+  ],
+  [
+   "09d032c9",
+   "user",
+   "wants to know more about",
+   "LG OLED C9 series features and performance",
+   true,
+   false
+  ],
+  [
+   "09d032c9",
+   "user",
+   "wants to know more about",
+   "AI-powered image enhancement on LG OLED C9 series",
+   true,
+   false
+  ],
+  [
+   "38146c39",
+   "user",
+   "is particularly interested in",
+   "using turbinado sugar in a carrot cake recipe",
+   true,
+   true
+  ],
+  [
+   "38146c39",
+   "user",
+   "likes the idea of",
+   "a stronger, more intense flavor to balance out the spices in the carrot cake",
+   true,
+   true
+  ],
+  [
+   "d24813b1",
+   "user",
+   "is interested in making",
+   "lemon lavender pound cake",
+   true,
+   true
+  ],
+  [
+   "95228167",
+   "user",
+   "interested in",
+   "playing acoustic-like fingerpicking patterns (e.g., \"Blackbird\" intro)",
+   true,
+   true
+  ],
+  [
+   "95228167",
+   "user",
+   "interested in",
+   "open D tuning",
+   true,
+   true
+  ],
+  [
+   "95228167",
+   "user",
+   "interested in",
+   "getting good sound out of open D tuning on electric guitar",
+   true,
+   true
+  ],
+  [
+   "505af2f5",
+   "user",
+   "goal",
+   "reduce sugar intake",
+   true,
+   true
+  ],
+  [
+   "505af2f5",
+   "user",
+   "goal",
+   "save money",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "wants to build skills in",
+   "machine learning",
+   true,
+   true
+  ],
+  [
+   "d6233ab6",
+   "user",
+   "wants to build skills in",
+   "deep learning",
+   true,
+   true
+  ],
+  [
+   "1da05512",
+   "user",
+   "wants NAS as",
+   "central backup location for all devices",
+   true,
+   false
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "upcoming theme park events",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "Halloween-themed events",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "Halloween-themed food items",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "unique food experiences at theme park events",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "exclusive dining experiences and Halloween-themed menus",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "VIP Experience's Gourmet Buffet at Halloween Horror Nights",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "Behind-the-Scenes Tour add-on to the VIP Experience",
+   true,
+   true
+  ],
+  [
+   "fca70973",
+   "user",
+   "interested in",
+   "booking Universal Studios Hollywood VIP Experience's Gourmet Buffet and Behind-the-Scenes Tour package",
+   true,
+   true
+  ],
+  [
+   "a89d7624",
+   "user",
+   "enjoys",
+   "Denver's music scene",
+   true,
+   true
+  ],
+  [
+   "b0479f84",
+   "user",
+   "interested in",
+   "nature and wildlife documentaries",
+   true,
+   true
+  ],
+  [
+   "b0479f84",
+   "user",
+   "interested in",
+   "learning more about eco-tourism",
+   true,
+   true
+  ],
+  [
+   "07b6f563",
+   "user",
+   "is interested in",
+   "portable power bank",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "wants to branch out into",
+   "other podcast genres",
+   true,
+   false
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "interested in podcast genres",
+   "history and science",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "interested in",
+   "history podcasts",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "interested in book",
+   "Guns, Germs, and Steel by Jared Diamond",
+   true,
+   true
+  ],
+  [
+   "1c0ddc50",
+   "user",
+   "interested in concept",
+   "lucky latitudes in Guns, Germs, and Steel",
+   true,
+   true
+  ]
+ ]
+}

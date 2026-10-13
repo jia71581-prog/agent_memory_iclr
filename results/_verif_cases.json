@@ -1,0 +1,717 @@
+{
+ "3a704032": {
+  "question": "How many plants did I acquire in the last month?",
+  "gold": 3,
+  "type": "multi-session",
+  "cache_missing_sessions": 0,
+  "n_chains": 283,
+  "n_units": 479,
+  "n_sessions": 48,
+  "ev_turns": [
+   [
+    8,
+    1,
+    "user",
+    "I actually use a mixture of water and fertilizer when I water my plants, which I got from the nursery where I bought the"
+   ],
+   [
+    167,
+    16,
+    "user",
+    "I'm also wondering if I should repot my snake plant, which I got from my sister last month. Do you think it would benefi"
+   ]
+  ],
+  "ev_sess": [
+   1,
+   13,
+   16
+  ],
+  "n_ev_sess_annotated": 3,
+  "deployed_baseline_hits": [
+   167
+  ],
+  "cfgs": {
+   "baseline": {
+    "n_turns": 20,
+    "n_turn_sessions": 15,
+    "view_chars": 19929,
+    "raw_chars": 15640,
+    "total_chars": 35569,
+    "ev_turn_hits": 1,
+    "n_ev_turns": 2,
+    "ev_sess_hits": 3,
+    "n_ev_sess": 3,
+    "hit_ids": [
+     167
+    ],
+    "hit_channel": {
+     "167": "bm25"
+    },
+    "hit_bm25_rank": {
+     "167": 1
+    },
+    "count_mode": false,
+    "n_prov": 0
+   },
+   "v5_drop_in": {
+    "n_turns": 20,
+    "n_turn_sessions": 15,
+    "view_chars": 19984,
+    "raw_chars": 11212,
+    "total_chars": 31196,
+    "ev_turn_hits": 2,
+    "n_ev_turns": 2,
+    "ev_sess_hits": 3,
+    "n_ev_sess": 3,
+    "hit_ids": [
+     8,
+     167
+    ],
+    "hit_channel": {
+     "8": "prov",
+     "167": "bm25"
+    },
+    "hit_bm25_rank": {
+     "8": 25,
+     "167": 1
+    },
+    "count_mode": false,
+    "n_prov": 6
+   },
+   "v5_realloc": {
+    "n_turns": 31,
+    "n_turn_sessions": 19,
+    "view_chars": 7959,
+    "raw_chars": 25244,
+    "total_chars": 33203,
+    "ev_turn_hits": 2,
+    "n_ev_turns": 2,
+    "ev_sess_hits": 3,
+    "n_ev_sess": 3,
+    "hit_ids": [
+     8,
+     167
+    ],
+    "hit_channel": {
+     "8": "prov",
+     "167": "bm25"
+    },
+    "hit_bm25_rank": {
+     "8": 25,
+     "167": 1
+    },
+    "count_mode": false,
+    "n_prov": 6
+   },
+   "realloc": {
+    "n_turns": 28,
+    "n_turn_sessions": 18,
+    "view_chars": 11980,
+    "raw_chars": 20295,
+    "total_chars": 32275,
+    "ev_turn_hits": 2,
+    "n_ev_turns": 2,
+    "ev_sess_hits": 3,
+    "n_ev_sess": 3,
+    "hit_ids": [
+     8,
+     167
+    ],
+    "hit_channel": {
+     "8": "prov",
+     "167": "bm25"
+    },
+    "hit_bm25_rank": {
+     "8": 25,
+     "167": 1
+    },
+    "count_mode": true,
+    "n_prov": 11
+   },
+   "bm25_k30": {
+    "n_turns": 30,
+    "n_turn_sessions": 19,
+    "view_chars": 19984,
+    "raw_chars": 24912,
+    "total_chars": 44896,
+    "ev_turn_hits": 2,
+    "n_ev_turns": 2,
+    "ev_sess_hits": 3,
+    "n_ev_sess": 3,
+    "hit_ids": [
+     8,
+     167
+    ],
+    "hit_channel": {
+     "8": "bm25",
+     "167": "bm25"
+    },
+    "hit_bm25_rank": {
+     "8": 25,
+     "167": 1
+    },
+    "count_mode": false,
+    "n_prov": 0
+   },
+   "bm25_k50": {
+    "n_turns": 50,
+    "n_turn_sessions": 27,
+    "view_chars": 19984,
+    "raw_chars": 57819,
+    "total_chars": 77803,
+    "ev_turn_hits": 2,
+    "n_ev_turns": 2,
+    "ev_sess_hits": 3,
+    "n_ev_sess": 3,
+    "hit_ids": [
+     8,
+     167
+    ],
+    "hit_channel": {
+     "8": "bm25",
+     "167": "bm25"
+    },
+    "hit_bm25_rank": {
+     "8": 25,
+     "167": 1
+    },
+    "count_mode": false,
+    "n_prov": 0
+   }
+  }
+ },
+ "6cb6f249": {
+  "question": "How many days did I take social media breaks in total?",
+  "gold": "17 days",
+  "type": "multi-session",
+  "cache_missing_sessions": 0,
+  "n_chains": 307,
+  "n_units": 470,
+  "n_sessions": 41,
+  "ev_turns": [
+   [
+    247,
+    21,
+    "user",
+    "I'm trying to get back into journaling and reading more. Can you recommend some books on mindfulness and self-improvemen"
+   ],
+   [
+    259,
+    22,
+    "user",
+    "I'm trying to track my screen time and social media usage. Can you suggest some apps or tools that can help me monitor a"
+   ]
+  ],
+  "ev_sess": [
+   21,
+   22
+  ],
+  "n_ev_sess_annotated": 2,
+  "deployed_baseline_hits": [
+   259
+  ],
+  "cfgs": {
+   "baseline": {
+    "n_turns": 20,
+    "n_turn_sessions": 4,
+    "view_chars": 19997,
+    "raw_chars": 26288,
+    "total_chars": 46285,
+    "ev_turn_hits": 1,
+    "n_ev_turns": 2,
+    "ev_sess_hits": 2,
+    "n_ev_sess": 2,
+    "hit_ids": [
+     259
+    ],
+    "hit_channel": {
+     "259": "bm25"
+    },
+    "hit_bm25_rank": {
+     "259": 15
+    },
+    "count_mode": false,
+    "n_prov": 0
+   },
+   "v5_drop_in": {
+    "n_turns": 20,
+    "n_turn_sessions": 5,
+    "view_chars": 19991,
+    "raw_chars": 26549,
+    "total_chars": 46540,
+    "ev_turn_hits": 1,
+    "n_ev_turns": 2,
+    "ev_sess_hits": 2,
+    "n_ev_sess": 2,
+    "hit_ids": [
+     259
+    ],
+    "hit_channel": {
+     "259": "bm25"
+    },
+    "hit_bm25_rank": {
+     "259": 15
+    },
+    "count_mode": false,
+    "n_prov": 6
+   },
+   "v5_realloc": {
+    "n_turns": 31,
+    "n_turn_sessions": 10,
+    "view_chars": 7969,
+    "raw_chars": 35258,
+    "total_chars": 43227,
+    "ev_turn_hits": 2,
+    "n_ev_turns": 2,
+    "ev_sess_hits": 2,
+    "n_ev_sess": 2,
+    "hit_ids": [
+     247,
+     259
+    ],
+    "hit_channel": {
+     "247": "bm25",
+     "259": "bm25"
+    },
+    "hit_bm25_rank": {
+     "247": 23,
+     "259": 15
+    },
+    "count_mode": false,
+    "n_prov": 6
+   },
+   "realloc": {
+    "n_turns": 28,
+    "n_turn_sessions": 9,
+    "view_chars": 11973,
+    "raw_chars": 35729,
+    "total_chars": 47702,
+    "ev_turn_hits": 1,
+    "n_ev_turns": 2,
+    "ev_sess_hits": 2,
+    "n_ev_sess": 2,
+    "hit_ids": [
+     259
+    ],
+    "hit_channel": {
+     "259": "bm25"
+    },
+    "hit_bm25_rank": {
+     "259": 15
+    },
+    "count_mode": true,
+    "n_prov": 11
+   },
+   "bm25_k30": {
+    "n_turns": 30,
+    "n_turn_sessions": 9,
+    "view_chars": 19991,
+    "raw_chars": 34858,
+    "total_chars": 54849,
+    "ev_turn_hits": 2,
+    "n_ev_turns": 2,
+    "ev_sess_hits": 2,
+    "n_ev_sess": 2,
+    "hit_ids": [
+     247,
+     259
+    ],
+    "hit_channel": {
+     "247": "bm25",
+     "259": "bm25"
+    },
+    "hit_bm25_rank": {
+     "247": 23,
+     "259": 15
+    },
+    "count_mode": false,
+    "n_prov": 0
+   },
+   "bm25_k50": {
+    "n_turns": 50,
+    "n_turn_sessions": 20,
+    "view_chars": 19991,
+    "raw_chars": 62536,
+    "total_chars": 82527,
+    "ev_turn_hits": 2,
+    "n_ev_turns": 2,
+    "ev_sess_hits": 2,
+    "n_ev_sess": 2,
+    "hit_ids": [
+     247,
+     259
+    ],
+    "hit_channel": {
+     "247": "bm25",
+     "259": "bm25"
+    },
+    "hit_bm25_rank": {
+     "247": 23,
+     "259": 15
+    },
+    "count_mode": false,
+    "n_prov": 0
+   }
+  }
+ },
+ "0a995998": {
+  "question": "How many items of clothing do I need to pick up or return from a store?",
+  "gold": 3,
+  "type": "multi-session",
+  "cache_missing_sessions": 0,
+  "n_chains": 305,
+  "n_units": 484,
+  "n_sessions": 44,
+  "ev_turns": [
+   [
+    130,
+    11,
+    "user",
+    "I'm making progress, but I still have a lot to sort through. I think I'll take a break and pick up my dry cleaning for t"
+   ],
+   [
+    218,
+    19,
+    "user",
+    "I need to return some boots to Zara, actually. I got them on February 5th, but they were too small, so I exchanged them "
+   ],
+   [
+    350,
+    30,
+    "user",
+    "I think I'll use some boxes I have at home to store my winter clothes. By the way, I just exchanged a pair of boots I go"
+   ]
+  ],
+  "ev_sess": [
+   11,
+   19,
+   30
+  ],
+  "n_ev_sess_annotated": 3,
+  "deployed_baseline_hits": [
+   218,
+   350
+  ],
+  "cfgs": {
+   "baseline": {
+    "n_turns": 20,
+    "n_turn_sessions": 7,
+    "view_chars": 19908,
+    "raw_chars": 30169,
+    "total_chars": 50077,
+    "ev_turn_hits": 2,
+    "n_ev_turns": 3,
+    "ev_sess_hits": 3,
+    "n_ev_sess": 3,
+    "hit_ids": [
+     218,
+     350
+    ],
+    "hit_channel": {
+     "218": "bm25",
+     "350": "bm25"
+    },
+    "hit_bm25_rank": {
+     "218": 3,
+     "350": 0
+    },
+    "count_mode": false,
+    "n_prov": 0
+   },
+   "v5_drop_in": {
+    "n_turns": 20,
+    "n_turn_sessions": 9,
+    "view_chars": 19995,
+    "raw_chars": 29347,
+    "total_chars": 49342,
+    "ev_turn_hits": 2,
+    "n_ev_turns": 3,
+    "ev_sess_hits": 3,
+    "n_ev_sess": 3,
+    "hit_ids": [
+     218,
+     350
+    ],
+    "hit_channel": {
+     "218": "bm25",
+     "350": "bm25"
+    },
+    "hit_bm25_rank": {
+     "218": 3,
+     "350": 0
+    },
+    "count_mode": false,
+    "n_prov": 6
+   },
+   "v5_realloc": {
+    "n_turns": 31,
+    "n_turn_sessions": 12,
+    "view_chars": 7999,
+    "raw_chars": 45568,
+    "total_chars": 53567,
+    "ev_turn_hits": 2,
+    "n_ev_turns": 3,
+    "ev_sess_hits": 3,
+    "n_ev_sess": 3,
+    "hit_ids": [
+     218,
+     350
+    ],
+    "hit_channel": {
+     "218": "bm25",
+     "350": "bm25"
+    },
+    "hit_bm25_rank": {
+     "218": 3,
+     "350": 0
+    },
+    "count_mode": false,
+    "n_prov": 6
+   },
+   "realloc": {
+    "n_turns": 28,
+    "n_turn_sessions": 12,
+    "view_chars": 11995,
+    "raw_chars": 38978,
+    "total_chars": 50973,
+    "ev_turn_hits": 2,
+    "n_ev_turns": 3,
+    "ev_sess_hits": 3,
+    "n_ev_sess": 3,
+    "hit_ids": [
+     218,
+     350
+    ],
+    "hit_channel": {
+     "218": "bm25",
+     "350": "prov"
+    },
+    "hit_bm25_rank": {
+     "218": 3,
+     "350": 0
+    },
+    "count_mode": true,
+    "n_prov": 11
+   },
+   "bm25_k30": {
+    "n_turns": 30,
+    "n_turn_sessions": 10,
+    "view_chars": 19995,
+    "raw_chars": 47350,
+    "total_chars": 67345,
+    "ev_turn_hits": 2,
+    "n_ev_turns": 3,
+    "ev_sess_hits": 3,
+    "n_ev_sess": 3,
+    "hit_ids": [
+     218,
+     350
+    ],
+    "hit_channel": {
+     "218": "bm25",
+     "350": "bm25"
+    },
+    "hit_bm25_rank": {
+     "218": 3,
+     "350": 0
+    },
+    "count_mode": false,
+    "n_prov": 0
+   },
+   "bm25_k50": {
+    "n_turns": 50,
+    "n_turn_sessions": 17,
+    "view_chars": 19995,
+    "raw_chars": 74427,
+    "total_chars": 94422,
+    "ev_turn_hits": 3,
+    "n_ev_turns": 3,
+    "ev_sess_hits": 3,
+    "n_ev_sess": 3,
+    "hit_ids": [
+     130,
+     218,
+     350
+    ],
+    "hit_channel": {
+     "130": "bm25",
+     "218": "bm25",
+     "350": "bm25"
+    },
+    "hit_bm25_rank": {
+     "130": 33,
+     "218": 3,
+     "350": 0
+    },
+    "count_mode": false,
+    "n_prov": 0
+   }
+  }
+ },
+ "46a3abf7": {
+  "question": "How many tanks do I currently have, including the one I set up for my friend's kid?",
+  "gold": 3,
+  "type": "multi-session",
+  "cache_missing_sessions": 0,
+  "n_chains": 297,
+  "n_units": 503,
+  "n_sessions": 50,
+  "ev_turns": [
+   [
+    77,
+    8,
+    "user",
+    "I'm looking for some advice on live plants for my community tank. I've got an anacharis and a java moss, but I'm interes"
+   ],
+   [
+    166,
+    17,
+    "user",
+    "I'm having some issues with high nitrite levels in my tank. I've been doing partial water changes, but I'm not sure if I"
+   ],
+   [
+    364,
+    36,
+    "user",
+    "I'm having some issues with the nitrite levels in my tank. I've been doing partial water changes, but I'm not sure if I'"
+   ]
+  ],
+  "ev_sess": [
+   8,
+   17,
+   36
+  ],
+  "n_ev_sess_annotated": 3,
+  "deployed_baseline_hits": [
+   364
+  ],
+  "cfgs": {
+   "baseline": {
+    "n_turns": 20,
+    "n_turn_sessions": 14,
+    "view_chars": 19941,
+    "raw_chars": 6888,
+    "total_chars": 26829,
+    "ev_turn_hits": 1,
+    "n_ev_turns": 3,
+    "ev_sess_hits": 3,
+    "n_ev_sess": 3,
+    "hit_ids": [
+     364
+    ],
+    "hit_channel": {
+     "364": "bm25"
+    },
+    "hit_bm25_rank": {
+     "364": 19
+    },
+    "count_mode": false,
+    "n_prov": 0
+   },
+   "v5_drop_in": {
+    "n_turns": 20,
+    "n_turn_sessions": 14,
+    "view_chars": 19976,
+    "raw_chars": 8742,
+    "total_chars": 28718,
+    "ev_turn_hits": 0,
+    "n_ev_turns": 3,
+    "ev_sess_hits": 3,
+    "n_ev_sess": 3,
+    "hit_ids": [],
+    "hit_channel": {},
+    "hit_bm25_rank": {},
+    "count_mode": false,
+    "n_prov": 6
+   },
+   "v5_realloc": {
+    "n_turns": 31,
+    "n_turn_sessions": 18,
+    "view_chars": 7986,
+    "raw_chars": 19900,
+    "total_chars": 27886,
+    "ev_turn_hits": 1,
+    "n_ev_turns": 3,
+    "ev_sess_hits": 3,
+    "n_ev_sess": 3,
+    "hit_ids": [
+     364
+    ],
+    "hit_channel": {
+     "364": "bm25"
+    },
+    "hit_bm25_rank": {
+     "364": 19
+    },
+    "count_mode": false,
+    "n_prov": 6
+   },
+   "realloc": {
+    "n_turns": 28,
+    "n_turn_sessions": 15,
+    "view_chars": 11969,
+    "raw_chars": 20973,
+    "total_chars": 32942,
+    "ev_turn_hits": 1,
+    "n_ev_turns": 3,
+    "ev_sess_hits": 3,
+    "n_ev_sess": 3,
+    "hit_ids": [
+     364
+    ],
+    "hit_channel": {
+     "364": "bm25"
+    },
+    "hit_bm25_rank": {
+     "364": 19
+    },
+    "count_mode": true,
+    "n_prov": 11
+   },
+   "bm25_k30": {
+    "n_turns": 30,
+    "n_turn_sessions": 18,
+    "view_chars": 19976,
+    "raw_chars": 17615,
+    "total_chars": 37591,
+    "ev_turn_hits": 1,
+    "n_ev_turns": 3,
+    "ev_sess_hits": 3,
+    "n_ev_sess": 3,
+    "hit_ids": [
+     364
+    ],
+    "hit_channel": {
+     "364": "bm25"
+    },
+    "hit_bm25_rank": {
+     "364": 19
+    },
+    "count_mode": false,
+    "n_prov": 0
+   },
+   "bm25_k50": {
+    "n_turns": 50,
+    "n_turn_sessions": 25,
+    "view_chars": 19976,
+    "raw_chars": 34943,
+    "total_chars": 54919,
+    "ev_turn_hits": 1,
+    "n_ev_turns": 3,
+    "ev_sess_hits": 3,
+    "n_ev_sess": 3,
+    "hit_ids": [
+     364
+    ],
+    "hit_channel": {
+     "364": "bm25"
+    },
+    "hit_bm25_rank": {
+     "364": 19
+    },
+    "count_mode": false,
+    "n_prov": 0
+   }
+  }
+ }
+}

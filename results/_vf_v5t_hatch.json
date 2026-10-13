@@ -1,0 +1,232 @@
+{
+ "summary": {
+  "n_questions_with_high_anchor_changed": 7,
+  "n_with_any_drop": 7,
+  "n_dropping_a_gold_session_line": 2,
+  "n_gold_rank_worse": 0,
+  "n_gold_rank_better": 2,
+  "total_lines_dropped": 11,
+  "total_lines_added": 11
+ },
+ "rows": [
+  {
+   "qid": "gpt4_b5700ca9",
+   "type": "temporal-reasoning",
+   "fam": "delta_since",
+   "q": "How many days ago did I attend the Maundy Thursday service at the Episcopal Church?",
+   "qdate": "2023/04/10 (Mon) 10:28",
+   "gold": "4 days.",
+   "anchor": "2023/04/06",
+   "kind": "holiday",
+   "expr": "maundy thursday",
+   "win_fixed": 1,
+   "win_rev": 1,
+   "n_fixed": 10,
+   "n_rev": 10,
+   "dropped": [
+    "I just helped out at an Easter Egg Hunt event last week and I'm interested in finding more ways to give back to the community."
+   ],
+   "added": [
+    "By the way, do you think it's a good idea to connect my TV to a surge protector, considering I had to deal with a virus on my laptop recently?"
+   ],
+   "dropped_gold": [
+    "I just helped out at an Easter Egg Hunt event last week and I'm interested in finding more ways to give back to the community."
+   ],
+   "added_gold": [],
+   "gold_line_rank_fixed": 0,
+   "gold_line_rank_rev": 0
+  },
+  {
+   "qid": "gpt4_e061b84g",
+   "type": "temporal-reasoning",
+   "fam": "anchor_lookup",
+   "q": "I mentioned participating in a sports event two weeks ago. What was the event?",
+   "qdate": "2023/07/01 (Sat) 13:38",
+   "gold": "The company's annual charity soccer tournament.",
+   "anchor": "2023/06/17",
+   "kind": "offset",
+   "expr": "two weeks ago",
+   "win_fixed": 1,
+   "win_rev": 1,
+   "n_fixed": 10,
+   "n_rev": 10,
+   "dropped": [
+    "By the way, we just had our annual family reunion at my uncle's house in the countryside last weekend, which was on August 14th and 15th, and it was a big event with lots of...",
+    "I remember buying a beautiful silver necklace with a small pendant for my sister's birthday exactly three weeks ago, on a Saturday afternoon, at a new boutique store that..."
+   ],
+   "added": [
+    "By the way, I had baked salmon with roasted asparagus and quinoa on Monday this week, so I'd like to use up those leftovers somehow.",
+    "Do you think it's a good idea to send out formal invitations or just a casual Facebook event or group chat?"
+   ],
+   "dropped_gold": [],
+   "added_gold": [],
+   "gold_line_rank_fixed": 1,
+   "gold_line_rank_rev": 3
+  },
+  {
+   "qid": "gpt4_59149c78",
+   "type": "temporal-reasoning",
+   "fam": "anchor_lookup",
+   "q": "I mentioned that I participated in an art-related event two weeks ago. Where was that event held at?",
+   "qdate": "2023/02/01 (Wed) 08:41",
+   "gold": "The Metropolitan Museum of Art.",
+   "anchor": "2023/01/18",
+   "kind": "offset",
+   "expr": "two weeks ago",
+   "win_fixed": 3,
+   "win_rev": 3,
+   "n_fixed": 10,
+   "n_rev": 10,
+   "dropped": [
+    "Like, just yesterday, I splurged on a designer handbag I've been eyeing for months - it was on sale, but still, I felt a mix of guilt and excitement walking out of the store.",
+    "I just cleaned it out last weekend, but I want to make sure everything stays organized and easy to find."
+   ],
+   "added": [
+    "I've also been experimenting with different breathing techniques, such as alternate nostril breathing and kapalabhati breathing, which I learned from a yoga app I've been...",
+    "I had no idea that the Egyptians believed the heart was the seat of the soul."
+   ],
+   "dropped_gold": [],
+   "added_gold": [
+    "I had no idea that the Egyptians believed the heart was the seat of the soul."
+   ],
+   "gold_line_rank_fixed": 0,
+   "gold_line_rank_rev": 0
+  },
+  {
+   "qid": "gpt4_4929293b",
+   "type": "temporal-reasoning",
+   "fam": "anchor_lookup",
+   "q": "What was the the life event of one of my relatives that I participated in a week ago?",
+   "qdate": "2023/06/22 (Thu) 18:33",
+   "gold": "my cousin's wedding",
+   "anchor": "2023/06/15",
+   "kind": "offset",
+   "expr": "a week ago",
+   "win_fixed": 1,
+   "win_rev": 1,
+   "n_fixed": 10,
+   "n_rev": 10,
+   "dropped": [
+    "By the way, I just got back from attending my cousin Rachel's baby shower in February, and it was so much fun."
+   ],
+   "added": [
+    "And, of course, we want to make sure our vows are personal and meaningful to us."
+   ],
+   "dropped_gold": [],
+   "added_gold": [
+    "And, of course, we want to make sure our vows are personal and meaningful to us."
+   ],
+   "gold_line_rank_fixed": 1,
+   "gold_line_rank_rev": 2
+  },
+  {
+   "qid": "gpt4_468eb064",
+   "type": "temporal-reasoning",
+   "fam": "anchor_lookup",
+   "q": "Who did I meet with during the lunch last Tuesday?",
+   "qdate": "2023/04/18 (Tue) 16:50",
+   "gold": "Emma",
+   "anchor": "2023/04/11",
+   "kind": "weekday",
+   "expr": "last tuesday",
+   "win_fixed": 1,
+   "win_rev": 1,
+   "n_fixed": 10,
+   "n_rev": 10,
+   "dropped": [
+    "I just attended a digital marketing workshop last week and the speaker, Rachel Lee, mentioned some interesting strategies.",
+    "I just submitted my thesis proposal last month, and I'm really excited to dive into the research.",
+    "By the way, I just scored a super rare variant of the Iron Man figure at a local collectible store a couple of weeks ago, and I want to make sure it's showcased nicely."
+   ],
+   "added": [
+    "I recently submitted my thesis proposal on \"Exploring the Impact of Artificial Intelligence on Modern Education\", and I'm excited to dive into the research.",
+    "I'm still unsure about the level of coverage I need.",
+    "And do they completely cover it or just tone it down?"
+   ],
+   "dropped_gold": [
+    "I just attended a digital marketing workshop last week and the speaker, Rachel Lee, mentioned some interesting strategies."
+   ],
+   "added_gold": [],
+   "gold_line_rank_fixed": 0,
+   "gold_line_rank_rev": 0
+  },
+  {
+   "qid": "gpt4_fa19884d",
+   "type": "temporal-reasoning",
+   "fam": "anchor_lookup",
+   "q": "What is the artist that I started to listen to last Friday?",
+   "qdate": "2023/04/05 (Wed) 19:25",
+   "gold": "a bluegrass band that features a banjo player",
+   "anchor": "2023/03/31",
+   "kind": "weekday",
+   "expr": "last friday",
+   "win_fixed": 1,
+   "win_rev": 1,
+   "n_fixed": 10,
+   "n_rev": 10,
+   "dropped": [
+    "I just moved into a shared apartment with two friends in a different neighborhood at the end of January and I'm still figuring out the best way to arrange my furniture and..."
+   ],
+   "added": [
+    "I actually got to see the lead actor from the \"Phantom of the Opera\" musical I recently attended perform some improv during a Q&A session, and it was amazing to see how..."
+   ],
+   "dropped_gold": [],
+   "added_gold": [],
+   "gold_line_rank_fixed": 0,
+   "gold_line_rank_rev": 0
+  },
+  {
+   "qid": "gpt4_8279ba03",
+   "type": "temporal-reasoning",
+   "fam": "anchor_lookup",
+   "q": "What kitchen appliance did I buy 10 days ago?",
+   "qdate": "2023/03/25 (Sat) 18:26",
+   "gold": "a smoker",
+   "anchor": "2023/03/15",
+   "kind": "offset",
+   "expr": "10 days ago",
+   "win_fixed": 1,
+   "win_rev": 1,
+   "n_fixed": 10,
+   "n_rev": 10,
+   "dropped": [
+    "I just finished a thriller recently, \"The Silent Patient\", which I completed on March 4th, and I'm in the mood for something similar."
+   ],
+   "added": [
+    "I'm trying to organize my closet and I need help keeping track of what I have."
+   ],
+   "dropped_gold": [],
+   "added_gold": [],
+   "gold_line_rank_fixed": 1,
+   "gold_line_rank_rev": 1
+  }
+ ],
+ "named": {
+  "gpt4_4929293b": {
+   "fixed": [
+    "I'm planning a baby gift for my friend Emma, who just had a baby girl named Charlotte.",
+    "Like, I loved how she had a special song played during the ceremony that was meaningful to her and her partner.",
+    "However, more than just identifying them is needed to help visually impaired individuals.",
+    "I'm just having to remind them to be gentle with her and not to wake her up when she's sleeping.",
+    "I'm getting ready to start planning my own wedding and I was wondering if you could give me some advice on how to choose the right wedding planner.",
+    "I'll definitely consider these tips.",
+    "I'm really enjoying looking at different venues and imagining how I can make the space feel intimate and special.",
+    "Yeah, being a bridesmaid at my cousin's wedding really made me think about the little details that can make a big difference.",
+    "We've also been talking about doing a unity candle or sand ceremony to symbolize our commitment to each other.",
+    "And, of course, we want to make sure our vows are personal and meaningful to us."
+   ],
+   "rev": [
+    "I'm planning a baby gift for my friend Emma, who just had a baby girl named Charlotte.",
+    "By the way, I just got back from attending my cousin Rachel's baby shower in February, and it was so much fun.",
+    "Like, I loved how she had a special song played during the ceremony that was meaningful to her and her partner.",
+    "However, more than just identifying them is needed to help visually impaired individuals.",
+    "I'm just having to remind them to be gentle with her and not to wake her up when she's sleeping.",
+    "I'm getting ready to start planning my own wedding and I was wondering if you could give me some advice on how to choose the right wedding planner.",
+    "I'll definitely consider these tips.",
+    "I'm really enjoying looking at different venues and imagining how I can make the space feel intimate and special.",
+    "Yeah, being a bridesmaid at my cousin's wedding really made me think about the little details that can make a big difference.",
+    "We've also been talking about doing a unity candle or sand ceremony to symbolize our commitment to each other."
+   ]
+  }
+ }
+}

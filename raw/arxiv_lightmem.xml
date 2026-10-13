@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/iD8AYjcAWFwdwiP8rdrMaGn3StI</id>
+  <title>arXiv Query: search_query=ti:"LightMem"&amp;id_list=&amp;start=0&amp;max_results=3</title>
+  <updated>2026-09-16T09:28:12Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22LightMem%22&amp;start=0&amp;max_results=3&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>3</opensearch:itemsPerPage>
+  <opensearch:totalResults>3</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2510.18866v4</id>
+    <title>LightMem: Lightweight and Efficient Memory-Augmented Generation</title>
+    <updated>2026-02-28T11:55:50Z</updated>
+    <link href="https://arxiv.org/abs/2510.18866v4" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2510.18866v4" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Despite their remarkable capabilities, Large Language Models (LLMs) struggle to effectively leverage historical interaction information in dynamic and complex environments. Memory systems enable LLMs to move beyond stateless interactions by introducing persistent information storage, retrieval, and utilization mechanisms. However, existing memory systems often introduce substantial time and computational overhead. To this end, we introduce a new memory system called LightMem, which strikes a balance between the performance and efficiency of memory systems. Inspired by the Atkinson-Shiffrin model of human memory, LightMem organizes memory into three complementary stages. First, cognition-inspired sensory memory rapidly filters irrelevant information through lightweight compression and groups information according to their topics. Next, topic-aware short-term memory consolidates these topic-based groups, organizing and summarizing content for more structured access. Finally, long-term memory with sleep-time update employs an offline procedure that decouples consolidation from online inference. On LongMemEval and LoCoMo, using GPT and Qwen backbones, LightMem consistently surpasses strong baselines, improving QA accuracy by up to 7.7% / 29.3%, reducing total token usage by up to 38x / 20.9x and API calls by up to 30x / 55.5x, while purely online test-time costs are even lower, achieving up to 106x / 117x token reduction and 159x / 310x fewer API calls. The code is available at https://github.com/zjunlp/LightMem.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.MA" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-10-21T17:58:17Z</published>
+    <arxiv:comment>ICLR 2026</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Jizhan Fang</name>
+    </author>
+    <author>
+      <name>Xinle Deng</name>
+    </author>
+    <author>
+      <name>Haoming Xu</name>
+    </author>
+    <author>
+      <name>Ziyan Jiang</name>
+    </author>
+    <author>
+      <name>Yuqi Tang</name>
+    </author>
+    <author>
+      <name>Ziwen Xu</name>
+    </author>
+    <author>
+      <name>Shumin Deng</name>
+    </author>
+    <author>
+      <name>Yunzhi Yao</name>
+    </author>
+    <author>
+      <name>Mengru Wang</name>
+    </author>
+    <author>
+      <name>Shuofei Qiao</name>
+    </author>
+    <author>
+      <name>Huajun Chen</name>
+    </author>
+    <author>
+      <name>Ningyu Zhang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2607.11487v1</id>
+    <title>LightMem-Ego: Your AI Memory for Everyday Life</title>
+    <updated>2026-07-13T12:40:17Z</updated>
+    <link href="https://arxiv.org/abs/2607.11487v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2607.11487v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Personal AI assistants on mobile and wearable devices continuously perceive users' daily lives through visual and audio streams. However, answering queries about past experiences requires lightweight multimodal memory that can continuously accumulate, organize, and retrieve long-term experiences, which remains challenging. To address this challenge, we present LightMem-Ego, a lightweight streaming multimodal memory system for everyday-life assistance. The system continuously captures egocentric visual and audio streams, aligns them on a shared timeline, and organizes them into a hierarchical memory consisting of current, short-term, and long-term memory. Given a user query, LightMem-Ego dynamically routes retrieval to the appropriate memory level and generates answers grounded in multimodal evidence. The demonstration can be deployed on smartphones and AI glasses, supporting object finding, conversation recall, life summarization, routine discovery, and personalized assistance. Code is available at https://github.com/zjunlp/LightMem-Ego.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.HC" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.MM" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-07-13T12:40:17Z</published>
+    <arxiv:comment>Ongoing work</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Yijun Chen</name>
+    </author>
+    <author>
+      <name>Boyi Xiao</name>
+    </author>
+    <author>
+      <name>Yixian Zhao</name>
+    </author>
+    <author>
+      <name>Haoting Xia</name>
+    </author>
+    <author>
+      <name>Buqiang Xu</name>
+    </author>
+    <author>
+      <name>Jizhan Fang</name>
+    </author>
+    <author>
+      <name>Yanya Li</name>
+    </author>
+    <author>
+      <name>Yaqi Zheng</name>
+    </author>
+    <author>
+      <name>Xuehai Wang</name>
+    </author>
+    <author>
+      <name>Zirui Xue</name>
+    </author>
+    <author>
+      <name>Liuxin Zhang</name>
+    </author>
+    <author>
+      <name>Hui Li</name>
+    </author>
+    <author>
+      <name>Ningyu Zhang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2607.29104v1</id>
+    <title>Reproducing LightMem: Naive RAG Is Just as Good for Memory Management</title>
+    <updated>2026-07-31T07:33:34Z</updated>
+    <link href="https://arxiv.org/abs/2607.29104v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2607.29104v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Long-term conversational agents require access to information from earlier interactions, such as a user's preferences, past requests, or previously mentioned facts. Repeatedly providing the full dialogue history can be expensive as conversations grow, so many memory approaches instead transform past interactions into compact entries that can be retrieved when needed. LightMem is a recent lightweight memory-management approach that reports strong effectiveness while maintaining relatively low construction cost. However, it still relies on a separate constructed memory representation and is evaluated with only one retriever, leaving unclear how sensitive its results are to retriever choice and whether memory construction discards answer-relevant information.
+  In this study, we reproduce LightMem and compare it with Naive RAG, which retrieves directly from raw user turns. We recover LightMem's main configuration trend, but find that retriever choice is a major source of performance variation: changing only the retriever over a fixed LightMem store shifts answer accuracy from 58.1% to 75.5%. Constructed memories also do not consistently outperform raw-turn retrieval. Naive RAG generally performs better at matched retrieval depths, whereas LightMem performs better mainly under tight answering-token budgets. Oracle evaluation further shows that memory construction removes some answer-relevant information.
+  Overall, LightMem offers a context-efficiency trade-off rather than a general advantage over Naive RAG. Its value depends on the retriever and available token budget, motivating future work on retrieval, reranking, query formulation, and their interaction with raw and constructed memory representations.</summary>
+    <category term="cs.IR" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-07-31T07:33:34Z</published>
+    <arxiv:comment>Code: https://github.com/ielab/Reproducing-LightMem</arxiv:comment>
+    <arxiv:primary_category term="cs.IR"/>
+    <author>
+      <name>Yongjie Zhou</name>
+      <arxiv:affiliation>The University of Queensland</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Shuai Wang</name>
+      <arxiv:affiliation>The University of Queensland</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Bevan Koopman</name>
+      <arxiv:affiliation>The University of Queensland</arxiv:affiliation>
+      <arxiv:affiliation>CSIRO</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Guido Zuccon</name>
+      <arxiv:affiliation>The University of Queensland</arxiv:affiliation>
+      <arxiv:affiliation>Google</arxiv:affiliation>
+    </author>
+  </entry>
+</feed>

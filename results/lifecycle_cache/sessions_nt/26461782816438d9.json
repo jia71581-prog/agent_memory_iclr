@@ -1,0 +1,1 @@
+[["user", "asked about", "setting up Grafana, InfluxDB, and Telegraf via script on RHEL 7 and 8"], ["user", "uses or targets", "RHEL 7 and 8"], ["user", "is familiar with", "Glances (Linux monitoring tool)"], ["user", "wants to", "send Glances data to InfluxDB for monitoring via Grafana"], ["user", "asked about", "accessing InfluxDB web interface"]]

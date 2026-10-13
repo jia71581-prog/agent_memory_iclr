@@ -1,0 +1,1818 @@
+{
+ "51a45a95": {
+  "shape": "LOOKUP.plain",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 1,
+  "n_ev_in_raw": 1,
+  "view_chars": 19981,
+  "raw_chars": 22607,
+  "mode": "current",
+  "gold": "Target",
+  "question": "Where did I redeem a $5 coupon on coffee creamer?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 14,
+    "head": "I actually redeemed a $5 coupon on coffee creamer last Sunday, which was a nice surprise since I didn't know I"
+   }
+  ]
+ },
+ "ec81a493": {
+  "shape": "LOOKUP.plain",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 1,
+  "n_ev_in_raw": 1,
+  "view_chars": 19987,
+  "raw_chars": 13528,
+  "mode": "current",
+  "gold": "500",
+  "question": "How many copies of my favorite artist's debut album were released worldwide?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 16,
+    "head": "I was thinking of displaying my signed poster from my favorite artist's debut album, which is a limited editio"
+   }
+  ]
+ },
+ "0a995998": {
+  "shape": "AGG.latest_count",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 3,
+  "n_ev_in_raw": 2,
+  "view_chars": 19908,
+  "raw_chars": 29464,
+  "mode": "current",
+  "gold": "3",
+  "question": "How many items of clothing do I need to pick up or return from a store?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 1.0,
+    "ntok": 19,
+    "head": "I'm making progress, but I still have a lot to sort through. I think I'll take a break and pick up my dry clea"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 13,
+    "head": "I need to return some boots to Zara, actually. I got them on February 5th, but they were too small, so I excha"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 18,
+    "head": "I think I'll use some boxes I have at home to store my winter clothes. By the way, I just exchanged a pair of "
+   }
+  ]
+ },
+ "3a704032": {
+  "shape": "AGG.enum",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 1,
+  "view_chars": 19929,
+  "raw_chars": 14965,
+  "mode": "current",
+  "gold": "3",
+  "question": "How many plants did I acquire in the last month?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8235294117647058,
+    "ntok": 17,
+    "head": "I actually use a mixture of water and fertilizer when I water my plants, which I got from the nursery where I "
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 13,
+    "head": "I'm also wondering if I should repot my snake plant, which I got from my sister last month. Do you think it wo"
+   }
+  ]
+ },
+ "6cb6f249": {
+  "shape": "AGG.enum",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 1,
+  "view_chars": 19997,
+  "raw_chars": 25583,
+  "mode": "current",
+  "gold": "17 days",
+  "question": "How many days did I take social media breaks in total?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8823529411764706,
+    "ntok": 17,
+    "head": "I'm trying to get back into journaling and reading more. Can you recommend some books on mindfulness and self-"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 26,
+    "head": "I'm trying to track my screen time and social media usage. Can you suggest some apps or tools that can help me"
+   }
+  ]
+ },
+ "46a3abf7": {
+  "shape": "AGG.enum",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 3,
+  "n_ev_in_raw": 1,
+  "view_chars": 19941,
+  "raw_chars": 6238,
+  "mode": "current",
+  "gold": "3",
+  "question": "How many tanks do I currently have, including the one I set up for my friend's kid?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8235294117647058,
+    "ntok": 17,
+    "head": "I'm looking for some advice on live plants for my community tank. I've got an anacharis and a java moss, but I"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.9583333333333334,
+    "ntok": 24,
+    "head": "I'm having some issues with high nitrite levels in my tank. I've been doing partial water changes, but I'm not"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 21,
+    "head": "I'm having some issues with the nitrite levels in my tank. I've been doing partial water changes, but I'm not "
+   }
+  ]
+ },
+ "80ec1f4f": {
+  "shape": "AGG.enum",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 0,
+  "view_chars": 19910,
+  "raw_chars": 17447,
+  "mode": "current",
+  "gold": "2",
+  "question": "How many different museums or galleries did I visit in the month of February?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.9230769230769231,
+    "ntok": 13,
+    "head": "I'm looking for some art inspiration. Can you recommend any contemporary artists similar to James Parker, whos"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.9230769230769231,
+    "ntok": 13,
+    "head": "I'm looking for some art supply stores in the city. Do you have any recommendations? By the way, I took my nie"
+   }
+  ]
+ },
+ "d682f1a2": {
+  "shape": "AGG.enum",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 3,
+  "n_ev_in_raw": 2,
+  "view_chars": 19955,
+  "raw_chars": 26188,
+  "mode": "current",
+  "gold": "3",
+  "question": "How many different types of food delivery services have I used recently?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 18,
+    "head": "I'm looking for some healthy meal ideas for my busy weekdays. Do you have any recommendations? By the way, I'v"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.5833333333333334,
+    "ntok": 12,
+    "head": "I'm looking for some new recipe ideas, something quick and easy for weeknights. By the way, my weekends have b"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 21,
+    "head": "I'm looking for some healthy recipe ideas for lunch. Do you have any suggestions? By the way, I've been really"
+   }
+  ]
+ },
+ "7024f17c": {
+  "shape": "AGG.enum",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 1,
+  "view_chars": 19945,
+  "raw_chars": 20925,
+  "mode": "current",
+  "gold": "0.5 hours",
+  "question": "How many hours of jogging and yoga did I do last week?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.7333333333333333,
+    "ntok": 15,
+    "head": "I'm trying to get more organized with my fitness routine. Can you help me track my workouts? I went for a 30-m"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 24,
+    "head": "I've been trying to get more organized with my time, so I was wondering if you could suggest some apps or tool"
+   }
+  ]
+ },
+ "d851d5ba": {
+  "shape": "AGG.enum",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 4,
+  "n_ev_in_raw": 3,
+  "view_chars": 19924,
+  "raw_chars": 29951,
+  "mode": "current",
+  "gold": "$3,750",
+  "question": "How much money did I raise for charity in total?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 19,
+    "head": "I'm thinking about fundraising strategies for my cycling event. I've had some experience with fundraising in t"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.7272727272727273,
+    "ntok": 22,
+    "head": "I'm looking for some advice on finding volunteer opportunities in my area. I've been trying to attend at least"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 22,
+    "head": "I'm planning to participate in another charity run soon, do you have any tips on how to stay motivated during "
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 26,
+    "head": "I'm planning to participate in a charity cycling event next month and I want to make sure I'm prepared. Can yo"
+   }
+  ]
+ },
+ "e3038f8c": {
+  "shape": "AGG.enum",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 4,
+  "n_ev_in_raw": 1,
+  "view_chars": 19987,
+  "raw_chars": 25555,
+  "mode": "current",
+  "gold": "99",
+  "question": "How many rare items do I have in total?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.9642857142857143,
+    "ntok": 28,
+    "head": "I'll keep that in mind. Yeah, I have 12 rare figurines in my collection, and I'm always looking to improve my "
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.782608695652174,
+    "ntok": 23,
+    "head": "I'm looking for a professional book conservator to sign my recently acquired first edition of \"To Kill a Mocki"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 11,
+    "head": "I've been looking for a way to organize my music collection, specifically my rare records. Do you have any sug"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.875,
+    "ntok": 16,
+    "head": "I actually have 25 rare coins that I need to store safely, so I'll definitely consider those factors when choo"
+   }
+  ]
+ },
+ "1a8a66a6": {
+  "shape": "AGG.latest_count",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 3,
+  "n_ev_in_raw": 2,
+  "view_chars": 19995,
+  "raw_chars": 10754,
+  "mode": "current",
+  "gold": "2",
+  "question": "How many magazine subscriptions do I currently have?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 32,
+    "head": "I've been trying to reduce my carbon footprint lately, and I'm looking for some eco-friendly product recommend"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.7894736842105263,
+    "ntok": 19,
+    "head": "I'm looking to redecorate my living room and I need some inspiration. Can you suggest some popular interior de"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 30,
+    "head": "I've been trying to reduce my plastic usage lately, and I was wondering if you could suggest some eco-friendly"
+   }
+  ]
+ },
+ "bf659f65": {
+  "shape": "AGG.enum",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 3,
+  "n_ev_in_raw": 1,
+  "view_chars": 19957,
+  "raw_chars": 21796,
+  "mode": "current",
+  "gold": "3",
+  "question": "How many music albums or EPs have I purchased or downloaded?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 17,
+    "head": "I'm looking for some new music recommendations. I've been listening to a lot of Billie Eilish lately, especial"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.9545454545454546,
+    "ntok": 22,
+    "head": "I'm looking for some music festival recommendations in Colorado. I recently had an amazing time at the Red Roc"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 1.0,
+    "ntok": 27,
+    "head": "I'm looking for some new music recommendations. I've been really into indie and folk-rock lately, especially a"
+   }
+  ]
+ },
+ "0edc2aef": {
+  "shape": "PREF.advice",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 1,
+  "n_ev_in_raw": 0,
+  "view_chars": 19975,
+  "raw_chars": 18441,
+  "mode": "current",
+  "gold": "The user would prefer suggestions of hotels in Miami that offer great views, possibly of the ocean or the city skyline, and have unique features such as a rooftop pool or a hot tub on the balcony. They may not prefer suggestions of basic or budget hotels without these features.",
+  "question": "Can you suggest a hotel for my upcoming trip to Miami?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.9285714285714286,
+    "ntok": 14,
+    "head": "Besides great views, I also like hotels with unique features, such as a rooftop pool or a hot tub on the balco"
+   }
+  ]
+ },
+ "35a27287": {
+  "shape": "PREF.advice",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 3,
+  "n_ev_in_raw": 2,
+  "view_chars": 19937,
+  "raw_chars": 23071,
+  "mode": "current",
+  "gold": "The user would prefer responses that suggest cultural events where they can practice their language skills, particularly Spanish and French. They would also appreciate if the event has a focus on language learning resources. They would not prefer events that do not provide opportunities for language practice or cultural exchange.",
+  "question": "Can you recommend some interesting cultural events happening around me this weekend?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 16,
+    "head": "What are some cultural events or festivals in my area that celebrate language diversity and cultural exchange?"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 1.0,
+    "ntok": 18,
+    "head": "Can you recommend any language learning apps or websites that focus on idiomatic expressions and colloquialism"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 16,
+    "head": "I'd like to explore more language exchange opportunities and cultural events in my area. Can you suggest some "
+   }
+  ]
+ },
+ "32260d93": {
+  "shape": "PREF.advice",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 1,
+  "n_ev_in_raw": 0,
+  "view_chars": 19979,
+  "raw_chars": 11423,
+  "mode": "current",
+  "gold": "The user would prefer recommendations for stand-up comedy specials on Netflix, especially those that are known for their storytelling. They may not prefer recommendations for other genres or platforms.",
+  "question": "Can you recommend a show or movie for me to watch tonight?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.5555555555555556,
+    "ntok": 18,
+    "head": "As an aspiring stand-up comedian, I'm looking for some advice on how to improve my craft. Can you recommend so"
+   }
+  ]
+ },
+ "195a1a1b": {
+  "shape": "PREF.advice",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 1,
+  "n_ev_in_raw": 0,
+  "view_chars": 19699,
+  "raw_chars": 25364,
+  "mode": "current",
+  "gold": "The user would prefer suggestions that involve relaxing activities that can be done in the evening, preferably before 9:30 pm. They would not prefer suggestions that involve using their phone or watching TV, as these activities have been affecting their sleep quality.",
+  "question": "Can you suggest some activities that I can do in the evening?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.5555555555555556,
+    "ntok": 9,
+    "head": "What else can I do for the later part of the day? I prefer winding down by 9:30 pm to prepare for a good night"
+   }
+  ]
+ },
+ "75f70248": {
+  "shape": "PREF.advice",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 1,
+  "n_ev_in_raw": 1,
+  "view_chars": 19989,
+  "raw_chars": 11839,
+  "mode": "current",
+  "gold": "The user would prefer responses that consider the potential impact of their cat, Luna, and her shedding on their sneezing, as well as the recent deep clean of the living room and its possible effect on stirring up dust. They might not prefer responses that fail to take into account these specific details previously mentioned, such as generic suggestions or unrelated factors.",
+  "question": "I've been sneezing quite a bit lately. Do you think it might be my living room?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 9,
+    "head": "What are some simple ways to keep my living room dust-free, especially with a cat that sheds a lot?"
+   }
+  ]
+ },
+ "a89d7624": {
+  "shape": "PREF.advice",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 2,
+  "view_chars": 19930,
+  "raw_chars": 8696,
+  "mode": "current",
+  "gold": "The user would prefer responses that take into account their previous experience in Denver, specifically their interest in live music and memorable encounter with Brandon Flowers. They might appreciate suggestions that revisit or build upon this experience, such as revisiting the same bar or exploring similar music venues in the area. The user may not prefer general tourist recommendations or activities unrelated to their interest in live music.",
+  "question": "I'm planning a trip to Denver soon. Any suggestions on what to do there?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 22,
+    "head": "During my previous visit to Denver, where I had a great time meeting Brandon Flowers after The Killers' concer"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 12,
+    "head": "I'm thinking of going back to Denver for another concert. Do you know if there are any good BBQ places near th"
+   }
+  ]
+ },
+ "1d4e3b97": {
+  "shape": "LOOKUP.plain",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 0,
+  "view_chars": 19978,
+  "raw_chars": 21398,
+  "mode": "current",
+  "gold": "The user would prefer responses that reference specific details from their previous interactions, such as the replacement of the bike's chain and cassette, and the use of a new Garmin bike computer. They might prefer explanations that connect these details to the observed improvement in bike performance. The user may not prefer responses that fail to acknowledge these specific details or provide vague, general explanations for the improvement.",
+  "question": "I noticed my bike seems to be performing even better during my Sunday group rides. Could there be a reason for this?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 1.0,
+    "ntok": 11,
+    "head": "I'm also planning to track my ride with my new Garmin bike computer. Can you tell me how to set it up to get t"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8823529411764706,
+    "ntok": 17,
+    "head": "I replaced the old bike's chain and cassette on February 1st, which has contributed to an improvement in the b"
+   }
+  ]
+ },
+ "4f54b7c9": {
+  "shape": "AGG.enum",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 2,
+  "view_chars": 19897,
+  "raw_chars": 23581,
+  "mode": "current",
+  "gold": "5",
+  "question": "How many antique items did I inherit or acquire from my family members?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 23,
+    "head": "I'm thinking of decluttering my apartment and selling some old family heirlooms to make some extra cash. I hav"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 29,
+    "head": "I'm trying to get my grandmother's vintage diamond necklace insured, but I'm not sure where to start. I inheri"
+   }
+  ]
+ },
+ "f35224e0": {
+  "shape": "AGG.enum",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 1,
+  "view_chars": 19928,
+  "raw_chars": 18714,
+  "mode": "current",
+  "gold": "27",
+  "question": "What is the total number of episodes I've listened to from 'How I Built This' and 'My Favorite Murder'?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.9411764705882353,
+    "ntok": 17,
+    "head": "I'm looking for some new podcast recommendations. I'm really into true crime and inspiring stories, so if you "
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 33,
+    "head": "I'll definitely check some of these out. I've been listening to podcasts during my daily commute, which is abo"
+   }
+  ]
+ },
+ "9ee3ecd6": {
+  "shape": "AGG.latest_count",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 2,
+  "view_chars": 19938,
+  "raw_chars": 27160,
+  "mode": "current",
+  "gold": "100",
+  "question": "How many points do I need to earn to redeem a free skincare product at Sephora?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 19,
+    "head": "I'm looking for some advice on skincare products. I recently bought an eyeshadow palette at Sephora and earned"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 21,
+    "head": "Do you know if Sephora has any current promotions or discounts on the La Roche-Posay moisturizer or any other "
+   }
+  ]
+ },
+ "67e0d0f2": {
+  "shape": "AGG.enum",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 1,
+  "view_chars": 19991,
+  "raw_chars": 23594,
+  "mode": "current",
+  "gold": "20",
+  "question": "What is the total number of online courses I've completed?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.7619047619047619,
+    "ntok": 21,
+    "head": "I'm glad I already have a solid foundation in data analysis from my previous 8 edX courses, so I'm confident t"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 21,
+    "head": "That sounds great! I'm excited to start working on the projects and exercises in the course. Since I've alread"
+   }
+  ]
+ },
+ "61f8c8f8": {
+  "shape": "AGG.arith",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 1,
+  "view_chars": 19888,
+  "raw_chars": 21521,
+  "mode": "historical",
+  "gold": "10 minutes",
+  "question": "How much faster did I finish the 5K run compared to my previous year's time?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8947368421052632,
+    "ntok": 19,
+    "head": "I'm planning a charity bake sale to support the local women's shelter on Dec 15th. Can you help me with some i"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 14,
+    "head": "I was thinking of starting with a base building phase, but I'm not sure how to pace myself. I've done a 5K run"
+   }
+  ]
+ },
+ "a08a253f": {
+  "shape": "LOOKUP.rate",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 1,
+  "view_chars": 19953,
+  "raw_chars": 17543,
+  "mode": "current",
+  "gold": "4 days.",
+  "question": "How many days a week do I attend fitness classes?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.5882352941176471,
+    "ntok": 17,
+    "head": "I'm looking for some new workout playlists to try out. Do you have any recommendations? By the way, I've been "
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 16,
+    "head": "I'm trying to plan out my week and was wondering if you could help me set reminders for my upcoming fitness cl"
+   }
+  ]
+ },
+ "37f165cf": {
+  "shape": "LOOKUP.plain",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 2,
+  "view_chars": 19914,
+  "raw_chars": 14216,
+  "mode": "current",
+  "gold": "856",
+  "question": "What was the page count of the two novels I finished in January and March?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 19,
+    "head": "I'm looking for some book recommendations. I just finished a historical fiction novel, \"The Nightingale\" by Kr"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 29,
+    "head": "I'm looking for some book recommendations. I've been into fiction lately, especially novels that explore compl"
+   }
+  ]
+ },
+ "b46e15ed": {
+  "shape": "TEMP.offset",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 5,
+  "n_ev_in_raw": 1,
+  "view_chars": 19919,
+  "raw_chars": 29473,
+  "mode": "current",
+  "gold": "2",
+  "question": "How many months have passed since I participated in two charity events in a row, on consecutive days?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.7916666666666666,
+    "ntok": 24,
+    "head": "I'm looking for some information on cancer research and the latest developments in the field. By the way, I at"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.75,
+    "ntok": 24,
+    "head": "I'm feeling a bit tired today, just got back from the \"24-Hour Bike Ride\" charity event, where I cycled for 4 "
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.7619047619047619,
+    "ntok": 21,
+    "head": "Hi! I'm looking for some book recommendations for kids. I volunteered at the \"Books for Kids\" charity book dri"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.6666666666666666,
+    "ntok": 24,
+    "head": "Hey, I'm looking for some healthy snack ideas that are easy to prepare. I just did the \"Walk for Hunger\" chari"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 24,
+    "head": "I like the overnight oats idea. I've been doing a lot of charity events lately, and it's always great to have "
+   }
+  ]
+ },
+ "9a707b81": {
+  "shape": "TEMP.offset",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 2,
+  "view_chars": 19617,
+  "raw_chars": 12979,
+  "mode": "current",
+  "gold": "21 days. 22 days (including the last day) is also acceptable.",
+  "question": "How many days ago did I attend a baking class at a local culinary school when I made my friend's birthday cake?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 20,
+    "head": "I've been obsessed with strawberries lately, especially after that amazing baking class I took at a local culi"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 34,
+    "head": "I'm excited to try making croissants again, and I think I'll also make some banana bread for the dinner party."
+   }
+  ]
+ },
+ "gpt4_7f6b06db": {
+  "shape": "TEMP.order",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 3,
+  "n_ev_in_raw": 1,
+  "view_chars": 19955,
+  "raw_chars": 17924,
+  "mode": "current",
+  "gold": "I went on a day hike to Muir Woods National Monument with my family, then I went on a road trip with friends to Big Sur and Monterey, and finally I started my solo camping trip to Yosemite National Park.",
+  "question": "What is the order of the three trips I took in the past three months, from earliest to latest?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 23,
+    "head": "I've been thinking about getting a new backpack for my upcoming trip to the Eastern Sierra, and I was wonderin"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.7222222222222222,
+    "ntok": 18,
+    "head": "I'm looking for some recommendations on camping gear. I recently got back from a solo camping trip to Yosemite"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.9473684210526315,
+    "ntok": 19,
+    "head": "I'm planning a trip to the Eastern Sierra and was wondering if you could recommend some good camping spots in "
+   }
+  ]
+ },
+ "gpt4_7abb270c": {
+  "shape": "TEMP.order",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 6,
+  "n_ev_in_raw": 1,
+  "view_chars": 19848,
+  "raw_chars": 28321,
+  "mode": "current",
+  "gold": "Science Museum, Museum of Contemporary Art, Metropolitan Museum of Art, Museum of History, Modern Art Museum, Natural History Museum",
+  "question": "What is the order of the six museums I visited from earliest to latest?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 29,
+    "head": "I'm planning a day out with my colleague and was thinking of visiting a science-related exhibition. I visited "
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8048780487804879,
+    "ntok": 41,
+    "head": "That's a great overview of Judy Chicago's work and significance. I've always been fascinated by The Dinner Par"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.9047619047619048,
+    "ntok": 21,
+    "head": "I'm planning to write an essay about ancient civilizations and I was wondering if you could provide me with so"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.9166666666666666,
+    "ntok": 24,
+    "head": "I'm looking for some information on art conservation techniques. I participated in a behind-the-scenes tour of"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8928571428571429,
+    "ntok": 28,
+    "head": "I'm planning to visit the Modern Art Museum again soon and I was wondering if you could recommend any upcoming"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 1.0,
+    "ntok": 23,
+    "head": "I'm planning a family outing to a museum and I'm looking for some recommendations. I took my niece to the Natu"
+   }
+  ]
+ },
+ "370a8ff4": {
+  "shape": "TEMP.offset",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 2,
+  "view_chars": 19925,
+  "raw_chars": 15947,
+  "mode": "current",
+  "gold": "15",
+  "question": "How many weeks had passed since I recovered from the flu when I went on my 10th jog outdoors?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 17,
+    "head": "I'm feeling much better now that I finally recovered from the flu today, and I was thinking about getting back"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 22,
+    "head": "I'm planning my summer vacation and I was wondering if you could suggest some fun outdoor activities I can do "
+   }
+  ]
+ },
+ "6e984301": {
+  "shape": "TEMP.offset",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 2,
+  "view_chars": 19959,
+  "raw_chars": 14303,
+  "mode": "current",
+  "gold": "3",
+  "question": "How many weeks have I been taking sculpting classes when I invested in my own set of sculpting tools?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 28,
+    "head": "I'm thinking of entering a local art competition with a sculpture category and I'm brainstorming ideas. Can yo"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 22,
+    "head": "I actually got my own set of sculpting tools today, including a modeling tool set, a wire cutter, and a sculpt"
+   }
+  ]
+ },
+ "gpt4_f420262c": {
+  "shape": "TEMP.order",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 5,
+  "n_ev_in_raw": 3,
+  "view_chars": 19971,
+  "raw_chars": 36695,
+  "mode": "historical",
+  "gold": "JetBlue, Delta, United, American Airlines",
+  "question": "What is the order of airlines I flew with from earliest to latest before today?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8333333333333334,
+    "ntok": 24,
+    "head": "I'm planning a trip to Miami and I want to redeem my Delta SkyMiles for a free trip. Can you help me find the "
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 25,
+    "head": "I'm planning a trip to Miami later this year and I'm considering redeeming my Delta SkyMiles. I just earned 10"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 33,
+    "head": "I'm planning a trip to Miami and I'm considering flying with American Airlines or Delta. Can you compare their"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 16,
+    "head": "I'm planning a trip to Miami and I'm considering flying with American Airlines. What's their in-flight enterta"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.9444444444444444,
+    "ntok": 18,
+    "head": "I'm looking to book a new flight from Boston to Miami, and I was wondering if you could help me find the best "
+   }
+  ]
+ },
+ "71017277": {
+  "shape": "TEMP.anchor",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 1,
+  "n_ev_in_raw": 0,
+  "view_chars": 19934,
+  "raw_chars": 17036,
+  "mode": "current",
+  "gold": "my aunt",
+  "question": "I received a piece of jewelry last Saturday from whom?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.85,
+    "ntok": 40,
+    "head": "I'm looking for some advice on cleaning and maintaining my antique furniture. I recently acquired a beautiful "
+   }
+  ]
+ },
+ "gpt4_1e4a8aec": {
+  "shape": "TEMP.anchor",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 1,
+  "n_ev_in_raw": 0,
+  "view_chars": 19932,
+  "raw_chars": 17438,
+  "mode": "current",
+  "gold": "planting 12 new tomato saplings",
+  "question": "What gardening-related activity did I do two weeks ago?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.6923076923076923,
+    "ntok": 13,
+    "head": "I'm looking for some advice on how to keep my tomato plants healthy and pest-free. By the way, I just planted "
+   }
+  ]
+ },
+ "2c63a862": {
+  "shape": "TEMP.offset",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 0,
+  "view_chars": 19990,
+  "raw_chars": 23398,
+  "mode": "current",
+  "gold": "14 days. 15 days (including the last day) is also acceptable.",
+  "question": "How many days did it take for me to find a house I loved after starting to work with Rachel?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.7142857142857143,
+    "ntok": 21,
+    "head": "I'd like to ask Rachel about the new construction listings in these areas. Since I started working with her on"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.9333333333333333,
+    "ntok": 15,
+    "head": "I'm looking to get some advice on homebuying. I recently saw a house that I really love on 3/1, and I'm consid"
+   }
+  ]
+ },
+ "gpt4_65aabe59": {
+  "shape": "TEMP.order",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 3,
+  "n_ev_in_raw": 2,
+  "view_chars": 19941,
+  "raw_chars": 28937,
+  "mode": "current",
+  "gold": "Smart thermostat",
+  "question": "Which device did I set up first, the smart thermostat or the mesh network system?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 24,
+    "head": "I'm having some issues with my desktop computer, it's been freezing up on me randomly and I think it might be "
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.896551724137931,
+    "ntok": 29,
+    "head": "I've been doing some research online, but I haven't had a chance to go to the store yet. Since I've recently u"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 35,
+    "head": "I'm not really sure about building my own computer, I think I'll stick with a pre-built one. I've been looking"
+   }
+  ]
+ },
+ "gpt4_483dd43c": {
+  "shape": "TEMP.order",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 1,
+  "view_chars": 19791,
+  "raw_chars": 19719,
+  "mode": "current",
+  "gold": "'Game of Thrones'",
+  "question": "Which show did I start watching first, 'The Crown' or 'Game of Thrones'?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 20,
+    "head": "I just finished binge-watching the third season of \"The Crown\" on Netflix, and I'm looking for some new shows "
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.9473684210526315,
+    "ntok": 19,
+    "head": "I'm looking for some new shows to watch on HBO Max. I've been meaning to check out \"Game of Thrones\" for a whi"
+   }
+  ]
+ },
+ "d01c6aa8": {
+  "shape": "AGG.arith",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 1,
+  "view_chars": 19995,
+  "raw_chars": 18108,
+  "mode": "current",
+  "gold": "27",
+  "question": "How old was I when I moved to the United States?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8888888888888888,
+    "ntok": 18,
+    "head": "I'm 32-year-old male, and I'm trying to get a better understanding of the green card application process. Can "
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 22,
+    "head": "I've been living in the United States for the past five years on a work visa, and I'm not sure if I need any a"
+   }
+  ]
+ },
+ "8c18457d": {
+  "shape": "TEMP.offset",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 3,
+  "n_ev_in_raw": 3,
+  "view_chars": 19882,
+  "raw_chars": 26936,
+  "mode": "current",
+  "gold": "7 days. 8 days (including the last day) is also acceptable.",
+  "question": "How many days had passed between the day I bought a gift for my brother's graduation ceremony and the day I bought a birthday gift for my best friend?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 31,
+    "head": "I've been trying to be more thoughtful and intentional with my gift purchasing habits, and it's been a fun and"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 17,
+    "head": "Yeah, I'm still interested in getting those earrings. Can you show me some options that are similar to the sil"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 11,
+    "head": "I'm looking for some recommendations on gifts for a friend who's into music. I recently got a wireless headpho"
+   }
+  ]
+ },
+ "852ce960": {
+  "shape": "LOOKUP.plain",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 2,
+  "view_chars": 19977,
+  "raw_chars": 13298,
+  "mode": "current",
+  "gold": "$400,000",
+  "question": "What was the amount I was pre-approved for when I got my mortgage from Wells Fargo?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 10,
+    "head": "I'm actually buying a $325,000 house, and I got pre-approved for $350,000 from Wells Fargo. What would be the "
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 25,
+    "head": "I'm planning to move into my new home soon and I need to set up cable and TV services. Can you recommend some "
+   }
+  ]
+ },
+ "69fee5aa": {
+  "shape": "AGG.latest_count",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 2,
+  "view_chars": 19996,
+  "raw_chars": 19103,
+  "mode": "current",
+  "gold": "38",
+  "question": "How many pre-1920 American coins do I have in my collection?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 18,
+    "head": "By the way, I was thinking of organizing my pre-1920 American coins by denomination and mint mark. I have a to"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 20,
+    "head": "I'm looking to learn more about error coins, specifically ones with misprinted dates. Can you tell me about so"
+   }
+  ]
+ },
+ "07741c45": {
+  "shape": "LOOKUP.latest",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 2,
+  "view_chars": 19941,
+  "raw_chars": 7982,
+  "mode": "current",
+  "gold": "in a shoe rack in my closet",
+  "question": "Where do I currently keep my old sneakers?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 17,
+    "head": "I've heard of Teva and Merrell, they're great brands. I'll check out their latest collections. By the way, I n"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 25,
+    "head": "I'm thinking of buying a new pair of sandals with better quality straps. Can you recommend some good brands or"
+   }
+  ]
+ },
+ "1903aded": {
+  "shape": "RECALL.assistant",
+  "flat_all": true,
+  "cov_all": true,
+  "n_ev": 1,
+  "n_ev_in_raw": 0,
+  "view_chars": 19937,
+  "raw_chars": 21787,
+  "mode": "historical",
+  "gold": "Transcriptionist.",
+  "question": "I think we discussed work from home jobs for seniors earlier. Can you remind me what was the 7th job in the list you provided?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.30303030303030304,
+    "ntok": 33,
+    "head": "1. Virtual customer service representative 2. Telehealth professional 3. Remote bookkeeper 4. Virtual tutor or"
+   }
+  ]
+ },
+ "6d550036": {
+  "shape": "AGG.enum",
+  "flat_all": false,
+  "cov_all": false,
+  "n_ev": 4,
+  "n_ev_in_raw": 1,
+  "view_chars": 19909,
+  "raw_chars": 23731,
+  "mode": "current",
+  "gold": "2",
+  "question": "How many projects have I led or am currently leading?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 30,
+    "head": "I'm working on a project that involves analyzing customer data to identify trends and patterns. I was thinking"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8076923076923077,
+    "ntok": 26,
+    "head": "I'm looking for some help with data visualization tools. I recently participated in a case competition hosted "
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.3181818181818182,
+    "ntok": 22,
+    "head": "I'm looking for some research on consumer behavior and social media. I recently presented a poster on my resea"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8275862068965517,
+    "ntok": 29,
+    "head": "I've been working on a solo project for my Data Mining class, and I'm really interested in applying some of th"
+   }
+  ]
+ },
+ "gpt4_59c863d7": {
+  "shape": "AGG.enum",
+  "flat_all": false,
+  "cov_all": true,
+  "n_ev": 5,
+  "n_ev_in_raw": 2,
+  "view_chars": 19949,
+  "raw_chars": 22542,
+  "mode": "current",
+  "gold": "I have worked on or bought five model kits. The scales of the models are: Revell F-15 Eagle (scale not mentioned), Tamiya 1/48 scale Spitfire Mk.V, 1/16 scale German Tiger I tank, 1/72 scale B-29 bomber, and 1/24 scale '69 Camaro.",
+  "question": "How many model kits have I worked on or bought?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 1.0,
+    "ntok": 18,
+    "head": "I'm looking for some tips on photo-etching for my new 1/72 scale B-29 bomber model kit. I've never tried it be"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 22,
+    "head": "I'm looking for some tips on weathering techniques for my model kits. I've been getting back into model buildi"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.875,
+    "ntok": 24,
+    "head": "I'm looking for some tips on weathering techniques for my model tanks. I've been using AK Interactive products"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 24,
+    "head": "I'm looking for some advice on painting metal surfaces for a model kit. I recently finished a Tamiya 1/48 scal"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.9230769230769231,
+    "ntok": 13,
+    "head": "I'm thinking of trying out enamel washes on my next project, a 1/72 scale B-29 bomber. Do you have any recomme"
+   }
+  ]
+ },
+ "gpt4_f2262a51": {
+  "shape": "AGG.enum",
+  "flat_all": false,
+  "cov_all": false,
+  "n_ev": 5,
+  "n_ev_in_raw": 0,
+  "view_chars": 19935,
+  "raw_chars": 16656,
+  "mode": "current",
+  "gold": "I visited three different doctors: a primary care physician, an ENT specialist, and a dermatologist.",
+  "question": "How many different doctors did I visit?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8333333333333334,
+    "ntok": 18,
+    "head": "I'm having some issues with my nasal spray prescription from Dr. Patel. Can you help me with some tips on how "
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.6666666666666666,
+    "ntok": 21,
+    "head": "I've been feeling really exhausted lately and was wondering if you could help me find some tips on how to boos"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.7391304347826086,
+    "ntok": 23,
+    "head": "I was thinking, could you help me find some information on how to manage chronic sinusitis? I've recently been"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.6111111111111112,
+    "ntok": 18,
+    "head": "I just got diagnosed with chronic sinusitis by an ENT specialist, Dr. Patel, and she prescribed a nasal spray."
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.391304347826087,
+    "ntok": 23,
+    "head": "I recently had a urinary tract infection and was prescribed antibiotics, so I'm wondering if that could be con"
+   }
+  ]
+ },
+ "dd2973ad": {
+  "shape": "LOOKUP.history",
+  "flat_all": false,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 1,
+  "view_chars": 19977,
+  "raw_chars": 23831,
+  "mode": "historical",
+  "gold": "2 AM",
+  "question": "What time did I go to bed on the day before I had a doctor's appointment?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 24,
+    "head": "I need help with meal planning. I just got my blood test results back and my cholesterol levels are a bit high"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.7142857142857143,
+    "ntok": 21,
+    "head": "I'm feeling a bit sluggish today and I think it's because I didn't get to bed until 2 AM last Wednesday, which"
+   }
+  ]
+ },
+ "gpt4_2f8be40d": {
+  "shape": "AGG.enum",
+  "flat_all": false,
+  "cov_all": false,
+  "n_ev": 3,
+  "n_ev_in_raw": 1,
+  "view_chars": 19955,
+  "raw_chars": 33757,
+  "mode": "current",
+  "gold": "I attended three weddings. The couples were Rachel and Mike, Emily and Sarah, and Jen and Tom.",
+  "question": "How many weddings have I attended in this year?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8780487804878049,
+    "ntok": 41,
+    "head": "I'm planning my own wedding and I need some help with finding a venue. I've always dreamed of having a small, "
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 19,
+    "head": "I'm getting married soon and I'm looking for some wedding venue ideas. I've been to a few weddings recently an"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8148148148148148,
+    "ntok": 27,
+    "head": "I'm planning my own wedding and I was wondering if you could give me some tips on how to choose the perfect ve"
+   }
+  ]
+ },
+ "88432d0a": {
+  "shape": "AGG.enum",
+  "flat_all": false,
+  "cov_all": false,
+  "n_ev": 4,
+  "n_ev_in_raw": 0,
+  "view_chars": 19956,
+  "raw_chars": 18095,
+  "mode": "current",
+  "gold": "4",
+  "question": "How many times did I bake something in the past two weeks?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8421052631578947,
+    "ntok": 19,
+    "head": "I'm looking for some advice on improving my sourdough starter. I tried out a new bread recipe using sourdough "
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.9090909090909091,
+    "ntok": 22,
+    "head": "I'm thinking of trying out a new recipe for a rustic Italian bread this weekend. Do you have any tips on how t"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8378378378378378,
+    "ntok": 37,
+    "head": "I see! Thanks for the tips. I'll definitely try the dry brine method and baking powder trick. Do you have any "
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.896551724137931,
+    "ntok": 29,
+    "head": "I'm looking for some recipe ideas for a dinner party I'm hosting next weekend. Do you have any suggestions for"
+   }
+  ]
+ },
+ "gpt4_7fce9456": {
+  "shape": "AGG.enum",
+  "flat_all": false,
+  "cov_all": true,
+  "n_ev": 6,
+  "n_ev_in_raw": 2,
+  "view_chars": 19926,
+  "raw_chars": 24996,
+  "mode": "historical",
+  "gold": "I viewed four properties before making an offer on the townhouse in the Brookside neighborhood. The reasons I didn't make an offer on them were: the kitchen of the bungalow needed serious renovation, the property in Cedar Creek was out of my budget, the noise from the highway was a deal-breaker for the 1-bedroom condo, and my offer on the 2-bedroom condo was rejected due to a higher bid.",
+  "question": "How many properties did I view before making an offer on the townhouse in the Brookside neighborhood?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 22,
+    "head": "Hi! I'm in the process of buying a house and I need help with some calculations. I recently put in an offer on"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.7714285714285715,
+    "ntok": 35,
+    "head": "I'm in the process of buying a new home and I need some help with organizing all the paperwork. I've been hous"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.7619047619047619,
+    "ntok": 21,
+    "head": "I'm looking for a home warranty to protect my new place from unexpected repairs. Can you recommend some provid"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8888888888888888,
+    "ntok": 9,
+    "head": "I'm looking at options for condo in the downtown area. Can you tell me more about the importance of research w"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.7586206896551724,
+    "ntok": 29,
+    "head": "I appreciate your detailed explanation on the importance of research when buying a condo. I'm currently lookin"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 21,
+    "head": "I'm looking for some advice on renovating a kitchen. I recently saw a beautiful 3-bedroom bungalow in the Oakw"
+   }
+  ]
+ },
+ "2ce6a0f2": {
+  "shape": "AGG.enum",
+  "flat_all": false,
+  "cov_all": true,
+  "n_ev": 4,
+  "n_ev_in_raw": 1,
+  "view_chars": 19969,
+  "raw_chars": 32427,
+  "mode": "current",
+  "gold": "4",
+  "question": "How many different art-related events did I attend in the past month?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.6666666666666666,
+    "ntok": 24,
+    "head": "I'm looking for some art supplies for a project I'm working on. Do you have any recommendations for good quali"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.9473684210526315,
+    "ntok": 19,
+    "head": "I'm interested in learning more about street art. I recently attended a lecture at the Art Gallery on 'The Evo"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 25,
+    "head": "I didn't know I could find local art events on social media. I'll definitely check that out. I was particularl"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.875,
+    "ntok": 16,
+    "head": "I'm looking for some recommendations on art museums in the city. I recently went on a guided tour at the Histo"
+   }
+  ]
+ },
+ "gpt4_e05b82a6": {
+  "shape": "AGG.enum",
+  "flat_all": false,
+  "cov_all": true,
+  "n_ev": 4,
+  "n_ev_in_raw": 3,
+  "view_chars": 19810,
+  "raw_chars": 12413,
+  "mode": "current",
+  "gold": "10 times",
+  "question": "How many times did I ride rollercoasters across all the events I attended from July to October?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 19,
+    "head": "Can I ask, have you ever been on a rollercoaster that's themed around an ancient Egyptian tomb? I rode the Rev"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8571428571428571,
+    "ntok": 21,
+    "head": "I'm planning a trip to Knott's Berry Farm soon and I was wondering if you could give me some tips on which rid"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 24,
+    "head": "I'm planning a trip to Disneyland and was wondering if you could help me with some info on their Halloween eve"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 17,
+    "head": "I'm planning a trip to San Diego and was wondering what are some must-see attractions there. By the way, I'm a"
+   }
+  ]
+ },
+ "gpt4_731e37d7": {
+  "shape": "AGG.enum",
+  "flat_all": false,
+  "cov_all": false,
+  "n_ev": 4,
+  "n_ev_in_raw": 0,
+  "view_chars": 19968,
+  "raw_chars": 17533,
+  "mode": "current",
+  "gold": "$720",
+  "question": "How much total money did I spend on attending workshops in the last four months?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8636363636363636,
+    "ntok": 22,
+    "head": "I'm looking for some tips on how to improve my portrait photography skills. Do you have any resources or tutor"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8153846153846154,
+    "ntok": 65,
+    "head": "The entrepreneurship workshop was very helpful, and I learned a lot from the organizers, mentors, and other pa"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.72,
+    "ntok": 25,
+    "head": "I'm looking for some writing tips. I've been working on a short story since a writing workshop I attended in N"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8571428571428571,
+    "ntok": 28,
+    "head": "I'm looking to improve my business's online presence and I was wondering if you can recommend some tools for s"
+   }
+  ]
+ },
+ "09d032c9": {
+  "shape": "PREF.advice",
+  "flat_all": false,
+  "cov_all": false,
+  "n_ev": 1,
+  "n_ev_in_raw": 0,
+  "view_chars": 19968,
+  "raw_chars": 8736,
+  "mode": "current",
+  "gold": "The user would prefer responses that build upon their previous mention of purchasing a portable power bank, such as suggestions on how to optimize its use, like ensuring it's fully charged before use. They might also appreciate tips on utilizing battery-saving features on their phone. The user may not prefer responses that suggest alternative solutions or unrelated advice.",
+  "question": "I've been having trouble with the battery life on my phone lately. Any tips?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.6923076923076923,
+    "ntok": 13,
+    "head": "I'm looking for some advice on the best way to organize my tech accessories, like my new portable power bank a"
+   }
+  ]
+ },
+ "d6233ab6": {
+  "shape": "PREF.advice",
+  "flat_all": false,
+  "cov_all": true,
+  "n_ev": 2,
+  "n_ev_in_raw": 0,
+  "view_chars": 19985,
+  "raw_chars": 14654,
+  "mode": "current",
+  "gold": "The user would prefer responses that draw upon their personal experiences and memories, specifically their positive high school experiences such as being part of the debate team and taking advanced placement courses. They would prefer suggestions that highlight the potential benefits of attending the reunion, such as reconnecting with old friends and revisiting favorite subjects like history and economics. The user might not prefer generic or vague responses that do not take into account their individual experiences and interests.",
+  "question": "I've been feeling nostalgic lately. Do you think it would be a good idea to attend my high school reunion?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.6,
+    "ntok": 30,
+    "head": "I still remember the happy high school experiences such as being part of the debate team and taking advanced p"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8148148148148148,
+    "ntok": 27,
+    "head": "I'm not sure if I'm ready to commit to a full Master's program yet. I am asking because a lot of old high scho"
+   }
+  ]
+ },
+ "bc149d6b": {
+  "shape": "AGG.enum",
+  "flat_all": false,
+  "cov_all": false,
+  "n_ev": 2,
+  "n_ev_in_raw": 1,
+  "view_chars": 19910,
+  "raw_chars": 19962,
+  "mode": "current",
+  "gold": "70 pounds",
+  "question": "What is the total weight of the new feed I purchased in the past two months?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 14,
+    "head": "I'm wondering if you can help me calculate the cost per pound of the layer feed I recently purchased. I got a "
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8709677419354839,
+    "ntok": 31,
+    "head": "I'm thinking of expanding my farm's product line to include homemade jam and honey. Can you help me find infor"
+   }
+  ]
+ },
+ "gpt4_45189cb4": {
+  "shape": "TEMP.order",
+  "flat_all": false,
+  "cov_all": true,
+  "n_ev": 3,
+  "n_ev_in_raw": 2,
+  "view_chars": 19975,
+  "raw_chars": 25297,
+  "mode": "current",
+  "gold": "First, I attended a NBA game at the Staples Center, then I watched the College Football National Championship game, and finally, I watched the NFL playoffs.",
+  "question": "What is the order of the sports events I watched in January?",
+  "per": [
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 34,
+    "head": "I like the idea of a sports-themed scavenger hunt, and the example clues and challenges you provided are great"
+   },
+   {
+    "in_raw": true,
+    "tok_recall_ctx": 1.0,
+    "ntok": 27,
+    "head": "I'll check out The Witcher and The Mandalorian. Both sound interesting. By the way, I'm still riding high from"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.5555555555555556,
+    "ntok": 27,
+    "head": "I'm thinking of ordering some food for the next game, do you have any recommendations for good wing spots that"
+   }
+  ]
+ },
+ "gpt4_f420262d": {
+  "shape": "TEMP.anchor",
+  "flat_all": false,
+  "cov_all": false,
+  "n_ev": 3,
+  "n_ev_in_raw": 0,
+  "view_chars": 19944,
+  "raw_chars": 30322,
+  "mode": "current",
+  "gold": "American Airlines",
+  "question": "What was the airline that I flied with on Valentine's day?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 1.0,
+    "ntok": 18,
+    "head": "I'm looking to book a new flight from Boston to Miami, and I was wondering if you could help me find the best "
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 1.0,
+    "ntok": 16,
+    "head": "I'm planning a trip to Miami and I'm considering flying with American Airlines. What's their in-flight enterta"
+   },
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.9545454545454546,
+    "ntok": 22,
+    "head": "I'm still concerned about their customer service, especially since I experienced a terrible in-flight entertai"
+   }
+  ]
+ },
+ "gpt4_4929293b": {
+  "shape": "TEMP.anchor",
+  "flat_all": false,
+  "cov_all": false,
+  "n_ev": 1,
+  "n_ev_in_raw": 0,
+  "view_chars": 19993,
+  "raw_chars": 20833,
+  "mode": "current",
+  "gold": "my cousin's wedding",
+  "question": "What was the the life event of one of my relatives that I participated in a week ago?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.8181818181818182,
+    "ntok": 22,
+    "head": "I'm really enjoying looking at different venues and imagining how I can make the space feel intimate and speci"
+   }
+  ]
+ },
+ "eac54add": {
+  "shape": "TEMP.anchor",
+  "flat_all": false,
+  "cov_all": false,
+  "n_ev": 1,
+  "n_ev_in_raw": 0,
+  "view_chars": 19968,
+  "raw_chars": 11846,
+  "mode": "current",
+  "gold": "I signed a contract with my first client.",
+  "question": "What was the significant buisiness milestone I mentioned four weeks ago?",
+  "per": [
+   {
+    "in_raw": false,
+    "tok_recall_ctx": 0.5,
+    "ntok": 18,
+    "head": "I'm looking for some advice on creating a solid contract for my freelance clients. I just signed a contract wi"
+   }
+  ]
+ }
+}

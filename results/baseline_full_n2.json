@@ -1,0 +1,46 @@
+{
+ "system": "full",
+ "results": [
+  {
+   "qid": "6a1eabeb",
+   "type": "knowledge-update",
+   "mem_units": 413,
+   "f1": 0.0,
+   "judge": true,
+   "pred": "Your most recent mention lists your charity 5K personal best as **25:50**, though an earlier message said **27:12**."
+  },
+  {
+   "qid": "0a995998",
+   "type": "multi-session",
+   "mem_units": 484,
+   "f1": 0.0,
+   "judge": false,
+   "pred": "Based on the memory, you need to pick up **the new pair of boots from Zara** (exchanged on 2/5). You may also still need to return the old too-small pair, so **up to 2 items**."
+  }
+ ],
+ "by_type": {
+  "knowledge-update": {
+   "n": 1,
+   "judge_acc": 1.0,
+   "f1": 0.0
+  },
+  "multi-session": {
+   "n": 1,
+   "judge_acc": 0.0,
+   "f1": 0.0
+  }
+ },
+ "total_judge_acc": 0.5,
+ "cost": {
+  "answer/full/deepseek-v4-pro": {
+   "calls": 2,
+   "prompt": 18311,
+   "completion": 2139
+  },
+  "judge/deepseek-v4-pro": {
+   "calls": 2,
+   "prompt": 492,
+   "completion": 160
+  }
+ }
+}

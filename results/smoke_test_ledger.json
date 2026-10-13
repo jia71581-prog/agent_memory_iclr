@@ -1,0 +1,112 @@
+{
+ "rows": [
+  {
+   "op": "answer",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 8983,
+   "completion_tokens": 273,
+   "reasoning_tokens": 234,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 245,
+   "completion_tokens": 88,
+   "reasoning_tokens": 85,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 8412,
+   "completion_tokens": 930,
+   "reasoning_tokens": 900,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 232,
+   "completion_tokens": 124,
+   "reasoning_tokens": 120,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 7584,
+   "completion_tokens": 365,
+   "reasoning_tokens": 338,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 237,
+   "completion_tokens": 86,
+   "reasoning_tokens": 83,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 5541,
+   "completion_tokens": 203,
+   "reasoning_tokens": 107,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 336,
+   "completion_tokens": 391,
+   "reasoning_tokens": 388,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 2255,
+   "completion_tokens": 129,
+   "reasoning_tokens": 108,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 257,
+   "completion_tokens": 49,
+   "reasoning_tokens": 46,
+   "cache_hit": 0
+  },
+  {
+   "op": "answer",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 3889,
+   "completion_tokens": 62,
+   "reasoning_tokens": 52,
+   "cache_hit": 0
+  },
+  {
+   "op": "judge",
+   "model": "deepseek-v4-pro",
+   "prompt_tokens": 203,
+   "completion_tokens": 36,
+   "reasoning_tokens": 33,
+   "cache_hit": 0
+  }
+ ],
+ "summary": {
+  "answer/deepseek-v4-pro": {
+   "calls": 6,
+   "prompt": 36664,
+   "completion": 1962
+  },
+  "judge/deepseek-v4-pro": {
+   "calls": 6,
+   "prompt": 1510,
+   "completion": 774
+  }
+ }
+}

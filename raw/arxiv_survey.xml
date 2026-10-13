@@ -1,0 +1,535 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/DGenU7p+hrhTK7GugZ028SYSyqo</id>
+  <title>arXiv Query: search_query=ti:"survey" AND ti:"memory" AND abs:"agents"&amp;id_list=&amp;start=0&amp;max_results=10</title>
+  <updated>2026-09-16T09:28:24Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22survey%22+AND+(ti:%22memory%22+AND+abs:%22agents%22)&amp;start=0&amp;max_results=10&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+  <opensearch:totalResults>8</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2512.16301v3</id>
+    <title>Adaptation of Agentic AI: A Survey of Post-Training, Memory, and Skills</title>
+    <updated>2026-03-09T07:39:08Z</updated>
+    <link href="https://arxiv.org/abs/2512.16301v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2512.16301v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large language model (LLM) agents are moving beyond prompting alone. ChatGPT marked the rise of general-purpose LLM assistants, DeepSeek showed that on-policy reinforcement learning with verifiable rewards can improve reasoning and tool use, and OpenClaw highlights a newer direction in which agents accumulate persistent memory and reusable skills. Yet the research landscape remains fragmented across post-training, retrieval, memory, and skill systems. This survey studies these developments under a single notion of \emph{adaptation}: improving an agent, its tools, or their interaction after pretraining. We organize the field with a four-paradigm framework spanning agent adaptation and tool adaptation. On the agent side, A1 (tool-execution-signaled) and A2 (agent-output-signaled) improve the agent itself through supervised fine-tuning, preference optimization, and reinforcement learning with verifiable rewards. On the tool side, T1 (agent-agnostic) provides reusable pre-trained modules any agent can call, while T2 (agent-supervised) uses the agent's outputs to train memory systems, skill libraries, or lightweight subagents. Using this framework, we review post-training methods, adaptive memory architectures, and agent skills; compare their trade-offs in cost, flexibility, and generalization; and summarize evaluation practices across deep research, software development, computer use, and drug discovery. We conclude by outlining open problems in agent-tool co-adaptation, continual learning, safety, and efficient deployment.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-12-18T08:38:51Z</published>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Pengcheng Jiang</name>
+    </author>
+    <author>
+      <name>Jiacheng Lin</name>
+    </author>
+    <author>
+      <name>Zhiyi Shi</name>
+    </author>
+    <author>
+      <name>Zifeng Wang</name>
+    </author>
+    <author>
+      <name>Luxi He</name>
+    </author>
+    <author>
+      <name>Yichen Wu</name>
+    </author>
+    <author>
+      <name>Ming Zhong</name>
+    </author>
+    <author>
+      <name>Peiyang Song</name>
+    </author>
+    <author>
+      <name>Qizheng Zhang</name>
+    </author>
+    <author>
+      <name>Heng Wang</name>
+    </author>
+    <author>
+      <name>Xueqiang Xu</name>
+    </author>
+    <author>
+      <name>Hanwen Xu</name>
+    </author>
+    <author>
+      <name>Pengrui Han</name>
+    </author>
+    <author>
+      <name>Dylan Zhang</name>
+    </author>
+    <author>
+      <name>Jiashuo Sun</name>
+    </author>
+    <author>
+      <name>Chaoqi Yang</name>
+    </author>
+    <author>
+      <name>Kun Qian</name>
+    </author>
+    <author>
+      <name>Tian Wang</name>
+    </author>
+    <author>
+      <name>Changran Hu</name>
+    </author>
+    <author>
+      <name>Manling Li</name>
+    </author>
+    <author>
+      <name>Quanzheng Li</name>
+    </author>
+    <author>
+      <name>Hao Peng</name>
+    </author>
+    <author>
+      <name>Sheng Wang</name>
+    </author>
+    <author>
+      <name>Jingbo Shang</name>
+    </author>
+    <author>
+      <name>Chao Zhang</name>
+    </author>
+    <author>
+      <name>Jiaxuan You</name>
+    </author>
+    <author>
+      <name>Liyuan Liu</name>
+    </author>
+    <author>
+      <name>Pan Lu</name>
+    </author>
+    <author>
+      <name>Yu Zhang</name>
+    </author>
+    <author>
+      <name>Heng Ji</name>
+    </author>
+    <author>
+      <name>Yejin Choi</name>
+    </author>
+    <author>
+      <name>Dawn Song</name>
+    </author>
+    <author>
+      <name>Jimeng Sun</name>
+    </author>
+    <author>
+      <name>Jiawei Han</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2404.13501v1</id>
+    <title>A Survey on the Memory Mechanism of Large Language Model based Agents</title>
+    <updated>2024-04-21T01:49:46Z</updated>
+    <link href="https://arxiv.org/abs/2404.13501v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2404.13501v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large language model (LLM) based agents have recently attracted much attention from the research and industry communities. Compared with original LLMs, LLM-based agents are featured in their self-evolving capability, which is the basis for solving real-world problems that need long-term and complex agent-environment interactions. The key component to support agent-environment interactions is the memory of the agents. While previous studies have proposed many promising memory mechanisms, they are scattered in different papers, and there lacks a systematical review to summarize and compare these works from a holistic perspective, failing to abstract common and effective designing patterns for inspiring future studies. To bridge this gap, in this paper, we propose a comprehensive survey on the memory mechanism of LLM-based agents. In specific, we first discuss ''what is'' and ''why do we need'' the memory in LLM-based agents. Then, we systematically review previous studies on how to design and evaluate the memory module. In addition, we also present many agent applications, where the memory module plays an important role. At last, we analyze the limitations of existing work and show important future directions. To keep up with the latest advances in this field, we create a repository at \url{https://github.com/nuster1128/LLM_Agent_Memory_Survey}.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-04-21T01:49:46Z</published>
+    <arxiv:comment>39 pages, 5 figures, 4 tables</arxiv:comment>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Zeyu Zhang</name>
+    </author>
+    <author>
+      <name>Xiaohe Bo</name>
+    </author>
+    <author>
+      <name>Chen Ma</name>
+    </author>
+    <author>
+      <name>Rui Li</name>
+    </author>
+    <author>
+      <name>Xu Chen</name>
+    </author>
+    <author>
+      <name>Quanyu Dai</name>
+    </author>
+    <author>
+      <name>Jieming Zhu</name>
+    </author>
+    <author>
+      <name>Zhenhua Dong</name>
+    </author>
+    <author>
+      <name>Ji-Rong Wen</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2606.30306v1</id>
+    <title>Always-OnAgents:A Survey of Persistent Memory, State, and Governance in LLMAgents</title>
+    <updated>2026-06-29T13:47:42Z</updated>
+    <link href="https://arxiv.org/abs/2606.30306v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2606.30306v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Always-on agents are systems whose future behavior depends on durable state accumulated across earlier interactions. We treat them as persistent-state systems: the operative system includes retrievable memories, but also task ledgers, permissions, credentials, commitments, provenance and audit records, shared state, trigger conditions, and externally committed effects linked to those records. The survey reads the literature through six diagnostic axes for each state item, authority, scope, mutability, provenance, recoverability, and actionability, and through a lifecycle in which state is written, validated, organized, retrieved, acted upon, updated, forgotten, audited, and sometimes rolled back. Across a 435-work coded corpus, treated as a scoped map rather than an exhaustive census, the literature concentrates more heavily on accumulating and retrieving state than on governing, recovering, or relinquishing it. We therefore introduce the Always-On Evaluation Protocol (AOEP-v0), a pilot evaluation contract that makes these governance requirements concrete by scoring state mutation and recovery obligations rather than answer quality alone. The resulting agenda connects always-on agents to databases, distributed systems, formal methods, capability security, and machine unlearning.</summary>
+    <category term="cs.MA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-06-29T13:47:42Z</published>
+    <arxiv:primary_category term="cs.MA"/>
+    <author>
+      <name>Tianyu Ding</name>
+    </author>
+    <author>
+      <name>Aditya Nannapaneni</name>
+    </author>
+    <author>
+      <name>Bingfan Liu</name>
+    </author>
+    <author>
+      <name>Ling Zhang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2602.06052v4</id>
+    <title>A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents</title>
+    <updated>2026-08-04T20:54:45Z</updated>
+    <link href="https://arxiv.org/abs/2602.06052v4" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2602.06052v4" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Research in artificial intelligence is shifting from model innovations and benchmark scores towards problem definition and rigorous real-world evaluation. As the field enters the "second half," the central challenge becomes real utility in long-horizon, dynamic, and user-dependent settings such as agentic coding, deep research, and computer use, where LLM-based agents face context explosion beyond fixed context windows and must continuously accumulate, manage, and selectively reuse information across extended interactions. Memory, with hundreds of papers released in 2025, therefore emerges as the critical solution to fill this utility gap. Beyond passive storage, memory is increasingly the substrate through which agents self-evolve: short-term memory gates which experiences are perceived and abstracted during execution, while long-term memory consolidates them into reusable knowledge and skills, forming the loop through which agents improve from their own experience. In this survey, we provide a unified view of foundation agent memory along three dimensions: memory substrate (internal parametric state and external retrieval-augmented stores), cognitive mechanism (sensory, working, episodic, semantic, and procedural), and memory subject (user-centric personalization and agent-centric experience). We then analyze how memory is operated under single- and multi-agent topologies and highlight learning policies over memory operations, showing how memory management itself is becoming a trainable capability spanning reinforcement-learned context curation, experience consolidation at decision time, and the emerging ecosystem of portable, shareable agent skills. Finally, we review evaluation benchmarks and metrics for memory utility, and outline open challenges and future directions.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-01-14T07:38:38Z</published>
+    <arxiv:comment>Accepted at Transactions on Machine Learning Research (TMLR) with Survey Certification. Project page: https://github.com/AgentMemoryWorld/Awesome-Agent-Memory</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Wei-Chieh Huang</name>
+    </author>
+    <author>
+      <name>Weizhi Zhang</name>
+    </author>
+    <author>
+      <name>Yueqing Liang</name>
+    </author>
+    <author>
+      <name>Yuanchen Bei</name>
+    </author>
+    <author>
+      <name>Yankai Chen</name>
+    </author>
+    <author>
+      <name>Tao Feng</name>
+    </author>
+    <author>
+      <name>Xinyu Pan</name>
+    </author>
+    <author>
+      <name>Zhen Tan</name>
+    </author>
+    <author>
+      <name>Yu Wang</name>
+    </author>
+    <author>
+      <name>Tianxin Wei</name>
+    </author>
+    <author>
+      <name>Shanglin Wu</name>
+    </author>
+    <author>
+      <name>Ruiyao Xu</name>
+    </author>
+    <author>
+      <name>Liangwei Yang</name>
+    </author>
+    <author>
+      <name>Rui Yang</name>
+    </author>
+    <author>
+      <name>Wooseong Yang</name>
+    </author>
+    <author>
+      <name>Chin-Yuan Yeh</name>
+    </author>
+    <author>
+      <name>Hanrong Zhang</name>
+    </author>
+    <author>
+      <name>Haozhen Zhang</name>
+    </author>
+    <author>
+      <name>Siqi Zhu</name>
+    </author>
+    <author>
+      <name>Henry Peng Zou</name>
+    </author>
+    <author>
+      <name>Wanjia Zhao</name>
+    </author>
+    <author>
+      <name>Song Wang</name>
+    </author>
+    <author>
+      <name>Wujiang Xu</name>
+    </author>
+    <author>
+      <name>Zixuan Ke</name>
+    </author>
+    <author>
+      <name>Zheng Hui</name>
+    </author>
+    <author>
+      <name>Dawei Li</name>
+    </author>
+    <author>
+      <name>Yaozu Wu</name>
+    </author>
+    <author>
+      <name>Langzhou He</name>
+    </author>
+    <author>
+      <name>Chen Wang</name>
+    </author>
+    <author>
+      <name>Xiongxiao Xu</name>
+    </author>
+    <author>
+      <name>Baixiang Huang</name>
+    </author>
+    <author>
+      <name>Juntao Tan</name>
+    </author>
+    <author>
+      <name>Shelby Heinecke</name>
+    </author>
+    <author>
+      <name>Huan Wang</name>
+    </author>
+    <author>
+      <name>Caiming Xiong</name>
+    </author>
+    <author>
+      <name>Ahmed A. Metwally</name>
+    </author>
+    <author>
+      <name>Jun Yan</name>
+    </author>
+    <author>
+      <name>Chen-Yu Lee</name>
+    </author>
+    <author>
+      <name>Hanqing Zeng</name>
+    </author>
+    <author>
+      <name>Yinglong Xia</name>
+    </author>
+    <author>
+      <name>Xiaokai Wei</name>
+    </author>
+    <author>
+      <name>Ali Payani</name>
+    </author>
+    <author>
+      <name>Yu Wang</name>
+    </author>
+    <author>
+      <name>Haitong Ma</name>
+    </author>
+    <author>
+      <name>Wenya Wang</name>
+    </author>
+    <author>
+      <name>Chenguang Wang</name>
+    </author>
+    <author>
+      <name>Yu Zhang</name>
+    </author>
+    <author>
+      <name>Xin Eric Wang</name>
+    </author>
+    <author>
+      <name>Yongfeng Zhang</name>
+    </author>
+    <author>
+      <name>Jiaxuan You</name>
+    </author>
+    <author>
+      <name>Hanghang Tong</name>
+    </author>
+    <author>
+      <name>Xiao Luo</name>
+    </author>
+    <author>
+      <name>Xue Liu</name>
+    </author>
+    <author>
+      <name>Yizhou Sun</name>
+    </author>
+    <author>
+      <name>Wei Wang</name>
+    </author>
+    <author>
+      <name>Julian McAuley</name>
+    </author>
+    <author>
+      <name>James Zou</name>
+    </author>
+    <author>
+      <name>Jiawei Han</name>
+    </author>
+    <author>
+      <name>Philip S. Yu</name>
+    </author>
+    <author>
+      <name>Kai Shu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2605.06716v1</id>
+    <title>From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms</title>
+    <updated>2026-05-07T03:38:48Z</updated>
+    <link href="https://arxiv.org/abs/2605.06716v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2605.06716v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large Language Model (LLM)-based agents have fundamentally reshaped artificial intelligence by integrating external tools and planning capabilities. While memory mechanisms have emerged as the architectural cornerstone of these systems, current research remains fragmented, oscillating between operating system engineering and cognitive science. This theoretical divide prevents a unified view of technological synthesis and a coherent evolutionary perspective. To bridge this gap, this survey proposes a novel evolutionary framework for LLM agent memory mechanisms, formalizing the development process into three stages: Storage (trajectory preservation), Reflection (trajectory refinement), and Experience (trajectory abstraction). We first formally define these three stages before analyzing the three core drivers of this evolution: the necessity for long-range consistency, the challenges in dynamic environments, and the ultimate goal of continual learning. Furthermore, we specifically explore two transformative mechanisms in the frontier Experience stage: proactive exploration and cross-trajectory abstraction. By synthesizing these disparate views, this work offers robust design principles and a clear roadmap for the development of next-generation LLM agents.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-05-07T03:38:48Z</published>
+    <arxiv:comment>Accepted by ACL 2026 Findings</arxiv:comment>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Jinghao Luo</name>
+    </author>
+    <author>
+      <name>Yuchen Tian</name>
+    </author>
+    <author>
+      <name>Chuxue Cao</name>
+    </author>
+    <author>
+      <name>Ziyang Luo</name>
+    </author>
+    <author>
+      <name>Hongzhan Lin</name>
+    </author>
+    <author>
+      <name>Kaixin Li</name>
+    </author>
+    <author>
+      <name>Chuyi Kong</name>
+    </author>
+    <author>
+      <name>Ruichao Yang</name>
+    </author>
+    <author>
+      <name>Jing Ma</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2609.02309v1</id>
+    <title>Efficient GUI Agents: A Systems Survey of Observation, Memory, Action, and Runtime Optimization</title>
+    <updated>2026-09-02T08:54:58Z</updated>
+    <link href="https://arxiv.org/abs/2609.02309v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2609.02309v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>GUI agents increasingly operate across websites, mobile apps, and desktop environments, yet the field still reports progress primarily through task success. We argue that practical deployment depends equally on efficiency: how much context, computation, action budget, and runtime overhead an agent consumes while succeeding. This survey studies efficient GUI agents through an end-to-end systems lens that preserves the current technical axes of observation efficiency, context and memory efficiency, action efficiency, and planner-side/system efficiency. For each subsection, we expand the seed literature through targeted search plus backward and forward citation chaining, then synthesize the dominant mechanisms, reported efficiency signals, and new overheads they introduce. Across the literature, recent progress converges on a small set of recurring ideas: selective reading instead of full-context ingestion, global-to-local visual allocation, recoverable memory rather than raw history replay, verification-aware control, and hybrid runtimes that can switch between GUI and non-GUI execution. We conclude by identifying the main open problems, including honest accounting of verifier cost, cross-benchmark comparability, and co-design of observation, memory, and execution layers under real latency and privacy constraints.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-09-02T08:54:58Z</published>
+    <arxiv:comment>Accept at Grounding Language Models: Learning Faithfully and Efficiently @ EMNLP 2026</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Bizhe Bai</name>
+    </author>
+    <author>
+      <name>Jiakang Yuan</name>
+    </author>
+    <author>
+      <name>Hongming Wu</name>
+    </author>
+    <author>
+      <name>Xinyue Wang</name>
+    </author>
+    <author>
+      <name>Jie Ren</name>
+    </author>
+    <author>
+      <name>Siyao Chen</name>
+    </author>
+    <author>
+      <name>Yuchen Ya</name>
+    </author>
+    <author>
+      <name>Fan Bai</name>
+    </author>
+    <author>
+      <name>Pai Peng</name>
+    </author>
+    <author>
+      <name>Huafeng Qin</name>
+    </author>
+    <author>
+      <name>Tao Chen</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2604.16548v2</id>
+    <title>A Survey on Long-Term Memory Security in LLM Agents: Attacks, Defenses, and Governance Across the Memory Lifecycle</title>
+    <updated>2026-06-11T04:00:49Z</updated>
+    <link href="https://arxiv.org/abs/2604.16548v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2604.16548v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The emergence of writable, cross-session persistent memory in LLM agents introduces a qualitatively different threat landscape from conventional input-centric security concerns, characterized by three properties: persistence, statefulness, and propagation. To systematically characterize this landscape, we propose a Memory Lifecycle Framework that organizes attacks, defenses, and their cross-phase dependencies along two axes: six lifecycle phases (Write, Store, Retrieve, Execute, Share &amp; Propagate, Forget &amp; Rollback) and four security objectives (Integrity, Confidentiality, Availability, Governance). This analysis in turn exposes the need for formal security guarantees at the system level, motivating Verifiable Memory Governance(VMG), a framework of five architectural primitives that specifies what verifiable mechanisms a long-term-memory system must provide to maintain auditable, recoverable control over its memory state. Our analysis indicates that robust Long-Term Memory (LTM) security cannot be retrofitted at retrieval or execution time alone, but must be anchored in storage-time provenance, versioning, and policy-aware retention from the outset.</summary>
+    <category term="cs.CR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-04-17T06:28:22Z</published>
+    <arxiv:primary_category term="cs.CR"/>
+    <author>
+      <name>Zehao Lin</name>
+    </author>
+    <author>
+      <name>Xixuan Hao</name>
+    </author>
+    <author>
+      <name>Renyu Fu</name>
+    </author>
+    <author>
+      <name>Shaobo Cui</name>
+    </author>
+    <author>
+      <name>Kai Chen</name>
+    </author>
+    <author>
+      <name>Chunyu Li</name>
+    </author>
+    <author>
+      <name>Zhiyu Li</name>
+    </author>
+    <author>
+      <name>Feiyu Xiong</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2503.04629v1</id>
+    <title>SurveyForge: On the Outline Heuristics, Memory-Driven Generation, and Multi-dimensional Evaluation for Automated Survey Writing</title>
+    <updated>2025-03-06T17:15:48Z</updated>
+    <link href="https://arxiv.org/abs/2503.04629v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2503.04629v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Survey paper plays a crucial role in scientific research, especially given the rapid growth of research publications. Recently, researchers have begun using LLMs to automate survey generation for better efficiency. However, the quality gap between LLM-generated surveys and those written by human remains significant, particularly in terms of outline quality and citation accuracy. To close these gaps, we introduce SurveyForge, which first generates the outline by analyzing the logical structure of human-written outlines and referring to the retrieved domain-related articles. Subsequently, leveraging high-quality papers retrieved from memory by our scholar navigation agent, SurveyForge can automatically generate and refine the content of the generated article. Moreover, to achieve a comprehensive evaluation, we construct SurveyBench, which includes 100 human-written survey papers for win-rate comparison and assesses AI-generated survey papers across three dimensions: reference, outline, and content quality. Experiments demonstrate that SurveyForge can outperform previous works such as AutoSurvey.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-03-06T17:15:48Z</published>
+    <arxiv:comment>Code and dataset are available for downloading at: https://github.com/Alpha-Innovator/SurveyForge 22 pages, 10 figures</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Xiangchao Yan</name>
+    </author>
+    <author>
+      <name>Shiyang Feng</name>
+    </author>
+    <author>
+      <name>Jiakang Yuan</name>
+    </author>
+    <author>
+      <name>Renqiu Xia</name>
+    </author>
+    <author>
+      <name>Bin Wang</name>
+    </author>
+    <author>
+      <name>Bo Zhang</name>
+    </author>
+    <author>
+      <name>Lei Bai</name>
+    </author>
+  </entry>
+</feed>

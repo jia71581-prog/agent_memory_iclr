@@ -1,0 +1,6 @@
+nonTR fires 52
+  emit the "trust these numbers" arithmetic header: 52 (100% of nonTR fires)
+  emit day-scale Pairwise-elapsed block: 33 ; resolved-anchor block: 13
+  of the nonTR fires, currently CORRECT: 45/52
+  of the ones with an authoritative block, currently CORRECT: 45/52
+TR fires 127 ; authoritative block 125 ; currently WRONG (the actual headroom) 18

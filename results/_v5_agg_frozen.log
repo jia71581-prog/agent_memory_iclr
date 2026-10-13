@@ -1,0 +1,76 @@
+aggregation trigger fires on 227/500 questions (count-kind 184, amount-kind 43)
+ENUMERATION-COUNT subset: 60 questions; by type {'single-session-user': 4, 'multi-session': 38, 'knowledge-update': 15, 'single-session-assistant': 3}
+v4 judge on the enum subset: 45/60
+
+=== enumeration-count derivability ===
+arm                                  D1 union  D2 best group  gold-sess recall  items med
+v5 merge + hyponyms (default)           0.800          0.750             0.918       18.5
+v5 without hyponym table                0.767          0.683             0.911       12.5
+v5 on UNMERGED v4 store                 0.783          0.750             0.905       19.0
+v4 current view, same chains            1.000            n/a               n/a       24.0
+gold count median 4.0, mean 4.5
+
+block size: median 1766 chars, p90 3430, max 6293; full current view median 29406 chars (6.006% of it)
+
+=== concentration / structural loss (all 227 triggered questions) ===
+gold evidence sessions represented: full v4 current view 0.998 at 29406 chars  vs  v5 aggregation block 0.943 at 1766 chars
+facts extracted from gold sessions: 5932; rendered by 'current' mode: 5357 (0.903) -> supersession truncation hides 9.7% of gold-session facts
+
+=== per-question, enumeration-count subset ===
+qid              type   gold  un best    gs    D1    D2  v4j  question
+031748ae         knowle    4  16    8 2/2    True  True True  How many engineers do I lead when I just started my new role as Se
+06db6396         knowle    5   4    3 2/2   False False True  How many projects have I completed since starting painting classes
+26bdc477         knowle    5   8    4 2/2    True False True  How many trips have I taken my Canon EOS 80D camera on?
+45dc21b6         knowle    3  23   19 2/2    True  True True  How many of Emma's recipes have I tried out?
+4b24c848         knowle    5  26   19 2/2    True  True True  How many tops have I bought from H&M so far?
+603deb26         knowle   10  40   26 2/2    True  True True  How many times have I tried making a Negroni at home since my frie
+618f13b2         knowle    6   4    3 2/2   False False True  How many times have I worn my new black Converse Chuck Taylor All 
+6aeb4375         knowle    4  12    7 2/2    True  True True  How many Korean restaurants have I tried in my city?
+7401057b         knowle    2   5    2 2/2    True  True True  How many free night's stays can I redeem at any Hilton property wi
+89941a93         knowle    4  22   13 2/2    True  True True  How many bikes do I currently own?
+8fb83627         knowle    5  20   13 2/2    True  True True  How many issues of National Geographic have I finished reading?
+a1eacc2a         knowle    7  41   19 2/2    True  True True  How many short stories have I written since I started writing regu
+b6019101         knowle    5  11    8 2/2    True  True True  How many MCU films did I watch in the last 3 months?
+ba61f0b9         knowle    6  12    9 2/2    True  True True  How many women are on the team led by my former manager Rachel?
+f9e8c073         knowle    5  17   11 2/2    True  True True  How many sessions of the bereavement support group did I attend?
+00ca467f         multi-    2  22   16 3/3    True  True True  How many doctor's appointments did I go to in March?
+0a995998         multi-    3  47   33 3/3    True  True Fals  How many items of clothing do I need to pick up or return from a s
+1a8a66a6         multi-    2   7    7 3/4   False False Fals  How many magazine subscriptions do I currently have?
+21d02d0d         multi-    2   2    2 2/2    True  True True  How many fun runs did I miss in March due to work commitments?
+2788b940         multi-    5  18    9 4/4    True  True True  How many fitness classes do I attend in a typical week?
+2ce6a0f2         multi-    4  46   20 4/4    True  True Fals  How many different art-related events did I attend in the past mon
+2e6d26dc         multi-    5   9    2 2/4   False False True  How many babies were born to friends and family members in the las
+3a704032         multi-    3  36   20 3/3    True  True Fals  How many plants did I acquire in the last month?
+46a3abf7         multi-    3  24   24 3/3    True  True Fals  How many tanks do I currently have, including the one I set up for
+4adc0475         multi-    5   7    4 2/2    True False True  What is the total number of goals and assists I have in the recrea
+4f54b7c9         multi-    5  33   16 2/2    True  True Fals  How many antique items did I inherit or acquire from my family mem
+60159905         multi-    3  37   21 2/2    True  True True  How many dinner parties have I attended in the past month?
+60472f9c         multi-    2  20   12 3/3    True  True True  How many projects have I been working on simultaneously, excluding
+6456829e         multi-    8  12    7 2/2    True False True  How many plants did I initially plant for tomatoes and cucumbers?
+6456829e_abs     multi-    5   6    6 2/2    True  True True  How many plants did I initially plant for tomatoes and chili peppe
+681a1674         multi-    2  19    6 2/2    True  True True  How many Marvel movies did I re-watch?
+6d550036         multi-    2  17   14 2/4   False False Fals  How many projects have I led or am currently leading?
+80ec1f4f         multi-    2  17    7 2/3   False False Fals  How many different museums or galleries did I visit in the month o
+81507db6         multi-    3  14   10 5/5    True  True True  How many graduation ceremonies have I attended in the past three m
+88432d0a         multi-    4  43   34 4/4    True  True Fals  How many times did I bake something in the past two weeks?
+8979f9ec         multi-    8  20   11 2/2    True  True True  What is the total number of lunch meals I got from the chicken faj
+8e91e7d9         multi-    4   5    5 1/2   False False True  What is the total number of siblings I have?
+9d25d4e0         multi-    3  41   19 3/3    True  True True  How many pieces of jewelry did I acquire in the last two months?
+a9f6b44c         multi-    2  72   40 3/3    True  True True  How many bikes did I service or plan to service in March?
+bf659f65         multi-    3  19   17 3/3    True  True Fals  How many music albums or EPs have I purchased or downloaded?
+c2ac3c61         multi-    5  26   15 2/2    True  True True  How many online courses have I completed in total?
+c4a1ceb8         multi-    3  13   10 2/4   False False True  How many different types of citrus fruits have I used in my cockta
+d23cf73b         multi-    4  11    7 4/4    True  True True  How many different cuisines have I learned to cook or tried out in
+d682f1a2         multi-    3   6    4 2/3   False False Fals  How many different types of food delivery services have I used rec
+ef66a6e5         multi-    2   3    2 2/2    True  True True  How many sports have I played competitively in the past?
+gpt4_15e38248    multi-    4  38   23 4/4    True  True True  How many pieces of furniture did I buy, assemble, sell, or fix in 
+gpt4_2f8be40d    multi-    3  60   24 3/3    True  True Fals  How many weddings have I attended in this year?
+gpt4_31ff4165    multi-    4   8    6 2/5   False False True  How many health-related devices do I use in a day?
+gpt4_7fce9456    multi-    1  13    4 5/5    True  True Fals  How many properties did I view before making an offer on the townh
+gpt4_a56e767c    multi-    4  45   27 3/3    True  True True  How many movie festivals that I attended?
+gpt4_ab202e7f    multi-    5  19    8 5/5    True  True True  How many kitchen items did I replace or fix?
+gpt4_e05b82a6    multi-   10  37   21 4/4    True  True Fals  How many times did I ride rollercoasters across all the events I a
+gpt4_f2262a51    multi-    3  26   12 3/3    True  True Fals  How many different doctors did I visit?
+18dcd5a5         single    4  42   30 1/1    True  True True  I'm going back to our previous chat about the Lost Temple of the D
+4baee567         single   12  10    5 1/1   False False True  I was looking back at our previous chat and I wanted to confirm, h
+e8a79c70         single    2  27   20 1/1    True  True True  I was going through our previous conversation about making a class

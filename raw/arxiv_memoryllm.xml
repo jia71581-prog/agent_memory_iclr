@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/5CmyXYsWVnHk8gop2Z6vGeuksIU</id>
+  <title>arXiv Query: search_query=all:"MemoryLLM"&amp;id_list=&amp;start=0&amp;max_results=8</title>
+  <updated>2026-09-16T09:25:50Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=all:%22MemoryLLM%22&amp;start=0&amp;max_results=8&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>8</opensearch:itemsPerPage>
+  <opensearch:totalResults>4</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2502.00592v2</id>
+    <title>M+: Extending MemoryLLM with Scalable Long-Term Memory</title>
+    <updated>2025-05-30T14:40:56Z</updated>
+    <link href="https://arxiv.org/abs/2502.00592v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2502.00592v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Equipping large language models (LLMs) with latent-space memory has attracted increasing attention as they can extend the context window of existing language models. However, retaining information from the distant past remains a challenge. For example, MemoryLLM (Wang et al., 2024a), as a representative work with latent-space memory, compresses past information into hidden states across all layers, forming a memory pool of 1B parameters. While effective for sequence lengths up to 16k tokens, it struggles to retain knowledge beyond 20k tokens. In this work, we address this limitation by introducing M+, a memory-augmented model based on MemoryLLM that significantly enhances long-term information retention. M+ integrates a long-term memory mechanism with a co-trained retriever, dynamically retrieving relevant information during text generation. We evaluate M+ on diverse benchmarks, including long-context understanding and knowledge retention tasks. Experimental results show that M+ significantly outperforms MemoryLLM and recent strong baselines, extending knowledge retention from under 20k to over 160k tokens with similar GPU memory overhead. We open-source our code at https://github.com/wangyu-ustc/MemoryLLM</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-02-01T23:13:10Z</published>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Yu Wang</name>
+    </author>
+    <author>
+      <name>Dmitry Krotov</name>
+    </author>
+    <author>
+      <name>Yuanzhe Hu</name>
+    </author>
+    <author>
+      <name>Yifan Gao</name>
+    </author>
+    <author>
+      <name>Wangchunshu Zhou</name>
+    </author>
+    <author>
+      <name>Julian McAuley</name>
+    </author>
+    <author>
+      <name>Dan Gutfreund</name>
+    </author>
+    <author>
+      <name>Rogerio Feris</name>
+    </author>
+    <author>
+      <name>Zexue He</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2602.00398v1</id>
+    <title>MemoryLLM: Plug-n-Play Interpretable Feed-Forward Memory for Transformers</title>
+    <updated>2026-01-30T23:25:20Z</updated>
+    <link href="https://arxiv.org/abs/2602.00398v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2602.00398v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Understanding how transformer components operate in LLMs is important, as it is at the core of recent technological advances in artificial intelligence. In this work, we revisit the challenges associated with interpretability of feed-forward modules (FFNs) and propose MemoryLLM, which aims to decouple FFNs from self-attention and enables us to study the decoupled FFNs as context-free token-wise neural retrieval memory. In detail, we investigate how input tokens access memory locations within FFN parameters and the importance of FFN memory across different downstream tasks. MemoryLLM achieves context-free FFNs by training them in isolation from self-attention directly using the token embeddings. This approach allows FFNs to be pre-computed as token-wise lookups (ToLs), enabling on-demand transfer between VRAM and storage, additionally enhancing inference efficiency. We also introduce Flex-MemoryLLM, positioning it between a conventional transformer design and MemoryLLM. This architecture bridges the performance gap caused by training FFNs with context-free token-wise embeddings.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-01-30T23:25:20Z</published>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Ajay Jaiswal</name>
+    </author>
+    <author>
+      <name>Lauren Hannah</name>
+    </author>
+    <author>
+      <name>Han-Byul Kim</name>
+    </author>
+    <author>
+      <name>Duc Hoang</name>
+    </author>
+    <author>
+      <name>Arnav Kundu</name>
+    </author>
+    <author>
+      <name>Mehrdad Farajtabar</name>
+    </author>
+    <author>
+      <name>Minsik Cho</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2402.04624v2</id>
+    <title>MEMORYLLM: Towards Self-Updatable Large Language Models</title>
+    <updated>2024-05-26T23:06:32Z</updated>
+    <link href="https://arxiv.org/abs/2402.04624v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2402.04624v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Existing Large Language Models (LLMs) usually remain static after deployment, which might make it hard to inject new knowledge into the model. We aim to build models containing a considerable portion of self-updatable parameters, enabling the model to integrate new knowledge effectively and efficiently. To this end, we introduce MEMORYLLM, a model that comprises a transformer and a fixed-size memory pool within the latent space of the transformer. MEMORYLLM can self-update with text knowledge and memorize the knowledge injected earlier. Our evaluations demonstrate the ability of MEMORYLLM to effectively incorporate new knowledge, as evidenced by its performance on model editing benchmarks. Meanwhile, the model exhibits long-term information retention capacity, which is validated through our custom-designed evaluations and long-context benchmarks. MEMORYLLM also shows operational integrity without any sign of performance degradation even after nearly a million memory updates. Our code and model are open-sourced at https://github.com/wangyu-ustc/MemoryLLM.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-02-07T07:14:11Z</published>
+    <arxiv:comment>13 pages, 9 figures</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Yu Wang</name>
+    </author>
+    <author>
+      <name>Yifan Gao</name>
+    </author>
+    <author>
+      <name>Xiusi Chen</name>
+    </author>
+    <author>
+      <name>Haoming Jiang</name>
+    </author>
+    <author>
+      <name>Shiyang Li</name>
+    </author>
+    <author>
+      <name>Jingfeng Yang</name>
+    </author>
+    <author>
+      <name>Qingyu Yin</name>
+    </author>
+    <author>
+      <name>Zheng Li</name>
+    </author>
+    <author>
+      <name>Xian Li</name>
+    </author>
+    <author>
+      <name>Bing Yin</name>
+    </author>
+    <author>
+      <name>Jingbo Shang</name>
+    </author>
+    <author>
+      <name>Julian McAuley</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2607.05969v3</id>
+    <title>MemDefrag: Latent Memory Defragmentation for Large Language Models</title>
+    <updated>2026-08-29T05:56:21Z</updated>
+    <link href="https://arxiv.org/abs/2607.05969v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2607.05969v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Latent memory, which stores past knowledge fragments as per-layer hidden states, has emerged as a promising paradigm (e.g., MemoryLLM and M+) for long-term memory in large language models (LLMs). However, the paradigm suffers from significant performance degradation during memory updates, due to positional encoding misalignment and the absence of any tracing mechanism to distinguish target memory fragments from irrelevant ones. To discover such a tracing mechanism, we probe the layer-wise attention density over stored memory fragments, and find that a small set of middle transformer layers consistently concentrates the highest density on the target fragment - exposing an inherent tracing signal. In light of this, we propose MemDefrag, a training-free and model-agnostic framework that (1) uses a middle-layer tracing signal to conduct memory defragmentation (rank, reorder, and filter memories), and (2) applies an informativeness-guided proportional forgetting mechanism once capacity is exceeded. Experiments show that MemDefrag substantially outperforms MemoryLLM and M+ on knowledge retention (e.g., 43.0% vs. 17.4%/17.6% after 50 memory updates) and long-context benchmarks, and generalizes well across various LLMs and latent-memory variants. The code is available at github.com/ryehr/MemDefrag.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-07-07T08:04:34Z</published>
+    <arxiv:comment>EMNLP 2026</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Ruiyi Yan</name>
+    </author>
+    <author>
+      <name>Zhuoyuan Mao</name>
+    </author>
+    <author>
+      <name>Yiwen Guo</name>
+    </author>
+  </entry>
+</feed>

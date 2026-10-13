@@ -1,0 +1,70 @@
+aggregation-detected questions: 222 / 500
+by type: {'single-session-user': 14, 'multi-session': 104, 'temporal-reasoning': 55, 'knowledge-update': 43, 'single-session-assistant': 6}
+judge on these (excluding None): 184/222
+with numeric gold: 208
+v5 (merge + hyponyms)              count-derivable 139/208 = 0.668
+v5 no hyponym table                count-derivable 128/208 = 0.615
+v5 aggregation on UNMERGED store   count-derivable 135/208 = 0.649
+v4 current view (same chains)      items>=gold      156/208 = 0.750   (no gold-session check: current view drops earlier items)
+
+items exposed: v5 median 20.5, v4 current-view median 36.0, gold count median 7.0
+gold-session recall: v5 475/494 = 0.962; nomerge 0.953; nohyp 0.939
+aggregation block chars: median 1873.0, p90 2574, max 3561
+
+=== per-question (numeric gold) ===
+qid                type     gold  v5it  v4cur   gsess  deriv  judge  question
+01493427           knowle     25    26     69 2/2       True   True  How many new postcards have I added to my collection since I started c
+031748ae           knowle      4    26     43 2/2       True   True  How many engineers do I lead when I just started my new role as Senior
+06db6396           knowle      5    18     32 2/2       True   True  How many projects have I completed since starting painting classes?
+0ddfec37           knowle     15    12     29 2/2      False   True  How many autographed baseballs have I added to my collection in the fi
+0f05491a           knowle    120    13     22 2/2      False   True  How many stars do I need to reach the gold level on my Starbucks Rewar
+10e09553           knowle      7    25     60 2/2       True   True  How many largemouth bass did I catch with Alex on the earlier fishing 
+184da446           knowle    220    19     25 2/2      False   True  How many pages of 'A Short History of Nearly Everything' have I read s
+1cea1afa           knowle    600    10     10 2/2      False   True  How many Instagram followers do I currently have?
+26bdc477           knowle      5    30     64 2/2       True   True  How many trips have I taken my Canon EOS 80D camera on?
+45dc21b6           knowle      3    25     26 2/2       True   True  How many of Emma's recipes have I tried out?
+4b24c848           knowle      5    21     42 2/2       True   True  How many tops have I bought from H&M so far?
+4d6b87c8           knowle     25    15     13 2/2      False   True  How many titles are currently on my to-watch list?
+5831f84d           knowle     15    14     46 2/2      False   True  How many Crash Course videos have I watched in the past few weeks?
+603deb26           knowle     10    32     74 2/2       True   True  How many times have I tried making a Negroni at home since my friend E
+618f13b2           knowle      6    25     52 2/2       True   True  How many times have I worn my new black Converse Chuck Taylor All Star
+69fee5aa           knowle     38    14     28 2/2      False  False  How many pre-1920 American coins do I have in my collection?
+6a27ffc2           knowle     30     5      7 2/2      False   True  How many videos of Corey Schafer's Python programming series have I co
+6aeb4375           knowle      4    15     14 2/2       True   True  How many Korean restaurants have I tried in my city?
+71315a70           knowle     10    19     34 2/2       True   True  How many hours have I spent on my abstract ocean sculpture?
+72e3ee87           knowle     50    22     46 2/2      False   True  How many episodes of the Science series have I completed on Crash Cour
+7401057b           knowle      2    17     22 2/2       True   True  How many free night's stays can I redeem at any Hilton property with m
+7e974930           knowle    420    19     37 2/2      False   True  How much did I earn at the Downtown Farmers Market on my most recent v
+89941a93           knowle      4    22     44 2/2       True   True  How many bikes do I currently own?
+8fb83627           knowle      5    26     33 2/2       True   True  How many issues of National Geographic have I finished reading?
+945e3d21           knowle      3    17     20 2/2       True   True  How often do I attend yoga classes to help with my anxiety?
+a1eacc2a           knowle      7    22     82 2/2       True   True  How many short stories have I written since I started writing regularl
+a2f3aa27           knowle   1300     4      6 2/2      False   True  How many followers do I have on Instagram now?
+affe2881           knowle     32    19     31 2/2      False   True  How many different species of birds have I seen in my local park?
+b6019101           knowle      5    11     12 2/2       True   True  How many MCU films did I watch in the last 3 months?
+ba61f0b9           knowle      6    17     24 2/2       True   True  How many women are on the team led by my former manager Rachel?
+c6853660           knowle      1    12     22 2/2       True   True  Did I mostly recently increase or decrease the limit on the number of 
+cc5ded98           knowle      2     7     36 2/2       True   True  How much time do I dedicate to coding exercises each day?
+cf22b7bf           knowle     10    13     13 2/2       True   True  How much weight have I lost since I started going to the gym consisten
+ed4ddc30           knowle     20    13     13 2/2      False   True  How many dozen eggs do we currently have stocked up in our refrigerato
+f9e8c073           knowle      5    25     35 2/2       True   True  How many sessions of the bereavement support group did I attend?
+00ca467f           multi-      2    19     19 3/3       True   True  How many doctor's appointments did I go to in March?
+0100672e           multi-     12    16     29 2/2       True   True  How much did I spend on each coffee mug for my coworkers?
+078150f1           multi-     50    26     66 2/2      False   True  How much more money did I raise than my initial goal in the charity cy
+09ba9854           multi-     50    14     16 2/2      False   True  How much will I save by taking the train from the airport to my hotel 
+0a995998           multi-      3    32    114 3/3       True  False  How many items of clothing do I need to pick up or return from a store
+0ea62687           multi-      2    33     64 2/2       True   True  How much more miles per gallon was my car getting a few months ago com
+10d9b85a           multi-      3    30     65 2/2       True   True  How many days did I spend attending workshops, lectures, and conferenc
+129d1232           multi-   5850    19     17 3/3      False   True  How much money did I raise in total through all the charity events I p
+157a136e           multi-     43     3      3 1/2      False   True  How many years older is my grandma than me?
+1a8a66a6           multi-      2     5      5 2/4      False  False  How many magazine subscriptions do I currently have?
+21d02d0d           multi-      2    12     24 2/2       True   True  How many fun runs did I miss in March due to work commitments?
+2311e44b           multi-    190    20     46 2/2      False   True  How many pages do I have left to read in 'The Nightingale'?
+2318644b           multi-    270    15     32 2/2      False   True  How much more did I spend on accommodations per night in Hawaii compar
+2788b940           multi-      5    16     29 4/4       True   True  How many fitness classes do I attend in a typical week?
+28dc39ac           multi-    140    29     88 5/5      False   True  How many hours have I spent playing games in total?
+2b8f3739           multi-    495    17     18 3/3      False   True  What is the total amount of money I earned from selling my products at
+2ce6a0f2           multi-      4    34     75 4/4       True  False  How many different art-related events did I attend in the past month?
+2e6d26dc           multi-      5    21     41 4/4       True   True  How many babies were born to friends and family members in the last fe
+36b9f61e           multi-   2500    11     14 3/3      False   True  What is the total amount I spent on luxury items in the past few month
+37f165cf           multi-    856    18     30 2/2      False  False  What was the page count of the two novels I finished in January and Ma

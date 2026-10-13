@@ -1,0 +1,42 @@
+=== index size, n=470 answerable ===
+sentences median 125 mean 124.8 p10 105 p90 145
+chars     median 13245 mean 13535 p10 10849 p90 15833
+
+=== turn-level capture of gold evidence turns (same metric that yields 0.659/0.783) ===
+variant              ALL  chars knowledge-u multi-sessi single-sess single-sess single-sess temporal-re
+whole_index        0.783  13535       0.785       0.839       0.036       0.659       0.712       0.917
+bm25_top10         0.450   1386       0.618       0.396       0.036       0.273       0.485       0.538
+bm25_top15         0.488   2024       0.632       0.455       0.036       0.295       0.515       0.573
+bm25_top20         0.514   2610       0.639       0.502       0.036       0.318       0.530       0.593
+bm25_top30         0.555   3788       0.646       0.576       0.036       0.318       0.576       0.628
+bm25_top45         0.607   5502       0.688       0.625       0.036       0.409       0.591       0.704
+bm25_top60         0.649   7149       0.708       0.672       0.036       0.477       0.636       0.755
+bm25_matched_n3    0.462   1289       0.618       0.409       0.036       0.295       0.500       0.553
+scoped_n1          0.331    454       0.375       0.251       0.036       0.250       0.667       0.399
+scoped_n2          0.562    944       0.743       0.483       0.036       0.341       0.712       0.676
+scoped_n3          0.628   1363       0.764       0.591       0.036       0.409       0.712       0.743
+
+=== SSP only: capture vs mean block chars ===
+  whole_index       capture 0.659 (29/44)  mean chars 13827
+  bm25_top10        capture 0.273 (12/44)  mean chars 1175
+  bm25_top15        capture 0.295 (13/44)  mean chars 1731
+  bm25_top20        capture 0.318 (14/44)  mean chars 2302
+  bm25_top30        capture 0.318 (14/44)  mean chars 3392
+  bm25_top45        capture 0.409 (18/44)  mean chars 5141
+  bm25_top60        capture 0.477 (21/44)  mean chars 6723
+  bm25_matched_n3   capture 0.295 (13/44)  mean chars 1355
+  scoped_n1         capture 0.250 (11/44)  mean chars 450
+  scoped_n2         capture 0.341 (15/44)  mean chars 908
+  scoped_n3         capture 0.409 (18/44)  mean chars 1411
+  budget-matched global BM25 took mean 10.8 sentences
+
+=== gold session inside top-n session BM25 (scoped block precondition) ===
+  n=1: ALL 386/470 = 0.821   knowledge-u 70/72  multi-sessi 98/121  single-sess 46/56  single-sess 12/30  single-sess 60/64  temporal-re 100/127
+  n=2: ALL 418/470 = 0.889   knowledge-u 72/72  multi-sessi 107/121  single-sess 49/56  single-sess 16/30  single-sess 64/64  temporal-re 110/127
+  n=3: ALL 437/470 = 0.930   knowledge-u 72/72  multi-sessi 114/121  single-sess 50/56  single-sess 19/30  single-sess 64/64  temporal-re 118/127
+
+=== duplication of scoped quotes inside the raw-turn channel ===
+  all answerable with a block: questions 425 quotes 2297 already-in-raw 2297 (1.0000) mean quote chars 572 mean raw chars 18054 quote/raw 0.0327
+  advice-shaped: questions 31 quotes 427 already-in-raw 427 (1.0000) mean quote chars 1398 mean raw chars 19412 quote/raw 0.0755
+  non-advice (block off in shipped config): questions 394 quotes 1870 already-in-raw 1870 (1.0000) mean quote chars 507 mean raw chars 17948 quote/raw 0.0293
+  advice-shaped quote counts: [2, 3, 7, 9, 9, 9, 10, 11, 12, 12, 12, 12, 13, 13, 13, 13, 14, 14, 14, 15, 15, 16, 16, 17, 18, 18, 18, 19, 22, 24, 27]

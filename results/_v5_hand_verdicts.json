@@ -1,0 +1,114 @@
+[
+ {
+  "qid": "0a995998",
+  "gold": "3",
+  "v4_judge": false,
+  "hand_verdict": "YES",
+  "evidence": "[pick] group = 3 starred items: 'plans to pick up = dry cleaning for navy blue blazer' / 'has not yet picked up = exchanged boots' / 'needs to pick up = new pair of boots from Zara'; 4th line ('pick up guitar') unstarred, 5th flagged as a restatement"
+ },
+ {
+  "qid": "46a3abf7",
+  "gold": "3",
+  "v4_judge": false,
+  "hand_verdict": "YES",
+  "evidence": "[tank] group lists 1-gallon tank (friend's kid), 20-gallon community tank 'Amazonia', old 5-gallon tank from cousin; quarantine tank is explicitly 'is considering'"
+ },
+ {
+  "qid": "6cb6f249",
+  "gold": "17 days",
+  "v4_judge": false,
+  "hand_verdict": "YES",
+  "evidence": "[break] group has both durations starred: 'took a 10-day break from social media = in mid-February' and 'took a week-long break from social media = mid-January' (10+7=17); v4 saw only the week-long one"
+ },
+ {
+  "qid": "88432d0a",
+  "gold": "4",
+  "v4_judge": false,
+  "hand_verdict": "YES",
+  "evidence": "[bake] group = chocolate cake, sourdough bread, batch of cookies, chicken wings; two duplicate lines carry the restatement flag"
+ },
+ {
+  "qid": "4f54b7c9",
+  "gold": "5",
+  "v4_judge": false,
+  "hand_verdict": "YES",
+  "evidence": "[inherit] music box / diamond necklace / depression-era glassware + [antique] tea set from cousin Rachel and vintage typewriter"
+ },
+ {
+  "qid": "80ec1f4f",
+  "gold": "2",
+  "v4_judge": false,
+  "hand_verdict": "YES",
+  "evidence": "[visit] group has 'recently visited = Natural History Museum with niece' and 'recently visited = The Art Cube'; the other lines are plans/considerations"
+ },
+ {
+  "qid": "6d550036",
+  "gold": "2",
+  "v4_judge": false,
+  "hand_verdict": "YES",
+  "evidence": "[led] group = exactly 2 starred items (Marketing Research class project, high-priority project)"
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "gold": "four properties",
+  "v4_judge": false,
+  "hand_verdict": "YES",
+  "evidence": "bungalow in Oakwood, Cedar Creek property, 1-bedroom condo, 2-bedroom condo (offer rejected) all appear as separate lines across [neighborhood]/[view]/[property]/[offer]"
+ },
+ {
+  "qid": "1a8a66a6",
+  "gold": "2",
+  "v4_judge": false,
+  "hand_verdict": "YES",
+  "evidence": "[subscription] group has 'subscribed to = The New Yorker magazine', 'subscribed to = Architectural Digest' and 'canceled subscription = Forbes magazine' (needed the SYN-stemming + prefix-match fix)"
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "gold": "three doctors",
+  "v4_judge": false,
+  "hand_verdict": "YES",
+  "evidence": "[appointment] dermatologist Dr. Lee; [doctor] 'diagnosed by = ENT specialist Dr. Patel' and 'plans to = follow up with primary care physician' (+ prescribing physician Dr. Smith)"
+ },
+ {
+  "qid": "3a704032",
+  "gold": "3",
+  "v4_judge": false,
+  "hand_verdict": "PARTIAL",
+  "evidence": "all candidate plants are listed (peace lily, succulent, snake plant, fern, orchid, spider plant, African violets, basil) but only the succulent carries an acquisition date, so 'in the last month' cannot be pinned to 3"
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "gold": "three weddings",
+  "v4_judge": false,
+  "hand_verdict": "PARTIAL",
+  "evidence": "all three attended weddings present (college roommate/Emily, friend Jen, Rachel as bridesmaid) but the sister's wedding is listed too, so the same over-count trap that made v4 answer 4 remains"
+ },
+ {
+  "qid": "2ce6a0f2",
+  "gold": "4",
+  "v4_judge": false,
+  "hand_verdict": "PARTIAL",
+  "evidence": "3 of the 4 art events exposed ('Art Afternoon' volunteering, 'Evolution of Street Art' lecture, 'Women in Art' exhibition); the History Museum guided tour survives only as 'sparked interest in = ancient history and art'"
+ },
+ {
+  "qid": "bf659f65",
+  "gold": "3",
+  "v4_judge": false,
+  "hand_verdict": "PARTIAL",
+  "evidence": "2 of 3 exposed ('downloaded album = Happier Than Ever', 'bought EP = Midnight Sky'); the third purchase is not in any selected group"
+ },
+ {
+  "qid": "d682f1a2",
+  "gold": "3",
+  "v4_judge": false,
+  "hand_verdict": "PARTIAL",
+  "evidence": "Fresh Fusion and Domino's exposed; 'weekend food habit = uber eats' is in the store but its group fell below the rel_keep=0.35 score threshold"
+ },
+ {
+  "qid": "9d25d4e0",
+  "gold": "3",
+  "v4_judge": true,
+  "hand_verdict": "PARTIAL",
+  "evidence": "emerald earrings and silver necklace with pendant exposed (2 of 3); v4 already answered this one correctly from the raw turns"
+ }
+]

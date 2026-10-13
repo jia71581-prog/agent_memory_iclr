@@ -1,0 +1,94 @@
+=== (c) effect of the stemmer/SYN fixes on CHAIN MERGING, all 500 questions ===
+merge edges: fixed stemmer 14091, buggy stemmer 10438 (net +3653); edges added by the fixes 3892, removed 239
+chains after merge (median over 500): fixed 297.0, buggy 300.0, v4 unmerged 316.5
+added edges by rule: {'R1_same_signature': 3887, 'R2_modifier_subset': 5}
+removed edges by rule: {'R4_token_neardup': 239}
+
+--- random sample of 60 merge edges CREATED by the four fixes (attribute pairs, for hand audit) ---
+  [R1_same_signature] has been using                               <=> uses
+  [R1_same_signature] purchased                                    <=> gets
+  [R1_same_signature] plans to have                                <=> is planning
+  [R1_same_signature] loved painting                               <=> interested in painting
+  [R1_same_signature] preference                                   <=> is loving
+  [R1_same_signature] currently uses                               <=> has been using
+  [R1_same_signature] considering buying                           <=> considering getting
+  [R1_same_signature] is planning                                  <=> plan
+  [R1_same_signature] plans to start                               <=> is planning to start
+  [R1_same_signature] is planning                                  <=> plans
+  [R1_same_signature] thinking of getting                          <=> thinking of buying
+  [R1_same_signature] uses                                         <=> used
+  [R1_same_signature] bought                                       <=> recently acquired
+  [R1_same_signature] recently bought                              <=> acquired
+  [R1_same_signature] plans to use                                 <=> planning to use
+  [R1_same_signature] plans to try                                 <=> is planning to try
+  [R1_same_signature] has been taking                              <=> takes
+  [R1_same_signature] recently purchased                           <=> recently acquired
+  [R1_same_signature] preference                                   <=> interest
+  [R1_same_signature] considering buying                           <=> considering getting
+  [R1_same_signature] plans                                        <=> is planning
+  [R1_same_signature] is planning                                  <=> plans to
+  [R1_same_signature] liked                                        <=> loved
+  [R1_same_signature] considering getting                          <=> considered buying
+  [R1_same_signature] is planning to create                        <=> plans to create
+  [R1_same_signature] prefers                                      <=> preference
+  [R1_same_signature] likes                                        <=> liked
+  [R1_same_signature] plans to plant                               <=> is planning to plant
+  [R1_same_signature] is thinking of buying                        <=> is thinking about getting
+  [R1_same_signature] plan                                         <=> planning
+  [R1_same_signature] is planning                                  <=> plans to
+  [R1_same_signature] recently acquired                            <=> recently bought
+  [R1_same_signature] makes                                        <=> has been making
+  [R1_same_signature] is planning                                  <=> plans to
+  [R1_same_signature] loved                                        <=> preference
+  [R1_same_signature] recently purchased                           <=> recently bought
+  [R1_same_signature] is planning                                  <=> plans to do
+  [R1_same_signature] uses                                         <=> has been using
+  [R1_same_signature] is considering buying                        <=> is considering getting
+  [R1_same_signature] loved                                        <=> interest
+  [R1_same_signature] prefers                                      <=> has been loving
+  [R1_same_signature] acquired                                     <=> purchased
+  [R1_same_signature] plans to                                     <=> is planning
+  [R1_same_signature] considering buying                           <=> considering getting
+  [R1_same_signature] enjoyed                                      <=> loved
+  [R1_same_signature] plans to do                                  <=> is planning
+  [R1_same_signature] is planning                                  <=> plans to
+  [R1_same_signature] prefers                                      <=> especially liked
+  [R1_same_signature] likes                                        <=> preference
+  [R1_same_signature] likes                                        <=> loved
+  [R1_same_signature] interest                                     <=> loved
+  [R1_same_signature] loved                                        <=> has been enjoying
+  [R1_same_signature] is planning                                  <=> plans to
+  [R1_same_signature] loved                                        <=> preference
+  [R1_same_signature] is loving                                    <=> enjoys
+  [R1_same_signature] plans to do                                  <=> is planning
+  [R1_same_signature] plans to visit                               <=> is planning to visit
+  [R1_same_signature] recently acquired                            <=> purchased
+  [R1_same_signature] is planning                                  <=> plans to
+  [R1_same_signature] is planning                                  <=> plans to have
+
+--- random sample of 25 merge edges DESTROYED by the four fixes ---
+  [R4_token_neardup] plans to attend                              <=> is planning to attend
+  [R4_token_neardup] plans to try                                 <=> is planning to try
+  [R4_token_neardup] planning to start                            <=> plans to start
+  [R4_token_neardup] is planning to visit                         <=> plans to visit
+  [R4_token_neardup] plans to visit                               <=> is planning to visit
+  [R4_token_neardup] is planning to visit                         <=> plans to visit
+  [R4_token_neardup] is planning to create                        <=> plans to create
+  [R4_token_neardup] is planning to make                          <=> plans to make
+  [R4_token_neardup] plans to try                                 <=> is planning to try
+  [R4_token_neardup] plans to host                                <=> is planning to host
+  [R4_token_neardup] plans to buy                                 <=> planning to get
+  [R4_token_neardup] is taking classes at                         <=> takes classes at
+  [R4_token_neardup] is planning to plant                         <=> plans to plant
+  [R4_token_neardup] plans to add                                 <=> is planning to add
+  [R4_token_neardup] plans to get                                 <=> is planning to buy
+  [R4_token_neardup] plans to try                                 <=> is planning to try
+  [R4_token_neardup] plans to use                                 <=> planning to use
+  [R4_token_neardup] plans to visit                               <=> is planning to visit
+  [R4_token_neardup] plans to attend                              <=> is planning to attend
+  [R4_token_neardup] is planning to use                           <=> plans to use
+  [R4_token_neardup] plans to attend                              <=> planning to attend
+  [R4_token_neardup] plans to visit                               <=> is planning to visit
+  [R4_token_neardup] is planning to visit                         <=> plans to visit
+  [R4_token_neardup] planning a trip to                           <=> plans to travel to
+  [R4_token_neardup] plans to take                                <=> planning to take

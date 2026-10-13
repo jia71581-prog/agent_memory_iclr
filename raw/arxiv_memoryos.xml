@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/o0Nu78bfqgSSkjIu+gq1kg/n+Nc</id>
+  <title>arXiv Query: search_query=ti:"Memory OS"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-09-16T09:27:56Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Memory+OS%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>2</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2506.06326v1</id>
+    <title>Memory OS of AI Agent</title>
+    <updated>2025-05-30T15:36:51Z</updated>
+    <link href="https://arxiv.org/abs/2506.06326v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2506.06326v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large Language Models (LLMs) face a crucial challenge from fixed context windows and inadequate memory management, leading to a severe shortage of long-term memory capabilities and limited personalization in the interactive experience with AI agents. To overcome this challenge, we innovatively propose a Memory Operating System, i.e., MemoryOS, to achieve comprehensive and efficient memory management for AI agents. Inspired by the memory management principles in operating systems, MemoryOS designs a hierarchical storage architecture and consists of four key modules: Memory Storage, Updating, Retrieval, and Generation. Specifically, the architecture comprises three levels of storage units: short-term memory, mid-term memory, and long-term personal memory. Key operations within MemoryOS include dynamic updates between storage units: short-term to mid-term updates follow a dialogue-chain-based FIFO principle, while mid-term to long-term updates use a segmented page organization strategy. Our pioneering MemoryOS enables hierarchical memory integration and dynamic updating. Extensive experiments on the LoCoMo benchmark show an average improvement of 49.11% on F1 and 46.18% on BLEU-1 over the baselines on GPT-4o-mini, showing contextual coherence and personalized memory retention in long conversations. The implementation code is open-sourced at https://github.com/BAI-LAB/MemoryOS.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-05-30T15:36:51Z</published>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Jiazheng Kang</name>
+    </author>
+    <author>
+      <name>Mingming Ji</name>
+    </author>
+    <author>
+      <name>Zhe Zhao</name>
+    </author>
+    <author>
+      <name>Ting Bai</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2507.03724v4</id>
+    <title>MemOS: A Memory OS for AI System</title>
+    <updated>2025-12-03T03:19:27Z</updated>
+    <link href="https://arxiv.org/abs/2507.03724v4" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2507.03724v4" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large Language Models (LLMs) have become an essential infrastructure for Artificial General Intelligence (AGI), yet their lack of well-defined memory management systems hinders the development of long-context reasoning, continual personalization, and knowledge consistency.Existing models mainly rely on static parameters and short-lived contextual states, limiting their ability to track user preferences or update knowledge over extended periods.While Retrieval-Augmented Generation (RAG) introduces external knowledge in plain text, it remains a stateless workaround without lifecycle control or integration with persistent representations.Recent work has modeled the training and inference cost of LLMs from a memory hierarchy perspective, showing that introducing an explicit memory layer between parameter memory and external retrieval can substantially reduce these costs by externalizing specific knowledge. Beyond computational efficiency, LLMs face broader challenges arising from how information is distributed over time and context, requiring systems capable of managing heterogeneous knowledge spanning different temporal scales and sources. To address this challenge, we propose MemOS, a memory operating system that treats memory as a manageable system resource. It unifies the representation, scheduling, and evolution of plaintext, activation-based, and parameter-level memories, enabling cost-efficient storage and retrieval. As the basic unit, a MemCube encapsulates both memory content and metadata such as provenance and versioning. MemCubes can be composed, migrated, and fused over time, enabling flexible transitions between memory types and bridging retrieval with parameter-based learning. MemOS establishes a memory-centric system framework that brings controllability, plasticity, and evolvability to LLMs, laying the foundation for continual learning and personalized modeling.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-07-04T17:21:46Z</published>
+    <arxiv:comment>36 pages, 10 figures, 5 tables</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Zhiyu Li</name>
+    </author>
+    <author>
+      <name>Chenyang Xi</name>
+    </author>
+    <author>
+      <name>Chunyu Li</name>
+    </author>
+    <author>
+      <name>Ding Chen</name>
+    </author>
+    <author>
+      <name>Boyu Chen</name>
+    </author>
+    <author>
+      <name>Shichao Song</name>
+    </author>
+    <author>
+      <name>Simin Niu</name>
+    </author>
+    <author>
+      <name>Hanyu Wang</name>
+    </author>
+    <author>
+      <name>Jiawei Yang</name>
+    </author>
+    <author>
+      <name>Chen Tang</name>
+    </author>
+    <author>
+      <name>Qingchen Yu</name>
+    </author>
+    <author>
+      <name>Jihao Zhao</name>
+    </author>
+    <author>
+      <name>Yezhaohui Wang</name>
+    </author>
+    <author>
+      <name>Peng Liu</name>
+    </author>
+    <author>
+      <name>Zehao Lin</name>
+    </author>
+    <author>
+      <name>Pengyuan Wang</name>
+    </author>
+    <author>
+      <name>Jiahao Huo</name>
+    </author>
+    <author>
+      <name>Tianyi Chen</name>
+    </author>
+    <author>
+      <name>Kai Chen</name>
+    </author>
+    <author>
+      <name>Kehang Li</name>
+    </author>
+    <author>
+      <name>Zhen Tao</name>
+    </author>
+    <author>
+      <name>Huayi Lai</name>
+    </author>
+    <author>
+      <name>Hao Wu</name>
+    </author>
+    <author>
+      <name>Bo Tang</name>
+    </author>
+    <author>
+      <name>Zhengren Wang</name>
+    </author>
+    <author>
+      <name>Zhaoxin Fan</name>
+    </author>
+    <author>
+      <name>Ningyu Zhang</name>
+    </author>
+    <author>
+      <name>Linfeng Zhang</name>
+    </author>
+    <author>
+      <name>Junchi Yan</name>
+    </author>
+    <author>
+      <name>Mingchuan Yang</name>
+    </author>
+    <author>
+      <name>Tong Xu</name>
+    </author>
+    <author>
+      <name>Wei Xu</name>
+    </author>
+    <author>
+      <name>Huajun Chen</name>
+    </author>
+    <author>
+      <name>Haofen Wang</name>
+    </author>
+    <author>
+      <name>Hongkang Yang</name>
+    </author>
+    <author>
+      <name>Wentao Zhang</name>
+    </author>
+    <author>
+      <name>Zhi-Qin John Xu</name>
+    </author>
+    <author>
+      <name>Siheng Chen</name>
+    </author>
+    <author>
+      <name>Feiyu Xiong</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,183 @@
+config                    chains med    p90  reduction    edges  view_cur med
+v5 default(R1+R2+R4')          300.0    344     0.050    11319         29688
+R1+R2 only                     300.0    344     0.050    11305         29688
++R3 jaccard 0.6                295.5    338     0.062    13450         29440
++R3 jaccard 0.5                291.5    333     0.075    16006         29146
+v4 (no merge)                  316.5    358     0.000        0         30397
+
+head-merge CEILING (merge all same (entity,head)): chains median 229.0 (v4 316.5, reduction 0.276); largest head bucket median 11
+share of v4 chains whose (entity,head) is UNIQUE in that question: median 0.573  -> upper bound on any head-based merging
+
+=== sample final3: pool 5645 clusters, drew 30 ===
+[1] 3c1045c8 rules=R1 sizes=[1, 1, 3]
+      user::is planning
+      user::planning
+      user::plans to
+[2] 853b0a1d rules=R1 sizes=[1, 1]
+      user::is watching
+      user::watched
+[3] 54026fce rules=R1 sizes=[2, 1, 1, 6, 1]
+      user::enjoys
+      user::has been enjoying
+      user::interest
+      user::likes
+      user::loves
+[4] faba32e5 rules=R1 sizes=[1, 1]
+      user::has been running
+      user::runs
+[5] caf9ead2 rules=R1 sizes=[1, 5]
+      user::considering
+      user::is considering
+[6] edced276 rules=R1 sizes=[1, 1]
+      user::impressed by
+      user::is impressed by
+[7] gpt4_7ddcf75f rules=R1 sizes=[1, 1]
+      user::has started
+      user::recently started
+[8] gpt4_4fc4f797 rules=R1 sizes=[12, 1]
+      user::interested in
+      user::is interested in
+[9] afdc33df rules=R1 sizes=[1, 1]
+      user::considering getting
+      user::is considering getting
+[10] 9a707b81 rules=R1 sizes=[1, 7]
+      user::shopped at
+      user::shops at
+[11] af082822 rules=R1 sizes=[4, 5, 2]
+      user::interest in
+      user::interested in
+      user::is interested in
+[12] 311778f1 rules=R1 sizes=[1, 1]
+      user::is also training for
+      user::is training for
+[13] gpt4_d6585ce8 rules=R1 sizes=[7, 4]
+      user::attended
+      user::recently attended
+[14] 09ba9854 rules=R1 sizes=[1, 1]
+      assistant::claimed to be
+      assistant::claimed to have
+[15] 8e9d538c rules=R1 sizes=[4, 6, 2]
+      user::interest in
+      user::interested in
+      user::is interested in
+[16] gpt4_468eb064 rules=R1 sizes=[1, 2]
+      user::is planning to visit
+      user::plans to visit
+[17] eace081b rules=R1 sizes=[1, 4]
+      user::considering
+      user::is considering
+[18] d24813b1 rules=R1 sizes=[1, 4]
+      user::is planning
+      user::plans to
+[19] c8c3f81d rules=R1 sizes=[1, 4, 1]
+      user::currently watching
+      user::has been watching
+      user::watched
+[20] e61a7584 rules=R1 sizes=[1, 2, 2, 1]
+      user::has been planning
+      user::is planning
+      user::plans to
+      user::plans to have
+[21] e8a79c70 rules=R1 sizes=[8, 1]
+      user::wants
+      user::wants to
+[22] 6aeb4375 rules=R1 sizes=[1, 1]
+      user::eyeing
+      user::has been eyeing
+[23] 38146c39 rules=R1 sizes=[1, 1]
+      user::interested in trying
+      user::is interested in trying
+[24] 2bf43736 rules=R1 sizes=[2, 1, 1]
+      user::enjoyed
+      user::enjoys
+      user::likes
+[25] 0bb5a684 rules=R1 sizes=[1, 7]
+      user::has been wanting to try
+      user::wants to try
+[26] 09ba9854 rules=R1 sizes=[3, 3, 3, 1]
+      user::interest
+      user::likes
+      user::loves
+      user::prefers
+[27] gpt4_d9af6064 rules=R1 sizes=[1, 1]
+      user::acquired
+      user::recently acquired
+[28] 618f13b2 rules=R1 sizes=[1, 2]
+      user::concerned about
+      user::is concerned about
+[29] 69fee5aa rules=R2 sizes=[1, 1]
+      user::bedtime
+      user::usual bedtime
+[30] 71315a70 rules=R1 sizes=[1, 1]
+      user::is learning about
+      user::learned about
+
+=== R3-attributable clusters: pool 1706, drew 20 ===
+[1] 945e3d21 sizes=[1, 1, 1]
+      user::dining chair fabric preference
+      user::dining chair seat preference
+      user::dining chair style preference
+[2] gpt4_a56e767c sizes=[1, 1, 1, 1, 1]
+      user::story chapter 1 emma role
+      user::story chapter 1 madison role
+      user::story chapter 1 mia role
+      user::story chapter 1 olivia role
+      user::story chapter 1 rachel role
+[3] 72e3ee87 sizes=[1, 1]
+      user::wakeup time
+      user::weekday wakeup time
+[4] 1903aded sizes=[1, 1]
+      user::cleaned adidas superstars
+      user::cleaning time for adidas superstars
+[5] 720133ac sizes=[1, 1, 1]
+      user::photography interest
+      user::photography subjects of interest
+      user::primary photography interests
+[6] 1c0ddc50 sizes=[1, 1]
+      user::purchased black ankle boots
+      user::wore black ankle boots
+[7] gpt4_d9af6064 sizes=[1, 1, 1, 1]
+      user::has set up
+      user::needs to set up
+      user::plans to set up
+      user::wants to set up
+[8] 09d032c9 sizes=[1, 1]
+      user::recent grocery trip timing
+      user::trip timing
+[9] 58bf7951 sizes=[1, 1]
+      user::is planning a trip to
+      user::plans to document trip
+[10] 80ec1f4f sizes=[1, 1]
+      user::listed 2002 toyota corolla price
+      user::sold 2002 toyota corolla price
+[11] gpt4_59149c77 sizes=[1, 1]
+      user::acquired snake plant
+      user::snake plant
+[12] cc6d1ec1 sizes=[1, 1]
+      user::project manager name
+      user::project name
+[13] 67e0d0f2 sizes=[2, 1]
+      user::travel group type
+      user::trip type
+[14] f523d9fe sizes=[1, 1]
+      user::is considering using
+      user::will consider using
+[15] gpt4_2c50253f sizes=[3, 1]
+      user::interprets nearlife experience as
+      user::views nearlife experience as
+[16] f0853d11 sizes=[1, 1]
+      user::current shower time
+      user::previous shower time
+[17] 8a2466db sizes=[1, 2, 1]
+      user::current job dates
+      user::job dates
+      user::previous job dates
+[18] 5a4f22c0 sizes=[1, 1]
+      user::asked followers for
+      user::plans to ask followers for
+[19] 0edc2aef sizes=[1, 2]
+      user::plans to buy
+      user::plans to consider getting
+[20] 4388e9dd sizes=[1, 1]
+      user::break activity
+      user::coffee break activity

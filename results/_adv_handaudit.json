@@ -1,0 +1,137 @@
+[
+ {
+  "qid": "0a995998",
+  "verdict": "YES",
+  "n_quotes": 4,
+  "n_missing": 0,
+  "missing": [],
+  "block_chars": 3909
+ },
+ {
+  "qid": "46a3abf7",
+  "verdict": "YES",
+  "n_quotes": 2,
+  "n_missing": 2,
+  "missing": [
+   "s kid), 20-gallon community tank ",
+   ", old 5-gallon tank from cousin; quarantine tank is explicitly "
+  ],
+  "block_chars": 2024
+ },
+ {
+  "qid": "6cb6f249",
+  "verdict": "YES",
+  "n_quotes": 2,
+  "n_missing": 0,
+  "missing": [],
+  "block_chars": 2707
+ },
+ {
+  "qid": "88432d0a",
+  "verdict": "YES",
+  "n_quotes": 0,
+  "n_missing": 0,
+  "missing": [],
+  "block_chars": 3772
+ },
+ {
+  "qid": "4f54b7c9",
+  "verdict": "YES",
+  "n_quotes": 0,
+  "n_missing": 0,
+  "missing": [],
+  "block_chars": 2969
+ },
+ {
+  "qid": "80ec1f4f",
+  "verdict": "YES",
+  "n_quotes": 2,
+  "n_missing": 0,
+  "missing": [],
+  "block_chars": 1935
+ },
+ {
+  "qid": "6d550036",
+  "verdict": "YES",
+  "n_quotes": 0,
+  "n_missing": 0,
+  "missing": [],
+  "block_chars": 1930
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "verdict": "YES",
+  "n_quotes": 0,
+  "n_missing": 0,
+  "missing": [],
+  "block_chars": 1946
+ },
+ {
+  "qid": "1a8a66a6",
+  "verdict": "YES",
+  "n_quotes": 3,
+  "n_missing": 0,
+  "missing": [],
+  "block_chars": 917
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "verdict": "YES",
+  "n_quotes": 2,
+  "n_missing": 0,
+  "missing": [],
+  "block_chars": 2549
+ },
+ {
+  "qid": "3a704032",
+  "verdict": "PARTIAL",
+  "n_quotes": 1,
+  "n_missing": 1,
+  "missing": [
+   "in the last month"
+  ],
+  "block_chars": 2822
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "verdict": "PARTIAL",
+  "n_quotes": 0,
+  "n_missing": 0,
+  "missing": [],
+  "block_chars": 5313
+ },
+ {
+  "qid": "2ce6a0f2",
+  "verdict": "PARTIAL",
+  "n_quotes": 4,
+  "n_missing": 0,
+  "missing": [],
+  "block_chars": 4338
+ },
+ {
+  "qid": "bf659f65",
+  "verdict": "PARTIAL",
+  "n_quotes": 2,
+  "n_missing": 0,
+  "missing": [],
+  "block_chars": 1774
+ },
+ {
+  "qid": "d682f1a2",
+  "verdict": "PARTIAL",
+  "n_quotes": 1,
+  "n_missing": 1,
+  "missing": [
+   "s exposed; "
+  ],
+  "block_chars": 1029
+ },
+ {
+  "qid": "9d25d4e0",
+  "verdict": "PARTIAL",
+  "n_quotes": 0,
+  "n_missing": 0,
+  "missing": [],
+  "block_chars": 3336
+ }
+]

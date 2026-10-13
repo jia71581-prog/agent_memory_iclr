@@ -1,0 +1,47 @@
+{
+ "plain IDF (1,1,1)": {
+  "deltaTL": 0.7166666666666667,
+  "ord_computable": 0.627906976744186,
+  "ord_correct": 0.6296296296296297,
+  "ord_correct_of_all": 0.3953488372093023,
+  "anchor_hit": 0.9047619047619048,
+  "datesPres": 0.9368421052631579,
+  "chars": 2110
+ },
+ "cue only (1.3,1,1)": {
+  "deltaTL": 0.7166666666666667,
+  "ord_computable": 0.6046511627906976,
+  "ord_correct": 0.6153846153846154,
+  "ord_correct_of_all": 0.37209302325581395,
+  "anchor_hit": 0.9047619047619048,
+  "datesPres": 0.9353383458646617,
+  "chars": 2087
+ },
+ "cue+anchor (1.3,1.5,1)": {
+  "deltaTL": 0.7166666666666667,
+  "ord_computable": 0.6046511627906976,
+  "ord_correct": 0.6153846153846154,
+  "ord_correct_of_all": 0.37209302325581395,
+  "anchor_hit": 0.9047619047619048,
+  "datesPres": 0.9340852130325814,
+  "chars": 2041
+ },
+ "cue+anchor+intent (1.3,1.5,0.4)": {
+  "deltaTL": 0.7166666666666667,
+  "ord_computable": 0.6046511627906976,
+  "ord_correct": 0.6153846153846154,
+  "ord_correct_of_all": 0.37209302325581395,
+  "anchor_hit": 0.9047619047619048,
+  "datesPres": 0.9368421052631579,
+  "chars": 2041
+ },
+ "anchor heavy (1.3,2.0,0.4)": {
+  "deltaTL": 0.7166666666666667,
+  "ord_computable": 0.5813953488372093,
+  "ord_correct": 0.68,
+  "ord_correct_of_all": 0.3953488372093023,
+  "anchor_hit": 0.9047619047619048,
+  "datesPres": 0.9330827067669173,
+  "chars": 1878
+ }
+}

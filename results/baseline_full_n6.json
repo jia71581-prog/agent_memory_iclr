@@ -1,0 +1,98 @@
+{
+ "system": "full",
+ "results": [
+  {
+   "qid": "6a1eabeb",
+   "type": "knowledge-update",
+   "mem_units": 413,
+   "f1": 0.0,
+   "judge": true,
+   "pred": "According to your later message, your personal best time was **25:50** (though an earlier message mentioned 27:12)."
+  },
+  {
+   "qid": "0a995998",
+   "type": "multi-session",
+   "mem_units": 484,
+   "f1": 0.0,
+   "judge": false,
+   "pred": "You need to pick up **one item of clothing/footwear from a store**: the new pair of boots from Zara (the exchange from Feb 5).  \nYou also mentioned picking up a navy blue blazer from dry cleaning, but"
+  },
+  {
+   "qid": "7161e7e2",
+   "type": "single-session-assistant",
+   "mem_units": 550,
+   "f1": 0.714,
+   "judge": true,
+   "pred": "Admon was assigned to the **8 am – 4 pm (Day Shift)** on Sunday."
+  },
+  {
+   "qid": "8a2466db",
+   "type": "single-session-preference",
+   "mem_units": 508,
+   "f1": 0.112,
+   "judge": true,
+   "pred": "Based on our previous conversation, here are some resources I recommended for learning video editing, particularly Adobe Premiere Pro:\n\n- **Adobe’s official documentation and tutorials**\n- **YouTube c"
+  },
+  {
+   "qid": "e47becba",
+   "type": "single-session-user",
+   "mem_units": 550,
+   "f1": 0.5,
+   "judge": true,
+   "pred": "Business Administration."
+  },
+  {
+   "qid": "gpt4_59149c77",
+   "type": "temporal-reasoning",
+   "mem_units": 484,
+   "f1": 0.15,
+   "judge": true,
+   "pred": "7 days passed between your visit to the Museum of Modern Art (January 8, 2023) and the “Ancient Civilizations” exhibit at the Metropolitan Museum of Art (January 15, 2023)."
+  }
+ ],
+ "by_type": {
+  "knowledge-update": {
+   "n": 1,
+   "judge_acc": 1.0,
+   "f1": 0.0
+  },
+  "multi-session": {
+   "n": 1,
+   "judge_acc": 0.0,
+   "f1": 0.0
+  },
+  "single-session-assistant": {
+   "n": 1,
+   "judge_acc": 1.0,
+   "f1": 0.714
+  },
+  "single-session-preference": {
+   "n": 1,
+   "judge_acc": 1.0,
+   "f1": 0.112
+  },
+  "single-session-user": {
+   "n": 1,
+   "judge_acc": 1.0,
+   "f1": 0.5
+  },
+  "temporal-reasoning": {
+   "n": 1,
+   "judge_acc": 1.0,
+   "f1": 0.15
+  }
+ },
+ "total_judge_acc": 0.8333333333333334,
+ "cost": {
+  "answer/full/deepseek-v4-pro": {
+   "calls": 6,
+   "prompt": 47223,
+   "completion": 3495
+  },
+  "judge/deepseek-v4-pro": {
+   "calls": 6,
+   "prompt": 1565,
+   "completion": 1402
+  }
+ }
+}

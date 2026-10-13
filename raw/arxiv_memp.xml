@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/InN0qAnsfF68KnTyj8s5Cj1BTco</id>
+  <title>arXiv Query: search_query=ti:"Memp"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-09-16T09:28:08Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Memp%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2508.06433v4</id>
+    <title>Memp: Exploring Agent Procedural Memory</title>
+    <updated>2026-04-15T17:21:59Z</updated>
+    <link href="https://arxiv.org/abs/2508.06433v4" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2508.06433v4" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large Language Models (LLMs) based agents excel at diverse tasks, yet they suffer from brittle procedural memory that is manually engineered or entangled in static parameters. In this work, we investigate strategies to endow agents with a learnable, updatable, and lifelong procedural memory. We propose Memp that distills past agent trajectories into both fine-grained, step-by-step instructions and higher-level, script-like abstractions, and explore the impact of different strategies for Build, Retrieval, and Update of procedural memory. Coupled with a dynamic regimen that continuously updates, corrects, and deprecates its contents, this repository evolves in lockstep with new experience. Empirical evaluation on TravelPlanner and ALFWorld shows that as the memory repository is refined, agents achieve steadily higher success rates and greater efficiency on analogous tasks. Moreover, procedural memory built from a stronger model retains its value: migrating the procedural memory to a weaker model can also yield substantial performance gains. Code is available at https://github.com/zjunlp/MemP.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.MA" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-08-08T16:20:56Z</published>
+    <arxiv:comment>ACL 2026 Findings</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Runnan Fang</name>
+    </author>
+    <author>
+      <name>Yuan Liang</name>
+    </author>
+    <author>
+      <name>Xiaobin Wang</name>
+    </author>
+    <author>
+      <name>Jialong Wu</name>
+    </author>
+    <author>
+      <name>Shuofei Qiao</name>
+    </author>
+    <author>
+      <name>Pengjun Xie</name>
+    </author>
+    <author>
+      <name>Fei Huang</name>
+    </author>
+    <author>
+      <name>Huajun Chen</name>
+    </author>
+    <author>
+      <name>Ningyu Zhang</name>
+    </author>
+  </entry>
+</feed>

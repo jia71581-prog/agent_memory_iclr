@@ -1,0 +1,114 @@
+[
+ {
+  "qid": "0a995998",
+  "n_items": 47,
+  "n_new": 14,
+  "frac_new": 0.298,
+  "gold": "3"
+ },
+ {
+  "qid": "6d550036",
+  "n_items": 17,
+  "n_new": 7,
+  "frac_new": 0.412,
+  "gold": "2"
+ },
+ {
+  "qid": "3a704032",
+  "n_items": 36,
+  "n_new": 4,
+  "frac_new": 0.111,
+  "gold": "3"
+ },
+ {
+  "qid": "gpt4_f2262a51",
+  "n_items": 26,
+  "n_new": 7,
+  "frac_new": 0.269,
+  "gold": "I visited three different doctors: a primary care physician,"
+ },
+ {
+  "qid": "6cb6f249",
+  "n_items": 25,
+  "n_new": 8,
+  "frac_new": 0.32,
+  "gold": "17 days"
+ },
+ {
+  "qid": "46a3abf7",
+  "n_items": 24,
+  "n_new": 4,
+  "frac_new": 0.167,
+  "gold": "3"
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "n_items": 60,
+  "n_new": 22,
+  "frac_new": 0.367,
+  "gold": "I attended three weddings. The couples were Rachel and Mike,"
+ },
+ {
+  "qid": "88432d0a",
+  "n_items": 43,
+  "n_new": 16,
+  "frac_new": 0.372,
+  "gold": "4"
+ },
+ {
+  "qid": "80ec1f4f",
+  "n_items": 17,
+  "n_new": 6,
+  "frac_new": 0.353,
+  "gold": "2"
+ },
+ {
+  "qid": "gpt4_7fce9456",
+  "n_items": 13,
+  "n_new": 3,
+  "frac_new": 0.231,
+  "gold": "I viewed four properties before making an offer on the townh"
+ },
+ {
+  "qid": "d682f1a2",
+  "n_items": 6,
+  "n_new": 2,
+  "frac_new": 0.333,
+  "gold": "3"
+ },
+ {
+  "qid": "2ce6a0f2",
+  "n_items": 46,
+  "n_new": 12,
+  "frac_new": 0.261,
+  "gold": "4"
+ },
+ {
+  "qid": "9d25d4e0",
+  "n_items": 41,
+  "n_new": 10,
+  "frac_new": 0.244,
+  "gold": "3"
+ },
+ {
+  "qid": "1a8a66a6",
+  "n_items": 7,
+  "n_new": 0,
+  "frac_new": 0.0,
+  "gold": "2"
+ },
+ {
+  "qid": "bf659f65",
+  "n_items": 19,
+  "n_new": 7,
+  "frac_new": 0.368,
+  "gold": "3"
+ },
+ {
+  "qid": "4f54b7c9",
+  "n_items": 33,
+  "n_new": 7,
+  "frac_new": 0.212,
+  "gold": "5"
+ }
+]

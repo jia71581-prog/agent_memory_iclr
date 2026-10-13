@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/i2fTN1mVYTFvpm486vgTbUNbeWY</id>
+  <title>arXiv Query: search_query=ti:"Memory-R1"&amp;id_list=&amp;start=0&amp;max_results=3</title>
+  <updated>2026-09-16T09:28:16Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Memory-R1%22&amp;start=0&amp;max_results=3&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>3</opensearch:itemsPerPage>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2508.19828v5</id>
+    <title>Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning</title>
+    <updated>2026-01-14T14:21:21Z</updated>
+    <link href="https://arxiv.org/abs/2508.19828v5" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2508.19828v5" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large Language Models (LLMs) have demonstrated impressive capabilities across a wide range of NLP tasks, but they remain fundamentally stateless, constrained by limited context windows that hinder long-horizon reasoning. Recent efforts to address this limitation often augment LLMs with an external memory bank, yet most existing pipelines are static and heuristic-driven, lacking a learned mechanism for deciding what to store, update, or retrieve. We present Memory-R1, a reinforcement learning (RL) framework that equips LLMs with the ability to actively manage and utilize external memory through two specialized agents: a Memory Manager that learns structured operations, including ADD, UPDATE, DELETE, and NOOP; and an Answer Agent that pre-selects and reasons over relevant entries. Both agents are fine-tuned with outcome-driven RL (PPO and GRPO), enabling adaptive memory management with minimal supervision. With only 152 training QA pairs, Memory-R1 outperforms strong baselines and generalizes across diverse question types, three benchmarks (LoCoMo, MSC, LongMemEval), and multiple model scales (3B-14B).</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.MA" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-08-27T12:26:55Z</published>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Sikuan Yan</name>
+    </author>
+    <author>
+      <name>Xiufeng Yang</name>
+    </author>
+    <author>
+      <name>Zuchao Huang</name>
+    </author>
+    <author>
+      <name>Ercong Nie</name>
+    </author>
+    <author>
+      <name>Zifeng Ding</name>
+    </author>
+    <author>
+      <name>Zonggen Li</name>
+    </author>
+    <author>
+      <name>Xiaowen Ma</name>
+    </author>
+    <author>
+      <name>Jinhe Bi</name>
+    </author>
+    <author>
+      <name>Kristian Kersting</name>
+    </author>
+    <author>
+      <name>Jeff Z. Pan</name>
+    </author>
+    <author>
+      <name>Hinrich Schütze</name>
+    </author>
+    <author>
+      <name>Volker Tresp</name>
+    </author>
+    <author>
+      <name>Yunpu Ma</name>
+    </author>
+  </entry>
+</feed>

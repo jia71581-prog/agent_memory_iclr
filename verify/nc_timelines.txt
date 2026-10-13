@@ -1,0 +1,514 @@
+====================================================================================================
+gpt4_7f6b06db  qdate 2023/06/01 (Thu) 03:56
+Q: What is the order of the three trips I took in the past three months, from earliest to latest?
+GOLD: I went on a day hike to Muir Woods National Monument with my family, then I went on a road trip with friends to Big Sur and Monterey, and finally I started my solo camping trip to Yosemite National Park.
+unmatched: ['went on a day hike to Muir Woods National Monument with my family', 'went on a road trip with friends to Big Sur and Monterey']
+### Temporal scaffold (question asked on 2023/06/01 (Thu); question family detected: ordering)
+-- Resolved dates and pre-computed arithmetic (computed by rule from the dates below; trust these numbers) --
+Chronological order of the candidate events (earliest -> latest):
+  1. 2022/05/15 (Sun) I'm trying to plan a trip to Kyoto or Osaka during the Golden Week holiday in May, but I'm not 
+  2. 2022/10/15 (Sat) By the way, I've been getting more comfortable with my daily commute to Roppongi for my English
+  3. 2023/02/14 (Tue) Can you set a reminder for me to order more of Luna's favorite wet food, the grain-free stuff i
+  4. 2023/02/15 (Wed) I've been collecting stamps for three months now, and I've already got over 200 unique stamps f
+  5. 2023/02/19 (Sun) I'm planning a trip to Sequoia National Park and was wondering if you could recommend some good
+  6. 2023/02/20 (Mon) By the way, I've had some experience with long drives and hiking in national parks, like when I
+  7. 2023/02/22 (Wed) However, I'm not sure how to design it or what website to use to order it.
+  8. 2023/02/25 (Sat) By the way, I just caught up with Rachel after months of not speaking, and it was great to hear
+  9. 2023/03/04 (Sat) I'm trying to get back into my normal routine after a few months of health issues.
+  10. 2023/03/09 (Thu) I've been trying to establish a consistent bedtime routine, and over the past month, I've manag
+  11. 2023/04/14 (Fri) By the way, I've been trying to cook at home most nights and order takeout or eat out on Friday
+  12. 2023/04/20 (Thu) I've been taking fitness classes for recreation at my local gym for the past three months now, 
+  13. 2023/05/08 (Mon) Just last week, I received a package with 50 new stamps, including a rare 1962 Jamaican stamp t
+  14. 2023/05/15 (Mon) user | stamp collecting duration = three months
+Consecutive-day pairs among the relevant events (adjacent calendar days): 02/14 & 02/15
+-- Event timeline, sorted by the date the event happened (offsets are relative to the question date) --
+[2022/05/15 (Sun) | 382 days / 54.6 weeks / 12 full months before the question] [date inferred from "~may" said on 2023/02/15] I'm trying to plan a trip to Kyoto or Osaka during the Golden Week holiday in May, but I'm not sure what to expect.
+[2022/10/15 (Sat) | 229 days / 32.7 weeks / 7 full months before the question] (+153d) [date inferred from "about 4 months ago" said on 2023/02/15] By the way, I've been getting more comfortable with my daily commute to Roppongi for my English teaching job, which I started about 4 months ago.
+[2023/02/14 (Tue) | 107 days / 15.3 weeks / 3 full months before the question] (+122d) <<CONSECUTIVE-DAY PAIR>> Can you set a reminder for me to order more of Luna's favorite wet food, the grain-free stuff in the blue packets?
+[2023/02/15 (Wed) | 106 days / 15.1 weeks / 3 full months before the question] (+1d) <<CONSECUTIVE-DAY PAIR>> [date inferred from "~for three months now" said on 2023/05/15] I've been collecting stamps for three months now, and I've already got over 200 unique stamps from different countries.
+[2023/02/15 (Wed) | 106 days / 15.1 weeks / 3 full months before the question] (+0d) user | started English teaching job = about 4 months ago
+[2023/02/15 (Wed) | 106 days / 15.1 weeks / 3 full months before the question] (+0d) user | is planning a trip to = Kyoto or Osaka during Golden Week in May
+[2023/02/19 (Sun) | 102 days / 14.6 weeks / 3 full months before the question] (+4d) [date inferred from "~for a day" said on 2023/02/20] I'm planning a trip to Sequoia National Park and was wondering if you could recommend some good hiking trails for a day hike.
+[2023/02/20 (Mon) | 101 days / 14.4 weeks / 3 full months before the question] (+1d) By the way, I've had some experience with long drives and hiking in national parks, like when I spent two nights at the Yosemite Valley Lodge during my road trip to Yosemite National Park.
+[2023/02/20 (Mon) | 101 days / 14.4 weeks / 3 full months before the question] (+0d) I've experienced similar crowded situations during my road trip to Yosemite National Park, and I'd like to plan ahead.
+[2023/02/20 (Mon) | 101 days / 14.4 weeks / 3 full months before the question] (+0d) user | experienced crowded situations during = road trip to Yosemite National Park
+[2023/02/20 (Mon) | 101 days / 14.4 weeks / 3 full months before the question] (+0d) user | is planning a trip to = Sequoia National Park
+[2023/02/22 (Wed) | 99 days / 14.1 weeks / 3 full months before the question] (+2d) However, I'm not sure how to design it or what website to use to order it.
+[2023/02/25 (Sat) | 96 days / 13.7 weeks / 3 full months before the question] (+3d) By the way, I just caught up with Rachel after months of not speaking, and it was great to hear about her new job as a marketing manager at a startup.
+[2023/02/25 (Sat) | 96 days / 13.7 weeks / 3 full months before the question] (+0d) user | had not spoken to Rachel for = months
+[2023/03/04 (Sat) | 89 days / 12.7 weeks / 2 full months before the question] (+7d) I'm trying to get back into my normal routine after a few months of health issues.
+[2023/03/04 (Sat) | 89 days / 12.7 weeks / 2 full months before the question] (+0d) It's been a tough few months, but I'm hoping things will get back to normal soon.
+[2023/03/04 (Sat) | 89 days / 12.7 weeks / 2 full months before the question] (+0d) user | has been recovering from = health issues lasting a few months
+[2023/03/09 (Thu) | 84 days / 12.0 weeks / 2 full months before the question] (+5d) I've been trying to establish a consistent bedtime routine, and over the past month, I've managed to get myself to bed by 11:30 PM at the latest, except for Friday nights.
+[2023/04/14 (Fri) | 48 days / 6.9 weeks / 1 full months before the question] (+36d) By the way, I've been trying to cook at home most nights and order takeout or eat out on Fridays.
+[2023/04/14 (Fri) | 48 days / 6.9 weeks / 1 full months before the question] (+0d) I'll definitely keep those tips in mind when ordering takeout or eating out on Fridays.
+[2023/04/14 (Fri) | 48 days / 6.9 weeks / 1 full months before the question] (+0d) user | takeout/eating out habit = orders takeout or eats out on Fridays
+[2023/04/20 (Thu) | 42 days / 6.0 weeks / 1 full months before the question] (+6d) I've been taking fitness classes for recreation at my local gym for the past three months now, and I've noticed significant improvements in my flexibility and overall physical ability.
+[2023/04/20 (Thu) | 42 days / 6.0 weeks / 1 full months before the question] (+0d) I think a fitness tracker would be a great investment for me, especially since I've been taking fitness classes for recreation at my local gym for the past three months and have noticed...
+[2023/04/20 (Thu) | 42 days / 6.0 weeks / 1 full months before the question] (+0d) user | duration of fitness classes = past three months
+[2023/05/08 (Mon) | 24 days / 3.4 weeks before the question] (+18d) [date inferred from "~last week" said on 2023/05/15] Just last week, I received a package with 50 new stamps, including a rare 1962 Jamaican stamp that I've been searching for months.
+[2023/05/15 (Mon) | 17 days / 2.4 weeks before the question] (+7d) user | stamp collecting duration = three months
+====================================================================================================
+gpt4_7abb270c  qdate 2023/03/10 (Fri) 08:15
+Q: What is the order of the six museums I visited from earliest to latest?
+GOLD: Science Museum, Museum of Contemporary Art, Metropolitan Museum of Art, Museum of History, Modern Art Museum, Natural History Museum
+unmatched: ['Science Museum', 'Museum of History', 'Natural History Museum']
+### Temporal scaffold (question asked on 2023/03/10 (Fri); question family detected: ordering)
+-- Resolved dates and pre-computed arithmetic (computed by rule from the dates below; trust these numbers) --
+Chronological order of the candidate events (earliest -> latest):
+  1. 2022/04/17 (Sun) Since I'll be visiting my family for Easter, I was also thinking about what gifts to bring for 
+  2. 2023/01/06 (Fri) I recently ordered some prints from Society6, but I'm not sure how to arrange them on the wall.
+  3. 2023/01/12 (Thu) By the way, I'll be flying out to visit my family on April 10th, so I'm getting in the travel m
+  4. 2023/01/15 (Sun) I'm planning a day out with my colleague and was thinking of visiting a science-related exhibit
+  5. 2023/01/22 (Sun) I'm planning to attend another art-related event soon and I was wondering if you could recommen
+  6. 2023/02/09 (Thu) By the way, I just remembered that I need to order some more essential oils for my diffuser.
+  7. 2023/02/10 (Fri) user | visited = the Metropolitan Museum of Art's "Ancient Egyptian Artifacts" exhibition
+  8. 2023/02/17 (Fri) I'm definitely going to have to try out one of those coffee shops when I visit Seattle.
+  9. 2023/02/18 (Sat) I'm planning a trip to Napa Valley and was wondering if you could recommend some good wineries 
+  10. 2023/02/20 (Mon) I'm planning to visit the Modern Art Museum again soon and I was wondering if you could recomme
+  11. 2023/03/04 (Sat) user | recently visited = Metropolitan Museum of Art
+Consecutive-day pairs among the relevant events (adjacent calendar days): 02/09 & 02/10
+-- Event timeline, sorted by the date the event happened (offsets are relative to the question date) --
+[2022/04/17 (Sun) | 327 days / 46.7 weeks / 10 full months before the question] [date inferred from "easter" said on 2023/01/12] Since I'll be visiting my family for Easter, I was also thinking about what gifts to bring for them.
+[2022/04/17 (Sun) | 327 days / 46.7 weeks / 10 full months before the question] (+0d) [date inferred from "easter" said on 2023/01/12] Do you have any tips on how to pack lightly and efficiently, especially since I'll be visiting my family for Easter and won't need to bring a lot of clothing?
+[2023/01/06 (Fri) | 63 days / 9.0 weeks / 2 full months before the question] (+264d) I recently ordered some prints from Society6, but I'm not sure how to arrange them on the wall.
+[2023/01/06 (Fri) | 63 days / 9.0 weeks / 2 full months before the question] (+0d) user | ordered prints from = Society6
+[2023/01/12 (Thu) | 57 days / 8.1 weeks / 1 full months before the question] (+6d) By the way, I'll be flying out to visit my family on April 10th, so I'm getting in the travel mood early.
+[2023/01/12 (Thu) | 57 days / 8.1 weeks / 1 full months before the question] (+0d) Since I'll be flying out to visit my family on April 10th, I've been thinking about how I can make the most of my trip.
+[2023/01/12 (Thu) | 57 days / 8.1 weeks / 1 full months before the question] (+0d) user | will fly out to visit family on = April 10th
+[2023/01/12 (Thu) | 57 days / 8.1 weeks / 1 full months before the question] (+0d) user | will visit family for = Easter
+[2023/01/15 (Sun) | 54 days / 7.7 weeks / 1 full months before the question] (+3d) I'm planning a day out with my colleague and was thinking of visiting a science-related exhibition.
+[2023/01/15 (Sun) | 54 days / 7.7 weeks / 1 full months before the question] (+0d) I visited the Science Museum's "Space Exploration" exhibition today with my colleague, David, and we spent a good two hours exploring the interactive exhibits and marveling at the actual...
+[2023/01/15 (Sun) | 54 days / 7.7 weeks / 1 full months before the question] (+0d) user | visited = Science Museum's "Space Exploration" exhibition
+[2023/01/15 (Sun) | 54 days / 7.7 weeks / 1 full months before the question] (+0d) user | visited Science Museum's "Space Exploration" exhibition = today
+[2023/01/22 (Sun) | 47 days / 6.7 weeks / 1 full months before the question] (+7d) I'm planning to attend another art-related event soon and I was wondering if you could recommend some good art blogs or websites to stay updated on the latest trends and exhibitions.
+[2023/02/09 (Thu) | 29 days / 4.1 weeks / 1 full months before the question] (+18d) <<CONSECUTIVE-DAY PAIR>> By the way, I just remembered that I need to order some more essential oils for my diffuser.
+[2023/02/09 (Thu) | 29 days / 4.1 weeks / 1 full months before the question] (+0d) user | needs to order = more essential oils for diffuser
+[2023/02/10 (Fri) | 28 days / 4.0 weeks / 1 full months before the question] (+1d) <<CONSECUTIVE-DAY PAIR>> user | visited = the Metropolitan Museum of Art's "Ancient Egyptian Artifacts" exhibition
+[2023/02/10 (Fri) | 28 days / 4.0 weeks / 1 full months before the question] (+0d) user | visited = the "Ancient Egyptian Artifacts" exhibition today
+[2023/02/17 (Fri) | 21 days / 3.0 weeks before the question] (+7d) I'm definitely going to have to try out one of those coffee shops when I visit Seattle.
+[2023/02/17 (Fri) | 21 days / 3.0 weeks before the question] (+0d) user | wants to visit = Seattle
+[2023/02/18 (Sat) | 20 days / 2.9 weeks before the question] (+1d) I'm planning a trip to Napa Valley and was wondering if you could recommend some good wineries to visit?
+[2023/02/18 (Sat) | 20 days / 2.9 weeks before the question] (+0d) user | plans to visit Yosemite in = late August
+[2023/02/20 (Mon) | 18 days / 2.6 weeks before the question] (+2d) I'm planning to visit the Modern Art Museum again soon and I was wondering if you could recommend any upcoming exhibitions or events that I shouldn't miss.
+[2023/02/20 (Mon) | 18 days / 2.6 weeks before the question] (+0d) user | plans to visit = the Modern Art Museum again soon
+[2023/02/20 (Mon) | 18 days / 2.6 weeks before the question] (+0d) I'm planning to visit the Modern Art Gallery again soon.
+[2023/02/20 (Mon) | 18 days / 2.6 weeks before the question] (+0d) user | plans to visit = the Modern Art Gallery again soon
+[2023/03/04 (Sat) | 6 days / 0.9 weeks before the question] (+12d) user | recently visited = Metropolitan Museum of Art
+====================================================================================================
+gpt4_45189cb4  qdate 2023/01/30 (Mon) 01:53
+Q: What is the order of the sports events I watched in January?
+GOLD: First, I attended a NBA game at the Staples Center, then I watched the College Football National Championship game, and finally, I watched the NFL playoffs.
+unmatched: ['attended a NBA game at the Staples Center']
+### Temporal scaffold (question asked on 2023/01/30 (Mon); question family detected: ordering)
+-- Resolved dates and pre-computed arithmetic (computed by rule from the dates below; trust these numbers) --
+Dates named or implied by the question, resolved:
+  "january" -> 2023/01/15 (Sun)  [15 days / 2.1 weeks before the question; confidence med]
+Chronological order of the candidate events (earliest -> latest):
+  1. 2022/04/15 (Fri) You mentioned the E-commerce Summit, which reminds me that I attended a similar event in New Yo
+  2. 2022/05/15 (Sun) I participated in the 3-day "Turbocharged" autocross event there on the first weekend of May, a
+  3. 2022/12/22 (Thu) Speaking of making the most of events, I was thinking about the Tech Expo last month.
+  4. 2023/01/05 (Thu) I'm thinking of planning a team-building event for my office and I was considering organizing a
+  5. 2023/01/14 (Sat) By the way, I'm still riding high from the College Football National Championship game I watche
+  6. 2023/01/15 (Sun) I'm looking for some recommendations on new TV shows to watch.
+  7. 2023/01/21 (Sat) By the way, I'm still on a high from watching the Kansas City Chiefs defeat the Buffalo Bills i
+  8. 2023/01/22 (Sun) I'm looking for some tips on improving my overall fitness and endurance for my sports activitie
+-- Event timeline, sorted by the date the event happened (offsets are relative to the question date) --
+[2022/04/15 (Fri) | 290 days / 41.4 weeks / 9 full months before the question] [date inferred from "~april" said on 2023/01/22] You mentioned the E-commerce Summit, which reminds me that I attended a similar event in New York back in April.
+[2022/05/15 (Sun) | 260 days / 37.1 weeks / 8 full months before the question] (+30d) [date inferred from "~may" said on 2023/01/22] I participated in the 3-day "Turbocharged" autocross event there on the first weekend of May, and I was part of the "Novice" group.
+[2022/12/22 (Thu) | 39 days / 5.6 weeks / 1 full months before the question] (+221d) [date inferred from "~last month" said on 2023/01/22] Speaking of making the most of events, I was thinking about the Tech Expo last month.
+[2023/01/05 (Thu) | 25 days / 3.6 weeks / 0 full months before the question] (+14d) I'm thinking of planning a team-building event for my office and I was considering organizing a sports-themed outing.
+[2023/01/05 (Thu) | 25 days / 3.6 weeks / 0 full months before the question] (+0d) I like the idea of a sports-themed scavenger hunt, and the example clues and challenges you provided are great.
+[2023/01/05 (Thu) | 25 days / 3.6 weeks / 0 full months before the question] (+0d) user | is considering = a sports-themed outing
+[2023/01/05 (Thu) | 25 days / 3.6 weeks / 0 full months before the question] (+0d) user | plans to include = a challenge to find a sports-themed store or restaurant in the LA Live complex
+[2023/01/14 (Sat) | 16 days / 2.3 weeks before the question] (+9d) [date inferred from "yesterday" said on 2023/01/15] By the way, I'm still riding high from the College Football National Championship game I watched with my family at home yesterday, where Georgia took down Alabama 33-18.
+[2023/01/15 (Sun) | 15 days / 2.1 weeks before the question] (+1d) I'm looking for some recommendations on new TV shows to watch.
+[2023/01/15 (Sun) | 15 days / 2.1 weeks before the question] (+0d) I just finished binge-watching a series and I'm looking for something new.
+[2023/01/15 (Sun) | 15 days / 2.1 weeks before the question] (+0d) user | considering watching = The Witcher
+[2023/01/15 (Sun) | 15 days / 2.1 weeks before the question] (+0d) user | considering watching = The Mandalorian
+[2023/01/21 (Sat) | 9 days / 1.3 weeks before the question] (+6d) [date inferred from "last weekend" said on 2023/01/22] By the way, I'm still on a high from watching the Kansas City Chiefs defeat the Buffalo Bills in the Divisional Round of the NFL playoffs last weekend at my friend Mike's place.
+[2023/01/22 (Sun) | 8 days / 1.1 weeks before the question] (+1d) I'm looking for some tips on improving my overall fitness and endurance for my sports activities.
+[2023/01/22 (Sun) | 8 days / 1.1 weeks before the question] (+0d) user | fitness goal = improve overall fitness and endurance for sports activities
+[2023/01/22 (Sun) | 8 days / 1.1 weeks before the question] (+0d) Although it is important in the interests of the administration of justice that cross-examination be contained within reasonable limits, a judge should allow counsel some leeway in...
+[2023/01/22 (Sun) | 8 days / 1.1 weeks before the question] (+0d) user | has a certified copy of = court order for name change
+====================================================================================================
+gpt4_e061b84f  qdate 2023/07/01 (Sat) 20:43
+Q: What is the order of the three sports events I participated in during the past month, from earliest to latest?
+GOLD: I first completed the Spring Sprint Triathlon, then took part in the Midsummer 5K Run, and finally participated in the company's annual charity soccer tournament.
+unmatched: ['first completed the Spring Sprint Triathlon', 'took part in the Midsummer 5K Run']
+### Temporal scaffold (question asked on 2023/07/01 (Sat); question family detected: ordering)
+-- Resolved dates and pre-computed arithmetic (computed by rule from the dates below; trust these numbers) --
+Chronological order of the candidate events (earliest -> latest):
+  1. 2022/10/15 (Sat) Speaking of which, I ordered from UberEats three times in the first week of October, trying out
+  2. 2023/02/05 (Sun) I signed up for Walgreens Balance Rewards around early February, so I've had it for a few month
+  3. 2023/02/12 (Sun) By the way, I've been really into educational content lately, trying to make the most of my fre
+  4. 2023/04/16 (Sun) By the way, I just got my new phone case about a month ago, and it's been doing a great job pro
+  5. 2023/05/04 (Thu) I'm planning a big family dinner to celebrate my cousin's son's college graduation next month a
+  6. 2023/05/10 (Wed) user | Tribunal orders = made 16 March 2020, set aside
+  7. 2023/05/12 (Fri) user | duration of educational content interest = three months
+  8. 2023/05/16 (Tue) user | phone case ownership duration = about a month
+  9. 2023/05/17 (Wed) Can you suggest some family-friendly events that are suitable for kids to attend in Fremantle?
+  10. 2023/05/21 (Sun) By the way, I've been taking the bus to work for the past three weeks, so I'm trying to make th
+  11. 2023/06/02 (Fri) user | participates in = volleyball league
+  12. 2023/06/10 (Sat) I ordered a nice leather wallet from Coach last week, and it's supposed to arrive just in time 
+  13. 2023/06/16 (Fri) How can I incorporate strength training to improve my core strength, as I'm currently doing pla
+  14. 2023/06/17 (Sat) user | ordered from UberEats = three times in the first week of October
+-- Event timeline, sorted by the date the event happened (offsets are relative to the question date) --
+[2022/10/15 (Sat) | 259 days / 37.0 weeks / 8 full months before the question] [date inferred from "~october" said on 2023/06/17] Speaking of which, I ordered from UberEats three times in the first week of October, trying out different places for lunch.
+[2023/02/05 (Sun) | 146 days / 20.9 weeks / 4 full months before the question] (+113d) [date inferred from "~early february" said on 2023/05/14] I signed up for Walgreens Balance Rewards around early February, so I've had it for a few months now.
+[2023/02/12 (Sun) | 139 days / 19.9 weeks / 4 full months before the question] (+7d) [date inferred from "~for three months now" said on 2023/05/12] By the way, I've been really into educational content lately, trying to make the most of my free time - I've been at it for three months now.
+[2023/04/16 (Sun) | 76 days / 10.9 weeks / 2 full months before the question] (+63d) [date inferred from "about a month ago" said on 2023/05/16] By the way, I just got my new phone case about a month ago, and it's been doing a great job protecting my phone.
+[2023/05/04 (Thu) | 58 days / 8.3 weeks / 1 full months before the question] (+18d) I'm planning a big family dinner to celebrate my cousin's son's college graduation next month and I need some help with dessert ideas.
+[2023/05/04 (Thu) | 58 days / 8.3 weeks / 1 full months before the question] (+0d) user | cousin's son = is graduating from college next month
+[2023/05/04 (Thu) | 58 days / 8.3 weeks / 1 full months before the question] (+0d) user | is planning = a big family dinner to celebrate cousin's son's college graduation next month
+[2023/05/10 (Wed) | 52 days / 7.4 weeks / 1 full months before the question] (+6d) user | Tribunal orders = made 16 March 2020, set aside
+[2023/05/12 (Fri) | 50 days / 7.1 weeks / 1 full months before the question] (+2d) user | duration of educational content interest = three months
+[2023/05/12 (Fri) | 50 days / 7.1 weeks / 1 full months before the question] (+0d) I've been tracking my body fat percentage and skeletal muscle percentage, and I'm happy to see that I've made some progress over the past month.
+[2023/05/12 (Fri) | 50 days / 7.1 weeks / 1 full months before the question] (+0d) user | made progress on = body fat and skeletal muscle over past month
+[2023/05/16 (Tue) | 46 days / 6.6 weeks / 1 full months before the question] (+4d) user | phone case ownership duration = about a month
+[2023/05/17 (Wed) | 45 days / 6.4 weeks / 1 full months before the question] (+1d) Can you suggest some family-friendly events that are suitable for kids to attend in Fremantle?
+[2023/05/17 (Wed) | 45 days / 6.4 weeks / 1 full months before the question] (+0d) Those all sound great, but do you have any suggestions for events specifically for younger children?
+[2023/05/21 (Sun) | 41 days / 5.9 weeks / 1 full months before the question] (+4d) By the way, I've been taking the bus to work for the past three weeks, so I'm trying to make the most of my morning commute time.
+[2023/05/21 (Sun) | 41 days / 5.9 weeks / 1 full months before the question] (+0d) I've been taking the bus for the past three weeks, and I've noticed that the bus ride is always crowded on Mondays and Wednesdays, but relatively empty on Tuesdays and Thursdays, so it...
+[2023/05/21 (Sun) | 41 days / 5.9 weeks / 1 full months before the question] (+0d) user | has been taking = the bus to work for the past three weeks
+[2023/05/21 (Sun) | 41 days / 5.9 weeks / 1 full months before the question] (+0d) user | has been going to = "The Daily Grind" on Main St for the past two weeks
+[2023/06/02 (Fri) | 29 days / 4.1 weeks / 0 full months before the question] (+12d) user | participates in = volleyball league
+[2023/06/10 (Sat) | 21 days / 3.0 weeks before the question] (+8d) [date inferred from "~last week" said on 2023/06/17] I ordered a nice leather wallet from Coach last week, and it's supposed to arrive just in time for the holiday.
+[2023/06/16 (Fri) | 15 days / 2.1 weeks before the question] (+6d) How can I incorporate strength training to improve my core strength, as I'm currently doing planks and Russian twists 3 times a week and aiming to hold a plank for 60 seconds by the end of...
+[2023/06/16 (Fri) | 15 days / 2.1 weeks before the question] (+0d) user | core strength goal = hold a plank for 60 seconds by end of month
+[2023/06/17 (Sat) | 14 days / 2.0 weeks before the question] (+1d) user | ordered from UberEats = three times in the first week of October
+[2023/06/17 (Sat) | 14 days / 2.0 weeks before the question] (+0d) user | participates in = company's annual charity soccer tournament
+[2023/06/17 (Sat) | 14 days / 2.0 weeks before the question] (+0d) I was actually talking about the latest album by Taylor Swift.
+[2023/06/17 (Sat) | 14 days / 2.0 weeks before the question] (+0d) I've been stuck on this morning routine playlist called "Rise and Shine" for the past 5 days, and I'm loving the mix of upbeat and relaxing tracks.
+====================================================================================================
+gpt4_d6585ce8  qdate 2023/04/22 (Sat) 19:31
+Q: What is the order of the concerts and musical events I attended in the past two months, starting from the earliest?
+GOLD: The order of the concerts I attended is: 1. Billie Eilish concert at the Wells Fargo Center in Philly, 2. Free outdoor concert series in the park, 3. Music festival in Brooklyn, 4. Jazz night at a local bar, 5. Queen + Adam Lambert concert at the Prudential Center in Newark, NJ.
+unmatched: ['Music festival in Brooklyn']
+### Temporal scaffold (question asked on 2023/04/22 (Sat); question family detected: ordering)
+-- Resolved dates and pre-computed arithmetic (computed by rule from the dates below; trust these numbers) --
+Chronological order of the candidate events (earliest -> latest):
+  1. 2023/02/15 (Wed) I've already attended a charity gala for the Children's Hospital back in February and donated $
+  2. 2023/03/18 (Sat) user | attended = Billie Eilish concert at Wells Fargo Center in Philadelphia
+  3. 2023/03/24 (Fri) I'm looking to create a more structured workout plan to help me reach my goal of losing 10 poun
+  4. 2023/03/25 (Sat) Speaking of which, I attended a free outdoor concert series in the park today and discovered so
+  5. 2023/03/28 (Tue) I've had a good experience with Marriott hotels in the past, actually, I stayed at the Marriott
+  6. 2023/03/29 (Wed) I also need to replace the water filter in my coffee maker, it's been two months since I last c
+  7. 2023/03/30 (Thu) By the way, speaking of hotel stays, I just realized that I've stayed at three hotels in the pa
+  8. 2023/04/01 (Sat) I'm actually thinking of checking out some local music events in my neighborhood, maybe a free 
+  9. 2023/04/02 (Sun) I've been stuck on Pizza Hut lately, especially their BBQ chicken pizza - I've ordered it four 
+  10. 2023/04/08 (Sat) user | plans to = attend outdoor jazz concerts this summer
+  11. 2023/04/09 (Sun) Speaking of delivery, I've noticed that Pizza Hut's delivery time has improved significantly, w
+  12. 2023/04/15 (Sat) Are there any popular indie rock festivals or concerts happening in the coming months that I sh
+Consecutive-day pairs among the relevant events (adjacent calendar days): 03/29 & 03/30
+-- Event timeline, sorted by the date the event happened (offsets are relative to the question date) --
+[2023/02/15 (Wed) | 66 days / 9.4 weeks / 2 full months before the question] [date inferred from "~february" said on 2023/04/11] I've already attended a charity gala for the Children's Hospital back in February and donated $100 to the event.
+[2023/03/18 (Sat) | 35 days / 5.0 weeks / 1 full months before the question] (+31d) user | attended = Billie Eilish concert at Wells Fargo Center in Philadelphia
+[2023/03/18 (Sat) | 35 days / 5.0 weeks / 1 full months before the question] (+0d) user | attended concert on = today
+[2023/03/24 (Fri) | 29 days / 4.1 weeks / 0 full months before the question] (+6d) I'm looking to create a more structured workout plan to help me reach my goal of losing 10 pounds in the next two months.
+[2023/03/24 (Fri) | 29 days / 4.1 weeks / 0 full months before the question] (+0d) user | goal = lose 10 pounds in the next two months
+[2023/03/24 (Fri) | 29 days / 4.1 weeks / 0 full months before the question] (+0d) And I should aim to increase the weight by 2.5-5 pounds every two weeks, or as soon as I feel I can handle more.
+[2023/03/24 (Fri) | 29 days / 4.1 weeks / 0 full months before the question] (+0d) user | progressive overload for squats = increase weight by 2.5-5 pounds every two weeks
+[2023/03/25 (Sat) | 28 days / 4.0 weeks / 0 full months before the question] (+1d) Speaking of which, I attended a free outdoor concert series in the park today and discovered some great new talent - it's really cool to see live music in a low-key setting like that.
+[2023/03/25 (Sat) | 28 days / 4.0 weeks / 0 full months before the question] (+0d) user | attended = a free outdoor concert series in the park today
+[2023/03/28 (Tue) | 25 days / 3.6 weeks / 0 full months before the question] (+3d) [date inferred from "march 28th" said on 2023/04/09] I've had a good experience with Marriott hotels in the past, actually, I stayed at the Marriott Hotel in San Francisco a few weeks before my Chicago trip, from March 28th to 31st, and got a...
+[2023/03/29 (Wed) | 24 days / 3.4 weeks before the question] (+1d) I also need to replace the water filter in my coffee maker, it's been two months since I last changed it.
+[2023/03/29 (Wed) | 24 days / 3.4 weeks before the question] (+0d) <<CONSECUTIVE-DAY PAIR>> user | last changed water filter = two months ago
+[2023/03/30 (Thu) | 23 days / 3.3 weeks before the question] (+1d) <<CONSECUTIVE-DAY PAIR>> By the way, speaking of hotel stays, I just realized that I've stayed at three hotels in the past month, and I'm getting a bit tired of packing and unpacking.
+[2023/03/30 (Thu) | 23 days / 3.3 weeks before the question] (+0d) user | has stayed at = three hotels in the past month
+[2023/03/30 (Thu) | 23 days / 3.3 weeks before the question] (+0d) I've had good experiences with both chains in the past, and I'm hoping to use my points to book a nice suite.
+[2023/04/01 (Sat) | 21 days / 3.0 weeks before the question] (+2d) I'm actually thinking of checking out some local music events in my neighborhood, maybe a free outdoor concert series in the park or a jazz night at a local bar.
+[2023/04/01 (Sat) | 21 days / 3.0 weeks before the question] (+0d) I'm thinking of checking out some local music events, maybe a free outdoor concert series in the park or a jazz night at a local bar.
+[2023/04/02 (Sun) | 20 days / 2.9 weeks before the question] (+1d) [date inferred from "~last week" said on 2023/04/09] I've been stuck on Pizza Hut lately, especially their BBQ chicken pizza - I've ordered it four times last week and realized it's my go-to over their meat lovers.
+[2023/04/08 (Sat) | 14 days / 2.0 weeks before the question] (+6d) user | plans to = attend outdoor jazz concerts this summer
+[2023/04/09 (Sun) | 13 days / 1.9 weeks before the question] (+1d) Speaking of delivery, I've noticed that Pizza Hut's delivery time has improved significantly, with most orders arriving within 30-40 minutes.
+[2023/04/09 (Sun) | 13 days / 1.9 weeks before the question] (+0d) I'm actually curious about trying out some new chicken recipes, especially since I've been ordering KFC's chicken burgers every Friday night.
+[2023/04/09 (Sun) | 13 days / 1.9 weeks before the question] (+0d) user | has been ordering = Pizza Hut frequently
+[2023/04/09 (Sun) | 13 days / 1.9 weeks before the question] (+0d) user | noticed Pizza Hut delivery time improvement = orders arriving within 30-40 minutes
+[2023/04/15 (Sat) | 7 days / 1.0 weeks before the question] (+6d) Are there any popular indie rock festivals or concerts happening in the coming months that I should check out?
+[2023/04/15 (Sat) | 7 days / 1.0 weeks before the question] (+0d) user | attended = Queen concert with Adam Lambert
+[2023/04/15 (Sat) | 7 days / 1.0 weeks before the question] (+0d) user | attended concert with = parents
+====================================================================================================
+gpt4_f420262c  qdate 2023/03/02 (Thu) 06:11
+Q: What is the order of airlines I flew with from earliest to latest before today?
+GOLD: JetBlue, Delta, United, American Airlines
+unmatched: ['JetBlue']
+### Temporal scaffold (question asked on 2023/03/02 (Thu); question family detected: ordering)
+-- Resolved dates and pre-computed arithmetic (computed by rule from the dates below; trust these numbers) --
+Dates named or implied by the question, resolved:
+  "today" -> 2023/03/02 (Thu)  [same day as the question; confidence high]
+Chronological order of the candidate events (earliest -> latest):
+  1. 2022/03/15 (Tue) I'm also planning a spring break trip to Fort Lauderdale in March and I'm flying Spirit Airline
+  2. 2022/10/25 (Tue) Can you give me some information on the latest digital marketing trends?
+  3. 2022/11/16 (Wed) Order Reprints
+  4. 2022/11/17 (Thu) user | is flying = Spirit Airlines for the Fort Lauderdale trip
+  5. 2023/01/15 (Sun) I just earned 10,000 miles on my Delta SkyMiles card after taking a round-trip flight from Bost
+  6. 2023/01/28 (Sat) Also, I had a 1-hour delay on my United Airlines flight from Boston to Chicago today due to air
+  7. 2023/02/09 (Thu) I've been thinking about getting an airbrush compressor to improve my painting skills, I recent
+  8. 2023/02/10 (Fri) I'm still unsure about flying with American Airlines after my terrible experience today.
+  9. 2023/02/14 (Tue) By the way, I'm still recovering from my American Airlines flight from LAX to JFK, which was de
+Consecutive-day pairs among the relevant events (adjacent calendar days): 02/09 & 02/10
+-- Event timeline, sorted by the date the event happened (offsets are relative to the question date) --
+[2022/03/15 (Tue) | 352 days / 50.3 weeks / 11 full months before the question] [date inferred from "~march" said on 2022/11/17] I'm also planning a spring break trip to Fort Lauderdale in March and I'm flying Spirit Airlines.
+[2022/03/15 (Tue) | 352 days / 50.3 weeks / 11 full months before the question] (+0d) [date inferred from "~march" said on 2023/01/28] Anyway, back to Spirit Airlines - I'm planning to book a round-trip ticket from Boston to Fort Lauderdale for my spring break trip in March, and I need to double-check my luggage dimensions...
+[2022/10/25 (Tue) | 128 days / 18.3 weeks / 4 full months before the question] (+224d) Can you give me some information on the latest digital marketing trends?
+[2022/10/25 (Tue) | 128 days / 18.3 weeks / 4 full months before the question] (+0d) I'm actually in the process of building my own digital marketing agency, Sparkle Media, and I'm trying to stay on top of the latest trends.
+[2022/11/16 (Wed) | 106 days / 15.1 weeks / 3 full months before the question] (+22d) Order Reprints
+[2022/11/16 (Wed) | 106 days / 15.1 weeks / 3 full months before the question] (+0d) [text also dates: 2020/03/23] Today, Amazon stock is about $85, below where it was at the market low on March 23, 2020.
+[2022/11/17 (Thu) | 105 days / 15.0 weeks / 3 full months before the question] (+1d) user | is flying = Spirit Airlines for the Fort Lauderdale trip
+[2023/01/15 (Sun) | 46 days / 6.6 weeks / 1 full months before the question] (+59d) I just earned 10,000 miles on my Delta SkyMiles card after taking a round-trip flight from Boston to Atlanta today, by the way.
+[2023/01/15 (Sun) | 46 days / 6.6 weeks / 1 full months before the question] (+0d) user | took a round-trip flight from = Boston to Atlanta today
+[2023/01/15 (Sun) | 46 days / 6.6 weeks / 1 full months before the question] (+0d) By the way, do you think I could use my miles to book a flight on American Airlines, since I've had some experience with them recently, like that terrible in-flight entertainment system on...
+[2023/01/15 (Sun) | 46 days / 6.6 weeks / 1 full months before the question] (+0d) user | had a bad experience with = American Airlines in-flight entertainment system
+[2023/01/28 (Sat) | 33 days / 4.7 weeks / 1 full months before the question] (+13d) Also, I had a 1-hour delay on my United Airlines flight from Boston to Chicago today due to air traffic control issues, but that's a different story.
+[2023/01/28 (Sat) | 33 days / 4.7 weeks / 1 full months before the question] (+0d) I'm planning a trip to Miami and I'm considering flying with American Airlines or Delta.
+[2023/01/28 (Sat) | 33 days / 4.7 weeks / 1 full months before the question] (+0d) user | had a 1-hour delay on = United Airlines flight from Boston to Chicago
+[2023/01/28 (Sat) | 33 days / 4.7 weeks / 1 full months before the question] (+0d) user | is considering flying with = American Airlines
+[2023/02/09 (Thu) | 21 days / 3.0 weeks before the question] (+12d) I've been thinking about getting an airbrush compressor to improve my painting skills, I recently ordered one online and it should arrive next week.
+[2023/02/09 (Thu) | 21 days / 3.0 weeks before the question] (+0d) <<CONSECUTIVE-DAY PAIR>> user | recently ordered online = airbrush compressor
+[2023/02/10 (Fri) | 20 days / 2.9 weeks before the question] (+1d) <<CONSECUTIVE-DAY PAIR>> I'm still unsure about flying with American Airlines after my terrible experience today.
+[2023/02/10 (Fri) | 20 days / 2.9 weeks before the question] (+0d) By the way, I had a terrible experience with it on my flight from New York to Los Angeles today.
+[2023/02/10 (Fri) | 20 days / 2.9 weeks before the question] (+0d) user | had a terrible experience with American Airlines' in-flight entertainment system = on a flight from New York to Los Angeles today
+[2023/02/10 (Fri) | 20 days / 2.9 weeks before the question] (+0d) user | is unsure about flying with American Airlines = after today's experience
+[2023/02/14 (Tue) | 16 days / 2.3 weeks before the question] (+4d) By the way, I'm still recovering from my American Airlines flight from LAX to JFK, which was delayed by 2 hours due to bad weather conditions.
+[2023/02/14 (Tue) | 16 days / 2.3 weeks before the question] (+0d) user | is recovering from = an American Airlines flight from LAX to JFK
+====================================================================================================
+gpt4_68e94287  qdate 2023/04/12 (Wed) 12:00
+Q: Which event happened first, my participation in the #PlankChallenge or my post about vegan chili recipe?
+GOLD: You posted a recipe for vegan chili on Instagram using the hashtag #FoodieAdventures first.
+unmatched: ['my participation in the #PlankChallenge']
+### Temporal scaffold (question asked on 2023/04/12 (Wed); question family detected: ordering)
+-- Resolved dates and pre-computed arithmetic (computed by rule from the dates below; trust these numbers) --
+Chronological order of the candidate events (earliest -> latest):
+  1. 2023/01/24 (Tue) I also did a huge haul from Sephora around the first week of last month, it was around $250.
+  2. 2023/02/24 (Fri) user | did = a Sephora haul around the first week of last month for around $250
+  3. 2023/03/04 (Sat) Do you have any recipe suggestions that incorporate chicken breasts and some of the vegetarian 
+  4. 2023/03/05 (Sun) I'm looking for some new recipe ideas for chicken dishes.
+  5. 2023/03/09 (Thu) I've been posting about my progress on Instagram using #MyFitnessJourney, and I shared a recipe
+  6. 2023/03/10 (Fri) user | shared a vegan chili recipe using hashtag = #FoodieAdventures
+  7. 2023/03/15 (Wed) By the way, I just posted some photos from the Texas Auto Racking Championship on my Instagram 
+Consecutive-day pairs among the relevant events (adjacent calendar days): 03/09 & 03/10
+-- Event timeline, sorted by the date the event happened (offsets are relative to the question date) --
+[2023/01/24 (Tue) | 78 days / 11.1 weeks / 2 full months before the question] [date inferred from "~last month" said on 2023/02/24] I also did a huge haul from Sephora around the first week of last month, it was around $250.
+[2023/02/24 (Fri) | 47 days / 6.7 weeks / 1 full months before the question] (+31d) user | did = a Sephora haul around the first week of last month for around $250
+[2023/03/04 (Sat) | 39 days / 5.6 weeks / 1 full months before the question] (+8d) Do you have any recipe suggestions that incorporate chicken breasts and some of the vegetarian protein sources you mentioned earlier?
+[2023/03/04 (Sat) | 39 days / 5.6 weeks / 1 full months before the question] (+0d) I like those recipe ideas.
+[2023/03/05 (Sun) | 38 days / 5.4 weeks / 1 full months before the question] (+1d) I'm looking for some new recipe ideas for chicken dishes.
+[2023/03/05 (Sun) | 38 days / 5.4 weeks / 1 full months before the question] (+0d) I've been stuck on my chicken stir-fry recipe, which I've perfected by adding a dash of soy sauce that really enhances the flavor.
+[2023/03/05 (Sun) | 38 days / 5.4 weeks / 1 full months before the question] (+0d) user | has been stuck on = chicken stir-fry recipe
+[2023/03/05 (Sun) | 38 days / 5.4 weeks / 1 full months before the question] (+0d) user | is looking for = new recipe ideas for chicken dishes
+[2023/03/09 (Thu) | 34 days / 4.9 weeks / 1 full months before the question] (+4d) <<CONSECUTIVE-DAY PAIR>> [date inferred from "yesterday" said on 2023/03/10] I've been posting about my progress on Instagram using #MyFitnessJourney, and I shared a recipe for vegan chili using #FoodieAdventures yesterday that got a lot of attention.
+[2023/03/10 (Fri) | 33 days / 4.7 weeks / 1 full months before the question] (+1d) <<CONSECUTIVE-DAY PAIR>> user | shared a vegan chili recipe using hashtag = #FoodieAdventures
+[2023/03/10 (Fri) | 33 days / 4.7 weeks / 1 full months before the question] (+0d) user | shared vegan chili recipe = yesterday
+[2023/03/10 (Fri) | 33 days / 4.7 weeks / 1 full months before the question] (+0d) Cluster the keywords according to the top 10 super categories and name the super category in the first column called keyword cluster.
+[2023/03/10 (Fri) | 33 days / 4.7 weeks / 1 full months before the question] (+0d) By the way, do you have any recommendations for vegan protein sources that I can add to my salads?
+[2023/03/15 (Wed) | 28 days / 4.0 weeks / 0 full months before the question] (+5d) By the way, I just posted some photos from the Texas Auto Racking Championship on my Instagram account, which got 57 likes and 12 comments - it was a great event!
+[2023/03/15 (Wed) | 28 days / 4.0 weeks / 0 full months before the question] (+0d) By the way, I participated in a social media challenge called #PlankChallenge today, and it was a great way to stay motivated!
+[2023/03/15 (Wed) | 28 days / 4.0 weeks / 0 full months before the question] (+0d) user | participated in = #PlankChallenge social media challenge
+[2023/03/15 (Wed) | 28 days / 4.0 weeks / 0 full months before the question] (+0d) user | wants = more cultural venues, events, and festivals in Longford
+====================================================================================================
+gpt4_7ca326fa  qdate 2022/08/20 (Sat) 21:47
+Q: Who graduated first, second and third among Emma, Rachel and Alex?
+GOLD: Emma graduated first, followed by Rachel and then Alex.
+unmatched: ['followed by Rachel and']
+### Temporal scaffold (question asked on 2022/08/20 (Sat); question family detected: ordering)
+-- Resolved dates and pre-computed arithmetic (computed by rule from the dates below; trust these numbers) --
+Chronological order of the candidate events (earliest -> latest):
+  1. 2022/05/19 (Thu) Rachel Lee, discussed the importance of recognizing and addressing implicit biases in the hirin
+  2. 2022/05/21 (Sat) user | planned first painting subject = simple landscape
+  3. 2022/05/24 (Tue) Say “thank you very much for agreeing to chat with me, I would like to ask you some questions, 
+  4. 2022/05/28 (Sat) My niece Emma just graduated yesterady, and I'm thinking of getting her something special to co
+  5. 2022/06/04 (Sat) By the way, I made Korean-style desserts for the third course of my dinner party last week, and
+  6. 2022/06/11 (Sat) user | made Korean-style desserts for = the third course of their dinner party last week
+  7. 2022/06/16 (Thu) I think I'll try eBay and Facebook Marketplace first, and see how it goes.
+  8. 2022/06/22 (Wed) I'm planning a trip to visit my family soon and I need some help with gift ideas for my cousin 
+  9. 2022/06/24 (Fri) [3] "You can easily translate english to tagalog by using this phrase translation tool.Type or 
+  10. 2022/06/28 (Tue) I think I appreciated the Thor movies more the second time around.
+  11. 2022/07/01 (Fri) I'm looking for some gift ideas for my cousin Alex, who graduated with a degree in engineering 
+  12. 2022/07/03 (Sun) He plays second base.
+  13. 2022/07/14 (Thu) And by the way, I attended the guided tour at the Modern Art Museum on a Saturday afternoon, it
+  14. 2022/07/15 (Fri) Alex | graduated = about two weeks ago
+-- Event timeline, sorted by the date the event happened (offsets are relative to the question date) --
+[2022/05/19 (Thu) | 93 days / 13.3 weeks / 3 full months before the question] Rachel Lee, discussed the importance of recognizing and addressing implicit biases in the hiring process.
+[2022/05/19 (Thu) | 93 days / 13.3 weeks / 3 full months before the question] (+0d) Dr. Rachel Lee | discussed = importance of recognizing and addressing implicit biases in the hiring process
+[2022/05/19 (Thu) | 93 days / 13.3 weeks / 3 full months before the question] (+0d) Dr. Rachel Lee | spoke at = the workshop the user attended
+[2022/05/21 (Sat) | 91 days / 13.0 weeks / 2 full months before the question] (+2d) user | planned first painting subject = simple landscape
+[2022/05/24 (Tue) | 88 days / 12.6 weeks / 2 full months before the question] (+3d) Say “thank you very much for agreeing to chat with me, I would like to ask you some questions, there are no right or wrong answers, I just would like your sincere answers” and then start...
+[2022/05/28 (Sat) | 84 days / 12.0 weeks / 2 full months before the question] (+4d) My niece Emma just graduated yesterady, and I'm thinking of getting her something special to commemorate the occasion.
+[2022/05/28 (Sat) | 84 days / 12.0 weeks / 2 full months before the question] (+0d) Emma | graduated = yesterday
+[2022/05/28 (Sat) | 84 days / 12.0 weeks / 2 full months before the question] (+0d) I think I'll use the first one: "Remember, your dreams are within reach, and I'll be cheering you on every step of the way." It's short, sweet, and conveys my support and encouragement for...
+[2022/06/04 (Sat) | 77 days / 11.0 weeks / 2 full months before the question] (+7d) [date inferred from "~last week" said on 2022/06/11] By the way, I made Korean-style desserts for the third course of my dinner party last week, and it was a huge hit!
+[2022/06/11 (Sat) | 70 days / 10.0 weeks / 2 full months before the question] (+7d) user | made Korean-style desserts for = the third course of their dinner party last week
+[2022/06/16 (Thu) | 65 days / 9.3 weeks / 2 full months before the question] (+5d) I think I'll try eBay and Facebook Marketplace first, and see how it goes.
+[2022/06/22 (Wed) | 59 days / 8.4 weeks / 1 full months before the question] (+6d) I'm planning a trip to visit my family soon and I need some help with gift ideas for my cousin John, who just graduated from college with a degree in engineering today.
+[2022/06/22 (Wed) | 59 days / 8.4 weeks / 1 full months before the question] (+0d) John | graduated from college = today
+[2022/06/22 (Wed) | 59 days / 8.4 weeks / 1 full months before the question] (+0d) Rachel | earned = master's degree
+[2022/06/24 (Fri) | 57 days / 8.1 weeks / 1 full months before the question] (+2d) [3] "You can easily translate english to tagalog by using this phrase translation tool.Type or paste the sentence or phrase into the text you want to translate first.Then click the...
+[2022/06/24 (Fri) | 57 days / 8.1 weeks / 1 full months before the question] (+0d) Your translated sentence or phrase will appear in the text box on the right within seconds."
+[2022/06/28 (Tue) | 53 days / 7.6 weeks / 1 full months before the question] (+4d) I think I appreciated the Thor movies more the second time around.
+[2022/06/28 (Tue) | 53 days / 7.6 weeks / 1 full months before the question] (+0d) user | appreciated = the Thor movies more the second time around
+[2022/07/01 (Fri) | 50 days / 7.1 weeks / 1 full months before the question] (+3d) [date inferred from "about two weeks ago" said on 2022/07/15] I'm looking for some gift ideas for my cousin Alex, who graduated with a degree in engineering from college about two weeks ago.
+[2022/07/03 (Sun) | 48 days / 6.9 weeks / 1 full months before the question] (+2d) He plays second base.
+[2022/07/14 (Thu) | 37 days / 5.3 weeks / 1 full months before the question] (+11d) And by the way, I attended the guided tour at the Modern Art Museum on a Saturday afternoon, it was really informative and Rachel, the tour guide, was very knowledgeable about the artworks...
+[2022/07/14 (Thu) | 37 days / 5.3 weeks / 1 full months before the question] (+0d) user | found tour guide Rachel = very knowledgeable about artworks
+[2022/07/15 (Fri) | 36 days / 5.1 weeks / 1 full months before the question] (+1d) Alex | graduated = about two weeks ago
+[2022/07/15 (Fri) | 36 days / 5.1 weeks / 1 full months before the question] (+0d) Alex | recently graduated with a degree in = engineering
+[2022/07/15 (Fri) | 36 days / 5.1 weeks / 1 full months before the question] (+0d) I think I'll go with Coursera's Machine Learning by Andrew Ng, as it's a well-regarded course and Alex has mentioned his interest in the field.
+[2022/07/15 (Fri) | 36 days / 5.1 weeks / 1 full months before the question] (+0d) I was thinking of reaching out to Alex to check in on his job search.
+====================================================================================================
+gpt4_70e84552  qdate 2023/05/25 (Thu) 08:03
+Q: Which task did I complete first, fixing the fence or trimming the goats' hooves?
+GOLD: Fixing the fence
+unmatched: ['fixing the fence']
+### Temporal scaffold (question asked on 2023/05/25 (Thu); question family detected: ordering)
+-- Resolved dates and pre-computed arithmetic (computed by rule from the dates below; trust these numbers) --
+Chronological order of the candidate events (earliest -> latest):
+  1. 2023/05/04 (Thu) By the way, I just fixed that broken fence on the east side of my property three weeks ago, whe
+  2. 2023/05/11 (Thu) By the way, speaking of the farm, I've been doing a great job of keeping up with the goat's hoo
+  3. 2023/05/25 (Thu) By the way, speaking of my farm, I've also been trying to trim their hooves more regularly, and
+-- Event timeline, sorted by the date the event happened (offsets are relative to the question date) --
+[2023/05/04 (Thu) | 21 days / 3.0 weeks before the question] [date inferred from "three weeks ago" said on 2023/05/25] By the way, I just fixed that broken fence on the east side of my property three weeks ago, where my goats like to graze, and it's been a huge relief to have them safe and secure.
+[2023/05/11 (Thu) | 14 days / 2.0 weeks before the question] (+7d) [date inferred from "two weeks ago" said on 2023/05/25] By the way, speaking of the farm, I've been doing a great job of keeping up with the goat's hoove trimming, I did it two weeks ago and it was a success, no mess at all!
+[2023/05/25 (Thu) | same day as the question] (+14d) By the way, speaking of my farm, I've also been trying to trim their hooves more regularly, and I've gotten much better at it with practice.
+[2023/05/25 (Thu) | same day as the question] (+0d) user | trims goat hooves = regularly
+[2023/05/25 (Thu) | same day as the question] (+0d) By the way, I've been doing some cleaning and maintenance in the bathroom recently, like cleaning the mirrors and sink, and fixing the toilet handle.
+[2023/05/25 (Thu) | same day as the question] (+0d) user | last trimmed goat hooves = about two weeks ago
+====================================================================================================
+gpt4_4edbafa2  qdate 2023/07/01 (Sat) 02:36
+Q: What was the date on which I attended the first BBQ event in June?
+GOLD: June 3rd
+unmatched: []
+### Temporal scaffold (question asked on 2023/07/01 (Sat); question family detected: ordering)
+-- Resolved dates and pre-computed arithmetic (computed by rule from the dates below; trust these numbers) --
+Dates named or implied by the question, resolved:
+  "june" -> 2023/06/15 (Thu)  [16 days / 2.3 weeks before the question; confidence med]
+Chronological order of the candidate events (earliest -> latest):
+  1. 2023/06/01 (Thu) By the way, I recently attended a marketing workshop last month, and it was amazing!
+  2. 2023/06/03 (Sat) I attended a backyard BBQ party at my colleague's house on the 3rd of June, and they had an ama
+  3. 2023/06/10 (Sat) I've been meaning to try out some BBQ recipes with a Korean twist, like the one I made on the 1
+  4. 2023/06/17 (Sat) I recently used up my favorite Sweet Baby Ray's at my friend's place last Saturday, which was o
+  5. 2023/07/01 (Sat) user | attended backyard BBQ party at colleague's house = 3rd of June
+-- Event timeline, sorted by the date the event happened (offsets are relative to the question date) --
+[2023/06/01 (Thu) | 30 days / 4.3 weeks / 1 full months before the question] [date inferred from "~last month" said on 2023/07/01] By the way, I recently attended a marketing workshop last month, and it was amazing!
+[2023/06/01 (Thu) | 30 days / 4.3 weeks / 1 full months before the question] (+0d) [date inferred from "~last month" said on 2023/07/01] I'll also review the notes from the marketing workshop I attended last month, where Rachel Smith shared some great insights on targeting specific audience segments.
+[2023/06/03 (Sat) | 28 days / 4.0 weeks / 0 full months before the question] (+2d) [date inferred from "3rd of june" said on 2023/07/01] I attended a backyard BBQ party at my colleague's house on the 3rd of June, and they had an amazing selection of BBQ sauces.
+[2023/06/10 (Sat) | 21 days / 3.0 weeks before the question] (+7d) [date inferred from "10th of june" said on 2023/07/01] I've been meaning to try out some BBQ recipes with a Korean twist, like the one I made on the 10th of June.
+[2023/06/10 (Sat) | 21 days / 3.0 weeks before the question] (+0d) [date inferred from "10th of june" said on 2023/07/01] I was thinking of making some Korean-style BBQ dishes, like the one I made on the 10th of June, as well as some more traditional BBQ favorites.
+[2023/06/17 (Sat) | 14 days / 2.0 weeks before the question] (+7d) [date inferred from "17th of june" said on 2023/07/01] [text also dates: 2023/06/24] I recently used up my favorite Sweet Baby Ray's at my friend's place last Saturday, which was on the 17th of June, and I need to restock.
+[2023/07/01 (Sat) | same day as the question] (+14d) user | attended backyard BBQ party at colleague's house = 3rd of June
+[2023/07/01 (Sat) | same day as the question] (+0d) I'd like to work on the first joke I shared earlier: "I've been on so many dates, I've started to think my OkCupid profile should just say 'I'm not a serial killer, but I do have a lot of...
+[2023/07/01 (Sat) | same day as the question] (+0d) Account Executive, OwnBackup - SaaS Data Protection Platform Feb 2021 – Present •Achieved significant recognition, including being the first to reach President's Club in segment 2022,...
+[2023/07/01 (Sat) | same day as the question] (+0d) user | first 5K event = yes
+====================================================================================================
+gpt4_483dd43c  qdate 2023/05/29 (Mon) 08:33
+Q: Which show did I start watching first, 'The Crown' or 'Game of Thrones'?
+GOLD: 'Game of Thrones'
+unmatched: ['The Crown']
+### Temporal scaffold (question asked on 2023/05/29 (Mon); question family detected: ordering)
+-- Resolved dates and pre-computed arithmetic (computed by rule from the dates below; trust these numbers) --
+Chronological order of the candidate events (earliest -> latest):
+  1. 2022/11/29 (Tue) I've been meaning to get back to watching some of my favorite episodes from "Friends" on HBO Ma
+  2. 2023/04/29 (Sat) I've been meaning to check out "Game of Thrones" for a while, and I finally started it about a 
+  3. 2023/05/15 (Mon) I started it on a Sunday afternoon and finished the entire season in just 14 days, watching at 
+  4. 2023/05/29 (Mon) user | started watching = "Game of Thrones" about a month ago
+-- Event timeline, sorted by the date the event happened (offsets are relative to the question date) --
+[2022/11/29 (Tue) | 181 days / 25.9 weeks / 6 full months before the question] [date inferred from "~for about six months now" said on 2023/05/29] I've been meaning to get back to watching some of my favorite episodes from "Friends" on HBO Max, which I've been subscribed to for about six months now.
+[2022/11/29 (Tue) | 181 days / 25.9 weeks / 6 full months before the question] (+0d) [date inferred from "~for about six months now" said on 2023/05/29] By the way, I've also been re-watching some of my favorite episodes from "Friends" on HBO Max, which I've been subscribed to for about six months now.
+[2023/04/29 (Sat) | 30 days / 4.3 weeks / 1 full months before the question] (+151d) [date inferred from "about a month ago" said on 2023/05/29] I've been meaning to check out "Game of Thrones" for a while, and I finally started it about a month ago.
+[2023/05/15 (Mon) | 14 days / 2.0 weeks before the question] (+16d) [date inferred from "~finished the entire season in just 14 da" said on 2023/05/29] I started it on a Sunday afternoon and finished the entire season in just 14 days, watching at least 2-3 episodes every day.
+[2023/05/29 (Mon) | same day as the question] (+14d) user | started watching = "Game of Thrones" about a month ago
+[2023/05/29 (Mon) | same day as the question] (+0d) I'm looking for some new shows to watch on HBO Max.
+[2023/05/29 (Mon) | same day as the question] (+0d) Since we're on the topic of comfort TV, I've been watching some cooking shows on Netflix, particularly "Nailed It!" and "The Great British Baking Show", which are both so entertaining and...
+[2023/05/29 (Mon) | same day as the question] (+0d) user | has been watching = cooking shows on Netflix
+====================================================================================================
+gpt4_88806d6e  qdate 2023/05/28 (Sun) 21:23
+Q: Who did I meet first, Mark and Sarah or Tom?
+GOLD: Tom
+unmatched: ['Tom']
+### Temporal scaffold (question asked on 2023/05/28 (Sun); question family detected: ordering)
+-- Resolved dates and pre-computed arithmetic (computed by rule from the dates below; trust these numbers) --
+Chronological order of the candidate events (earliest -> latest):
+  1. 2023/04/28 (Fri) I'm planning a trip to visit my friends Mark and Sarah, who I met on a beach trip about a month
+  2. 2023/05/28 (Sun) Mark and Sarah mentioned they live in a small town near the mountains, but I don't recall the e
+-- Event timeline, sorted by the date the event happened (offsets are relative to the question date) --
+[2023/04/28 (Fri) | 30 days / 4.3 weeks / 1 full months before the question] [date inferred from "about a month ago" said on 2023/05/28] I'm planning a trip to visit my friends Mark and Sarah, who I met on a beach trip about a month ago, and I was wondering if you could help me find some good restaurants in their hometown?
+[2023/05/28 (Sun) | same day as the question] (+30d) Mark and Sarah mentioned they live in a small town near the mountains, but I don't recall the exact name.
+[2023/05/28 (Sun) | same day as the question] (+0d) I'll try to reach out to Mark and Sarah to get the exact name of their hometown.
+[2023/05/28 (Sun) | same day as the question] (+0d) Mark and Sarah | live in = a small town near the mountains
+[2023/05/28 (Sun) | same day as the question] (+0d) user | had dinner with Mark and Sarah at = a seafood place near the beach
+====================================================================================================
+gpt4_2f56ae70  qdate 2023/05/26 (Fri) 00:18
+Q: Which streaming service did I start using most recently?
+GOLD: Disney+
+unmatched: []
+### Temporal scaffold (question asked on 2023/05/26 (Fri); question family detected: ordering)
+-- Resolved dates and pre-computed arithmetic (computed by rule from the dates below; trust these numbers) --
+Dates named or implied by the question, resolved:
+  "recently" -> 2023/05/19 (Fri)  [7 days / 1.0 weeks before the question; confidence low]
+Chronological order of the candidate events (earliest -> latest):
+  1. 2023/02/26 (Sun) By the way, I've also been using Apple TV+ for a few months now, and I just finished watching "
+  2. 2023/04/26 (Wed) Since I started a free trial of Disney+ last month, it's possible that the documentary I'm thin
+  3. 2023/05/19 (Fri) I'm thinking of attending more concerts in the future, especially since I recently saw The Lumi
+  4. 2023/05/20 (Sat) I recently bought 7 more at a local flea market last Saturday, and I want to make sure I store 
+  5. 2023/05/26 (Fri) user | asked about = IRC service fees for refugees
+-- Event timeline, sorted by the date the event happened (offsets are relative to the question date) --
+[2023/02/26 (Sun) | 89 days / 12.7 weeks / 3 full months before the question] [date inferred from "~for a few months now" said on 2023/05/26] By the way, I've also been using Apple TV+ for a few months now, and I just finished watching "For All Mankind", which was great.
+[2023/04/26 (Wed) | 30 days / 4.3 weeks / 1 full months before the question] (+59d) [date inferred from "~last month" said on 2023/05/26] Since I started a free trial of Disney+ last month, it's possible that the documentary I'm thinking of was a Disney+ exclusive.
+[2023/05/19 (Fri) | 7 days / 1.0 weeks before the question] (+23d) [date inferred from "~last week" said on 2023/05/26] I'm thinking of attending more concerts in the future, especially since I recently saw The Lumineers at Wrigley Field last week and had an amazing time.
+[2023/05/20 (Sat) | 6 days / 0.9 weeks before the question] (+1d) [date inferred from "last saturday" said on 2023/05/26] I recently bought 7 more at a local flea market last Saturday, and I want to make sure I store them properly to preserve their condition.
+[2023/05/26 (Fri) | same day as the question] (+6d) user | asked about = IRC service fees for refugees
+[2023/05/26 (Fri) | same day as the question] (+0d) user | open to trying = other streaming services
+[2023/05/26 (Fri) | same day as the question] (+0d) Also, what's the best way to order at a BBQ joint - do I just go up to the counter and order, or is it table service?
+[2023/05/26 (Fri) | same day as the question] (+0d) By the way, speaking of experimenting with spices, I recently added a dash of soy sauce to my chicken stir-fry recipe, which really enhanced the flavor.
+====================================================================================================
+gpt4_70e84552_abs  qdate 2023/05/21 (Sun) 10:40
+Q: Which task did I complete first, fixing the fence or purchasing three cows from Peter?
+GOLD: The information provided is not enough. You mentioned fixing the fence but did not mention purchasing cows from Peter.
+unmatched: ['fixing the fence', 'purchasing three cows from Peter']
+### Temporal scaffold (question asked on 2023/05/21 (Sun); question family detected: ordering)
+-- Resolved dates and pre-computed arithmetic (computed by rule from the dates below; trust these numbers) --
+Chronological order of the candidate events (earliest -> latest):
+  1. 2023/04/30 (Sun) By the way, I just fixed that broken fence on the east side of my property three weeks ago, whe
+  2. 2023/05/21 (Sun) user | fixed the broken fence = three weeks ago
+-- Event timeline, sorted by the date the event happened (offsets are relative to the question date) --
+[2023/04/30 (Sun) | 21 days / 3.0 weeks before the question] [date inferred from "three weeks ago" said on 2023/05/21] By the way, I just fixed that broken fence on the east side of my property three weeks ago, where my goats like to graze, and it's been a huge relief to have them safe and secure.
+[2023/05/21 (Sun) | same day as the question] (+21d) user | fixed the broken fence = three weeks ago
+[2023/05/21 (Sun) | same day as the question] (+0d) user | is considering purchasing = a new cow
+[2023/05/21 (Sun) | same day as the question] (+0d) I'll try to troubleshoot the issue with the toilet first and see if I can fix it myself.
+[2023/05/21 (Sun) | same day as the question] (+0d) **Description:** Complete the proposal for the new project, including all necessary sections and information.
+====================================================================================================
+gpt4_c27434e8_abs  qdate 2023/05/23 (Tue) 11:26
+Q: Which project did I start first, the Ferrari model or the Porsche 991 Turbo S model?
+GOLD: The information provided is not enough. You did not mention starting the Porsche 991 Turbo S model.
+unmatched: ['Porsche 991 Turbo S model']
+### Temporal scaffold (question asked on 2023/05/23 (Tue); question family detected: ordering)
+-- Resolved dates and pre-computed arithmetic (computed by rule from the dates below; trust these numbers) --
+Chronological order of the candidate events (earliest -> latest):
+  1. 2023/04/23 (Sun) By the way, I'm currently working on a Ferrari 288 GTO model, and in my spare time, I'm also bu
+  2. 2023/05/02 (Tue) I'm working on a model of a 1980s-era Ferrari 288 GTO, started it about three weeks ago on a Su
+  3. 2023/05/23 (Tue) I'm excited to use it on my Ferrari project.
+-- Event timeline, sorted by the date the event happened (offsets are relative to the question date) --
+[2023/04/23 (Sun) | 30 days / 4.3 weeks / 1 full months before the question] [date inferred from "about a month ago" said on 2023/05/23] By the way, I'm currently working on a Ferrari 288 GTO model, and in my spare time, I'm also building a 1/48 scale Japanese Zero fighter plane, which I started about a month ago.
+[2023/05/02 (Tue) | 21 days / 3.0 weeks before the question] (+9d) [date inferred from "about three weeks ago" said on 2023/05/23] I'm working on a model of a 1980s-era Ferrari 288 GTO, started it about three weeks ago on a Sunday afternoon, and I'm looking for some tips on how to achieve a more realistic paint finish.
+[2023/05/02 (Tue) | 21 days / 3.0 weeks before the question] (+0d) [date inferred from "about three weeks ago" said on 2023/05/23] Speaking of which, I should mention that I started building this model about three weeks ago, on a Sunday afternoon.
+[2023/05/23 (Tue) | same day as the question] (+21d) I'm excited to use it on my Ferrari project.
+[2023/05/23 (Tue) | same day as the question] (+0d) I've been thinking of adding some similar details to my Ferrari 288 GTO model, like a miniature toolbox or a figure of a racing mechanic, to give it more context and storytelling.
+[2023/05/23 (Tue) | same day as the question] (+0d) user | considering adding to Ferrari 288 GTO model = a racing helmet
+[2023/05/23 (Tue) | same day as the question] (+0d) user | considering adding to Ferrari 288 GTO model = a pit board
+====================================================================================================
+gpt4_fe651585_abs  qdate 2023/03/17 (Fri) 03:09
+Q: Who became a parent first, Tom or Alex?
+GOLD: The information provided is not enough. You mentioned Alex becoming a parent in January, but you didn't mention anything about Tom.
+unmatched: ['Tom']
+### Temporal scaffold (question asked on 2023/03/17 (Fri); question family detected: ordering)
+-- Resolved dates and pre-computed arithmetic (computed by rule from the dates below; trust these numbers) --
+Chronological order of the candidate events (earliest -> latest):
+  1. 2023/01/15 (Sun) By the way, my cousin Alex just adopted a baby girl from China in January, so I've seen firstha
+  2. 2023/03/17 (Fri) I had a very happy and privileged childhood during which I received a lot of love from both my 
+-- Event timeline, sorted by the date the event happened (offsets are relative to the question date) --
+[2023/01/15 (Sun) | 61 days / 8.7 weeks / 2 full months before the question] [date inferred from "~january" said on 2023/03/17] By the way, my cousin Alex just adopted a baby girl from China in January, so I've seen firsthand how life-changing it can be.
+[2023/01/15 (Sun) | 61 days / 8.7 weeks / 2 full months before the question] (+0d) [date inferred from "~january" said on 2023/03/17] By the way, my cousin Alex, who adopted a baby girl from China in January, had a wonderful experience with her agency, which prioritized supporting birth mothers.
+[2023/03/17 (Fri) | same day as the question] (+61d) I had a very happy and privileged childhood during which I received a lot of love from both my parents.
+[2023/03/17 (Fri) | same day as the question] (+0d) Alex | adopted = a baby girl from China
+[2023/03/17 (Fri) | same day as the question] (+0d) Alex | adoption agency prioritized = supporting birth mothers
+[2023/03/17 (Fri) | same day as the question] (+0d) who is the first president of USA?

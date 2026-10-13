@@ -1,0 +1,28 @@
+=== module detector vs the same detector with both channels normalised alike ===
+  gated D1|D2, module as written                           abs 12/30 (0.400)  ans  42/470 (0.089)  prec 0.222
+  gated D1|D2, hyphen/possessive artifacts removed         abs 10/30 (0.333)  ans  16/470 (0.034)  prec 0.385
+  gated D1|D2, artifacts + plurals removed (fair detector) abs 10/30 (0.333)  ans  14/470 (0.030)  prec 0.417
+  ungated D1|D2, fair detector                             abs 10/30 (0.333)  ans  22/470 (0.047)  prec 0.312
+
+=== how much of the reported table is the bug? ===
+  abs firings           12 questions,  12 asserted-absent terms: 2 hyphen/possessive artifacts, 0 plural-only, 10 genuinely absent
+      firings that vanish under the fair detector: 2
+  answerable firings    42 questions,  44 asserted-absent terms: 27 hyphen/possessive artifacts, 2 plural-only, 15 genuinely absent
+      firings that vanish under the fair detector: 28
+
+=== fair detector: reach on the 5 qc abstention losses ===
+  80ec1f4f_abs         module=[] fair=[]
+  a96c20ee_abs         module=['undergrad'] fair=['undergrad']
+  09ba9854_abs         module=[] fair=[]
+  gpt4_93159ced_abs    module=[] fair=[]
+  031748ae_abs         module=[] fair=[]
+
+=== fair detector: upside/downside ===
+  abs firings 10; on actual losses ['a96c20ee_abs']
+  answerable firings 14: currently correct 8, wrong 6
+  by type: Counter({'temporal-reasoning': 7, 'multi-session': 4, 'single-session-user': 1, 'knowledge-update': 1, 'single-session-assistant': 1})
+  examples: [('25e5aa4f', ['bachelors']), ('3a704032', ['acquire']), ('10d9b85a', ['conferences']), ('81507db6', ['ceremonies']), ('91b15a6e', ['minimum', 'sold']), ('b46e15ed', ['consecutive']), ('gpt4_f420262c', ['flew']), ('gpt4_f420262d', ['valentines']), ('gpt4_4929293b', ['relatives']), ('eac54add', ['buisiness']), ('gpt4_b4a80587', ['arrival']), ('gpt4_5438fa52', ['attendance'])]
+
+=== the two SSP declines under the fair detector ===
+  0edc2aef     module=['miami'] fair=['miami'] advice=True
+  09d032c9     module=['battery'] fair=['battery'] advice=True

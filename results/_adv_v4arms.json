@@ -1,0 +1,1624 @@
+{
+ "v4arms": {
+  "af8d2e46": {
+   "cur_full": {
+    "items": 429,
+    "gold_hit": 1,
+    "chars": 32103
+   },
+   "cur_cap": {
+    "items": 263,
+    "gold_hit": 1,
+    "chars": 19625
+   },
+   "hist_cap": {
+    "items": 276,
+    "gold_hit": 1,
+    "chars": 19906
+   },
+   "cur_full_m": {
+    "items": 419,
+    "gold_hit": 1,
+    "chars": 31000
+   },
+   "cur_cap_m": {
+    "items": 275,
+    "gold_hit": 1,
+    "chars": 19934
+   }
+  },
+  "6b168ec8": {
+   "cur_full": {
+    "items": 401,
+    "gold_hit": 1,
+    "chars": 33366
+   },
+   "cur_cap": {
+    "items": 242,
+    "gold_hit": 1,
+    "chars": 19942
+   },
+   "hist_cap": {
+    "items": 244,
+    "gold_hit": 1,
+    "chars": 19953
+   },
+   "cur_full_m": {
+    "items": 395,
+    "gold_hit": 1,
+    "chars": 32378
+   },
+   "cur_cap_m": {
+    "items": 247,
+    "gold_hit": 1,
+    "chars": 19974
+   }
+  },
+  "21436231": {
+   "cur_full": {
+    "items": 383,
+    "gold_hit": 1,
+    "chars": 29283
+   },
+   "cur_cap": {
+    "items": 275,
+    "gold_hit": 1,
+    "chars": 19954
+   },
+   "hist_cap": {
+    "items": 277,
+    "gold_hit": 1,
+    "chars": 19956
+   },
+   "cur_full_m": {
+    "items": 365,
+    "gold_hit": 1,
+    "chars": 27663
+   },
+   "cur_cap_m": {
+    "items": 269,
+    "gold_hit": 1,
+    "chars": 19550
+   }
+  },
+  "95bcc1c8": {
+   "cur_full": {
+    "items": 419,
+    "gold_hit": 1,
+    "chars": 30673
+   },
+   "cur_cap": {
+    "items": 275,
+    "gold_hit": 1,
+    "chars": 19936
+   },
+   "hist_cap": {
+    "items": 287,
+    "gold_hit": 1,
+    "chars": 19937
+   },
+   "cur_full_m": {
+    "items": 423,
+    "gold_hit": 1,
+    "chars": 30273
+   },
+   "cur_cap_m": {
+    "items": 281,
+    "gold_hit": 1,
+    "chars": 19925
+   }
+  },
+  "0a995998": {
+   "cur_full": {
+    "items": 399,
+    "gold_hit": 3,
+    "chars": 31061
+   },
+   "cur_cap": {
+    "items": 261,
+    "gold_hit": 3,
+    "chars": 19908
+   },
+   "hist_cap": {
+    "items": 267,
+    "gold_hit": 3,
+    "chars": 19959
+   },
+   "cur_full_m": {
+    "items": 389,
+    "gold_hit": 3,
+    "chars": 29886
+   },
+   "cur_cap_m": {
+    "items": 266,
+    "gold_hit": 3,
+    "chars": 19980
+   }
+  },
+  "6d550036": {
+   "cur_full": {
+    "items": 371,
+    "gold_hit": 4,
+    "chars": 31045
+   },
+   "cur_cap": {
+    "items": 256,
+    "gold_hit": 4,
+    "chars": 19909
+   },
+   "hist_cap": {
+    "items": 260,
+    "gold_hit": 4,
+    "chars": 19990
+   },
+   "cur_full_m": {
+    "items": 368,
+    "gold_hit": 4,
+    "chars": 30556
+   },
+   "cur_cap_m": {
+    "items": 259,
+    "gold_hit": 3,
+    "chars": 19934
+   }
+  },
+  "3a704032": {
+   "cur_full": {
+    "items": 359,
+    "gold_hit": 3,
+    "chars": 27158
+   },
+   "cur_cap": {
+    "items": 274,
+    "gold_hit": 3,
+    "chars": 19929
+   },
+   "hist_cap": {
+    "items": 275,
+    "gold_hit": 3,
+    "chars": 19941
+   },
+   "cur_full_m": {
+    "items": 343,
+    "gold_hit": 3,
+    "chars": 25738
+   },
+   "cur_cap_m": {
+    "items": 277,
+    "gold_hit": 3,
+    "chars": 19956
+   }
+  },
+  "gpt4_f2262a51": {
+   "cur_full": {
+    "items": 388,
+    "gold_hit": 3,
+    "chars": 27951
+   },
+   "cur_cap": {
+    "items": 294,
+    "gold_hit": 3,
+    "chars": 19935
+   },
+   "hist_cap": {
+    "items": 301,
+    "gold_hit": 3,
+    "chars": 19999
+   },
+   "cur_full_m": {
+    "items": 374,
+    "gold_hit": 3,
+    "chars": 26600
+   },
+   "cur_cap_m": {
+    "items": 296,
+    "gold_hit": 3,
+    "chars": 19968
+   }
+  },
+  "c4a1ceb8": {
+   "cur_full": {
+    "items": 349,
+    "gold_hit": 4,
+    "chars": 27043
+   },
+   "cur_cap": {
+    "items": 266,
+    "gold_hit": 4,
+    "chars": 19927
+   },
+   "hist_cap": {
+    "items": 276,
+    "gold_hit": 4,
+    "chars": 19956
+   },
+   "cur_full_m": {
+    "items": 348,
+    "gold_hit": 4,
+    "chars": 26532
+   },
+   "cur_cap_m": {
+    "items": 269,
+    "gold_hit": 4,
+    "chars": 19949
+   }
+  },
+  "gpt4_a56e767c": {
+   "cur_full": {
+    "items": 354,
+    "gold_hit": 3,
+    "chars": 27632
+   },
+   "cur_cap": {
+    "items": 264,
+    "gold_hit": 3,
+    "chars": 19987
+   },
+   "hist_cap": {
+    "items": 276,
+    "gold_hit": 3,
+    "chars": 19992
+   },
+   "cur_full_m": {
+    "items": 347,
+    "gold_hit": 3,
+    "chars": 26550
+   },
+   "cur_cap_m": {
+    "items": 267,
+    "gold_hit": 3,
+    "chars": 19934
+   }
+  },
+  "46a3abf7": {
+   "cur_full": {
+    "items": 354,
+    "gold_hit": 3,
+    "chars": 28080
+   },
+   "cur_cap": {
+    "items": 262,
+    "gold_hit": 3,
+    "chars": 19941
+   },
+   "hist_cap": {
+    "items": 271,
+    "gold_hit": 3,
+    "chars": 19950
+   },
+   "cur_full_m": {
+    "items": 345,
+    "gold_hit": 3,
+    "chars": 27290
+   },
+   "cur_cap_m": {
+    "items": 261,
+    "gold_hit": 3,
+    "chars": 19962
+   }
+  },
+  "gpt4_2f8be40d": {
+   "cur_full": {
+    "items": 405,
+    "gold_hit": 3,
+    "chars": 30495
+   },
+   "cur_cap": {
+    "items": 277,
+    "gold_hit": 3,
+    "chars": 19955
+   },
+   "hist_cap": {
+    "items": 281,
+    "gold_hit": 3,
+    "chars": 19935
+   },
+   "cur_full_m": {
+    "items": 404,
+    "gold_hit": 3,
+    "chars": 29864
+   },
+   "cur_cap_m": {
+    "items": 282,
+    "gold_hit": 3,
+    "chars": 19983
+   }
+  },
+  "2e6d26dc": {
+   "cur_full": {
+    "items": 408,
+    "gold_hit": 4,
+    "chars": 31831
+   },
+   "cur_cap": {
+    "items": 266,
+    "gold_hit": 4,
+    "chars": 19943
+   },
+   "hist_cap": {
+    "items": 279,
+    "gold_hit": 4,
+    "chars": 19959
+   },
+   "cur_full_m": {
+    "items": 399,
+    "gold_hit": 4,
+    "chars": 30658
+   },
+   "cur_cap_m": {
+    "items": 268,
+    "gold_hit": 4,
+    "chars": 19942
+   }
+  },
+  "gpt4_15e38248": {
+   "cur_full": {
+    "items": 365,
+    "gold_hit": 4,
+    "chars": 27765
+   },
+   "cur_cap": {
+    "items": 271,
+    "gold_hit": 4,
+    "chars": 19910
+   },
+   "hist_cap": {
+    "items": 277,
+    "gold_hit": 4,
+    "chars": 19940
+   },
+   "cur_full_m": {
+    "items": 357,
+    "gold_hit": 4,
+    "chars": 26794
+   },
+   "cur_cap_m": {
+    "items": 275,
+    "gold_hit": 4,
+    "chars": 19980
+   }
+  },
+  "88432d0a": {
+   "cur_full": {
+    "items": 422,
+    "gold_hit": 4,
+    "chars": 35375
+   },
+   "cur_cap": {
+    "items": 243,
+    "gold_hit": 4,
+    "chars": 19956
+   },
+   "hist_cap": {
+    "items": 250,
+    "gold_hit": 4,
+    "chars": 19954
+   },
+   "cur_full_m": {
+    "items": 413,
+    "gold_hit": 4,
+    "chars": 34419
+   },
+   "cur_cap_m": {
+    "items": 244,
+    "gold_hit": 4,
+    "chars": 19908
+   }
+  },
+  "80ec1f4f": {
+   "cur_full": {
+    "items": 381,
+    "gold_hit": 3,
+    "chars": 30029
+   },
+   "cur_cap": {
+    "items": 260,
+    "gold_hit": 3,
+    "chars": 19910
+   },
+   "hist_cap": {
+    "items": 271,
+    "gold_hit": 3,
+    "chars": 19899
+   },
+   "cur_full_m": {
+    "items": 379,
+    "gold_hit": 3,
+    "chars": 29334
+   },
+   "cur_cap_m": {
+    "items": 267,
+    "gold_hit": 3,
+    "chars": 19948
+   }
+  },
+  "d23cf73b": {
+   "cur_full": {
+    "items": 391,
+    "gold_hit": 4,
+    "chars": 29134
+   },
+   "cur_cap": {
+    "items": 281,
+    "gold_hit": 4,
+    "chars": 19966
+   },
+   "hist_cap": {
+    "items": 282,
+    "gold_hit": 4,
+    "chars": 19961
+   },
+   "cur_full_m": {
+    "items": 381,
+    "gold_hit": 4,
+    "chars": 28019
+   },
+   "cur_cap_m": {
+    "items": 284,
+    "gold_hit": 4,
+    "chars": 19964
+   }
+  },
+  "gpt4_7fce9456": {
+   "cur_full": {
+    "items": 380,
+    "gold_hit": 5,
+    "chars": 30282
+   },
+   "cur_cap": {
+    "items": 267,
+    "gold_hit": 5,
+    "chars": 19949
+   },
+   "hist_cap": {
+    "items": 276,
+    "gold_hit": 5,
+    "chars": 19926
+   },
+   "cur_full_m": {
+    "items": 375,
+    "gold_hit": 5,
+    "chars": 29198
+   },
+   "cur_cap_m": {
+    "items": 271,
+    "gold_hit": 5,
+    "chars": 19998
+   }
+  },
+  "d682f1a2": {
+   "cur_full": {
+    "items": 378,
+    "gold_hit": 3,
+    "chars": 29222
+   },
+   "cur_cap": {
+    "items": 268,
+    "gold_hit": 3,
+    "chars": 19955
+   },
+   "hist_cap": {
+    "items": 275,
+    "gold_hit": 3,
+    "chars": 19938
+   },
+   "cur_full_m": {
+    "items": 374,
+    "gold_hit": 3,
+    "chars": 28544
+   },
+   "cur_cap_m": {
+    "items": 267,
+    "gold_hit": 3,
+    "chars": 19933
+   }
+  },
+  "2ce6a0f2": {
+   "cur_full": {
+    "items": 382,
+    "gold_hit": 4,
+    "chars": 30903
+   },
+   "cur_cap": {
+    "items": 251,
+    "gold_hit": 4,
+    "chars": 19969
+   },
+   "hist_cap": {
+    "items": 252,
+    "gold_hit": 4,
+    "chars": 19680
+   },
+   "cur_full_m": {
+    "items": 376,
+    "gold_hit": 4,
+    "chars": 30160
+   },
+   "cur_cap_m": {
+    "items": 253,
+    "gold_hit": 4,
+    "chars": 19952
+   }
+  },
+  "00ca467f": {
+   "cur_full": {
+    "items": 363,
+    "gold_hit": 3,
+    "chars": 29208
+   },
+   "cur_cap": {
+    "items": 254,
+    "gold_hit": 3,
+    "chars": 19895
+   },
+   "hist_cap": {
+    "items": 260,
+    "gold_hit": 3,
+    "chars": 19976
+   },
+   "cur_full_m": {
+    "items": 357,
+    "gold_hit": 3,
+    "chars": 28218
+   },
+   "cur_cap_m": {
+    "items": 266,
+    "gold_hit": 3,
+    "chars": 19986
+   }
+  },
+  "gpt4_31ff4165": {
+   "cur_full": {
+    "items": 311,
+    "gold_hit": 5,
+    "chars": 24663
+   },
+   "cur_cap": {
+    "items": 264,
+    "gold_hit": 5,
+    "chars": 19975
+   },
+   "hist_cap": {
+    "items": 273,
+    "gold_hit": 5,
+    "chars": 19988
+   },
+   "cur_full_m": {
+    "items": 311,
+    "gold_hit": 5,
+    "chars": 24066
+   },
+   "cur_cap_m": {
+    "items": 271,
+    "gold_hit": 5,
+    "chars": 19958
+   }
+  },
+  "2788b940": {
+   "cur_full": {
+    "items": 361,
+    "gold_hit": 4,
+    "chars": 29069
+   },
+   "cur_cap": {
+    "items": 251,
+    "gold_hit": 4,
+    "chars": 19886
+   },
+   "hist_cap": {
+    "items": 259,
+    "gold_hit": 4,
+    "chars": 19925
+   },
+   "cur_full_m": {
+    "items": 357,
+    "gold_hit": 4,
+    "chars": 28359
+   },
+   "cur_cap_m": {
+    "items": 256,
+    "gold_hit": 4,
+    "chars": 19996
+   }
+  },
+  "9d25d4e0": {
+   "cur_full": {
+    "items": 396,
+    "gold_hit": 3,
+    "chars": 31042
+   },
+   "cur_cap": {
+    "items": 265,
+    "gold_hit": 3,
+    "chars": 19966
+   },
+   "hist_cap": {
+    "items": 276,
+    "gold_hit": 3,
+    "chars": 19970
+   },
+   "cur_full_m": {
+    "items": 380,
+    "gold_hit": 3,
+    "chars": 29406
+   },
+   "cur_cap_m": {
+    "items": 272,
+    "gold_hit": 3,
+    "chars": 19997
+   }
+  },
+  "60472f9c": {
+   "cur_full": {
+    "items": 345,
+    "gold_hit": 3,
+    "chars": 25941
+   },
+   "cur_cap": {
+    "items": 277,
+    "gold_hit": 3,
+    "chars": 19996
+   },
+   "hist_cap": {
+    "items": 285,
+    "gold_hit": 3,
+    "chars": 19940
+   },
+   "cur_full_m": {
+    "items": 336,
+    "gold_hit": 3,
+    "chars": 24990
+   },
+   "cur_cap_m": {
+    "items": 270,
+    "gold_hit": 3,
+    "chars": 19954
+   }
+  },
+  "a9f6b44c": {
+   "cur_full": {
+    "items": 393,
+    "gold_hit": 3,
+    "chars": 31610
+   },
+   "cur_cap": {
+    "items": 263,
+    "gold_hit": 3,
+    "chars": 19890
+   },
+   "hist_cap": {
+    "items": 268,
+    "gold_hit": 3,
+    "chars": 19936
+   },
+   "cur_full_m": {
+    "items": 389,
+    "gold_hit": 3,
+    "chars": 30886
+   },
+   "cur_cap_m": {
+    "items": 268,
+    "gold_hit": 3,
+    "chars": 19903
+   }
+  },
+  "gpt4_ab202e7f": {
+   "cur_full": {
+    "items": 339,
+    "gold_hit": 5,
+    "chars": 27331
+   },
+   "cur_cap": {
+    "items": 256,
+    "gold_hit": 5,
+    "chars": 19943
+   },
+   "hist_cap": {
+    "items": 265,
+    "gold_hit": 5,
+    "chars": 19954
+   },
+   "cur_full_m": {
+    "items": 328,
+    "gold_hit": 5,
+    "chars": 26042
+   },
+   "cur_cap_m": {
+    "items": 256,
+    "gold_hit": 5,
+    "chars": 19990
+   }
+  },
+  "gpt4_e05b82a6": {
+   "cur_full": {
+    "items": 358,
+    "gold_hit": 4,
+    "chars": 28503
+   },
+   "cur_cap": {
+    "items": 250,
+    "gold_hit": 4,
+    "chars": 19810
+   },
+   "hist_cap": {
+    "items": 266,
+    "gold_hit": 4,
+    "chars": 19941
+   },
+   "cur_full_m": {
+    "items": 352,
+    "gold_hit": 4,
+    "chars": 27796
+   },
+   "cur_cap_m": {
+    "items": 255,
+    "gold_hit": 4,
+    "chars": 19970
+   }
+  },
+  "1a8a66a6": {
+   "cur_full": {
+    "items": 335,
+    "gold_hit": 4,
+    "chars": 25756
+   },
+   "cur_cap": {
+    "items": 263,
+    "gold_hit": 4,
+    "chars": 19995
+   },
+   "hist_cap": {
+    "items": 277,
+    "gold_hit": 4,
+    "chars": 19971
+   },
+   "cur_full_m": {
+    "items": 332,
+    "gold_hit": 4,
+    "chars": 25138
+   },
+   "cur_cap_m": {
+    "items": 263,
+    "gold_hit": 4,
+    "chars": 19655
+   }
+  },
+  "c2ac3c61": {
+   "cur_full": {
+    "items": 387,
+    "gold_hit": 2,
+    "chars": 31357
+   },
+   "cur_cap": {
+    "items": 252,
+    "gold_hit": 2,
+    "chars": 19823
+   },
+   "hist_cap": {
+    "items": 262,
+    "gold_hit": 2,
+    "chars": 19931
+   },
+   "cur_full_m": {
+    "items": 378,
+    "gold_hit": 2,
+    "chars": 30477
+   },
+   "cur_cap_m": {
+    "items": 254,
+    "gold_hit": 2,
+    "chars": 19958
+   }
+  },
+  "bf659f65": {
+   "cur_full": {
+    "items": 399,
+    "gold_hit": 3,
+    "chars": 30302
+   },
+   "cur_cap": {
+    "items": 274,
+    "gold_hit": 3,
+    "chars": 19957
+   },
+   "hist_cap": {
+    "items": 280,
+    "gold_hit": 3,
+    "chars": 19701
+   },
+   "cur_full_m": {
+    "items": 387,
+    "gold_hit": 3,
+    "chars": 29049
+   },
+   "cur_cap_m": {
+    "items": 267,
+    "gold_hit": 3,
+    "chars": 19564
+   }
+  },
+  "81507db6": {
+   "cur_full": {
+    "items": 450,
+    "gold_hit": 5,
+    "chars": 35238
+   },
+   "cur_cap": {
+    "items": 265,
+    "gold_hit": 5,
+    "chars": 19994
+   },
+   "hist_cap": {
+    "items": 267,
+    "gold_hit": 5,
+    "chars": 19659
+   },
+   "cur_full_m": {
+    "items": 451,
+    "gold_hit": 5,
+    "chars": 34757
+   },
+   "cur_cap_m": {
+    "items": 270,
+    "gold_hit": 5,
+    "chars": 19972
+   }
+  },
+  "4f54b7c9": {
+   "cur_full": {
+    "items": 366,
+    "gold_hit": 2,
+    "chars": 31786
+   },
+   "cur_cap": {
+    "items": 231,
+    "gold_hit": 2,
+    "chars": 19897
+   },
+   "hist_cap": {
+    "items": 234,
+    "gold_hit": 2,
+    "chars": 19975
+   },
+   "cur_full_m": {
+    "items": 361,
+    "gold_hit": 2,
+    "chars": 31044
+   },
+   "cur_cap_m": {
+    "items": 235,
+    "gold_hit": 2,
+    "chars": 19951
+   }
+  },
+  "6456829e": {
+   "cur_full": {
+    "items": 398,
+    "gold_hit": 2,
+    "chars": 31878
+   },
+   "cur_cap": {
+    "items": 262,
+    "gold_hit": 2,
+    "chars": 19887
+   },
+   "hist_cap": {
+    "items": 269,
+    "gold_hit": 2,
+    "chars": 19905
+   },
+   "cur_full_m": {
+    "items": 388,
+    "gold_hit": 2,
+    "chars": 30759
+   },
+   "cur_cap_m": {
+    "items": 265,
+    "gold_hit": 2,
+    "chars": 19969
+   }
+  },
+  "681a1674": {
+   "cur_full": {
+    "items": 356,
+    "gold_hit": 2,
+    "chars": 28286
+   },
+   "cur_cap": {
+    "items": 251,
+    "gold_hit": 2,
+    "chars": 19955
+   },
+   "hist_cap": {
+    "items": 262,
+    "gold_hit": 2,
+    "chars": 19944
+   },
+   "cur_full_m": {
+    "items": 347,
+    "gold_hit": 2,
+    "chars": 27294
+   },
+   "cur_cap_m": {
+    "items": 256,
+    "gold_hit": 2,
+    "chars": 19933
+   }
+  },
+  "4adc0475": {
+   "cur_full": {
+    "items": 386,
+    "gold_hit": 2,
+    "chars": 30652
+   },
+   "cur_cap": {
+    "items": 264,
+    "gold_hit": 2,
+    "chars": 19990
+   },
+   "hist_cap": {
+    "items": 271,
+    "gold_hit": 2,
+    "chars": 19981
+   },
+   "cur_full_m": {
+    "items": 381,
+    "gold_hit": 2,
+    "chars": 29908
+   },
+   "cur_cap_m": {
+    "items": 263,
+    "gold_hit": 2,
+    "chars": 19946
+   }
+  },
+  "ef66a6e5": {
+   "cur_full": {
+    "items": 408,
+    "gold_hit": 2,
+    "chars": 31633
+   },
+   "cur_cap": {
+    "items": 254,
+    "gold_hit": 2,
+    "chars": 19895
+   },
+   "hist_cap": {
+    "items": 268,
+    "gold_hit": 2,
+    "chars": 19929
+   },
+   "cur_full_m": {
+    "items": 397,
+    "gold_hit": 2,
+    "chars": 30407
+   },
+   "cur_cap_m": {
+    "items": 257,
+    "gold_hit": 2,
+    "chars": 19709
+   }
+  },
+  "8979f9ec": {
+   "cur_full": {
+    "items": 374,
+    "gold_hit": 2,
+    "chars": 27947
+   },
+   "cur_cap": {
+    "items": 287,
+    "gold_hit": 2,
+    "chars": 19907
+   },
+   "hist_cap": {
+    "items": 297,
+    "gold_hit": 2,
+    "chars": 19942
+   },
+   "cur_full_m": {
+    "items": 374,
+    "gold_hit": 2,
+    "chars": 27422
+   },
+   "cur_cap_m": {
+    "items": 293,
+    "gold_hit": 2,
+    "chars": 19933
+   }
+  },
+  "60159905": {
+   "cur_full": {
+    "items": 388,
+    "gold_hit": 2,
+    "chars": 31469
+   },
+   "cur_cap": {
+    "items": 249,
+    "gold_hit": 2,
+    "chars": 19954
+   },
+   "hist_cap": {
+    "items": 258,
+    "gold_hit": 2,
+    "chars": 19935
+   },
+   "cur_full_m": {
+    "items": 376,
+    "gold_hit": 2,
+    "chars": 29889
+   },
+   "cur_cap_m": {
+    "items": 252,
+    "gold_hit": 2,
+    "chars": 19935
+   }
+  },
+  "8e91e7d9": {
+   "cur_full": {
+    "items": 321,
+    "gold_hit": 2,
+    "chars": 26606
+   },
+   "cur_cap": {
+    "items": 252,
+    "gold_hit": 2,
+    "chars": 19917
+   },
+   "hist_cap": {
+    "items": 257,
+    "gold_hit": 2,
+    "chars": 19884
+   },
+   "cur_full_m": {
+    "items": 312,
+    "gold_hit": 2,
+    "chars": 25663
+   },
+   "cur_cap_m": {
+    "items": 253,
+    "gold_hit": 2,
+    "chars": 19965
+   }
+  },
+  "21d02d0d": {
+   "cur_full": {
+    "items": 379,
+    "gold_hit": 2,
+    "chars": 28819
+   },
+   "cur_cap": {
+    "items": 266,
+    "gold_hit": 2,
+    "chars": 19984
+   },
+   "hist_cap": {
+    "items": 283,
+    "gold_hit": 2,
+    "chars": 19938
+   },
+   "cur_full_m": {
+    "items": 372,
+    "gold_hit": 2,
+    "chars": 28072
+   },
+   "cur_cap_m": {
+    "items": 269,
+    "gold_hit": 2,
+    "chars": 19938
+   }
+  },
+  "6456829e_abs": {
+   "cur_full": {
+    "items": 350,
+    "gold_hit": 2,
+    "chars": 28841
+   },
+   "cur_cap": {
+    "items": 243,
+    "gold_hit": 2,
+    "chars": 19991
+   },
+   "hist_cap": {
+    "items": 251,
+    "gold_hit": 2,
+    "chars": 19942
+   },
+   "cur_full_m": {
+    "items": 341,
+    "gold_hit": 2,
+    "chars": 27825
+   },
+   "cur_cap_m": {
+    "items": 244,
+    "gold_hit": 2,
+    "chars": 19945
+   }
+  },
+  "6aeb4375": {
+   "cur_full": {
+    "items": 377,
+    "gold_hit": 2,
+    "chars": 29963
+   },
+   "cur_cap": {
+    "items": 257,
+    "gold_hit": 2,
+    "chars": 19951
+   },
+   "hist_cap": {
+    "items": 264,
+    "gold_hit": 2,
+    "chars": 19892
+   },
+   "cur_full_m": {
+    "items": 360,
+    "gold_hit": 2,
+    "chars": 28155
+   },
+   "cur_cap_m": {
+    "items": 258,
+    "gold_hit": 2,
+    "chars": 19940
+   }
+  },
+  "89941a93": {
+   "cur_full": {
+    "items": 412,
+    "gold_hit": 2,
+    "chars": 30715
+   },
+   "cur_cap": {
+    "items": 274,
+    "gold_hit": 2,
+    "chars": 19920
+   },
+   "hist_cap": {
+    "items": 287,
+    "gold_hit": 2,
+    "chars": 19902
+   },
+   "cur_full_m": {
+    "items": 405,
+    "gold_hit": 2,
+    "chars": 29746
+   },
+   "cur_cap_m": {
+    "items": 281,
+    "gold_hit": 2,
+    "chars": 19974
+   }
+  },
+  "a1eacc2a": {
+   "cur_full": {
+    "items": 396,
+    "gold_hit": 2,
+    "chars": 32137
+   },
+   "cur_cap": {
+    "items": 251,
+    "gold_hit": 2,
+    "chars": 19990
+   },
+   "hist_cap": {
+    "items": 263,
+    "gold_hit": 2,
+    "chars": 19940
+   },
+   "cur_full_m": {
+    "items": 392,
+    "gold_hit": 2,
+    "chars": 31189
+   },
+   "cur_cap_m": {
+    "items": 252,
+    "gold_hit": 2,
+    "chars": 19887
+   }
+  },
+  "031748ae": {
+   "cur_full": {
+    "items": 372,
+    "gold_hit": 2,
+    "chars": 30317
+   },
+   "cur_cap": {
+    "items": 248,
+    "gold_hit": 2,
+    "chars": 19954
+   },
+   "hist_cap": {
+    "items": 259,
+    "gold_hit": 2,
+    "chars": 19932
+   },
+   "cur_full_m": {
+    "items": 361,
+    "gold_hit": 2,
+    "chars": 29320
+   },
+   "cur_cap_m": {
+    "items": 251,
+    "gold_hit": 2,
+    "chars": 19996
+   }
+  },
+  "f9e8c073": {
+   "cur_full": {
+    "items": 501,
+    "gold_hit": 2,
+    "chars": 40325
+   },
+   "cur_cap": {
+    "items": 273,
+    "gold_hit": 2,
+    "chars": 19964
+   },
+   "hist_cap": {
+    "items": 270,
+    "gold_hit": 2,
+    "chars": 19935
+   },
+   "cur_full_m": {
+    "items": 493,
+    "gold_hit": 2,
+    "chars": 39199
+   },
+   "cur_cap_m": {
+    "items": 256,
+    "gold_hit": 2,
+    "chars": 19744
+   }
+  },
+  "b6019101": {
+   "cur_full": {
+    "items": 358,
+    "gold_hit": 2,
+    "chars": 29087
+   },
+   "cur_cap": {
+    "items": 247,
+    "gold_hit": 2,
+    "chars": 19996
+   },
+   "hist_cap": {
+    "items": 254,
+    "gold_hit": 2,
+    "chars": 19886
+   },
+   "cur_full_m": {
+    "items": 358,
+    "gold_hit": 2,
+    "chars": 28558
+   },
+   "cur_cap_m": {
+    "items": 251,
+    "gold_hit": 2,
+    "chars": 19923
+   }
+  },
+  "45dc21b6": {
+   "cur_full": {
+    "items": 425,
+    "gold_hit": 2,
+    "chars": 34752
+   },
+   "cur_cap": {
+    "items": 257,
+    "gold_hit": 2,
+    "chars": 19994
+   },
+   "hist_cap": {
+    "items": 277,
+    "gold_hit": 2,
+    "chars": 19941
+   },
+   "cur_full_m": {
+    "items": 411,
+    "gold_hit": 2,
+    "chars": 33569
+   },
+   "cur_cap_m": {
+    "items": 256,
+    "gold_hit": 2,
+    "chars": 19975
+   }
+  },
+  "618f13b2": {
+   "cur_full": {
+    "items": 347,
+    "gold_hit": 2,
+    "chars": 28212
+   },
+   "cur_cap": {
+    "items": 247,
+    "gold_hit": 2,
+    "chars": 19836
+   },
+   "hist_cap": {
+    "items": 256,
+    "gold_hit": 2,
+    "chars": 19964
+   },
+   "cur_full_m": {
+    "items": 337,
+    "gold_hit": 2,
+    "chars": 27113
+   },
+   "cur_cap_m": {
+    "items": 252,
+    "gold_hit": 2,
+    "chars": 19999
+   }
+  },
+  "8fb83627": {
+   "cur_full": {
+    "items": 434,
+    "gold_hit": 2,
+    "chars": 35267
+   },
+   "cur_cap": {
+    "items": 247,
+    "gold_hit": 2,
+    "chars": 19917
+   },
+   "hist_cap": {
+    "items": 254,
+    "gold_hit": 2,
+    "chars": 19978
+   },
+   "cur_full_m": {
+    "items": 420,
+    "gold_hit": 2,
+    "chars": 33807
+   },
+   "cur_cap_m": {
+    "items": 253,
+    "gold_hit": 2,
+    "chars": 19925
+   }
+  },
+  "4b24c848": {
+   "cur_full": {
+    "items": 423,
+    "gold_hit": 2,
+    "chars": 32637
+   },
+   "cur_cap": {
+    "items": 273,
+    "gold_hit": 2,
+    "chars": 19942
+   },
+   "hist_cap": {
+    "items": 281,
+    "gold_hit": 2,
+    "chars": 19991
+   },
+   "cur_full_m": {
+    "items": 413,
+    "gold_hit": 2,
+    "chars": 31536
+   },
+   "cur_cap_m": {
+    "items": 276,
+    "gold_hit": 2,
+    "chars": 19929
+   }
+  },
+  "603deb26": {
+   "cur_full": {
+    "items": 404,
+    "gold_hit": 2,
+    "chars": 30303
+   },
+   "cur_cap": {
+    "items": 273,
+    "gold_hit": 2,
+    "chars": 19878
+   },
+   "hist_cap": {
+    "items": 279,
+    "gold_hit": 2,
+    "chars": 19976
+   },
+   "cur_full_m": {
+    "items": 399,
+    "gold_hit": 2,
+    "chars": 29457
+   },
+   "cur_cap_m": {
+    "items": 279,
+    "gold_hit": 2,
+    "chars": 19986
+   }
+  },
+  "7401057b": {
+   "cur_full": {
+    "items": 390,
+    "gold_hit": 2,
+    "chars": 30536
+   },
+   "cur_cap": {
+    "items": 267,
+    "gold_hit": 2,
+    "chars": 19874
+   },
+   "hist_cap": {
+    "items": 277,
+    "gold_hit": 2,
+    "chars": 19934
+   },
+   "cur_full_m": {
+    "items": 385,
+    "gold_hit": 2,
+    "chars": 29910
+   },
+   "cur_cap_m": {
+    "items": 274,
+    "gold_hit": 2,
+    "chars": 19986
+   }
+  },
+  "06db6396": {
+   "cur_full": {
+    "items": 391,
+    "gold_hit": 2,
+    "chars": 30370
+   },
+   "cur_cap": {
+    "items": 274,
+    "gold_hit": 2,
+    "chars": 19979
+   },
+   "hist_cap": {
+    "items": 280,
+    "gold_hit": 2,
+    "chars": 19949
+   },
+   "cur_full_m": {
+    "items": 382,
+    "gold_hit": 2,
+    "chars": 29520
+   },
+   "cur_cap_m": {
+    "items": 274,
+    "gold_hit": 2,
+    "chars": 19962
+   }
+  },
+  "ba61f0b9": {
+   "cur_full": {
+    "items": 453,
+    "gold_hit": 2,
+    "chars": 35199
+   },
+   "cur_cap": {
+    "items": 260,
+    "gold_hit": 2,
+    "chars": 19997
+   },
+   "hist_cap": {
+    "items": 266,
+    "gold_hit": 2,
+    "chars": 19930
+   },
+   "cur_full_m": {
+    "items": 456,
+    "gold_hit": 2,
+    "chars": 34600
+   },
+   "cur_cap_m": {
+    "items": 261,
+    "gold_hit": 2,
+    "chars": 19663
+   }
+  },
+  "26bdc477": {
+   "cur_full": {
+    "items": 485,
+    "gold_hit": 2,
+    "chars": 38147
+   },
+   "cur_cap": {
+    "items": 253,
+    "gold_hit": 2,
+    "chars": 19972
+   },
+   "hist_cap": {
+    "items": 260,
+    "gold_hit": 2,
+    "chars": 19962
+   },
+   "cur_full_m": {
+    "items": 468,
+    "gold_hit": 2,
+    "chars": 36536
+   },
+   "cur_cap_m": {
+    "items": 259,
+    "gold_hit": 2,
+    "chars": 19980
+   }
+  },
+  "18dcd5a5": {
+   "cur_full": {
+    "items": 377,
+    "gold_hit": 1,
+    "chars": 28631
+   },
+   "cur_cap": {
+    "items": 264,
+    "gold_hit": 0,
+    "chars": 19880
+   },
+   "hist_cap": {
+    "items": 274,
+    "gold_hit": 0,
+    "chars": 19998
+   },
+   "cur_full_m": {
+    "items": 377,
+    "gold_hit": 1,
+    "chars": 28270
+   },
+   "cur_cap_m": {
+    "items": 264,
+    "gold_hit": 0,
+    "chars": 19519
+   }
+  },
+  "e8a79c70": {
+   "cur_full": {
+    "items": 405,
+    "gold_hit": 1,
+    "chars": 30218
+   },
+   "cur_cap": {
+    "items": 278,
+    "gold_hit": 1,
+    "chars": 19934
+   },
+   "hist_cap": {
+    "items": 282,
+    "gold_hit": 1,
+    "chars": 19998
+   },
+   "cur_full_m": {
+    "items": 395,
+    "gold_hit": 1,
+    "chars": 28949
+   },
+   "cur_cap_m": {
+    "items": 284,
+    "gold_hit": 1,
+    "chars": 19935
+   }
+  },
+  "4baee567": {
+   "cur_full": {
+    "items": 430,
+    "gold_hit": 1,
+    "chars": 31849
+   },
+   "cur_cap": {
+    "items": 276,
+    "gold_hit": 1,
+    "chars": 19900
+   },
+   "hist_cap": {
+    "items": 288,
+    "gold_hit": 1,
+    "chars": 19945
+   },
+   "cur_full_m": {
+    "items": 427,
+    "gold_hit": 1,
+    "chars": 31124
+   },
+   "cur_cap_m": {
+    "items": 280,
+    "gold_hit": 1,
+    "chars": 19970
+   }
+  }
+ }
+}

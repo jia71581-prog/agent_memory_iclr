@@ -1,0 +1,383 @@
+[
+ {
+  "qid": "0a995998",
+  "question": "How many items of clothing do I need to pick up or return from a store?",
+  "gold": 3,
+  "pred": "You need to pick up **1 item of clothing from a store**: the new pair of boots from **Zara**.  \n(The navy blue blazer is a dry-cleaning pickup, not a store pickup/return.)",
+  "f1": 0.0,
+  "qlabel": "neutral",
+  "view_mode": "current",
+  "question_date": "2023/02/15 (Wed) 23:50",
+  "n_sess": 44,
+  "answer_session_ids": [
+   "answer_afa9873b_2",
+   "answer_afa9873b_3",
+   "answer_afa9873b_1"
+  ]
+ },
+ {
+  "qid": "6d550036",
+  "question": "How many projects have I led or am currently leading?",
+  "gold": 2,
+  "pred": "I can identify **5 distinct projects** you’ve led or are currently leading:\n\n1. **Nigeria rural water project** — planning a project to connect 100 rural villages to running water.\n2. **Solo Data Mining class project** — currently working on it.\n3. **New product feature launch** — planning a June launch and creating a project timeline while leading a team.\n4. **High-priority",
+  "f1": 0.035,
+  "qlabel": "current",
+  "view_mode": "current",
+  "question_date": "2023/05/30 (Tue) 23:32",
+  "n_sess": 47,
+  "answer_session_ids": [
+   "answer_ec904b3c_1",
+   "answer_ec904b3c_4",
+   "answer_ec904b3c_3",
+   "answer_ec904b3c_2"
+  ]
+ },
+ {
+  "qid": "3a704032",
+  "question": "How many plants did I acquire in the last month?",
+  "gold": 3,
+  "pred": "You acquired **2 plants** in the last month: the **peace lily** and the **succulent** (both acquired two weeks before May 20).",
+  "f1": 0.0,
+  "qlabel": "neutral",
+  "view_mode": "current",
+  "question_date": "2023/05/30 (Tue) 21:51",
+  "n_sess": 48,
+  "answer_session_ids": [
+   "answer_c2204106_2",
+   "answer_c2204106_3",
+   "answer_c2204106_1"
+  ]
+ },
+ {
+  "qid": "46a3abf7",
+  "question": "How many tanks do I currently have, including the one I set up for my friend's kid?",
+  "gold": 3,
+  "pred": "You currently have **2 tanks**: your **20-gallon community tank** and the **1-gallon tank** you set up for your friend’s kid. (The 5-gallon tank was your old one.)",
+  "f1": 0.0,
+  "qlabel": "current",
+  "view_mode": "current",
+  "question_date": "2023/05/30 (Tue) 21:36",
+  "n_sess": 50,
+  "answer_session_ids": [
+   "answer_c65042d7_3",
+   "answer_c65042d7_2",
+   "answer_c65042d7_1"
+  ]
+ },
+ {
+  "qid": "gpt4_2f8be40d",
+  "question": "How many weddings have I attended in this year?",
+  "gold": "I attended three weddings. The couples were Rachel and Mike, Emily and Sarah, and Jen and Tom.",
+  "pred": "You have attended **4 weddings this year**:  \n1. Your college roommate Emily’s wedding  \n2. Your cousin Rachel’s wedding in August  \n3. Your sister’s wedding  \n4. Your friend Jen’s wedding last weekend",
+  "f1": 0.196,
+  "qlabel": "neutral",
+  "view_mode": "current",
+  "question_date": "2023/10/15 (Sun) 23:47",
+  "n_sess": 46,
+  "answer_session_ids": [
+   "answer_e7b0637e_2",
+   "answer_e7b0637e_1",
+   "answer_e7b0637e_3"
+  ]
+ },
+ {
+  "qid": "7024f17c",
+  "question": "How many hours of jogging and yoga did I do last week?",
+  "gold": "0.5 hours",
+  "pred": "The context doesn’t provide enough information to calculate how many hours of jogging and yoga you did last week. It only mentions:\n\n- A **30-minute jog** on Saturday, 2023/05/20 (not last week).\n- Yoga plans (e.g., MWF mornings, 1–2 sessions/week) and that you used to practice **3 times a week, 2 hours each**, but were slacking off as of 2023/05/22.\n\nNo completed jogging or yoga durations for last week (around 2023/05/22–2023/05/28) are recorded.",
+  "f1": 0.024,
+  "qlabel": "neutral",
+  "view_mode": "current",
+  "question_date": "2023/05/30 (Tue) 21:24",
+  "n_sess": 47,
+  "answer_session_ids": [
+   "answer_a21f3697_1",
+   "answer_a21f3697_2",
+   "answer_a21f3697_3"
+  ]
+ },
+ {
+  "qid": "gpt4_2ba83207",
+  "question": "Which grocery store did I spend the most money at in the past month?",
+  "gold": "Thrive Market",
+  "pred": "You spent the most at **Walmart** in the past month — about **$120** (grocery shopping last Saturday).  \n\nNote: you also spent about **$150 at Thrive Market**, but that was “last month,” so it may fall outside the past-month window.",
+  "f1": 0.105,
+  "qlabel": "neutral",
+  "view_mode": "current",
+  "question_date": "2023/05/30 (Tue) 22:59",
+  "n_sess": 53,
+  "answer_session_ids": [
+   "answer_6a3b5c13_3",
+   "answer_6a3b5c13_1",
+   "answer_6a3b5c13_2",
+   "answer_6a3b5c13_4"
+  ]
+ },
+ {
+  "qid": "2ce6a0f2",
+  "question": "How many different art-related events did I attend in the past month?",
+  "gold": 4,
+  "pred": "You attended **3** art-related events in the past month:\n\n1. **“Women in Art”** exhibition — February 10  \n2. **“Art Afternoon”** volunteering at the Children’s Museum — February 17  \n3. **“The Evolution of Street Art”** lecture at the Art Gallery — March 3",
+  "f1": 0.0,
+  "qlabel": "neutral",
+  "view_mode": "current",
+  "question_date": "2023/03/08 (Wed) 23:27",
+  "n_sess": 47,
+  "answer_session_ids": [
+   "answer_901a6763_2",
+   "answer_901a6763_4",
+   "answer_901a6763_1",
+   "answer_901a6763_3"
+  ]
+ },
+ {
+  "qid": "d851d5ba",
+  "question": "How much money did I raise for charity in total?",
+  "gold": "$3,750",
+  "pred": "You raised/helped raise **at least $8,750** for charity in total:\n\n- **$1,000+** for the local children’s hospital bake sale  \n- **$250** for the local food bank via “Run for Hunger”  \n- **$500** for the American Cancer Society  \n- **$2,000** for the local animal shelter  \n- **$5,000+** from the music benefit concert for music education  \n\nSince two amounts are “over,” the exact total is higher than $8,750.",
+  "f1": 0.031,
+  "qlabel": "neutral",
+  "view_mode": "current",
+  "question_date": "2023/03/20 (Mon) 23:59",
+  "n_sess": 46,
+  "answer_session_ids": [
+   "answer_5cdf9bd2_2",
+   "answer_5cdf9bd2_1",
+   "answer_5cdf9bd2_3",
+   "answer_5cdf9bd2_4"
+  ]
+ },
+ {
+  "qid": "gpt4_ab202e7f",
+  "question": "How many kitchen items did I replace or fix?",
+  "gold": "I replaced or fixed five items: the kitchen faucet, the kitchen mat, the toaster, the coffee maker, and the kitchen shelves.",
+  "pred": "You replaced or fixed **4 kitchen items**:\n\n1. Kitchen shelves — fixed  \n2. Kitchen mat — replaced  \n3. Kitchen faucet — replaced  \n4. Old toaster — replaced with a toaster oven",
+  "f1": 0.524,
+  "qlabel": "neutral",
+  "view_mode": "current",
+  "question_date": "2023/05/30 (Tue) 22:20",
+  "n_sess": 46,
+  "answer_session_ids": [
+   "answer_728deb4d_5",
+   "answer_728deb4d_2",
+   "answer_728deb4d_3",
+   "answer_728deb4d_1",
+   "answer_728deb4d_4"
+  ]
+ },
+ {
+  "qid": "gpt4_731e37d7",
+  "question": "How much total money did I spend on attending workshops in the last four months?",
+  "gold": "$720",
+  "pred": "Based on the context, you spent **$520** total on workshops in the last four months:\n\n- **$20** for the half-day mindfulness workshop on December 12  \n- **$500** for the digital marketing workshop (paid on 2023/02/26)\n\nNo other workshop costs are mentioned.",
+  "f1": 0.0,
+  "qlabel": "neutral",
+  "view_mode": "current",
+  "question_date": "2023/02/26 (Sun) 23:35",
+  "n_sess": 48,
+  "answer_session_ids": [
+   "answer_826d51da_3",
+   "answer_826d51da_4",
+   "answer_826d51da_2",
+   "answer_826d51da_1"
+  ]
+ },
+ {
+  "qid": "e3038f8c",
+  "question": "How many rare items do I have in total?",
+  "gold": 99,
+  "pred": "You have at least **74** rare items:\n\n- **12** rare figurines  \n- **57** rare records  \n- **5** rare books  \n\nThe exact total can’t be determined because the number of **rare coins** you own isn’t specified.",
+  "f1": 0.0,
+  "qlabel": "neutral",
+  "view_mode": "current",
+  "question_date": "2023/05/30 (Tue) 20:48",
+  "n_sess": 45,
+  "answer_session_ids": [
+   "answer_b6018747_2",
+   "answer_b6018747_4",
+   "answer_b6018747_1",
+   "answer_b6018747_3"
+  ]
+ },
+ {
+  "qid": "bf659f65",
+  "question": "How many music albums or EPs have I purchased or downloaded?",
+  "gold": 3,
+  "pred": "Based on the context, you have **2** explicitly recorded music albums/EPs:\n\n1. **Billie Eilish – *Happier Than Ever*** (downloaded on Spotify)\n2. **The Whiskey Wanderers – *Midnight Sky*** (EP, purchased at a festival merchandise booth)\n\nThe *Midnight Sky* EP is mentioned more than once, but it’s the same release. So the count is **2**.  \n*(If counting the Tame Impala vinyl mentioned in passing, it could be 3, but it isn’t recorded as a clear purchase/download fact.)*",
+  "f1": 0.028,
+  "qlabel": "neutral",
+  "view_mode": "current",
+  "question_date": "2023/05/30 (Tue) 21:58",
+  "n_sess": 52,
+  "answer_session_ids": [
+   "answer_7726e7e9_1",
+   "answer_7726e7e9_3",
+   "answer_7726e7e9_2"
+  ]
+ },
+ {
+  "qid": "51c32626",
+  "question": "When did I submit my research paper on sentiment analysis?",
+  "gold": "February 1st",
+  "pred": "The context doesn’t specify the exact date you submitted your research paper on sentiment analysis. It only says you submitted a paper on sentiment analysis to ACL, as mentioned on 2023/05/22.",
+  "f1": 0.0,
+  "qlabel": "neutral",
+  "view_mode": "current",
+  "question_date": "2023/05/30 (Tue) 16:23",
+  "n_sess": 51,
+  "answer_session_ids": [
+   "answer_58820c75_1",
+   "answer_58820c75_2"
+  ]
+ },
+ {
+  "qid": "9ee3ecd6",
+  "question": "How many points do I need to earn to redeem a free skincare product at Sephora?",
+  "gold": "100",
+  "pred": "You need **300 points** to redeem a free skincare product at Sephora.",
+  "f1": 0.0,
+  "qlabel": "neutral",
+  "view_mode": "current",
+  "question_date": "2023/05/30 (Tue) 21:46",
+  "n_sess": 50,
+  "answer_session_ids": [
+   "answer_66c23110_1",
+   "answer_66c23110_2"
+  ]
+ },
+ {
+  "qid": "92a0aa75",
+  "question": "How long have I been working in my current role?",
+  "gold": "1 year and 5 months",
+  "pred": "The context indicates you have **3 years and 9 months of experience in the company** (as of 2023/05/29). It does not explicitly state how long you’ve been in your current role specifically, but if you meant company tenure, that’s the figure.",
+  "f1": 0.085,
+  "qlabel": "current",
+  "view_mode": "current",
+  "question_date": "2023/05/30 (Tue) 21:25",
+  "n_sess": 42,
+  "answer_session_ids": [
+   "answer_6cb8f792_1",
+   "answer_6cb8f792_2"
+  ]
+ },
+ {
+  "qid": "67e0d0f2",
+  "question": "What is the total number of online courses I've completed?",
+  "gold": "20",
+  "pred": "Based on the context, you’ve completed **12 courses on Coursera**. It also mentions online courses on edX, but no number is given for those, so the explicit total is **12** (plus any edX courses not counted in the context).",
+  "f1": 0.0,
+  "qlabel": "neutral",
+  "view_mode": "current",
+  "question_date": "2023/05/30 (Tue) 23:23",
+  "n_sess": 52,
+  "answer_session_ids": [
+   "answer_3a5010af_2",
+   "answer_3a5010af_1"
+  ]
+ },
+ {
+  "qid": "ba358f49",
+  "question": "How many years will I be when my friend Rachel gets married?",
+  "gold": "33",
+  "pred": "The context doesn’t state your current age, so I can’t give an exact number. It only says Rachel is getting married next year — so you’ll be one year older than you are now.",
+  "f1": 0.0,
+  "qlabel": "neutral",
+  "view_mode": "current",
+  "question_date": "2022/09/01 (Thu) 23:52",
+  "n_sess": 41,
+  "answer_session_ids": [
+   "answer_cbd08e3c_1",
+   "answer_cbd08e3c_2"
+  ]
+ },
+ {
+  "qid": "73d42213",
+  "question": "What time did I reach the clinic on Monday?",
+  "gold": "9:00 AM",
+  "pred": "The context does not say what time you reached the clinic on Monday. It only mentions you left home at 7 AM and returned to the office around 1:00 PM.",
+  "f1": 0.129,
+  "qlabel": "neutral",
+  "view_mode": "current",
+  "question_date": "2023/05/30 (Tue) 22:10",
+  "n_sess": 49,
+  "answer_session_ids": [
+   "answer_1881e7db_1",
+   "answer_1881e7db_2"
+  ]
+ },
+ {
+  "qid": "157a136e",
+  "question": "How many years older is my grandma than me?",
+  "gold": "43",
+  "pred": "I don’t know from the provided context. It says your grandma is 75 years old, but it doesn’t state your age, so the age difference can’t be calculated.",
+  "f1": 0.0,
+  "qlabel": "neutral",
+  "view_mode": "current",
+  "question_date": "2024/02/05 (Mon) 23:49",
+  "n_sess": 47,
+  "answer_session_ids": [
+   "answer_8de18468_2",
+   "answer_8de18468_1"
+  ]
+ },
+ {
+  "qid": "c18a7dc8",
+  "question": "How many years older am I than when I graduated from college?",
+  "gold": "7",
+  "pred": "I don’t have your college graduation year. You were 32 as of 2023/05/25 and graduated from UC Berkeley, but if you graduated at the typical age of 22, you would be **10 years older** now.",
+  "f1": 0.0,
+  "qlabel": "neutral",
+  "view_mode": "current",
+  "question_date": "2023/05/30 (Tue) 23:37",
+  "n_sess": 49,
+  "answer_session_ids": [
+   "answer_2e2085fa_2",
+   "answer_2e2085fa_1"
+  ]
+ },
+ {
+  "qid": "37f165cf",
+  "question": "What was the page count of the two novels I finished in January and March?",
+  "gold": "856",
+  "pred": "I can’t determine which two novels you finished in January and March—the context doesn’t tie any novel completions to those months. The page counts recorded are: **The Nightingale = 440 pages**, **The Power = 341 pages**, and a **recently finished novel = 416 pages**.",
+  "f1": 0.0,
+  "qlabel": "neutral",
+  "view_mode": "current",
+  "question_date": "2023/05/30 (Tue) 19:21",
+  "n_sess": 45,
+  "answer_session_ids": [
+   "answer_6b9b2b1e_2",
+   "answer_6b9b2b1e_1"
+  ]
+ },
+ {
+  "qid": "a96c20ee_abs",
+  "question": "At which university did I present a poster for my undergrad course research project?",
+  "gold": "The information provided is not enough. You did not mention presenting a poster for your undergrad course research project.",
+  "pred": "You presented your poster at **Harvard University** during your first research conference.",
+  "f1": 0.276,
+  "qlabel": "neutral",
+  "view_mode": "current",
+  "question_date": "2023/05/30 (Tue) 12:03",
+  "n_sess": 53,
+  "answer_session_ids": [
+   "answer_ef84b994_abs_1",
+   "answer_ef84b994_abs_2"
+  ]
+ },
+ {
+  "qid": "09ba9854_abs",
+  "question": "How much will I save by taking the bus from the airport to my hotel instead of a taxi?",
+  "gold": "The information provided is not enough. You did not mention how much will the bus take.",
+  "pred": "Based on the context, you’re flying into **Narita** and staying in **Shinjuku**.\n\n- **Airport Limousine Bus** to Shinjuku: about **¥3,200 (~$29)**.\n- **Taxi** from Narita to Shinjuku: estimated around **¥15,000–30,000 (~$140–270)** depending on time/traffic.\n\nSo taking the bus instead of a taxi would save roughly **$110–$240**.\n\nIf you go by your friend’s **$60** taxi estimate, the saving would be only about **$30**, but the context suggests that $60 figure is likely too low for Narita to Shinjuku.",
+  "f1": 0.065,
+  "qlabel": "neutral",
+  "view_mode": "current",
+  "question_date": "2023/05/30 (Tue) 22:56",
+  "n_sess": 50,
+  "answer_session_ids": [
+   "answer_96c743d0_abs_1",
+   "answer_96c743d0_abs_2"
+  ]
+ }
+]

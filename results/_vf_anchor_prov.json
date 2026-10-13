@@ -1,0 +1,536 @@
+[
+ {
+  "qid": "8ebdbe50",
+  "type": "single-session-user",
+  "w": 4,
+  "n": 4,
+  "gold": "Data Science",
+  "n_hits": 2,
+  "hit_from_evidence": true,
+  "first_hit_rank": 1,
+  "first_hit_src": "evidence",
+  "hit_lines": [
+   [
+    1,
+    "evidence",
+    "I need to add my latest certification in Data Science, which I completed last month, to my profile."
+   ],
+   [
+    2,
+    "other",
+    "In the meantime, I need to update my LinkedIn profile to reflect my latest certification in Data Science, which I comple"
+   ]
+  ],
+  "n_evidence_lines_in_block": 1
+ },
+ {
+  "qid": "8550ddae",
+  "type": "single-session-user",
+  "w": 1,
+  "n": 10,
+  "gold": "lavender gin fizz",
+  "n_hits": 0,
+  "hit_from_evidence": false,
+  "first_hit_rank": null,
+  "first_hit_src": null,
+  "hit_lines": [],
+  "n_evidence_lines_in_block": 0
+ },
+ {
+  "qid": "a82c026e",
+  "type": "single-session-user",
+  "w": 1,
+  "n": 10,
+  "gold": "Dark Souls 3 DLC",
+  "n_hits": 1,
+  "hit_from_evidence": false,
+  "first_hit_rank": 2,
+  "first_hit_src": "other",
+  "hit_lines": [
+   [
+    2,
+    "other",
+    "I think what I love most about Dark Souls 3 is the sense of accomplishment when you finally defeat a tough boss or overc"
+   ]
+  ],
+  "n_evidence_lines_in_block": 0
+ },
+ {
+  "qid": "3a704032",
+  "type": "multi-session",
+  "w": 4,
+  "n": 1,
+  "gold": "3",
+  "n_hits": 0,
+  "hit_from_evidence": false,
+  "first_hit_rank": null,
+  "first_hit_src": null,
+  "hit_lines": [],
+  "n_evidence_lines_in_block": 0
+ },
+ {
+  "qid": "7024f17c",
+  "type": "multi-session",
+  "w": 4,
+  "n": 10,
+  "gold": "0.5 hours",
+  "n_hits": 1,
+  "hit_from_evidence": true,
+  "first_hit_rank": 3,
+  "first_hit_src": "evidence",
+  "hit_lines": [
+   [
+    3,
+    "evidence",
+    "By the way, I used to practice yoga three times a week, each time for 2 hours, but I've been slacking off for this month"
+   ]
+  ],
+  "n_evidence_lines_in_block": 2
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "type": "multi-session",
+  "no_anchor": true
+ },
+ {
+  "qid": "gpt4_2ba83207",
+  "type": "multi-session",
+  "no_anchor": true
+ },
+ {
+  "qid": "2ce6a0f2",
+  "type": "multi-session",
+  "no_anchor": true
+ },
+ {
+  "qid": "9aaed6a3",
+  "type": "multi-session",
+  "w": 1,
+  "n": 10,
+  "gold": "$0.75",
+  "n_hits": 0,
+  "hit_from_evidence": false,
+  "first_hit_rank": null,
+  "first_hit_src": null,
+  "hit_lines": [],
+  "n_evidence_lines_in_block": 0
+ },
+ {
+  "qid": "0ea62687",
+  "type": "multi-session",
+  "no_anchor": true
+ },
+ {
+  "qid": "60159905",
+  "type": "multi-session",
+  "no_anchor": true
+ },
+ {
+  "qid": "2ebe6c92",
+  "type": "temporal-reasoning",
+  "w": 1,
+  "n": 10,
+  "gold": "'The Nightingale' by Kristin Hannah",
+  "n_hits": 1,
+  "hit_from_evidence": true,
+  "first_hit_rank": 1,
+  "first_hit_src": "evidence",
+  "hit_lines": [
+   [
+    1,
+    "evidence",
+    "I just finished a historical fiction novel, \"The Nightingale\" by Kristin Hannah, today and I'm in the mood for something"
+   ]
+  ],
+  "n_evidence_lines_in_block": 1
+ },
+ {
+  "qid": "gpt4_e061b84g",
+  "type": "temporal-reasoning",
+  "w": 1,
+  "n": 10,
+  "gold": "The company's annual charity soccer tournament.",
+  "n_hits": 1,
+  "hit_from_evidence": true,
+  "first_hit_rank": 2,
+  "first_hit_src": "evidence",
+  "hit_lines": [
+   [
+    2,
+    "evidence",
+    "I will participate in the company's annual charity soccer tournament today, and I want to make sure I'm taking care of m"
+   ]
+  ],
+  "n_evidence_lines_in_block": 1
+ },
+ {
+  "qid": "71017277",
+  "type": "temporal-reasoning",
+  "w": 1,
+  "n": 10,
+  "gold": "my aunt",
+  "n_hits": 1,
+  "hit_from_evidence": true,
+  "first_hit_rank": 1,
+  "first_hit_src": "evidence",
+  "hit_lines": [
+   [
+    1,
+    "evidence",
+    "By the way, I also got a stunning crystal chandelier from my aunt today, which used to belong to my great-grandmother - "
+   ]
+  ],
+  "n_evidence_lines_in_block": 2
+ },
+ {
+  "qid": "b46e15ee",
+  "type": "temporal-reasoning",
+  "w": 1,
+  "n": 10,
+  "gold": "the 'Walk for Hunger' charity event",
+  "n_hits": 2,
+  "hit_from_evidence": true,
+  "first_hit_rank": 1,
+  "first_hit_src": "evidence",
+  "hit_lines": [
+   [
+    1,
+    "evidence",
+    "I just did the \"Walk for Hunger\" charity event today with my colleagues from work, walking 5 kilometers to raise money f"
+   ],
+   [
+    2,
+    "other",
+    "Speaking of which, do you have any tips on how to stay hydrated during long walks like the \"Walk for Hunger\" event I did"
+   ]
+  ],
+  "n_evidence_lines_in_block": 1
+ },
+ {
+  "qid": "gpt4_d6585ce9",
+  "type": "temporal-reasoning",
+  "w": 1,
+  "n": 10,
+  "gold": "my parents",
+  "n_hits": 1,
+  "hit_from_evidence": true,
+  "first_hit_rank": 2,
+  "first_hit_src": "evidence",
+  "hit_lines": [
+   [
+    2,
+    "evidence",
+    "I've been listening to a lot of Queen lately, actually just saw them live with Adam Lambert at the Prudential Center in "
+   ]
+  ],
+  "n_evidence_lines_in_block": 1
+ },
+ {
+  "qid": "gpt4_1e4a8aec",
+  "type": "temporal-reasoning",
+  "w": 1,
+  "n": 10,
+  "gold": "planting 12 new tomato saplings",
+  "n_hits": 1,
+  "hit_from_evidence": true,
+  "first_hit_rank": 2,
+  "first_hit_src": "evidence",
+  "hit_lines": [
+   [
+    2,
+    "evidence",
+    "By the way, I just planted 12 new tomato saplings today and I'm excited to see them grow."
+   ]
+  ],
+  "n_evidence_lines_in_block": 1
+ },
+ {
+  "qid": "gpt4_f420262d",
+  "type": "temporal-reasoning",
+  "w": 1,
+  "n": 10,
+  "gold": "American Airlines",
+  "n_hits": 2,
+  "hit_from_evidence": true,
+  "first_hit_rank": 1,
+  "first_hit_src": "other",
+  "hit_lines": [
+   [
+    1,
+    "other",
+    "Also, since I had a bad experience with American Airlines' in-flight entertainment system on my previous flight from New"
+   ],
+   [
+    5,
+    "evidence",
+    "By the way, I'm still recovering from my American Airlines flight from LAX to JFK, which was delayed by 2 hours due to b"
+   ]
+  ],
+  "n_evidence_lines_in_block": 2
+ },
+ {
+  "qid": "gpt4_59149c78",
+  "type": "temporal-reasoning",
+  "w": 3,
+  "n": 10,
+  "gold": "The Metropolitan Museum of Art.",
+  "n_hits": 1,
+  "hit_from_evidence": true,
+  "first_hit_rank": 1,
+  "first_hit_src": "evidence",
+  "hit_lines": [
+   [
+    1,
+    "evidence",
+    "I've always been interested in ancient civilizations, which is why I attended the \"Ancient Civilizations\" exhibit at the"
+   ]
+  ],
+  "n_evidence_lines_in_block": 1
+ },
+ {
+  "qid": "gpt4_e414231f",
+  "type": "temporal-reasoning",
+  "w": 1,
+  "n": 10,
+  "gold": "road bike",
+  "n_hits": 1,
+  "hit_from_evidence": true,
+  "first_hit_rank": 1,
+  "first_hit_src": "evidence",
+  "hit_lines": [
+   [
+    1,
+    "evidence",
+    "Speaking of which, I decided to upgrade my road bike's pedals to clipless pedals today, specifically the Shimano Ultegra"
+   ]
+  ],
+  "n_evidence_lines_in_block": 1
+ },
+ {
+  "qid": "gpt4_4929293b",
+  "type": "temporal-reasoning",
+  "w": 1,
+  "n": 10,
+  "gold": "my cousin's wedding",
+  "n_hits": 1,
+  "hit_from_evidence": false,
+  "first_hit_rank": 8,
+  "first_hit_src": "other",
+  "hit_lines": [
+   [
+    8,
+    "other",
+    "Yeah, being a bridesmaid at my cousin's wedding really made me think about the little details that can make a big differ"
+   ]
+  ],
+  "n_evidence_lines_in_block": 1
+ },
+ {
+  "qid": "gpt4_468eb064",
+  "type": "temporal-reasoning",
+  "w": 1,
+  "n": 10,
+  "gold": "Emma",
+  "n_hits": 1,
+  "hit_from_evidence": true,
+  "first_hit_rank": 1,
+  "first_hit_src": "evidence",
+  "hit_lines": [
+   [
+    1,
+    "evidence",
+    "By the way, I catch up with Emma, a freelance writer, over lunch today and she's now a potential collaborator for a proj"
+   ]
+  ],
+  "n_evidence_lines_in_block": 1
+ },
+ {
+  "qid": "gpt4_fa19884d",
+  "type": "temporal-reasoning",
+  "w": 1,
+  "n": 10,
+  "gold": "a bluegrass band that features a banjo player",
+  "n_hits": 1,
+  "hit_from_evidence": true,
+  "first_hit_rank": 1,
+  "first_hit_src": "evidence",
+  "hit_lines": [
+   [
+    1,
+    "evidence",
+    "I recently discovered a bluegrass band that features a banjo player and started enjoying their music today."
+   ]
+  ],
+  "n_evidence_lines_in_block": 1
+ },
+ {
+  "qid": "9a707b82",
+  "type": "temporal-reasoning",
+  "w": 1,
+  "n": 10,
+  "gold": "a chocolate cake",
+  "n_hits": 1,
+  "hit_from_evidence": true,
+  "first_hit_rank": 2,
+  "first_hit_src": "evidence",
+  "hit_lines": [
+   [
+    2,
+    "evidence",
+    "By the way, I just baked a chocolate cake for my friend's birthday party last weekend that turned out amazing."
+   ]
+  ],
+  "n_evidence_lines_in_block": 1
+ },
+ {
+  "qid": "eac54add",
+  "type": "temporal-reasoning",
+  "w": 1,
+  "n": 10,
+  "gold": "I signed a contract with my first client.",
+  "n_hits": 1,
+  "hit_from_evidence": true,
+  "first_hit_rank": 1,
+  "first_hit_src": "evidence",
+  "hit_lines": [
+   [
+    1,
+    "evidence",
+    "I just signed a contract with my first client today, and I want to make sure I'm covering all my bases for future projec"
+   ]
+  ],
+  "n_evidence_lines_in_block": 1
+ },
+ {
+  "qid": "4dfccbf8",
+  "type": "temporal-reasoning",
+  "w": 1,
+  "n": 10,
+  "gold": "I started taking ukulele lessons with Rachel.",
+  "n_hits": 1,
+  "hit_from_evidence": true,
+  "first_hit_rank": 1,
+  "first_hit_src": "evidence",
+  "hit_lines": [
+   [
+    1,
+    "evidence",
+    "I just started taking ukulele lessons with my friend Rachel today and it's been really fun so far."
+   ]
+  ],
+  "n_evidence_lines_in_block": 1
+ },
+ {
+  "qid": "0bc8ad93",
+  "type": "temporal-reasoning",
+  "w": 1,
+  "n": 6,
+  "gold": "No, you did not visit with a friend.",
+  "n_hits": 0,
+  "hit_from_evidence": false,
+  "first_hit_rank": null,
+  "first_hit_src": null,
+  "hit_lines": [],
+  "n_evidence_lines_in_block": 2
+ },
+ {
+  "qid": "6e984302",
+  "type": "temporal-reasoning",
+  "w": 1,
+  "n": 10,
+  "gold": "I got my own set of sculpting tools.",
+  "n_hits": 1,
+  "hit_from_evidence": true,
+  "first_hit_rank": 1,
+  "first_hit_src": "evidence",
+  "hit_lines": [
+   [
+    1,
+    "evidence",
+    "I actually got my own set of sculpting tools, including a modeling tool set, a wire cutter, and a sculpting mat today."
+   ]
+  ],
+  "n_evidence_lines_in_block": 2
+ },
+ {
+  "qid": "gpt4_8279ba03",
+  "type": "temporal-reasoning",
+  "w": 1,
+  "n": 10,
+  "gold": "a smoker",
+  "n_hits": 1,
+  "hit_from_evidence": true,
+  "first_hit_rank": 2,
+  "first_hit_src": "evidence",
+  "hit_lines": [
+   [
+    2,
+    "evidence",
+    "By the way, I just got a smoker today and I'm excited to experiment with different types of wood and meats today."
+   ]
+  ],
+  "n_evidence_lines_in_block": 1
+ },
+ {
+  "qid": "gpt4_b5700ca0",
+  "type": "temporal-reasoning",
+  "w": 4,
+  "n": 10,
+  "gold": "the Episcopal Church",
+  "n_hits": 1,
+  "hit_from_evidence": true,
+  "first_hit_rank": 8,
+  "first_hit_src": "evidence",
+  "hit_lines": [
+   [
+    8,
+    "evidence",
+    "By the way, I'm glad I got to attend the Maundy Thursday service at the Episcopal Church, it was a beautiful and moving "
+   ]
+  ],
+  "n_evidence_lines_in_block": 1
+ },
+ {
+  "qid": "gpt4_68e94288",
+  "type": "temporal-reasoning",
+  "w": 1,
+  "n": 10,
+  "gold": "You participated in a social media challenge called #PlankChallenge.",
+  "n_hits": 1,
+  "hit_from_evidence": false,
+  "first_hit_rank": 1,
+  "first_hit_src": "other",
+  "hit_lines": [
+   [
+    1,
+    "other",
+    "By the way, I participated in a social media challenge called #PlankChallenge today, and it was a great way to stay moti"
+   ]
+  ],
+  "n_evidence_lines_in_block": 0
+ },
+ {
+  "qid": "gpt4_5dcc0aab",
+  "type": "temporal-reasoning",
+  "w": 4,
+  "n": 7,
+  "gold": "white Adidas sneakers",
+  "n_hits": 2,
+  "hit_from_evidence": true,
+  "first_hit_rank": 3,
+  "first_hit_src": "other",
+  "hit_lines": [
+   [
+    3,
+    "other",
+    "I remember I cleaned my white Adidas sneakers last month, which I'd been meaning to do for weeks."
+   ],
+   [
+    4,
+    "evidence",
+    "I'm glad I finally got around to cleaning my white Adidas sneakers last month, which I'd been meaning to do for weeks."
+   ]
+  ],
+  "n_evidence_lines_in_block": 1
+ }
+]

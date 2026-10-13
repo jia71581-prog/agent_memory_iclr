@@ -1,0 +1,123 @@
+[
+ {
+  "qid": "8ebdbe50",
+  "type": "single-session-user",
+  "question": "What certification did I complete last month?",
+  "gold": "Data Science",
+  "fired": true,
+  "nblk": 4,
+  "has": 1,
+  "judge": true,
+  "tl_chars": 5762
+ },
+ {
+  "qid": "8550ddae",
+  "type": "single-session-user",
+  "question": "What type of cocktail recipe did I try last weekend?",
+  "gold": "lavender gin fizz",
+  "fired": true,
+  "nblk": 10,
+  "has": 0,
+  "judge": true,
+  "tl_chars": 6030
+ },
+ {
+  "qid": "a82c026e",
+  "type": "single-session-user",
+  "question": "What game did I finally beat last weekend?",
+  "gold": "Dark Souls 3 DLC",
+  "fired": true,
+  "nblk": 10,
+  "has": 1,
+  "judge": true,
+  "tl_chars": 5262
+ },
+ {
+  "qid": "3a704032",
+  "type": "multi-session",
+  "question": "How many plants did I acquire in the last month?",
+  "gold": 3,
+  "fired": true,
+  "nblk": 1,
+  "has": 0,
+  "judge": false,
+  "tl_chars": 5331
+ },
+ {
+  "qid": "7024f17c",
+  "type": "multi-session",
+  "question": "How many hours of jogging and yoga did I do last week?",
+  "gold": "0.5 hours",
+  "fired": true,
+  "nblk": 10,
+  "has": 1,
+  "judge": false,
+  "tl_chars": 6608
+ },
+ {
+  "qid": "gpt4_5501fe77",
+  "type": "multi-session",
+  "question": "Which social media platform did I gain the most followers on over the past month?",
+  "gold": "TikTok",
+  "fired": false,
+  "nblk": 0,
+  "has": 0,
+  "judge": true,
+  "tl_chars": 4009
+ },
+ {
+  "qid": "gpt4_2ba83207",
+  "type": "multi-session",
+  "question": "Which grocery store did I spend the most money at in the past month?",
+  "gold": "Thrive Market",
+  "fired": false,
+  "nblk": 0,
+  "has": 0,
+  "judge": true,
+  "tl_chars": 5503
+ },
+ {
+  "qid": "2ce6a0f2",
+  "type": "multi-session",
+  "question": "How many different art-related events did I attend in the past month?",
+  "gold": 4,
+  "fired": false,
+  "nblk": 0,
+  "has": 0,
+  "judge": false,
+  "tl_chars": 3137
+ },
+ {
+  "qid": "9aaed6a3",
+  "type": "multi-session",
+  "question": "How much cashback did I earn at SaveMart last Thursday?",
+  "gold": "$0.75",
+  "fired": true,
+  "nblk": 10,
+  "has": 0,
+  "judge": true,
+  "tl_chars": 6136
+ },
+ {
+  "qid": "0ea62687",
+  "type": "multi-session",
+  "question": "How much more miles per gallon was my car getting a few months ago compared to now?",
+  "gold": "2",
+  "fired": false,
+  "nblk": 0,
+  "has": 0,
+  "judge": true,
+  "tl_chars": 2261
+ },
+ {
+  "qid": "60159905",
+  "type": "multi-session",
+  "question": "How many dinner parties have I attended in the past month?",
+  "gold": "three",
+  "fired": false,
+  "nblk": 0,
+  "has": 0,
+  "judge": true,
+  "tl_chars": 5211
+ }
+]

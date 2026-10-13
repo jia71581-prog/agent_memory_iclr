@@ -1,0 +1,73 @@
+{
+ "982b5123_abs": {
+  "fam": "other",
+  "unit": null,
+  "miss": 0,
+  "n_events": 5,
+  "chars": 1136,
+  "alts": [],
+  "missing": [],
+  "n_arith": 0
+ },
+ "c8090214_abs": {
+  "fam": "delta_between",
+  "unit": "days",
+  "miss": 0,
+  "n_events": 3,
+  "chars": 797,
+  "alts": [],
+  "missing": [],
+  "n_arith": 0
+ },
+ "gpt4_70e84552_abs": {
+  "fam": "ordering",
+  "unit": null,
+  "miss": 0,
+  "n_events": 5,
+  "chars": 1362,
+  "alts": [
+   "fixing the fence",
+   "purchasing three cows from Peter"
+  ],
+  "missing": [
+   "fixing the fence",
+   "purchasing three cows from Peter"
+  ],
+  "n_arith": 3
+ },
+ "gpt4_93159ced_abs": {
+  "fam": "delta_between",
+  "unit": null,
+  "miss": 0,
+  "n_events": 7,
+  "chars": 2609,
+  "alts": [],
+  "missing": [],
+  "n_arith": 12
+ },
+ "gpt4_c27434e8_abs": {
+  "fam": "ordering",
+  "unit": null,
+  "miss": 0,
+  "n_events": 7,
+  "chars": 2130,
+  "alts": [
+   "Ferrari model",
+   "Porsche 991 Turbo S model"
+  ],
+  "missing": [
+   "Porsche 991 Turbo S model"
+  ],
+  "n_arith": 4
+ },
+ "gpt4_fe651585_abs": {
+  "fam": "ordering",
+  "unit": null,
+  "miss": 0,
+  "n_events": 6,
+  "chars": 1612,
+  "alts": [],
+  "missing": [],
+  "n_arith": 3
+ }
+}

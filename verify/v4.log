@@ -1,0 +1,6 @@
+fact-store session index (chain-score -> provenance session ranking), non-abs n= 470
+  gold-session recall @ top-3 sessions = 676/890 = 0.7596   (random baseline 0.0629)
+  gold-session recall @ top-5 sessions = 746/890 = 0.8382   (random baseline 0.1048)
+  gold-session recall @ top-10 sessions = 792/890 = 0.8899   (random baseline 0.2096)
+  gold-session recall @ top-20 sessions = 809/890 = 0.9090   (random baseline 0.4193)
+  mean sessions/question 47.7

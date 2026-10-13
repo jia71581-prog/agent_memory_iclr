@@ -1,0 +1,110 @@
+{
+ "summary": {
+  "questions_gated_for_anchor_block": 22,
+  "anchor_block_calls": 24,
+  "questions_changed_by_bug4_fix": 6,
+  "blocks_changed": 6,
+  "blocks_losing_gold_presence": 0,
+  "blocks_gaining_gold_presence": 0,
+  "gold_rank_improved": 2,
+  "gold_rank_worsened": 0
+ },
+ "rows": [
+  {
+   "qid": "gpt4_e061b84g",
+   "q": "I mentioned participating in a sports event two weeks ago. What was the event?",
+   "gold": "The company's annual charity soccer tournament.",
+   "anchor": "2023/06/17",
+   "kind": "offset",
+   "dropped": [
+    "By the way, we just had our annual family reunion at my uncle's house in the countryside last weekend, which was on August 14th and 15th, and it was a big event with lots of...",
+    "I remember buying a beautiful silver necklace with a small pendant for my sister's birthday exactly three weeks ago, on a Saturday afternoon, at a new boutique store that..."
+   ],
+   "dropped_from_gold_session": [],
+   "gold_rank_fixed": 1,
+   "gold_rank_rev": 3,
+   "gold_present_fixed": true,
+   "gold_present_rev": true
+  },
+  {
+   "qid": "gpt4_59149c78",
+   "q": "I mentioned that I participated in an art-related event two weeks ago. Where was that event held at?",
+   "gold": "The Metropolitan Museum of Art.",
+   "anchor": "2023/01/18",
+   "kind": "offset",
+   "dropped": [
+    "Like, just yesterday, I splurged on a designer handbag I've been eyeing for months - it was on sale, but still, I felt a mix of guilt and excitement walking out of the store.",
+    "I just cleaned it out last weekend, but I want to make sure everything stays organized and easy to find."
+   ],
+   "dropped_from_gold_session": [],
+   "gold_rank_fixed": 0,
+   "gold_rank_rev": 0,
+   "gold_present_fixed": true,
+   "gold_present_rev": true
+  },
+  {
+   "qid": "gpt4_4929293b",
+   "q": "What was the the life event of one of my relatives that I participated in a week ago?",
+   "gold": "my cousin's wedding",
+   "anchor": "2023/06/15",
+   "kind": "offset",
+   "dropped": [
+    "By the way, I just got back from attending my cousin Rachel's baby shower in February, and it was so much fun."
+   ],
+   "dropped_from_gold_session": [],
+   "gold_rank_fixed": 1,
+   "gold_rank_rev": 2,
+   "gold_present_fixed": true,
+   "gold_present_rev": true
+  },
+  {
+   "qid": "gpt4_468eb064",
+   "q": "Who did I meet with during the lunch last Tuesday?",
+   "gold": "Emma",
+   "anchor": "2023/04/11",
+   "kind": "weekday",
+   "dropped": [
+    "I just attended a digital marketing workshop last week and the speaker, Rachel Lee, mentioned some interesting strategies.",
+    "I just submitted my thesis proposal last month, and I'm really excited to dive into the research.",
+    "By the way, I just scored a super rare variant of the Iron Man figure at a local collectible store a couple of weeks ago, and I want to make sure it's showcased nicely."
+   ],
+   "dropped_from_gold_session": [
+    "I just attended a digital marketing workshop last week and the speaker, Rachel Lee, mentioned some interesting strategies."
+   ],
+   "gold_rank_fixed": 0,
+   "gold_rank_rev": 0,
+   "gold_present_fixed": true,
+   "gold_present_rev": true
+  },
+  {
+   "qid": "gpt4_fa19884d",
+   "q": "What is the artist that I started to listen to last Friday?",
+   "gold": "a bluegrass band that features a banjo player",
+   "anchor": "2023/03/31",
+   "kind": "weekday",
+   "dropped": [
+    "I just moved into a shared apartment with two friends in a different neighborhood at the end of January and I'm still figuring out the best way to arrange my furniture and..."
+   ],
+   "dropped_from_gold_session": [],
+   "gold_rank_fixed": 0,
+   "gold_rank_rev": 0,
+   "gold_present_fixed": true,
+   "gold_present_rev": true
+  },
+  {
+   "qid": "gpt4_8279ba03",
+   "q": "What kitchen appliance did I buy 10 days ago?",
+   "gold": "a smoker",
+   "anchor": "2023/03/15",
+   "kind": "offset",
+   "dropped": [
+    "I just finished a thriller recently, \"The Silent Patient\", which I completed on March 4th, and I'm in the mood for something similar."
+   ],
+   "dropped_from_gold_session": [],
+   "gold_rank_fixed": 1,
+   "gold_rank_rev": 1,
+   "gold_present_fixed": true,
+   "gold_present_rev": true
+  }
+ ]
+}

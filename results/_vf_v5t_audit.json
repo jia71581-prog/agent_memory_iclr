@@ -1,0 +1,1553 @@
+{
+ "M1_months": {
+  "full_ok": true,
+  "abbr_ok": true,
+  "abbr_map": {
+   "jan": 1,
+   "feb": 2,
+   "mar": 3,
+   "apr": 4,
+   "may": 5,
+   "jun": 6,
+   "jul": 7,
+   "aug": 8,
+   "sep": 9,
+   "oct": 10,
+   "nov": 11,
+   "dec": 12
+  },
+  "slice_uses": 3,
+  "nonslice_uses": 0,
+  "injected_offby1": {
+   "march 15th": "2023/04/15",
+   "dec 3rd": "2023/01/03"
+  },
+  "current": {
+   "march 15th": "2023/03/15",
+   "dec 3rd": "2023/12/03"
+  }
+ },
+ "M2_numdate": {
+  "sentences_scanned": 285954,
+  "regex_matches_total": 2351,
+  "out_of_range_dropped": 812,
+  "accepted_as_date": 899,
+  "blocked_by_noun_guard": 500,
+  "blocked_by_quant_guard": 95,
+  "blocked_by_unit_guard": 45,
+  "noun_guard_samples": [
+   [
+    "7-10",
+    "i'm thinking of a 7-10 day trip to europe, and i'm open to ren",
+    "c3cd646c_1",
+    "2023/05/21 (Sun) 22:48"
+   ],
+   [
+    "2-3",
+    "een working on them consistently, about 2-3 hours a week, and i've just completed t",
+    "3fe98db6_1",
+    "2023/05/26 (Fri) 10:22"
+   ],
+   [
+    "7-10",
+    "i'm thinking of taking around 7-10 days for the road trip.",
+    "7e17ae56_5",
+    "2023/05/23 (Tue) 16:20"
+   ],
+   [
+    "2-3",
+    "rive for a few hours each day and spend 2-3 days in each location.",
+    "7e17ae56_5",
+    "2023/05/23 (Tue) 16:20"
+   ],
+   [
+    "4-5",
+    "new wireless earbuds - it's been around 4-5 weeks now, and i've been using them alm",
+    "71f2f490_2",
+    "2023/05/24 (Wed) 17:56"
+   ],
+   [
+    "6-8",
+    " games that are suitable for a group of 6-8 people and can be played while seated a",
+    "793382f9_2",
+    "2023/05/27 (Sat) 04:33"
+   ],
+   [
+    "5-7",
+    "e to do a few day hikes that are around 5-7 miles long.",
+    "dbcfab21",
+    "2023/04/02 (Sun) 01:56"
+   ],
+   [
+    "10-15",
+    "ay, speaking of showers, i used to take 10-15 minutes per shower, but i've been tryin",
+    "121efb3b_1",
+    "2023/05/29 (Mon) 01:32"
+   ],
+   [
+    "10-15",
+    "since i used to take 10-15 minutes per shower, i was worried that ",
+    "121efb3b_1",
+    "2023/05/29 (Mon) 01:32"
+   ],
+   [
+    "4-5",
+    "i'd prefer to train 4-5 times a week, with at least one day of ",
+    "7dc6f276_1",
+    "2023/05/20 (Sat) 17:30"
+   ],
+   [
+    "2-3",
+    "ekends, i usually aim to ride for about 2-3 hours, so i'll make sure to plan my rou",
+    "212ce1f4_5",
+    "2023/05/22 (Mon) 02:55"
+   ],
+   [
+    "4-5",
+    "i'm planning to hike for 4-5 hours, so i'll make sure to pack enough",
+    "eae6a7c0",
+    "2023/05/21 (Sun) 22:18"
+   ],
+   [
+    "2-4",
+    "nity like this, considering i can spend 2-4 hours in a week",
+    "sharegpt_cRrfdsc_0",
+    "2023/05/29 (Mon) 13:30"
+   ],
+   [
+    "2-3",
+    "g for a 20-30 minute flow that i can do 2-3 times a week.",
+    "89d3053f",
+    "2023/05/22 (Mon) 19:33"
+   ],
+   [
+    "2-3",
+    "i'll probably watch 2-3 episodes a week, giving myself time to ",
+    "e7cc239c_4",
+    "2023/05/26 (Fri) 13:16"
+   ],
+   [
+    "5-10",
+    "* start with short sessions, like 5-10 minutes, and gradually increase the dur",
+    "876adac6_2",
+    "2023/05/26 (Fri) 17:41"
+   ],
+   [
+    "10-14",
+    "ng at aldi's, usually stopping by every 10-14 days, and i usually spend around $30-40",
+    "cdd9704d_1",
+    "2023/05/29 (Mon) 01:02"
+   ],
+   [
+    "2-3",
+    "f february, considering i usually watch 2-3 episodes a day during my lunch breaks?",
+    "0cf86cbe_2",
+    "2023/05/29 (Mon) 06:52"
+   ],
+   [
+    "10-15",
+    " stop earlier and walking the remaining 10-15 minutes to the office.",
+    "22aa7cca_3",
+    "2023/05/30 (Tue) 15:37"
+   ],
+   [
+    "5-7",
+    "waking up at 6 am every saturday to run 5-7 km around the lake near my house.",
+    "6217185b_1",
+    "2023/05/23 (Tue) 03:14"
+   ],
+   [
+    "8-9",
+    "a jewish boy of 8-9 years old was dressed up as an older pe",
+    "sharegpt_ba4V2an_2",
+    "2023/05/23 (Tue) 04:22"
+   ],
+   [
+    "10-15",
+    " jokes every day, even if it's just for 10-15 minutes, to keep my creative juices flo",
+    "eb0d8dc1_7",
+    "2023/05/26 (Fri) 05:23"
+   ],
+   [
+    "6-7",
+    " a 30-pound bag usually lasts us around 6-7 weeks.",
+    "a3118ef0_1",
+    "2023/05/30 (Tue) 06:51"
+   ],
+   [
+    "2-3",
+    " to try to make time for the gym, maybe 2-3 times this week.",
+    "e2cd250e_3",
+    "2023/05/28 (Sun) 00:16"
+   ],
+   [
+    "10-15",
+    " traffic, and i'd like to stay within a 10-15 minute drive from my place.",
+    "fe3632bd_1",
+    "2023/05/28 (Sun) 21:00"
+   ],
+   [
+    "10-15",
+    "rt of the month, i think i can fit in a 10-15 minute meditation session before gettin",
+    "e6e4fd83_3",
+    "2023/05/21 (Sun) 17:55"
+   ],
+   [
+    "6-7",
+    "m upgrade to 16gb, i was getting around 6-7 hours of battery life, but now i'm gett",
+    "answer_55161935",
+    "2023/05/28 (Sun) 17:03"
+   ],
+   [
+    "4-5",
+    "attery life, but now i'm getting around 4-5 hours.",
+    "answer_55161935",
+    "2023/05/28 (Sun) 17:03"
+   ],
+   [
+    "2-3",
+    "i need to brush his teeth 2-3 times a week to prevent tartar buildup.",
+    "782c0f84",
+    "2023/05/29 (Mon) 08:12"
+   ],
+   [
+    "2-3",
+    "ng, especially since i've been using it 2-3 times a week.",
+    "782c0f84",
+    "2023/05/29 (Mon) 08:12"
+   ],
+   [
+    "7-8",
+    "a consistent sleep schedule, aiming for 7-8 hours of sleep each night.",
+    "478e02c2",
+    "2023/05/29 (Mon) 11:05"
+   ],
+   [
+    "1-2",
+    "i'd say 1-2 hours would be a good amount of time fo",
+    "86974d49",
+    "2023/05/21 (Sun) 08:35"
+   ],
+   [
+    "10-15",
+    "y breakfast ideas that i can prepare in 10-15 minutes?",
+    "86974d49",
+    "2023/05/21 (Sun) 08:35"
+   ],
+   [
+    "5-7",
+    "cken breasts over direct heat for about 5-7 minutes per side to get the sear, and t",
+    "025c9e24_1",
+    "2023/05/23 (Tue) 07:46"
+   ],
+   [
+    "7-10",
+    "i'm thinking of taking a 7-10 day trip to greece.",
+    "9a7da379",
+    "2023/05/25 (Thu) 01:02"
+   ],
+   [
+    "2-3",
+    " usually practice for about 30 minutes, 2-3 times a week.",
+    "a126eeab_3",
+    "2023/05/24 (Wed) 01:46"
+   ],
+   [
+    "3-4",
+    " my connecting flight if i spend around 3-4 hours there?",
+    "2ef53f61_2",
+    "2023/05/27 (Sat) 23:15"
+   ],
+   [
+    "5-10",
+    "you mentioned 5-10 years, but does that vary depending on ",
+    "2ea6fda4_1",
+    "2023/05/24 (Wed) 02:06"
+   ],
+   [
+    "10-15",
+    " for routes around here that are around 10-15 miles long?",
+    "d22a462a_2",
+    "2023/05/29 (Mon) 18:01"
+   ],
+   [
+    "4-6",
+    "typically, 4-6 people meet in person or by video call ",
+    "sharegpt_QUgCBqY_0",
+    "2023/05/20 (Sat) 20:31"
+   ]
+  ],
+  "quant_guard_samples": [
+   [
+    "4-5",
+    "i'll probably invite about 4-5 friends.",
+    "96eac086",
+    "2023/05/26 (Fri) 14:49"
+   ],
+   [
+    "2-3",
+    "t a smaller sized woolly bugger, around 2-3 inches in length, with a natural color ",
+    "74d3b557_2",
+    "2023/05/25 (Thu) 16:44"
+   ],
+   [
+    "1/2",
+    " by 12 inches, and i think i used about 1/2 yard of fabric for each of the four blo",
+    "f832a9d4_2",
+    "2023/05/25 (Thu) 21:13"
+   ],
+   [
+    "2-5",
+    "wards, which have been giving me around 2-5% back on my grocery purchases.",
+    "a33cf36a_1",
+    "2023/05/28 (Sun) 20:58"
+   ],
+   [
+    "3-4",
+    "ten, especially in the afternoon around 3-4 pm.",
+    "f3164f2c",
+    "2023/05/23 (Tue) 05:25"
+   ],
+   [
+    "5-6",
+    "n my way home from work, usually around 5-6 pm.",
+    "70b9616e",
+    "2023/05/21 (Sun) 19:52"
+   ],
+   [
+    "9-12",
+    " focused writing in the morning, around 9-12 am.",
+    "66d120f4_2",
+    "2023/05/27 (Sat) 02:32"
+   ],
+   [
+    "4-5",
+    "i'll probably invite about 4-5 friends.",
+    "60f10fd3",
+    "2023/05/23 (Tue) 18:09"
+   ],
+   [
+    "5-7",
+    "on twitter, i've been gaining around 5-7 new followers per week from participati",
+    "57da3d13",
+    "2023/02/15 (Wed) 08:02"
+   ],
+   [
+    "2-3",
+    "d $50, and the weight is usually around 2-3 pounds.",
+    "85846900_2",
+    "2023/02/15 (Wed) 13:21"
+   ],
+   [
+    "10-10",
+    "ng to get ready for bed earlier, around 10-10:30 pm, and i've also been limiting my c",
+    "8e6bac11",
+    "2023/02/15 (Wed) 13:45"
+   ],
+   [
+    "4-5",
+    "ve having a cup of coffee or tea around 4-5 pm, but i've realized that it was affec",
+    "8e6bac11",
+    "2023/02/15 (Wed) 13:45"
+   ],
+   [
+    "8-10",
+    "i was thinking of having around 8-10 guests, do you have any tips on how to ",
+    "58f467f1",
+    "2023/05/21 (Sun) 07:36"
+   ],
+   [
+    "6-8",
+    " compact shoe rack that can hold around 6-8 pairs of shoes.",
+    "072fac63_1",
+    "2023/05/21 (Sun) 09:51"
+   ],
+   [
+    "5-6",
+    "i currently have around 5-6 pairs, and i'm running out of space in ",
+    "e4c97ea0_1",
+    "2023/05/28 (Sun) 21:35"
+   ],
+   [
+    "10-12",
+    "i'm planning to invite around 10-12 guests.",
+    "3159942d_2",
+    "2023/05/24 (Wed) 03:08"
+   ],
+   [
+    "3-4",
+    " think i'll try to incorporate at least 3-4 of them into my content calendar for th",
+    "0934d99a",
+    "2023/05/20 (Sat) 17:28"
+   ],
+   [
+    "10-20",
+    "i'd say i averaged around 10-20 messages per day, mostly personal conve",
+    "6e2cca63_8",
+    "2023/05/30 (Tue) 20:00"
+   ],
+   [
+    "5-6",
+    "i'd say around 5-6 events over the past few months.",
+    "f8476198",
+    "2023/05/20 (Sat) 14:35"
+   ],
+   [
+    "1-2",
+    "500 followers, and i usually get around 1-2 likes or retweets per tweet.",
+    "4f838497_3",
+    "2023/05/22 (Mon) 07:17"
+   ],
+   [
+    "5-7",
+    ", and i've been trying to post at least 5-7 tweets per day.",
+    "answer_203bf3fa_1",
+    "2023/05/29 (Mon) 20:51"
+   ],
+   [
+    "10-12",
+    "add decor is a decent size, maybe about 10-12 feet wide.",
+    "ed7f9ab0_2",
+    "2023/03/27 (Mon) 06:32"
+   ],
+   [
+    "5-6",
+    "rand, and i think i need to order about 5-6 bags to last me a few months.",
+    "6395ae23_1",
+    "2023/03/27 (Mon) 19:30"
+   ],
+   [
+    "9-10",
+    "thing sessions right before bed, around 9-10 pm.",
+    "answer_02b63d04_2",
+    "2023/05/27 (Sat) 05:31"
+   ],
+   [
+    "2-3",
+    "i try to finish at least 2-3 articles per issue.",
+    "2366adbc",
+    "2023/05/28 (Sun) 11:33"
+   ],
+   [
+    "10-15",
+    "dations for a case that can hold around 10-15 figurines and has a lock to keep them d",
+    "a6f959e9",
+    "2023/05/24 (Wed) 09:41"
+   ],
+   [
+    "5-6",
+    "i'm thinking of propagating about 5-6 cuttings, so i can give one to each of ",
+    "66a6a097_3",
+    "2023/03/20 (Mon) 02:21"
+   ],
+   [
+    "9-10",
+    "thing sessions right before bed, around 9-10 pm.",
+    "02b63d04_2",
+    "2023/05/01 (Mon) 06:21"
+   ],
+   [
+    "2-4",
+    "limate change is estimated to be around 2-4% of global gdp by 2100, according to th",
+    "sharegpt_9srz3L6_0",
+    "2023/05/23 (Tue) 09:40"
+   ],
+   [
+    "3-4",
+    "also, i usually snack around 3-4 pm, do you have any snack ideas that wo",
+    "77a26018",
+    "2023/05/24 (Wed) 02:29"
+   ],
+   [
+    "6-7",
+    "it was about 6-7 inches long with a black and white stri",
+    "78dbd237",
+    "2023/05/25 (Thu) 12:26"
+   ],
+   [
+    "3-4",
+    "een really helpful - we've had at least 3-4 conversations per week in the past mont",
+    "4fd6129f_1",
+    "2023/05/25 (Thu) 12:37"
+   ],
+   [
+    "3-4",
+    "i've had at least 3-4 conversations per week with maria and c",
+    "4fd6129f_1",
+    "2023/05/25 (Thu) 12:37"
+   ],
+   [
+    "2-4",
+    " certain times of the day, like between 2-4 pm, when i can focus on complex tasks w",
+    "6dd592c3",
+    "2023/05/21 (Sun) 02:05"
+   ],
+   [
+    "3-4",
+    "ten, especially in the afternoon around 3-4 pm.",
+    "answer_f3164f2c",
+    "2023/05/21 (Sun) 10:36"
+   ],
+   [
+    "7-8",
+    "e evenings, usually after dinner around 7-8 pm when i'm watching tv or before bed w",
+    "044e200f_2",
+    "2024/02/20 (Tue) 03:34"
+   ],
+   [
+    "4-5",
+    "ve having a cup of coffee or tea around 4-5 pm, but i've realized that it was affec",
+    "8c7ae899_2",
+    "2024/02/20 (Tue) 03:36"
+   ],
+   [
+    "2-5",
+    "he event on a weekday afternoon, around 2-5 pm.",
+    "a861a671_1",
+    "2023/05/26 (Fri) 13:49"
+   ],
+   [
+    "4-5",
+    "i'll probably invite about 4-5 friends.",
+    "b0b73826",
+    "2023/05/28 (Sun) 04:32"
+   ],
+   [
+    "1/8",
+    "i'll start with a small amount, about 1/8 teaspoon, and adjust to taste.",
+    "add009ef_2",
+    "2023/05/23 (Tue) 01:06"
+   ]
+  ],
+  "accepted_samples": [
+   [
+    "10-15",
+    "you mentioned can give me an additional 10-15 horsepower?",
+    "747abd56_2",
+    "2023/05/25 (Thu) 08:50"
+   ],
+   [
+    "4/24",
+    "statistics by ipv4/24 and ipv6/40 prefxes, and by as.",
+    "sharegpt_CvVLg2J_18",
+    "2023/05/21 (Sun) 17:01"
+   ],
+   [
+    "4/24",
+    " the frst week of may 2006, 18.3% of ipv4/24 prefxes and 20.4%",
+    "sharegpt_CvVLg2J_18",
+    "2023/05/21 (Sun) 17:01"
+   ],
+   [
+    "4/24",
+    "2019, 14.9% of ipv4/24 prefxes and 30.5% of ases tested did no",
+    "sharegpt_CvVLg2J_18",
+    "2023/05/21 (Sun) 17:01"
+   ],
+   [
+    "1/3",
+    "\ud835\udc34\ud835\udc35[\ud835\udc45]=\u23a1\u23a3\u23a2\u23a22/32/3\u22121/3\u22121/32/32/32/3\u22121/32/3\u23a4\u23a6\u23a5\u23a5",
+    "sharegpt_HatyEzg_0",
+    "2023/05/22 (Mon) 11:57"
+   ],
+   [
+    "9-4",
+    "dows.net/contentimages/main/394979f2-e0e9-4fdd-b474-19daa0474195-prawn-chicken-pad-",
+    "sharegpt_jm1c5JI_21",
+    "2023/05/29 (Mon) 02:18"
+   ],
+   [
+    "1-8",
+    "- week 1-8: each week seminar + workshop",
+    "sharegpt_3dtASzd_0",
+    "2023/05/28 (Sun) 20:30"
+   ],
+   [
+    "10-16",
+    "- week 10-16: each week seminar + workshop",
+    "sharegpt_3dtASzd_0",
+    "2023/05/28 (Sun) 20:30"
+   ],
+   [
+    "1-2",
+    "you can recommend 1-2 scenic spots each day.",
+    "sharegpt_IuLT3VI_9",
+    "2023/05/21 (Sun) 08:09"
+   ],
+   [
+    "1-2",
+    "you can recommend 1-2 scenic spots each day.",
+    "sharegpt_IuLT3VI_9",
+    "2023/05/21 (Sun) 08:09"
+   ],
+   [
+    "12-16",
+    "the age of your students is 12-16.",
+    "sharegpt_m0NmfPN_0",
+    "2023/04/02 (Sun) 01:32"
+   ],
+   [
+    "3/16/23",
+    "n by amy scott, m.ed., lpc associate at 3/16/23, 11:12 pm",
+    "sharegpt_BKl952A_23",
+    "2023/05/25 (Thu) 03:32"
+   ],
+   [
+    "3/16/23",
+    "seen by weston grove, md, mph at 3/16/23, 3:52 pm",
+    "sharegpt_BKl952A_23",
+    "2023/05/25 (Thu) 03:32"
+   ],
+   [
+    "5-7",
+    " me multiple days in one entry, such as 5-7 or 8-11.",
+    "sharegpt_OAUjazp_0",
+    "2023/05/24 (Wed) 02:03"
+   ],
+   [
+    "8-11",
+    "tiple days in one entry, such as 5-7 or 8-11.",
+    "sharegpt_OAUjazp_0",
+    "2023/05/24 (Wed) 02:03"
+   ],
+   [
+    "2/2/2023",
+    "current date: 2/2/2023",
+    "sharegpt_ddHUPH2_0",
+    "2023/05/22 (Mon) 06:05"
+   ],
+   [
+    "2-3",
+    "should i stick to 2-3 options or include more to give users m",
+    "f2939479_1",
+    "2023/05/28 (Sun) 03:32"
+   ],
+   [
+    "12-14",
+    "i think it was actually february 12-14.",
+    "b2a885b9",
+    "2023/05/21 (Sun) 02:04"
+   ],
+   [
+    "1-2",
+    "cademic writing | tuesday, december 10, 1-2 p.m.",
+    "sharegpt_mWFmQxk_36",
+    "2023/05/29 (Mon) 18:51"
+   ],
+   [
+    "2-4",
+    "andard retargeting conversion rates are 2-4%, and opensend leads convert at closer ",
+    "sharegpt_18LCW88_0",
+    "2023/05/22 (Mon) 12:11"
+   ],
+   [
+    "3/9/2023",
+    "current date: 3/9/2023",
+    "sharegpt_IJuY15Z_0",
+    "2023/05/20 (Sat) 00:44"
+   ],
+   [
+    "7-8",
+    "ing to attend my online yoga class from 7-8 pm and set up a peaceful atmosphere wit",
+    "990b60df_1",
+    "2023/05/30 (Tue) 15:07"
+   ],
+   [
+    "2/5",
+    "nged a pair of boots i got from zara on 2/5, and i still need to pick up the new pa",
+    "afa9873b_1",
+    "2023/05/23 (Tue) 04:25"
+   ],
+   [
+    "1-10",
+    "health communication, 1-10.",
+    "sharegpt_HdxflS0_0",
+    "2023/05/25 (Thu) 18:34"
+   ],
+   [
+    "3/6/2023",
+    "current date: 3/6/2023",
+    "sharegpt_1xFK5Qf_0",
+    "2023/05/27 (Sat) 09:02"
+   ],
+   [
+    "12-13",
+    " fall classic music festival on october 12-13.",
+    "233605cc_1",
+    "2023/05/22 (Mon) 20:46"
+   ],
+   [
+    "2-3",
+    "h 4 players, or would it be better with 2-3 players?",
+    "d750b298_1",
+    "2023/05/23 (Tue) 20:22"
+   ],
+   [
+    "5-6",
+    " it's also been helping me save around $5-6 per day.",
+    "954d4451_2",
+    "2023/05/30 (Tue) 15:41"
+   ],
+   [
+    "1-20",
+    "based on 1-20, and because i am an account executive ",
+    "sharegpt_bmEgv3O_12",
+    "2023/05/24 (Wed) 15:58"
+   ],
+   [
+    "1-20",
+    " am, the reason, and how it fits me for 1-20>",
+    "sharegpt_bmEgv3O_12",
+    "2023/05/24 (Wed) 15:58"
+   ],
+   [
+    "6-9",
+    "the 6-9 james, by contrast, has connected on mo",
+    "sharegpt_101i5OR_0",
+    "2023/05/23 (Tue) 09:44"
+   ],
+   [
+    "4-5",
+    "give a brief paragraph summary and then 4-5 bullet style examples of habits often a",
+    "sharegpt_5ncxIuf_44",
+    "2023/05/28 (Sun) 18:34"
+   ],
+   [
+    "4-5",
+    "then follow that paragraph summary with 4-5 bullets that are typical habits associa",
+    "sharegpt_5ncxIuf_44",
+    "2023/05/28 (Sun) 18:34"
+   ],
+   [
+    "1-2",
+    "\" remember to only write 1-2 short sentences for each one.",
+    "sharegpt_4ANhVKP_0",
+    "2023/05/21 (Sun) 12:40"
+   ],
+   [
+    "2/10",
+    "y, i flew into chicago from new york on 2/10, but i ended up having a layover in chi",
+    "3c11dc79",
+    "2023/05/21 (Sun) 03:29"
+   ],
+   [
+    "1/4",
+    "the steel plate will be a grade 5 steel 1/4 threaded rod.",
+    "sharegpt_ETJwE0s_0",
+    "2023/05/21 (Sun) 08:43"
+   ],
+   [
+    "1-11",
+    "write it in a markdown table , chap 1-11, chapter12 - 22, chapter 23, 33.",
+    "sharegpt_SYbLHTK_0",
+    "2023/05/25 (Thu) 12:40"
+   ],
+   [
+    "5-9",
+    " (age 16+) and youth divisions for ages 5-9 (u9) and 10-15 (u15).",
+    "sharegpt_ivIjBdS_0",
+    "2023/05/24 (Wed) 08:06"
+   ],
+   [
+    "10-15",
+    "d youth divisions for ages 5-9 (u9) and 10-15 (u15).",
+    "sharegpt_ivIjBdS_0",
+    "2023/05/24 (Wed) 08:06"
+   ],
+   [
+    "9/11",
+    "* visit the 9/11 memorial & museum",
+    "6e672b84_2",
+    "2023/05/25 (Thu) 14:26"
+   ],
+   [
+    "1/2",
+    "y = sqrt(x3) -5/x - (1/2)\\*pi in a correct mathematical format?",
+    "sharegpt_dkQVfIi_0",
+    "2023/05/27 (Sat) 09:03"
+   ],
+   [
+    "1/2",
+    "find dy/dx if y = \u221a(x\u00b3) - 5/x + (1/2)\u03c0",
+    "sharegpt_dkQVfIi_0",
+    "2023/05/27 (Sat) 09:03"
+   ],
+   [
+    "9/11",
+    "i'm actually thinking of visiting the 9/11 memorial & museum as well.",
+    "6e672b84_3",
+    "2023/05/29 (Mon) 17:33"
+   ],
+   [
+    "9/11",
+    "think i'll definitely plan to visit the 9/11 memorial & museum, thank you for the in",
+    "6e672b84_3",
+    "2023/05/29 (Mon) 17:33"
+   ],
+   [
+    "1-2",
+    "you can recommend 1-2 scenic spots each day.",
+    "sharegpt_IuLT3VI_0",
+    "2023/05/30 (Tue) 06:35"
+   ],
+   [
+    "1-2",
+    "you can recommend 1-2 scenic spots each day.",
+    "sharegpt_IuLT3VI_0",
+    "2023/05/30 (Tue) 06:35"
+   ],
+   [
+    "1-2",
+    "you can recommend 1-2 scenic spots each day.",
+    "sharegpt_IuLT3VI_0",
+    "2023/05/30 (Tue) 06:35"
+   ],
+   [
+    "3/2/22",
+    "3/2/22 - robin & jon connect",
+    "sharegpt_PQ71V9I_7",
+    "2023/05/30 (Tue) 12:54"
+   ],
+   [
+    "11/29/22",
+    "11/29/22 - jon and robin reconnect",
+    "sharegpt_PQ71V9I_7",
+    "2023/05/30 (Tue) 12:54"
+   ],
+   [
+    "9/11",
+    "i'd also like to visit the 9/11 memorial & museum and take a stroll acr",
+    "85b18ab2",
+    "2023/05/25 (Thu) 05:15"
+   ],
+   [
+    "3-2",
+    "ur team, the \"net ninjas\", is currently 3-2 in the standings.",
+    "31903f54",
+    "2023/05/22 (Mon) 09:47"
+   ],
+   [
+    "1-3",
+    "i think i'll start with steps 1-3, which involve defining the project req",
+    "7aea700b_2",
+    "2023/05/29 (Mon) 10:00"
+   ],
+   [
+    "2-6",
+    "use the benchmark information in \"table 2-6.",
+    "sharegpt_pX51ZUz_0",
+    "2023/05/26 (Fri) 18:03"
+   ],
+   [
+    "2-6",
+    "table 2-6 presents hypothetical quality benchmark",
+    "sharegpt_pX51ZUz_0",
+    "2023/05/26 (Fri) 18:03"
+   ],
+   [
+    "2-6",
+    "please note that table 2-6 presents an example only.",
+    "sharegpt_pX51ZUz_0",
+    "2023/05/26 (Fri) 18:03"
+   ],
+   [
+    "2-3",
+    " the p4r claims-based measures in table 2-3.",
+    "sharegpt_pX51ZUz_0",
+    "2023/05/26 (Fri) 18:03"
+   ],
+   [
+    "2-7",
+    "e sliding scales are presented in table 2-7.",
+    "sharegpt_pX51ZUz_0",
+    "2023/05/26 (Fri) 18:03"
+   ],
+   [
+    "1/5",
+    "the p4p component has a weight of 1/5 and the p4r components each have a weig",
+    "sharegpt_pX51ZUz_0",
+    "2023/05/26 (Fri) 18:03"
+   ],
+   [
+    "2/5",
+    "he p4r components each have a weight of 2/5.",
+    "sharegpt_pX51ZUz_0",
+    "2023/05/26 (Fri) 18:03"
+   ],
+   [
+    "1/5",
+    "l quality score for this dce is (80% \\* 1/5) + (100% \\* 2/5) + (100% \\* 2/5) = 96%.",
+    "sharegpt_pX51ZUz_0",
+    "2023/05/26 (Fri) 18:03"
+   ]
+  ],
+  "accepted_token_hist": [
+   [
+    "2-3",
+    34
+   ],
+   [
+    "3-4",
+    20
+   ],
+   [
+    "1/2",
+    18
+   ],
+   [
+    "1-2",
+    16
+   ],
+   [
+    "10-15",
+    12
+   ],
+   [
+    "2/5",
+    12
+   ],
+   [
+    "10/10",
+    12
+   ],
+   [
+    "1/31/2022",
+    12
+   ],
+   [
+    "2/28/2022",
+    12
+   ],
+   [
+    "3/31/2022",
+    12
+   ],
+   [
+    "1-3",
+    11
+   ],
+   [
+    "5-4",
+    11
+   ],
+   [
+    "1/10",
+    11
+   ],
+   [
+    "4-5",
+    10
+   ],
+   [
+    "1-4",
+    10
+   ],
+   [
+    "3/13/23",
+    10
+   ],
+   [
+    "7-8",
+    9
+   ],
+   [
+    "2-2",
+    9
+   ],
+   [
+    "5-6",
+    8
+   ],
+   [
+    "1-20",
+    8
+   ],
+   [
+    "9/11",
+    8
+   ],
+   [
+    "1/3",
+    7
+   ],
+   [
+    "1-10",
+    7
+   ],
+   [
+    "2/10",
+    7
+   ],
+   [
+    "2-6",
+    7
+   ]
+  ]
+ },
+ "M3_future": {
+  "n_hits": 819,
+  "n_unique_sent": 749,
+  "samples": [
+   {
+    "expr": "december 20th",
+    "date": "2023/12/20",
+    "sess": "2023/05/20 (Sat) 15:03",
+    "sid": "f6859b48_2",
+    "sent": "I remember listening to it on December 20th and it really made me think about my own goals and priorities."
+   },
+   {
+    "expr": "june 15th",
+    "date": "2023/06/15",
+    "sess": "2023/05/30 (Tue) 09:50",
+    "sid": "0586f435_3",
+    "sent": "It's an old locket and I'm not sure when I acquired it, but I wore it to my cousin's wedding on June 15th."
+   },
+   {
+    "expr": "june 1st",
+    "date": "2023/06/01",
+    "sess": "2023/05/30 (Tue) 09:50",
+    "sid": "0586f435_3",
+    "sent": "I bought it on June 1st, but I don't know the original price."
+   },
+   {
+    "expr": "july 3rd",
+    "date": "2023/07/03",
+    "sess": "2023/05/30 (Tue) 09:50",
+    "sid": "0586f435_3",
+    "sent": "I also found a single pearl earring while cleaning out my jewelry box last weekend, July 3rd."
+   },
+   {
+    "expr": "august 17th",
+    "date": "2023/08/17",
+    "sess": "2023/05/25 (Thu) 08:50",
+    "sid": "747abd56_2",
+    "sent": "By the way, I recently set a personal best time of 12.8 seconds in the quarter-mile drag race at the Turbocharged Tuesday event on August 17th."
+   },
+   {
+    "expr": "10-15",
+    "date": "2023/10/15",
+    "sess": "2023/05/25 (Thu) 08:50",
+    "sid": "747abd56_2",
+    "sent": "Do you think any of the options you mentioned can give me an additional 10-15 horsepower?"
+   },
+   {
+    "expr": "august 17th",
+    "date": "2023/08/17",
+    "sess": "2023/05/25 (Thu) 08:50",
+    "sid": "747abd56_2",
+    "sent": "Speaking of which, I managed to clock a personal best time of 12.8 seconds in the quarter-mile drag race at the Turbocharged Tuesday event on August 17th."
+   },
+   {
+    "expr": "june 3rd",
+    "date": "2023/06/03",
+    "sess": "2023/05/23 (Tue) 16:20",
+    "sid": "7e17ae56_5",
+    "sent": "By the way, I just got back from a charity bike ride last weekend, the \"Ride for a Reason\" event on June 3rd, and it was amazing - we rode 20 miles along the coastal trail!"
+   },
+   {
+    "expr": "june 3rd",
+    "date": "2023/06/03",
+    "sess": "2023/05/23 (Tue) 16:20",
+    "sid": "7e17ae56_5",
+    "sent": "I was thinking of bringing my road bike, since I've been getting more into cycling lately, especially after the charity bike ride I did on June 3rd."
+   },
+   {
+    "expr": "june 3rd",
+    "date": "2023/06/03",
+    "sess": "2023/05/23 (Tue) 16:20",
+    "sid": "7e17ae56_5",
+    "sent": "By the way, do you think I could get any discounts or perks on this trip by mentioning my charity bike ride participation on June 3rd?"
+   },
+   {
+    "expr": "9-4",
+    "date": "2023/09/04",
+    "sess": "2023/05/29 (Mon) 02:18",
+    "sid": "sharegpt_jm1c5JI_21",
+    "sent": "Dinner https://loveincorporated.blob.core.windows.net/contentimages/main/394979f2-e0e9-4fdd-b474-19daa0474195-prawn-chicken-pad-thai.jpg"
+   },
+   {
+    "expr": "september 1st",
+    "date": "2023/09/01",
+    "sess": "2023/05/22 (Mon) 22:30",
+    "sid": "42e69993_2",
+    "sent": "I'm actually planning to move in around mid-August, which gives me some time to settle in before the semester starts on September 1st."
+   },
+   {
+    "expr": "september 1st",
+    "date": "2023/09/01",
+    "sess": "2023/05/22 (Mon) 22:30",
+    "sid": "42e69993_2",
+    "sent": "I'm planning to explore the city before classes start on September 1st, so I'd like to know more about the popular neighborhoods to check out."
+   },
+   {
+    "expr": "september 1st",
+    "date": "2023/09/01",
+    "sess": "2023/05/22 (Mon) 22:30",
+    "sid": "42e69993_2",
+    "sent": "I'm planning to explore the city before classes start on September 1st, and I'm interested in visiting some of the popular neighborhoods."
+   },
+   {
+    "expr": "10-16",
+    "date": "2023/10/16",
+    "sess": "2023/05/28 (Sun) 20:30",
+    "sid": "sharegpt_3dtASzd_0",
+    "sent": "- Week 10-16: Each week seminar + workshop"
+   },
+   {
+    "expr": "july 22nd",
+    "date": "2023/07/22",
+    "sess": "2023/05/29 (Mon) 16:09",
+    "sid": "aaf71ce2_2",
+    "sent": "You know, I've been thinking about my own wedding anniversary which is coming up on July 22nd."
+   },
+   {
+    "expr": "22nd of august",
+    "date": "2023/08/22",
+    "sess": "2023/05/25 (Thu) 15:11",
+    "sid": "28621d6a_2",
+    "sent": "By the way, I recently attended my cousin's wedding on the 22nd of August, and it was a great experience."
+   },
+   {
+    "expr": "22nd of august",
+    "date": "2023/08/22",
+    "sess": "2023/05/25 (Thu) 15:11",
+    "sid": "28621d6a_2",
+    "sent": "I did attend a wedding last month, my cousin's wedding on the 22nd of August, and it was a great experience."
+   },
+   {
+    "expr": "september 6th",
+    "date": "2023/09/06",
+    "sess": "2023/05/27 (Sat) 15:23",
+    "sid": "0e3d8491_1",
+    "sent": "By the way, I filed the petition with the court on September 6th."
+   },
+   {
+    "expr": "12-16",
+    "date": "2023/12/16",
+    "sess": "2023/04/02 (Sun) 01:32",
+    "sid": "sharegpt_m0NmfPN_0",
+    "sent": "The age of your students is 12-16."
+   },
+   {
+    "expr": "september 18th",
+    "date": "2023/09/18",
+    "sess": "2023/05/23 (Tue) 14:15",
+    "sid": "e93efd9a_1",
+    "sent": "I'm preparing for the upcoming Harvest Market on September 18th and I need some help with tracking my sales."
+   },
+   {
+    "expr": "july 17th",
+    "date": "2023/07/17",
+    "sess": "2023/05/23 (Tue) 14:15",
+    "sid": "e93efd9a_1",
+    "sent": "I've had a few good events recently, like the weekly farmers' market on July 17th where I sold 20 soaps, and the SummerFest market on July 24th where I sold 15 soaps."
+   },
+   {
+    "expr": "july 24th",
+    "date": "2023/07/24",
+    "sess": "2023/05/23 (Tue) 14:15",
+    "sid": "e93efd9a_1",
+    "sent": "I've had a few good events recently, like the weekly farmers' market on July 17th where I sold 20 soaps, and the SummerFest market on July 24th where I sold 15 soaps."
+   },
+   {
+    "expr": "june 1st",
+    "date": "2023/06/01",
+    "sess": "2023/05/27 (Sat) 22:58",
+    "sid": "60147f90_1",
+    "sent": "For instance, I'll be taking a 12-week summer research internship starting June 1st, so I'll need to allocate time for that."
+   },
+   {
+    "expr": "september 20th",
+    "date": "2023/09/20",
+    "sess": "2023/05/30 (Tue) 15:49",
+    "sid": "f2835879_2",
+    "sent": "I'm thinking of attending the Foster the People show on September 20th."
+   },
+   {
+    "expr": "8-11",
+    "date": "2023/08/11",
+    "sess": "2023/05/24 (Wed) 02:03",
+    "sid": "sharegpt_OAUjazp_0",
+    "sent": "Do not give me multiple days in one entry, such as 5-7 or 8-11."
+   },
+   {
+    "expr": "4th of july",
+    "date": "2023/07/04",
+    "sess": "2023/05/20 (Sat) 02:24",
+    "sid": "f30b5d33",
+    "sent": "I'm trying to plan a 4th of July BBQ and I was thinking of making some ribs."
+   },
+   {
+    "expr": "4th of july",
+    "date": "2023/07/04",
+    "sess": "2023/05/20 (Sat) 02:24",
+    "sid": "f30b5d33",
+    "sent": "By the way, I've been thinking about making some BBQ chicken for the 4th of July as well."
+   },
+   {
+    "expr": "june 4th",
+    "date": "2023/06/04",
+    "sess": "2023/05/25 (Thu) 14:12",
+    "sid": "dbdbca48_2",
+    "sent": "I've watched a few movies this month, but the ones that come to mind are from a movie marathon I had at home on June 4th, where I watched three movies back-to-back."
+   },
+   {
+    "expr": "june 4th",
+    "date": "2023/06/04",
+    "sess": "2023/05/25 (Thu) 14:12",
+    "sid": "dbdbca48_2",
+    "sent": "The three movies I watched on June 4th were \"The Matrix\", \"Inception\", and \"Everything Everywhere All at Once\"."
+   },
+   {
+    "expr": "june 28",
+    "date": "2023/06/28",
+    "sess": "2023/05/21 (Sun) 21:42",
+    "sid": "sharegpt_ZvjRGRN_0",
+    "sent": "According to the report of the District Zemstvo Administration on the convening of the Ukrainian National Congress of the Kherson province in Odesa on June 28-30, the Kherson District Zemstvo Assembly on June 26 (June) d"
+   },
+   {
+    "expr": "june 26",
+    "date": "2023/06/26",
+    "sess": "2023/05/21 (Sun) 21:42",
+    "sid": "sharegpt_ZvjRGRN_0",
+    "sent": "According to the report of the District Zemstvo Administration on the convening of the Ukrainian National Congress of the Kherson province in Odesa on June 28-30, the Kherson District Zemstvo Assembly on June 26 (June) d"
+   },
+   {
+    "expr": "june 14th",
+    "date": "2023/06/14",
+    "sess": "2023/05/25 (Thu) 14:44",
+    "sid": "2a7e0197",
+    "sent": "By the way, I recently participated in the Turbocharged Tuesdays auto racking event at the local speedway on June 14th and had a blast, finally breaking my personal best time of 12.5 seconds in the quarter-mile drag race"
+   },
+   {
+    "expr": "12-14",
+    "date": "2023/12/14",
+    "sess": "2023/05/21 (Sun) 02:04",
+    "sid": "b2a885b9",
+    "sent": "I think it was actually February 12-14."
+   },
+   {
+    "expr": "june 12th",
+    "date": "2023/06/12",
+    "sess": "2023/05/22 (Mon) 22:06",
+    "sid": "12cff183_1",
+    "sent": "Next, I also bought a new laptop from Best Buy's website on June 12th."
+   },
+   {
+    "expr": "june 5th",
+    "date": "2023/06/05",
+    "sess": "2023/05/22 (Mon) 22:06",
+    "sid": "12cff183_1",
+    "sent": "I bought a few books from Barnes & Noble's online store on June 5th."
+   },
+   {
+    "expr": "december 10",
+    "date": "2023/12/10",
+    "sess": "2023/05/29 (Mon) 18:51",
+    "sid": "sharegpt_mWFmQxk_36",
+    "sent": "4659 Confronting the Anxiety of Academic Writing | Tuesday, December 10, 1-2 p.m."
+   },
+   {
+    "expr": "july 23",
+    "date": "2023/07/23",
+    "sess": "2023/05/28 (Sun) 23:25",
+    "sid": "sharegpt_1kE6haW_52",
+    "sent": "almost all of its $28,000 cash investment by the time it sold the first Ford Model A on July 23."
+   },
+   {
+    "expr": "7-8",
+    "date": "2023/07/08",
+    "sess": "2023/05/30 (Tue) 15:07",
+    "sid": "990b60df_1",
+    "sent": "By the way, I'm planning to attend my online yoga class from 7-8 pm and set up a peaceful atmosphere with candles, so something calming would really help me get in the right mindset."
+   },
+   {
+    "expr": "august 12th",
+    "date": "2023/08/12",
+    "sess": "2023/05/29 (Mon) 07:52",
+    "sid": "27d9e492_2",
+    "sent": "My husband's name is Michael, and he was born on August 12th."
+   },
+   {
+    "expr": "november 25th",
+    "date": "2023/11/25",
+    "sess": "2023/05/29 (Mon) 07:52",
+    "sid": "27d9e492_2",
+    "sent": "My brother's name is Alex, and he was born on November 25th."
+   },
+   {
+    "expr": "october 5th",
+    "date": "2023/10/05",
+    "sess": "2023/05/29 (Mon) 07:52",
+    "sid": "27d9e492_2",
+    "sent": "My cousin's name is Olivia, and she was born on October 5th."
+   },
+   {
+    "expr": "june 19th",
+    "date": "2023/06/19",
+    "sess": "2023/05/29 (Mon) 23:39",
+    "sid": "97cddf70_5",
+    "sent": "By the way, I just got back from a high-performance driving education event on June 19th, and I'm eager to improve my car's handling for the next track day."
+   },
+   {
+    "expr": "june 19th",
+    "date": "2023/06/19",
+    "sess": "2023/05/29 (Mon) 23:39",
+    "sid": "97cddf70_5",
+    "sent": "I'm actually thinking of tracking my car more frequently now, especially after that high-performance driving education event I attended on June 19th."
+   },
+   {
+    "expr": "june 19th",
+    "date": "2023/06/19",
+    "sess": "2023/05/29 (Mon) 23:39",
+    "sid": "97cddf70_5",
+    "sent": "Plus, I've been learning a lot from the high-performance driving education event I attended on June 19th, and I think the adjustable sway bars will help me put those skills to good use."
+   },
+   {
+    "expr": "june 19th",
+    "date": "2023/06/19",
+    "sess": "2023/05/29 (Mon) 23:39",
+    "sid": "97cddf70_5",
+    "sent": "I'm considering upgrading my brake pads and rotors to improve my car's braking performance, especially since I've been tracking my car more frequently after that high-performance driving education event on June 19th."
+   },
+   {
+    "expr": "september 10th",
+    "date": "2023/09/10",
+    "sess": "2023/05/21 (Sun) 00:06",
+    "sid": "451120d3_2",
+    "sent": "I've also booked my flights to Edinburgh for September 10th, which is a few weeks before the semester starts."
+   },
+   {
+    "expr": "june 15th",
+    "date": "2023/06/15",
+    "sess": "2023/05/21 (Sun) 11:39",
+    "sid": "e42cb8d9_1",
+    "sent": "By the way, we're flying out to Honolulu on June 15th, so I want to make sure we're close to the beach and all the action."
+   },
+   {
+    "expr": "june 15th",
+    "date": "2023/06/15",
+    "sess": "2023/05/21 (Sun) 11:39",
+    "sid": "e42cb8d9_1",
+    "sent": "We're flying into Honolulu on June 15th and I want to make sure we get to our hotel safely and efficiently."
+   },
+   {
+    "expr": "4th of july",
+    "date": "2023/07/04",
+    "sess": "2023/05/28 (Sun) 22:40",
+    "sid": "9d2a37e0",
+    "sent": "Do you think they'll have any sales during the 4th of July weekend?"
+   },
+   {
+    "expr": "october 12",
+    "date": "2023/10/12",
+    "sess": "2023/05/22 (Mon) 20:46",
+    "sid": "233605cc_1",
+    "sent": "I'm interested in attending the All Things Go Fall Classic music festival on October 12-13."
+   },
+   {
+    "expr": "12-13",
+    "date": "2023/12/13",
+    "sess": "2023/05/22 (Mon) 20:46",
+    "sid": "233605cc_1",
+    "sent": "I'm interested in attending the All Things Go Fall Classic music festival on October 12-13."
+   },
+   {
+    "expr": "august 20th",
+    "date": "2023/08/20",
+    "sess": "2023/05/28 (Sun) 01:34",
+    "sid": "94bc18df_1",
+    "sent": "I'm already planning my next concert, the Taylor Swift one at Levi's Stadium on August 20th, but I'm always down for more live music."
+   },
+   {
+    "expr": "august 20th",
+    "date": "2023/08/20",
+    "sess": "2023/05/28 (Sun) 01:34",
+    "sid": "94bc18df_1",
+    "sent": "I'm thinking of checking out the single-day passes for Outside Lands, but I want to make sure I don't conflict with the Taylor Swift concert at Levi's Stadium on August 20th."
+   },
+   {
+    "expr": "august 20th",
+    "date": "2023/08/20",
+    "sess": "2023/05/28 (Sun) 01:34",
+    "sid": "94bc18df_1",
+    "sent": "I'm thinking of checking out the single-day passes for Outside Lands, but I want to make sure I don't conflict with the Taylor Swift concert at Levi's Stadium on August 20th."
+   },
+   {
+    "expr": "july 2nd",
+    "date": "2023/07/02",
+    "sess": "2023/05/28 (Sun) 06:26",
+    "sid": "918c4788_1",
+    "sent": "I'm also a fan of Billie Eilish, whom I saw at a music festival in San Bernardino on July 2nd, featuring a diverse lineup of artists including Khalid and Tove Lo."
+   },
+   {
+    "expr": "july 2nd",
+    "date": "2023/07/02",
+    "sess": "2023/05/28 (Sun) 06:26",
+    "sid": "918c4788_1",
+    "sent": "Can you suggest some festivals happening in the next few months that have a similar vibe to the one I attended in San Bernardino on July 2nd, with a diverse lineup of artists like Billie Eilish, Khalid, and Tove Lo?"
+   },
+   {
+    "expr": "july 2nd",
+    "date": "2023/07/02",
+    "sess": "2023/05/28 (Sun) 06:26",
+    "sid": "918c4788_1",
+    "sent": "What kind of artists or bands would you recommend I check out at Outside Lands, based on my interest in The 1975, Billie Eilish, and the diverse lineup of the San Bernardino festival I attended on July 2nd?"
+   },
+   {
+    "expr": "october 17th",
+    "date": "2023/10/17",
+    "sess": "2023/05/21 (Sun) 13:40",
+    "sid": "62a6d083",
+    "sent": "By the way, I got inspired to organize this event after participating in several charity events recently, like that breast cancer awareness walk I did on October 17th."
+   },
+   {
+    "expr": "october 17th",
+    "date": "2023/10/17",
+    "sess": "2023/05/21 (Sun) 13:40",
+    "sid": "62a6d083",
+    "sent": "I'm planning to display some photos from my previous charity events at the auction/raffle, including the breast cancer awareness walk I did on October 17th."
+   },
+   {
+    "expr": "october 17th",
+    "date": "2023/10/17",
+    "sess": "2023/05/21 (Sun) 13:40",
+    "sid": "62a6d083",
+    "sent": "Displaying photos from your previous charity events, including the breast cancer awareness walk on October 17th, can help create a sense of continuity and showcase your dedication to supporting important causes."
+   },
+   {
+    "expr": "october 15th",
+    "date": "2023/10/15",
+    "sess": "2023/05/20 (Sat) 11:35",
+    "sid": "91e581ad_1",
+    "sent": "I've been living there since October 15th last year and it still feels a bit bare."
+   },
+   {
+    "expr": "september 17th",
+    "date": "2023/09/17",
+    "sess": "2023/05/28 (Sun) 06:42",
+    "sid": "26bc645b_5",
+    "sent": "I recently stocked up on some essentials during the Sephora VIB Sale on September 17th, which was 20% off all products, but I'm interested in exploring more options."
+   },
+   {
+    "expr": "september 17th",
+    "date": "2023/09/17",
+    "sess": "2023/05/28 (Sun) 06:42",
+    "sid": "26bc645b_5",
+    "sent": "Since I recently bought some skincare products during the Sephora VIB Sale on September 17th, I'm excited to incorporate this new serum into my routine."
+   },
+   {
+    "expr": "november 27th",
+    "date": "2023/11/27",
+    "sess": "2023/05/28 (Sun) 23:12",
+    "sid": "a76e7e3c_2",
+    "sent": "By the way, I also stocked up on some winter sweaters at Macy's on November 27th - got them for 50% off, what a steal!"
+   },
+   {
+    "expr": "november 27th",
+    "date": "2023/11/27",
+    "sess": "2023/05/28 (Sun) 23:12",
+    "sid": "a76e7e3c_2",
+    "sent": "I also stopped by Macy's and grabbed a few winter sweaters for 50% off on November 27th."
+   },
+   {
+    "expr": "june 1st",
+    "date": "2023/06/01",
+    "sess": "2023/05/20 (Sat) 05:16",
+    "sid": "26f9a255_1",
+    "sent": "I'm trying to improve my communication skills, and I recently attended a 3-day workshop on \"Effective Communication\" from June 1st to 3rd, which was really helpful."
+   },
+   {
+    "expr": "6-9",
+    "date": "2023/06/09",
+    "sess": "2023/05/23 (Tue) 09:44",
+    "sid": "sharegpt_101i5OR_0",
+    "sent": "The 6-9 James, by contrast, has connected on more than 2,200 three-pointers and counting."
+   },
+   {
+    "expr": "july 15th",
+    "date": "2023/07/15",
+    "sess": "2023/05/27 (Sat) 08:27",
+    "sid": "6e2cca63_2",
+    "sent": "I recall sending 12 messages to a particular influencer on July 15th, asking her about her workout routine and getting some valuable tips."
+   },
+   {
+    "expr": "july 20th",
+    "date": "2023/07/20",
+    "sess": "2023/05/27 (Sat) 08:27",
+    "sid": "6e2cca63_2",
+    "sent": "By the way, I've been meaning to clean up my Facebook friends list, and on July 20th, I spent about an hour going through my list and unfriending around 30 people I no longer keep in touch with."
+   },
+   {
+    "expr": "june 15th",
+    "date": "2023/06/15",
+    "sess": "2023/05/30 (Tue) 04:34",
+    "sid": "1c662b7b_1",
+    "sent": "I'm planning a trip to Miami to visit my sister for her birthday on June 15th."
+   },
+   {
+    "expr": "june 1st",
+    "date": "2023/06/01",
+    "sess": "2023/05/25 (Thu) 15:28",
+    "sid": "1aaf8057_3",
+    "sent": "I just finished my first 5K run on June 1st at the local park, and I want to keep the momentum going."
+   },
+   {
+    "expr": "june 1st",
+    "date": "2023/06/01",
+    "sess": "2023/05/25 (Thu) 15:28",
+    "sid": "1aaf8057_3",
+    "sent": "By the way, the \"Run for a Cause\" 5K I did on June 1st was really helpful in preparing me for this goal, as it was a great way to test my endurance."
+   },
+   {
+    "expr": "june 1st",
+    "date": "2023/06/01",
+    "sess": "2023/05/25 (Thu) 15:28",
+    "sid": "1aaf8057_3",
+    "sent": "By the way, I was thinking about how my recent 5K run on June 1st at the local park was a great way to test my endurance, and I'm hoping that experience will help me with my triathlon training."
+   },
+   {
+    "expr": "september 18th",
+    "date": "2023/09/18",
+    "sess": "2023/05/22 (Mon) 17:55",
+    "sid": "facfdfe2",
+    "sent": "At The Disco show on September 18th?"
+   },
+   {
+    "expr": "september 14th",
+    "date": "2023/09/14",
+    "sess": "2023/05/22 (Mon) 17:55",
+    "sid": "facfdfe2",
+    "sent": "I'm interested in seeing Waterparks at The Foundry at The Fillmore on September 14th."
+   },
+   {
+    "expr": "november 27th",
+    "date": "2023/11/27",
+    "sess": "2023/05/25 (Thu) 11:11",
+    "sid": "f79a48dd_1",
+    "sent": "By the way, I just got back from the Black Friday sales at the local mall on November 27th, and I was disappointed that they didn't have the HP laptop model I wanted in stock."
+   },
+   {
+    "expr": "november 27th",
+    "date": "2023/11/27",
+    "sess": "2023/05/25 (Thu) 11:11",
+    "sid": "f79a48dd_1",
+    "sent": "Speaking of good deals, I got a great discount on a 4K TV from Best Buy during the Black Friday sales at the local mall on November 27th - 40% off the original price!"
+   },
+   {
+    "expr": "october 15th",
+    "date": "2023/10/15",
+    "sess": "2023/05/20 (Sat) 10:46",
+    "sid": "f379d356_1",
+    "sent": "By the way, I recently attended their Halloween event, Scream Fest, on October 15th, and it was a blast!"
+   },
+   {
+    "expr": "october 15th",
+    "date": "2023/10/15",
+    "sess": "2023/05/20 (Sat) 10:46",
+    "sid": "f379d356_1",
+    "sent": "I attended the Halloween-themed event, \"Scream Fest\", at Thrill Kingdom on October 15th."
+   }
+  ]
+ }
+}

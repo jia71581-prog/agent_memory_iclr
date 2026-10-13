@@ -1,0 +1,595 @@
+{
+ "system": "qc_view_only",
+ "results": [
+  {
+   "qid": "6a1eabeb",
+   "type": "knowledge-update",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "Your personal best time in the charity 5K run was **27:12**."
+  },
+  {
+   "qid": "0a995998",
+   "type": "multi-session",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "One item: the exchanged boots at Zara need to be picked up."
+  },
+  {
+   "qid": "7161e7e2",
+   "type": "single-session-assistant",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.13,
+   "judge": false,
+   "pred": "I don't have the specific rotation assignment for Admon on Sunday in the provided context. The memory only lists the agents and the shift times, but not each agent's individual day-to-day rotation."
+  },
+  {
+   "qid": "8a2466db",
+   "type": "single-session-preference",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.154,
+   "judge": true,
+   "pred": "I don’t have any specific video editing resources saved in memory. However, since you’ve been using Adobe Premiere Pro and focusing on the Lumetri Color Panel/color grading, you may find Adobe’s offic"
+  },
+  {
+   "qid": "e47becba",
+   "type": "single-session-user",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.5,
+   "judge": true,
+   "pred": "Business Administration."
+  },
+  {
+   "qid": "gpt4_59149c77",
+   "type": "temporal-reasoning",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.048,
+   "judge": false,
+   "pred": "I don’t know — there’s no information in the memory context about your visits to the Museum of Modern Art or the “Ancient Civilizations” exhibit at the Metropolitan Museum of Art."
+  },
+  {
+   "qid": "6aeb4375",
+   "type": "knowledge-update",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don't know — the memory context doesn't mention any Korean restaurants you've tried in your city."
+  },
+  {
+   "qid": "6d550036",
+   "type": "multi-session",
+   "qlabel": "current",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "Based on your saved facts, I count **3 projects** you led or are currently leading:\n\n1. **Marketing Research class project** — you led the data analysis team.\n2. **Data Mining class solo project** — y"
+  },
+  {
+   "qid": "c4f10528",
+   "type": "single-session-assistant",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don't have that restaurant name in my memory context."
+  },
+  {
+   "qid": "06878be2",
+   "type": "single-session-preference",
+   "qlabel": "current",
+   "view_mode": "current",
+   "f1": 0.062,
+   "judge": true,
+   "pred": "Based on your setup, consider: a durable Sony-designed camera bag, an external battery pack for your A7R IV and other devices, the Gitzo GT3543LS tripod you’re considering, and the G-Lock Ultra system"
+  },
+  {
+   "qid": "118b2229",
+   "type": "single-session-user",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.75,
+   "judge": true,
+   "pred": "45 minutes each way."
+  },
+  {
+   "qid": "gpt4_f49edff3",
+   "type": "temporal-reasoning",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.349,
+   "judge": true,
+   "pred": "The order from first to last is:\n\n1. The day you helped your friend prepare the nursery — February 5, 2023  \n2. The day you helped your cousin pick out baby shower items — February 10, 2023  \n3. The d"
+  },
+  {
+   "qid": "830ce83f",
+   "type": "knowledge-update",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "Rachel moved to a new apartment in Chicago."
+  },
+  {
+   "qid": "gpt4_59c863d7",
+   "type": "multi-session",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.4,
+   "judge": false,
+   "pred": "I count 4 model kits mentioned: the 1/24 ’69 Camaro, Revell F-15 Eagle, Tamiya 1/48 Spitfire Mk.V, and a 1/72 B-29 bomber (planned next)."
+  },
+  {
+   "qid": "89527b6b",
+   "type": "single-session-assistant",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don’t know."
+  },
+  {
+   "qid": "75832dbd",
+   "type": "single-session-preference",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.304,
+   "judge": false,
+   "pred": "I don’t have specific recent publications or conferences stored in memory to recommend. Based on your interests in deep learning for medical image analysis, multi-agent and multi-modal reinforcement l"
+  },
+  {
+   "qid": "51a45a95",
+   "type": "single-session-user",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": true,
+   "pred": "Target."
+  },
+  {
+   "qid": "71017276",
+   "type": "temporal-reasoning",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.25,
+   "judge": true,
+   "pred": "4 weeks ago (on March 4, 2023)."
+  },
+  {
+   "qid": "852ce960",
+   "type": "knowledge-update",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "$350,000"
+  },
+  {
+   "qid": "b5ef892d",
+   "type": "multi-session",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.5,
+   "judge": false,
+   "pred": "3 days."
+  },
+  {
+   "qid": "e9327a54",
+   "type": "single-session-assistant",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don't have any info about an Orlando dessert shop with giant milkshakes in our conversation history. I don't know."
+  },
+  {
+   "qid": "0edc2aef",
+   "type": "single-session-preference",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.111,
+   "judge": false,
+   "pred": "I don’t see any Miami trip details or hotel preferences in your saved information, so I can’t suggest a hotel for Miami."
+  },
+  {
+   "qid": "58bf7951",
+   "type": "single-session-user",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.25,
+   "judge": true,
+   "pred": "You attended a production of *The Glass Menagerie* at the local community theater."
+  },
+  {
+   "qid": "b46e15ed",
+   "type": "temporal-reasoning",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don’t have a record of you participating in two charity events on consecutive days. The charity-related events in memory are the charity gala on **2023-01-30** and the Books for Kids book drive on *"
+  },
+  {
+   "qid": "945e3d21",
+   "type": "knowledge-update",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.667,
+   "judge": true,
+   "pred": "You attend yoga classes three times a week."
+  },
+  {
+   "qid": "e831120c",
+   "type": "multi-session",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "It took you **two weeks** to watch all 22 Marvel Cinematic Universe movies. I don’t have information about you watching the main Star Wars films."
+  },
+  {
+   "qid": "4c36ccef",
+   "type": "single-session-assistant",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don’t have a record of recommending a romantic Italian restaurant in Rome."
+  },
+  {
+   "qid": "35a27287",
+   "type": "single-session-preference",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.126,
+   "judge": false,
+   "pred": "I don’t have specific cultural events happening around you this weekend in your saved info. I know you’re interested in language/cultural exchange events and art workshops, and there’s a beginner’s wa"
+  },
+  {
+   "qid": "1e043500",
+   "type": "single-session-user",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 1.0,
+   "judge": true,
+   "pred": "Summer Vibes"
+  },
+  {
+   "qid": "gpt4_fa19884c",
+   "type": "temporal-reasoning",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.047,
+   "judge": false,
+   "pred": "I don’t know—the memory context doesn’t include a date for when you started playing along to favorite songs on your old keyboard. It only shows the bluegrass band was discovered on 2023/03/31."
+  },
+  {
+   "qid": "d7c942c3",
+   "type": "knowledge-update",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": true,
+   "pred": "Yes, based on your later info, your mom is now using the same grocery list app as you, and the list is shared with her. Earlier she was using an old paper list."
+  },
+  {
+   "qid": "3a704032",
+   "type": "multi-session",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "One plant: the snake plant from your sister, acquired last month."
+  },
+  {
+   "qid": "6ae235be",
+   "type": "single-session-assistant",
+   "qlabel": "historical",
+   "view_mode": "historical",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don't have any information about CITGO's refineries or the Lake Charles Refinery in the provided context."
+  },
+  {
+   "qid": "32260d93",
+   "type": "single-session-preference",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.087,
+   "judge": false,
+   "pred": "Based on your interest in true crime, you might enjoy a true crime documentary or series tonight."
+  },
+  {
+   "qid": "c5e8278d",
+   "type": "single-session-user",
+   "qlabel": "historical",
+   "view_mode": "historical",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don't know — no information about a previous last name is in the memory context."
+  },
+  {
+   "qid": "0bc8ad92",
+   "type": "temporal-reasoning",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.111,
+   "judge": true,
+   "pred": "About 5 months have passed since your last museum visit with a friend (Science Museum on 2022/10/22)."
+  },
+  {
+   "qid": "71315a70",
+   "type": "knowledge-update",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "5–6 hours."
+  },
+  {
+   "qid": "gpt4_d84a3211",
+   "type": "multi-session",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "You’ve spent **$65** on bike-related expenses since the start of the year: **$25** for the chain replacement and **$40** for the bike lights."
+  },
+  {
+   "qid": "7e00a6cb",
+   "type": "single-session-assistant",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.1,
+   "judge": false,
+   "pred": "I don’t know—I don’t have any memory of recommending an Amsterdam hostel near the Red Light District."
+  },
+  {
+   "qid": "195a1a1b",
+   "type": "single-session-preference",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.077,
+   "judge": false,
+   "pred": "Sure! Based on your interests, here are a few evening activity ideas:\n\n- **Guitar:** Experiment with the chorus and phaser effects you’ve been curious about.\n- **Knitting:** Start your next project, t"
+  },
+  {
+   "qid": "6ade9755",
+   "type": "single-session-user",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.125,
+   "judge": false,
+   "pred": "I don't know — the memory context doesn’t mention where you take yoga classes."
+  },
+  {
+   "qid": "af082822",
+   "type": "temporal-reasoning",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.5,
+   "judge": true,
+   "pred": "2 weeks ago."
+  },
+  {
+   "qid": "89941a93",
+   "type": "knowledge-update",
+   "qlabel": "current",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "You own 3 bikes: a road bike, a mountain bike, and a commuter bike."
+  },
+  {
+   "qid": "aae3761f",
+   "type": "multi-session",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.246,
+   "judge": false,
+   "pred": "The total drive time I can account for is **9 hours**: 5 hours to the Tennessee mountains + 4 hours to the Outer Banks. I don’t have a drive time for Tybee Island in memory, so I can’t include that th"
+  },
+  {
+   "qid": "1903aded",
+   "type": "single-session-assistant",
+   "qlabel": "historical",
+   "view_mode": "historical",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don’t have that information in the provided context—there’s no record of a list of work-from-home jobs for seniors."
+  },
+  {
+   "qid": "afdc33df",
+   "type": "single-session-preference",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.173,
+   "judge": true,
+   "pred": "A few tips based on what you’ve mentioned:\n\n- Use the new utensil holder to keep utensils off the countertops.\n- Fix the small leak in the kitchen faucet to avoid water spots and buildup.\n- Be gentle "
+  },
+  {
+   "qid": "6f9b354f",
+   "type": "single-session-user",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.533,
+   "judge": true,
+   "pred": "You repainted your bedroom walls a lighter shade of gray."
+  },
+  {
+   "qid": "gpt4_4929293a",
+   "type": "temporal-reasoning",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.105,
+   "judge": false,
+   "pred": "I don’t know — the memory context doesn’t mention your cousin’s wedding or Michael’s engagement party."
+  },
+  {
+   "qid": "ce6d2d27",
+   "type": "knowledge-update",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "Thursday."
+  },
+  {
+   "qid": "gpt4_f2262a51",
+   "type": "multi-session",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.222,
+   "judge": true,
+   "pred": "You visited **3 different doctors**: Dr. Smith, Dr. Patel, and Dr. Lee."
+  },
+  {
+   "qid": "ceb54acb",
+   "type": "single-session-assistant",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.065,
+   "judge": false,
+   "pred": "I don’t know. The memory context provided doesn’t include a previous suggestion of “sexual compulsions” or other alternative terms."
+  },
+  {
+   "qid": "caf03d32",
+   "type": "single-session-preference",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.244,
+   "judge": true,
+   "pred": "Based on what you’ve shared, you’ve already made a delicious beef stew and want to try more plant-based slow cooker recipes, including cashew-based yogurt. A few general tips:\n\n- Keep the lid closed d"
+  },
+  {
+   "qid": "58ef2f1c",
+   "type": "single-session-user",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don’t know — there’s no information in the memory about volunteering at a local animal shelter’s fundraising dinner."
+  },
+  {
+   "qid": "gpt4_b5700ca9",
+   "type": "temporal-reasoning",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.4,
+   "judge": true,
+   "pred": "4 days ago."
+  },
+  {
+   "qid": "9ea5eabc",
+   "type": "knowledge-update",
+   "qlabel": "current",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "Hawaii."
+  },
+  {
+   "qid": "dd2973ad",
+   "type": "multi-session",
+   "qlabel": "historical",
+   "view_mode": "historical",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don't know; no doctor's appointment is mentioned in your memory."
+  },
+  {
+   "qid": "f523d9fe",
+   "type": "single-session-assistant",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don’t have that information in the memory context — there’s no mention of a Netflix conversation or the example show you’re referring to."
+  },
+  {
+   "qid": "54026fce",
+   "type": "single-session-preference",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.127,
+   "judge": true,
+   "pred": "You could try **virtual coffee breaks** with colleagues — you mentioned liking that idea. To make it work, consider **discussing and agreeing with your team first**, framing it as a collaborative sugg"
+  },
+  {
+   "qid": "f8c5f88b",
+   "type": "single-session-user",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.267,
+   "judge": true,
+   "pred": "You bought your new tennis racket from a sports store downtown."
+  },
+  {
+   "qid": "9a707b81",
+   "type": "temporal-reasoning",
+   "qlabel": "neutral",
+   "view_mode": "current",
+   "f1": 0.108,
+   "judge": false,
+   "pred": "The baking class was on **2022/03/20**, which was **26 days ago** from 2022/04/15.  \nYour friend’s birthday cake was baked on **2022/04/10**, which was **5 days ago**."
+  }
+ ],
+ "by_type": {
+  "knowledge-update": {
+   "n": 10,
+   "judge_acc": 0.2,
+   "f1": 0.06670000000000001
+  },
+  "multi-session": {
+   "n": 10,
+   "judge_acc": 0.1,
+   "f1": 0.13679999999999998
+  },
+  "single-session-assistant": {
+   "n": 10,
+   "judge_acc": 0.0,
+   "f1": 0.029500000000000005
+  },
+  "single-session-preference": {
+   "n": 10,
+   "judge_acc": 0.5,
+   "f1": 0.1465
+  },
+  "single-session-user": {
+   "n": 10,
+   "judge_acc": 0.7,
+   "f1": 0.34249999999999997
+  },
+  "temporal-reasoning": {
+   "n": 10,
+   "judge_acc": 0.5,
+   "f1": 0.19180000000000003
+  }
+ },
+ "total_judge_acc": 0.3333333333333333,
+ "cost": {
+  "answer/qc/deepseek-v4-pro": {
+   "calls": 60,
+   "prompt": 374758,
+   "completion": 25531
+  },
+  "judge/deepseek-v4-pro": {
+   "calls": 60,
+   "prompt": 14970,
+   "completion": 10414
+  },
+  "answer/qc-retry/deepseek-v4-pro": {
+   "calls": 1,
+   "prompt": 6797,
+   "completion": 3632
+  }
+ }
+}

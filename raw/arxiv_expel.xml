@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/hywVeY4b/SVYdCtVvC8Jn0a4Mss</id>
+  <title>arXiv Query: search_query=ti:"ExpeL"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-09-16T09:26:17Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22ExpeL%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>13</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/1608.07576v2</id>
+    <title>Inflation Expels Runaways</title>
+    <updated>2017-01-06T04:05:29Z</updated>
+    <link href="https://arxiv.org/abs/1608.07576v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1608.07576v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We argue that moduli stabilization generically restricts the evolution following transitions between weakly coupled de Sitter vacua and can induce a strong selection bias towards inflationary cosmologies. The energy density of domain walls between vacua typically destabilizes Kahler moduli and triggers a runaway towards large volume. This decompactification phase can collapse the new de Sitter region unless a minimum amount of inflation occurs after the transition. A stable vacuum transition is guaranteed only if the inflationary expansion generates overlapping past light cones for all observable modes originating from the reheating surface, which leads to an approximately flat and isotropic universe. High scale inflation is vastly favored. Our results point towards a framework for studying parameter fine-tuning and inflationary initial conditions in flux compactifications.</summary>
+    <category term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="gr-qc" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2016-08-26T20:00:00Z</published>
+    <arxiv:comment>56 pages, 17 figures; v2: fixed typos</arxiv:comment>
+    <arxiv:primary_category term="hep-th"/>
+    <arxiv:journal_ref>JHEP 1612 (2016) 155</arxiv:journal_ref>
+    <author>
+      <name>Thomas C. Bachlechner</name>
+    </author>
+    <arxiv:doi>10.1007/JHEP12(2016)155</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1007/JHEP12(2016)155" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1805.00126v4</id>
+    <title>Superconductors that do not expel magnetic flux</title>
+    <updated>2018-05-09T00:40:02Z</updated>
+    <link href="https://arxiv.org/abs/1805.00126v4" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1805.00126v4" rel="related" type="application/pdf" title="pdf"/>
+    <summary>An ultrathin superconducting bilayer creates a coreless fractional vortex when only the second layer has a hole. The quantization is broken by the hole, and the normal core disappears. The magnetic flux is no longer confined near the normal core, and its density profile around the hole becomes similar to that of a crème caramel; the divergence of the magnetic flux density is truncated around the center. We propose basic design of a practical device to realize a coreless fractional vortex.</summary>
+    <category term="cond-mat.supr-con" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2018-04-30T23:06:46Z</published>
+    <arxiv:comment>15 pages, 5 figures, The fourth version of the submission and the final update for arXiv. After this revision, the title is changed two times in a review process. In the first change, the title was "A vortex in a superconducting bilayer where one layer has a hole". The final title is "An unconventional vortex state in a superconducting bilayer where one layer has a hole"</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.supr-con"/>
+    <arxiv:journal_ref>Solid State Communications. Vol.277, pp 39-44, 2018</arxiv:journal_ref>
+    <author>
+      <name>Y. Tanaka</name>
+    </author>
+    <author>
+      <name>H. Yamamori</name>
+    </author>
+    <author>
+      <name>T. Yanagisawa</name>
+    </author>
+    <author>
+      <name>T. Nishio</name>
+    </author>
+    <author>
+      <name>S. Arisawa</name>
+    </author>
+    <arxiv:doi>10.1016/j.ssc.2018.04.012</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1016/j.ssc.2018.04.012" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2308.10144v3</id>
+    <title>ExpeL: LLM Agents Are Experiential Learners</title>
+    <updated>2024-12-20T06:14:53Z</updated>
+    <link href="https://arxiv.org/abs/2308.10144v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2308.10144v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The recent surge in research interest in applying large language models (LLMs) to decision-making tasks has flourished by leveraging the extensive world knowledge embedded in LLMs. While there is a growing demand to tailor LLMs for custom decision-making tasks, finetuning them for specific tasks is resource-intensive and may diminish the model's generalization capabilities. Moreover, state-of-the-art language models like GPT-4 and Claude are primarily accessible through API calls, with their parametric weights remaining proprietary and unavailable to the public. This scenario emphasizes the growing need for new methodologies that allow learning from agent experiences without requiring parametric updates. To address these problems, we introduce the Experiential Learning (ExpeL) agent. Our agent autonomously gathers experiences and extracts knowledge using natural language from a collection of training tasks. At inference, the agent recalls its extracted insights and past experiences to make informed decisions. Our empirical results highlight the robust learning efficacy of the ExpeL agent, indicating a consistent enhancement in its performance as it accumulates experiences. We further explore the emerging capabilities and transfer learning potential of the ExpeL agent through qualitative observations and additional experiments.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-08-20T03:03:34Z</published>
+    <arxiv:comment>Accepted by the 38th Annual AAAI Conference on Artificial Intelligence (AAAI-24)</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Andrew Zhao</name>
+    </author>
+    <author>
+      <name>Daniel Huang</name>
+    </author>
+    <author>
+      <name>Quentin Xu</name>
+    </author>
+    <author>
+      <name>Matthieu Lin</name>
+    </author>
+    <author>
+      <name>Yong-Jin Liu</name>
+    </author>
+    <author>
+      <name>Gao Huang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1910.06395v1</id>
+    <title>Interaction of SN~Ib 2004dk with a Previously-Expelled Envelope</title>
+    <updated>2019-10-14T19:47:19Z</updated>
+    <link href="https://arxiv.org/abs/1910.06395v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1910.06395v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The interaction between the expanding supernova (SN) ejecta with the circumstellar material (CSM) that was expelled from the progenitor prior to explosion is a long-sought phenomenon, yet observational evidence is scarce. Here we confirm a new example: SN 2004dk, originally a hydrogen-poor, helium-rich Type Ib SN that reappeared as a strong H$α$-emitting point-source on narrowband H$α$ images. We present follow-up optical spectroscopy that reveals the presence of a broad H$α$ component with full width at half maximum of ~290 km/s in addition to the narrow H$α$ +[NII] emission features from the host galaxy. Such a broad component is a clear sign of an ejecta-CSM interaction. We also present observations with the XMM-Newton Observatory, the Swift satellite, and the Chandra X-ray Observatory that span 10 days to 15 years after discovery. The detection of strong radio, X-ray, and H$α$ emission years after explosion allows various constraints to be put on pre-SN mass-loss processes. We present a wind-bubble model in which the CSM is "pre-prepared" by a fast wind interacting with a slow wind. Much of the outer density profile into which the SN explodes corresponds to no steady-state mass-loss process. We estimate that the shell of compressed slow wind material was ejected ~1400 yr prior to explosion, perhaps during carbon burning, and that the SN shock had swept up about 0.04 M_sun of material. The region emitting the H$α$ has a density of order $10^{-20}$ g/cc.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2019-10-14T19:47:19Z</published>
+    <arxiv:comment>16 pages</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <arxiv:journal_ref>2019, ApJ, 833, 120</arxiv:journal_ref>
+    <author>
+      <name>David Pooley</name>
+    </author>
+    <author>
+      <name>J. Craig Wheeler</name>
+    </author>
+    <author>
+      <name>Jozsef Vinkó</name>
+    </author>
+    <author>
+      <name>Vikram V. Dwarkadas</name>
+    </author>
+    <author>
+      <name>Tamas Szalai</name>
+    </author>
+    <author>
+      <name>Jeffrey M. Silverman</name>
+    </author>
+    <author>
+      <name>Madelaine Griesel</name>
+    </author>
+    <author>
+      <name>Molly McCullough</name>
+    </author>
+    <author>
+      <name>G. H. Marion</name>
+    </author>
+    <author>
+      <name>Phillip MacQueen</name>
+    </author>
+    <arxiv:doi>10.3847/1538-4357/ab3e36</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.3847/1538-4357/ab3e36" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2106.01476v2</id>
+    <title>Low density interior in supercooled aqueous nanodroplets expels ions to the subsurface</title>
+    <updated>2021-08-10T04:06:33Z</updated>
+    <link href="https://arxiv.org/abs/2106.01476v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2106.01476v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The interaction between water and ions within droplets plays a key role in the chemical reactivity of atmospheric and man-made aerosols. Here we report direct computational evidence that in supercooled aqueous nanodroplets a lower density core of tetrahedrally coordinated water expels the cosmotropic ions to the denser and more disordered subsurface. In contrast, at room temperature, depending on the nature of the ion the radial distribution in the droplet core is nearly uniform or elevated towards the center. We analyze the spatial distribution of a single ion in terms of a reference electrostatic model. The energy of the system in the analytical model is expressed as the sum of the electrostatic and surface energy of a deformable droplet. The model predicts that the ion is subject to a harmonic potential centered at the droplet's center of mass. We name this effect "electrostatic confinement". The model's predictions are consistent with the simulation findings for a single ion at room temperature but not at supercooling. We anticipate this study to be the starting point for investigating the structure of supercooled (electro)sprayed droplets that are used to preserve the conformations of macromolecules originating from the bulk solution.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atm-clus" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2021-06-02T21:24:56Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Shahrazad M. A. Malek</name>
+    </author>
+    <author>
+      <name>Victor Kwan</name>
+    </author>
+    <author>
+      <name>Ivan Saika-Voivod</name>
+    </author>
+    <author>
+      <name>Styliani Consta</name>
+    </author>
+    <arxiv:doi>10.1021/jacs.1c04142</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1021/jacs.1c04142" title="doi"/>
+  </entry>
+</feed>

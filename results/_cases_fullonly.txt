@@ -1,0 +1,668 @@
+
+===== [1] 0977f2af | knowledge-update | qdate=2023/05/31 (Wed) 07:54 | sess=44 turns=484 ev=2 chains=321
+QC  : CORRECT
+FULL: f1=0.0 evcov=1/2 goldtok_raw30=0.0
+Q   : What new kitchen gadget did I invest in before getting the Air Fryer?
+GOLD: Instant Pot
+P_FU: I don’t know. The retrieved memory mentions getting an Air Fryer, but it doesn’t mention any other new kitchen gadget purchased before that.
+EV  : I'm actually thinking of using my new Instant Pot to make some of these soups and stews. Do you have any recipes that are specifically designed for pressure cooking?
+EV  : I'm actually thinking of using the Air Fryer I got yesterday to make some crispy sweet potato fries to go with the meals. Do you have any tips on how to get the best results with it?
+VH  : [2023/05/12 (Fri) 05:11] Smokey's | is a new BBQ joint = downtown
+VH  : user | asked about = authority levels of chefs vs cooks in kitchen (2023/04/24); cook transitioning to chef career path (2023/04/24); how chefs handle stress (2023/04/24); important qualities for a su …
+VH  : [2023/05/30 (Tue) 01:18] user | car is getting dirty = especially from pollen
+VH  : [2023/04/23 (Sun) 13:03] user | closed net new deals last year = 50
+VH  : [2023/05/30 (Tue) 01:18] user | considering buying = new floor mats for car
+
+===== [2] 41698283 | knowledge-update | qdate=2023/09/21 (Thu) 08:41 | sess=45 turns=476 ev=2 chains=337
+QC  : CORRECT
+FULL: f1=0.182 evcov=1/2 goldtok_raw30=1.0
+Q   : What type of camera lens did I purchase most recently?
+GOLD: a 70-200mm zoom lens
+P_FU: You most recently purchased a **50mm prime lens**.
+EV  : I'm mostly using my camera for portrait and low-light photography, so I think I'll need a bag that can protect my gear well. I've also been having some issues with my old 18-55mm kit lens, and I've been relying on manual focus lately. Speaking of lenses, I recently got a new 50mm prime lens, which has been working out great. Do you think  …
+EV  : I'm considering getting a new tripod, but I'm not sure which one to choose. Can you compare the Gitzo and Really Right Stuff tripods for me? By the way, I've been getting some great shots with my new 70-200mm zoom lens lately.
+VH  : [2023/04/09 (Sun) 09:44] user | considering purchase = Saris Bones 2-Bike Trunk Rack
+VH  : [2023/05/26 (Fri) 14:10] user | considering soundbar purchase = Sonos Beam
+VH  : [2023/05/26 (Fri) 14:10] user | decided to purchase = Samsung HW-Q90R soundbar
+VH  : [2023/05/19 (Fri) 04:11] user | happy with Canon EF 70-200mm f/2.8L IS III USM lens = image stabilization and bokeh
+VH  : [2023/08/30 (Wed) 14:23] user | has been getting = great shots with the 70-200mm zoom lens / great portrait shots with remote flash triggers
+
+===== [3] a2f3aa27 | knowledge-update | qdate=2023/06/15 (Thu) 23:26 | sess=44 turns=448 ev=2 chains=308
+QC  : CORRECT
+FULL: f1=0.0 evcov=2/2 goldtok_raw30=1.0
+Q   : How many followers do I have on Instagram now?
+GOLD: 1300
+P_FU: I don't know your current Instagram follower count. The last update in memory was from 2023/05/25, when you mentioned being close to 1,300.
+EV  : I've been doing some of these already, like posting regularly and using a consistent aesthetic. It's great to know I'm on the right track. Speaking of which, I'm curious to know if there's a way to see which posts are performing well and which ones aren't. Do you know if Instagram Insights can help me with that? And by the way, I've got 1 …
+EV  : I'm looking to create a new Instagram post about a recent industry event I attended. Can you help me come up with a catchy caption that will encourage engagement, considering my audience is mostly from the US, UK, and Australia? By the way, I've been meaning to check my current follower count - I think I'm close to 1300 now.
+VH  : [2023/05/25 (Thu) 05:26] user | already posts regularly on Instagram = yes
+VH  : [2023/05/25 (Thu) 05:26] user | already uses a consistent aesthetic on Instagram = yes
+VH  : [2023/05/25 (Thu) 05:26] user | has Instagram followers = 1250
+VH  : [2023/05/25 (Thu) 19:24] user | has many shopping apps on phone = true
+VH  : [2023/05/25 (Thu) 09:28] user | Instagram follower count = close to 1300
+
+===== [4] 09ba9854 | multi-session | qdate=2023/05/30 (Tue) 11:49 | sess=44 turns=479 ev=2 chains=298
+QC  : CORRECT
+FULL: f1=0.0 evcov=2/2 goldtok_raw30=None
+Q   : How much will I save by taking the train from the airport to my hotel instead of a taxi?
+GOLD: $50
+P_FU: Based on the memory, you’d save roughly **$30–$40**: the taxi was about **$60**, while a train/subway option to your hotel was estimated at **$20–$30**. If you only count the cheapest train to Shinjuku Station (~$9–$11), the savings would look larger, but that doesn’t include getting from the station to your hotel.
+EV  : I was thinking of taking the train from the airport to my hotel, my friend told me it's only around $10.
+EV  : By the way, I was told that taking a taxi from the airport to my hotel would cost around $60, which is a bit pricey for me.
+VH  : Maya | goal = save her planet from alien invasion (2023/05/20)
+VH  : [2023/05/21 (Sun) 10:50] mirror | acquired by museum from = estate sale
+VH  : [2023/05/21 (Sun) 10:50] mirror | shipped from = England to America
+VH  : Mr Sim | stated = windows manufactured from commercial grade sections (2023/05/24); windows used sub-heads and sub-sills which act as flashing (2023/05/24); no requirement for additional flashing to h …
+VH  : [2023/05/22 (Mon) 05:10] user | believes friend's $10 fare may be = a special deal or discounted ticket or hotel package deal
+
+===== [5] 129d1232 | multi-session | qdate=2023/05/01 (Mon) 23:45 | sess=48 turns=451 ev=3 chains=322
+QC  : CORRECT
+FULL: f1=0.067 evcov=2/3 goldtok_raw30=0.0
+Q   : How much money did I raise in total through all the charity events I participated in?
+GOLD: $5,850
+P_FU: You mentioned raising **$250** in a charity walk and your team raising **$5,000** in a Bike-a-Thon for Cancer Research. Combined, that’s **$5,250**. (Personally, you raised **$250**.)
+EV  : I'm really interested in the "big four" you mentioned, especially reducing plastic bag usage. I've realized how often I've been using them for grocery shopping, and it's definitely an area I can improve on. By the way, I recently participated in a charity walk and managed to raise $250 through sponsors, which got me thinking about the imp …
+EV  : I'm looking for some tips on zero-waste living. I recently met someone who's really into it, and I'm curious to learn more. By the way, I just helped organize a charity yoga event that raised $600 for a local animal shelter.
+EV  : Thanks for the resources! I'll definitely check them out. By the way, speaking of charity events, I recently participated in a Bike-a-Thon for Cancer Research and my team managed to raise $5,000! It was an amazing experience. Do you have any tips on how to stay motivated to continue volunteering and making a difference in the community?
+VH  : [2023/05/01 (Mon) 08:47] Grand Ole Opry | expanded reach through = radio, television, and internet live streaming
+VH  : [2023/05/01 (Mon) 03:26] user | believes there is = a certain satisfaction in creating sculptures through traditional techniques
+VH  : [2023/05/01 (Mon) 21:16] user | charity yoga event benefited = a local animal shelter
+VH  : [2023/05/01 (Mon) 21:16] user | charity yoga event raised = $600
+VH  : [2023/05/01 (Mon) 22:24] user | considering event types = charity run or fundraising dinner
+
+===== [6] 157a136e | multi-session | qdate=2024/02/05 (Mon) 23:49 | sess=47 turns=503 ev=3 chains=340
+QC  : CORRECT
+FULL: f1=0.0 evcov=0/3 goldtok_raw30=None
+Q   : How many years older is my grandma than me?
+GOLD: 43
+P_FU: I don't know. The memory mentions your grandma’s 75th birthday, but it doesn’t give your age, so I can’t calculate how many years older she is than you.
+EV  : I'm planning a family gathering soon and I need some help with party theme ideas. My grandma's 75th birthday celebration at my aunt's house was really inspiring, and I want to do something similar. Do you have any suggestions for a fun and engaging theme?
+EV  : I love these ideas! My grandma's 75th birthday celebration was a big deal for us, and I'm excited to plan something similar. Speaking of which, my mom made an amazing chocolate mocha cake for my birthday, which was just a week after grandma's celebration. Do you have any recipes for a similar cake?
+EV  : What are some must-see places in Europe that are worth visiting, especially for someone in their 30s? And, by the way, do you think 32 is considered young or old in the grand scheme of things?
+VH  : [2024/02/05 (Mon) 20:35] user | grandma = is 75 years old
+
+===== [7] 51c32626 | multi-session | qdate=2023/05/30 (Tue) 16:23 | sess=51 turns=490 ev=2 chains=286
+QC  : CORRECT
+FULL: f1=0.0 evcov=1/2 goldtok_raw30=0.5
+Q   : When did I submit my research paper on sentiment analysis?
+GOLD: February 1st
+P_FU: I don't know — the memory doesn't specify when you submitted your sentiment analysis research paper. It only mentions that you submitted it to ACL (the assistant referred to it as EACL).
+EV  : I'm looking for some help with natural language processing tasks. I've done some work in this area, actually - my master's thesis was on NLP, and before that, I even worked on a research paper on sentiment analysis, which I submitted to ACL. Can you help me with text classification using machine learning?
+EV  : I'm reviewing for ACL, and their submission date was February 1st. Can you give me some tips on reviewing for this type of conferences?
+VH  : [2023/05/30 (Tue) 01:51] user | ACL submission date = February 1st
+VH  : user | asked about = England's performance in the next World Cup (2023/05/25); fund's sustainable investment vision/mission/mandate (2023/05/28); fund's sustainable investment targets/goals (2023/05/2 …
+VH  : user | asks about: safe alcohol consumption levels for women / healthy alternatives to drinking (2023/05/20) -> where to find papers and conferences in machine learning and malware analysis (2023/05/2 …
+VH  : user | believes: a coach's role includes motivating and inspiring players (2023/05/21) -> the field of machine learning and malware analysis is driven by private sector R&D (2023/05/24)
+VH  : [2023/05/22 (Mon) 05:30] user | classification task = positive or negative (binary sentiment)
+
+===== [8] 60159905 | multi-session | qdate=2023/05/30 (Tue) 14:40 | sess=44 turns=448 ev=2 chains=339
+QC  : CORRECT
+FULL: f1=0.0 evcov=2/2 goldtok_raw30=0.0
+Q   : How many dinner parties have I attended in the past month?
+GOLD: three
+P_FU: Based on the memory, you attended at least **2 dinner parties** in the past month: 1. **Alex’s place** — potluck on May 20 (“yesterday” from May 21). 2. **Sarah’s place** — Italian feast “last week” (mentioned May 22). Mike’s BBQ is also mentioned, but no date is given, so it can’t be confirmed as within the past month.
+EV  : That's great! I think I'll have a mix of grilled and non-grilled dishes to cater to different tastes. By the way, I've also had experience with dinner parties that are more low-key, like the ones we had at Alex's place yesterday, where we had a potluck and tried out different cuisines from around the world, and also at Mike's place, where …
+EV  : I'm looking for some Italian recipe ideas for a dinner party I'm hosting soon. I attended a lovely Italian feast at Sarah's place last week, and it inspired me to try out some new dishes. Do you have any recommendations for a beginner like me?
+VH  : [2023/05/22 (Mon) 02:56] Gautam Adani | added over past 3 years = over $100 billion
+VH  : user | attended: a birthday party for colleague and friend David last week (2023/05/20) -> an Italian feast at Sarah's place last week (2023/05/22) -> Spring Fling Market at the local community center …
+VH  : [2023/05/29 (Mon) 18:47] user | attended a pre-departure orientation at their university on = February 20th
+VH  : [2023/05/25 (Thu) 12:12] user | attended event = comic-con
+VH  : [2023/05/23 (Tue) 12:20] user | attended Spring Fling Market = three weeks ago
+
+===== [9] 73d42213 | multi-session | qdate=2023/05/30 (Tue) 22:10 | sess=49 turns=516 ev=2 chains=291
+QC  : CORRECT
+FULL: f1=0.111 evcov=2/2 goldtok_raw30=None
+Q   : What time did I reach the clinic on Monday?
+GOLD: 9:00 AM
+P_FU: I don’t know. The memory says you left home at 7 AM on Monday and got back to the office around 1:00 PM, but it doesn’t specify what time you reached the clinic.
+EV  : I left home at 7 AM on Monday for my doctor's appointment, and I'm still trying to get my rhythm back. As for the project, it's a marketing campaign, and the deadline is in two weeks. I'm not sure where to start, but I know I need to finalize the content, design the visuals, and coordinate with the team for the launch.
+EV  : I'm located in 12345, and I need to see my primary care doctor. I'm available anytime on weekdays, but I'd prefer morning slots. As I mentioned earlier, it took me two hours to get to the clinic from my home last time, so if I could find something within an hour's drive, that would be great.
+VH  : [2023/05/23 (Tue) 03:21] Samantha and Jack | dinner time = 6pm
+VH  : [2023/05/29 (Mon) 23:38] The Crown | season 1 time period = 1952 to 1956
+VH  : [2023/05/30 (Tue) 00:00] user | appointment time preference = morning slots
+VH  : [2023/05/20 (Sat) 23:30] user | first time in the choir = October 15th
+VH  : [2023/05/20 (Sat) 23:43] user | had a doctor's appointment = last Monday
+
+===== [10] 8e91e7d9 | multi-session | qdate=2023/05/30 (Tue) 09:50 | sess=47 turns=498 ev=2 chains=281
+QC  : CORRECT
+FULL: f1=0.0 evcov=0/2 goldtok_raw30=None
+Q   : What is the total number of siblings I have?
+GOLD: 4
+P_FU: I don’t know. The retrieved memory mentions a brother but does not state your total number of siblings.
+EV  : That's a lot of great resources, thanks! I'm particularly interested in the studies on how gender influences social network structure. I come from a family with 3 sisters, so I've always had a strong female presence in my life, but I've noticed that my professional network is more male-dominated. Do you have any resources that specificall …
+EV  : I've been noticing some interesting trends in the demographics of the people I interact with, and I was wondering if you could help me find some data on the average gender ratio of book clubs. Do you have any information on that? By the way, I've been attending a weekly book club with 10 females, 4 males, and 1 non-binary person, which go …
+VH  : [2023/05/29 (Mon) 04:53] user | clarified desired percentage basis = each demographic relative to the total, so total rural for each country should not equal 100%
+VH  : [2023/05/20 (Sat) 05:17] user | flight number = AA211
+VH  : [2023/05/29 (Mon) 04:53] user | requested demographic table grouping = by total, rural, and urban rather than by country
+VH  : user | requested email number = fourth (2023/05/24); sixth (2023/05/24); seventh (2023/05/24)
+VH  : [2023/05/29 (Mon) 04:53] user | requested table modification = add a totals row / add column showing rural and urban population percentages relative to total for each country
+
+===== [11] 92a0aa75 | multi-session | qdate=2023/05/30 (Tue) 21:25 | sess=42 turns=455 ev=2 chains=321
+QC  : CORRECT
+FULL: f1=0.108 evcov=1/2 goldtok_raw30=1.0
+Q   : How long have I been working in my current role?
+GOLD: 1 year and 5 months
+P_FU: I don’t know your current role’s duration. The memory only mentions **3 years and 9 months of experience in the company** (as of May 29, 2023), not specifically in your current role.
+EV  : I'm looking to create a presentation for an upcoming conference, and I need some help with designing the slides. Do you have any templates or design tips you can share? By the way, I've been in marketing for a while now, started as a Marketing Coordinator and worked my way up to Senior Marketing Specialist after 2 years and 4 months.
+EV  : I like the idea of influencer partnerships and user-generated content campaigns. I've been thinking about my 3 years and 9 months experience in the company and I've realized that I've built a strong understanding of our target audience. I think I can leverage that to identify the right influencers and create a successful UGC campaign. Can …
+VH  : [2023/05/27 (Sat) 19:34] Tom | role = point of contact on the sales team
+VH  : [2023/05/27 (Sat) 19:34] user | current job title = Senior Marketing Specialist
+VH  : [2023/05/26 (Fri) 12:13] user | current model build = Revell 1/48 F-15E Strike Eagle kit
+VH  : [2023/05/23 (Tue) 18:12] user | current playlist duration = about 5 weeks
+VH  : [2023/05/23 (Tue) 18:12] user | current playlist vibe = mellow, laid-back indie rock
+
+===== [12] a1cc6108 | multi-session | qdate=2023/05/30 (Tue) 20:23 | sess=43 turns=492 ev=2 chains=288
+QC  : CORRECT
+FULL: f1=0.0 evcov=0/2 goldtok_raw30=None
+Q   : How old was I when Alex was born?
+GOLD: 11
+P_FU: I don’t know — the memory doesn’t include your age or birth year, so I can’t determine how old you were when Alex was born. It only suggests Alex was about 21 in 2023.
+EV  : I'm glad you provided all these resources. I'll definitely review them to make sure I'm providing the best guidance for Alex. You know, it's crazy that he's just 21 and I'm already taking on a mentorship role with him, but I'm excited to see him learn and grow.
+EV  : I'm considering a career change and I'm not sure what path to take. I've been in my current field for a while, but I'm not sure if it's sustainable long-term. Can you help me explore some options that would be suitable for someone my age? By the way, I just turned 32 last month, so I'm still relatively young, but I want to make a move tha …
+VH  : [2023/05/21 (Sun) 18:48] Alex | is = 21 years old
+VH  : [2023/05/22 (Mon) 16:34] Emily | age = 5 years old
+VH  : [2023/05/21 (Sun) 18:48] user | is mentoring = Alex, a new intern
+VH  : [2023/05/22 (Mon) 15:34] user | is thinking of watching = old movie musicals for inspiration
+VH  : user | owns: a Samsung phone / Beats Powerbeats Pro 2 earbuds (2023/05/21) -> an old pottery wheel (2023/05/30)
+
+===== [13] a9f6b44c | multi-session | qdate=2023/03/20 (Mon) 23:57 | sess=45 turns=476 ev=4 chains=337
+QC  : CORRECT
+FULL: f1=0.0 evcov=3/4 goldtok_raw30=None
+Q   : How many bikes did I service or plan to service in March?
+GOLD: 2
+P_FU: You serviced or planned to service **1 bike** in March: your **road bike** (chain cleaned/lubricated and serviced at Pedal Power).
+EV  : I'm looking into getting a new tire for my commuter bike. I've been having some issues with the front tire, and I think it is time to replace it this month, before April comes.
+EV  : I'm looking to plan a longer ride this weekend and was wondering if you could recommend some scenic bike routes in my area. By the way, my road bike has been running great since I cleaned and lubricated the chain on March 2nd - it's been shifting smoothly and quietly!
+EV  : I'm planning a long ride this weekend and wanted to check the weather forecast for Saturday. Can you tell me if it's supposed to be sunny or rainy? By the way, I'm really looking forward to the ride after getting my road bike serviced at Pedal Power on March 10th - it's been running so smoothly since then!
+EV  : (+1 more evidence turns)
+VH  : [2023/03/20 (Mon) 17:22] payment-service | is = Payment Server V2
+VH  : [2023/03/20 (Mon) 02:14] user | accountability plan = may share progress with a friend or family member
+VH  : user | believes = technology can be used for good (2023/03/20); Michael Jackson's concerts must have been incredible (2023/03/20); Michael Jackson's music can evoke many different emotions (2023/03/20 …
+VH  : [2023/03/20 (Mon) 10:35] user | bike chain cleaned and lubricated on = March 2nd / March 22nd
+VH  : [2023/03/20 (Mon) 02:14] user | exercise habit plan = schedule morning walks and jogs at the same time every day
+
+===== [14] ba358f49 | multi-session | qdate=2022/09/01 (Thu) 23:52 | sess=41 turns=409 ev=2 chains=295
+QC  : CORRECT
+FULL: f1=0.0 evcov=1/2 goldtok_raw30=None
+Q   : How many years will I be when my friend Rachel gets married?
+GOLD: 33
+P_FU: I don't know. The memory says Rachel is getting married next year (so likely 2023), but it doesn't state your age, so I can't determine how old you'll be then.
+EV  : I'm looking for some advice on skincare routines for my age group. I've been noticing some fine lines and wrinkles lately, and I want to start taking better care of my skin. By the way, my friend Rachel's getting married next year, and it's got me thinking about my own life goals.
+EV  : I'm 32, so I'm in my 30s. I'd say my skin type is normal, but it's been looking a bit dull lately. My main concerns are fine lines and wrinkles, especially around my eyes. I'm open to trying out different products, but I'd prefer something not too expensive.
+VH  : [2022/09/01 (Thu) 03:06] Rachel | getting married = next year
+VH  : [2022/09/01 (Thu) 03:06] user | friend = Rachel
+VH  : [2022/09/01 (Thu) 12:38] user | helped a friend launch = a social media campaign
+VH  : [2022/09/01 (Thu) 09:42] user | packing mistake on Miami trip = brought too many clothes
+VH  : [2022/09/01 (Thu) 03:06] user | years working in industry = five
+
+===== [15] c18a7dc8 | multi-session | qdate=2023/05/30 (Tue) 23:37 | sess=49 turns=509 ev=2 chains=335
+QC  : CORRECT
+FULL: f1=0.0 evcov=0/2 goldtok_raw30=None
+Q   : How many years older am I than when I graduated from college?
+GOLD: 7
+P_FU: I don't know. The retrieved memory doesn't contain any information about when you graduated from college or your age at that time.
+EV  : I'm considering pursuing the CDMP certification to enhance my skills and knowledge in digital marketing. As a 32-year-old Digital Marketing Specialist at TechSavvy Inc., I believe the certification will not only benefit me in my current role but also prepare me for my future career goals, including pursuing an MBA. Can you provide more in …
+EV  : I'm looking to explore some online courses to improve my marketing skills, particularly in content creation and strategy. I've been working in digital marketing for a while now, and I think it's essential to stay updated on the latest trends. By the way, I have a Bachelor's degree in Business Administration with a concentration in Marketi …
+VH  : [2023/05/26 (Fri) 16:52] Adelaide Crows | targeted = experienced players from other clubs
+VH  : [2023/05/27 (Sat) 22:40] user | acquired signed Steph Curry jersey from = charity auction
+VH  : [2023/05/30 (Tue) 17:05] user | attitude toward Brazil's sustainable mining approach = believes other countries could learn from it
+VH  : [2023/05/22 (Mon) 11:38] user | colleague's daughter = graduating from middle school
+VH  : [2023/05/24 (Wed) 06:29] user | colleague's son = graduated middle school
+
+===== [16] c4a1ceb8 | multi-session | qdate=2023/05/30 (Tue) 23:22 | sess=49 turns=488 ev=4 chains=276
+QC  : CORRECT
+FULL: f1=0.0 evcov=2/4 goldtok_raw30=None
+Q   : How many different types of citrus fruits have I used in my cocktail recipes?
+GOLD: 3
+P_FU: You’ve mentioned using **2** different types of citrus fruits in your cocktail recipes: **orange** (orange bitters) and **lime** (Daiquiri and Cucumber Gimlet).
+EV  : I'm looking for some new cocktail recipes to try out. I've been experimenting with bitters lately and recently made my own orange bitters using orange peels and vodka. Do you have any Whiskey Sour recipes that use orange bitters?
+EV  : I'm planning a summer party and I want to serve some refreshing cocktails. Can you give me some ideas for summer-inspired drinks that use fresh lime juice? By the way, I recently learned how to make a classic Daiquiri the right way, using fresh lime juice and simple syrup in a mixology class.
+EV  : I'm planning a dinner party next weekend and I want to serve a Spanish-inspired menu. Can you give me some ideas for tapas that would pair well with Paella, which I'm planning to make with chorizo, shrimp, and chicken, using a combination of saffron and smoked paprika to give it that authentic Spanish flavor, and serving it with a pitcher …
+EV  : (+1 more evidence turns)
+VH  : [2023/05/21 (Sun) 04:58] user | has never used = honey syrup in a cocktail before
+VH  : user | interest = trying different coffee blends (2023/05/22); learning how to brew coffee to maximize flavors and notes (2023/05/22); promoting public transportation in suburban areas (2023/05/25); a …
+VH  : user | is looking for: new cocktail recipes to try (2023/05/21) -> sports bars in LA / sports bars close to the Staples Center (2023/05/25)
+VH  : [2023/05/30 (Tue) 23:20] user | is thinking of experimenting with = different garnishes for Cucumber Gimlet
+VH  : user | plans to add: flavored simple syrups (strawberry and mint) to the cocktail bar (2023/05/25) -> decorative items on the bookshelf (2023/05/26) -> friends to the WhatsApp group chat (2023/05/29)  …
+
+===== [17] edced276 | multi-session | qdate=2023/05/30 (Tue) 14:53 | sess=46 turns=482 ev=3 chains=320
+QC  : CORRECT
+FULL: f1=0.074 evcov=2/3 goldtok_raw30=1.0
+Q   : How many days did I spend in total traveling in Hawaii and in New York City?
+GOLD: 15 days
+P_FU: I don’t know the total. You mentioned New York City was **5 days**, but the memory doesn’t say how many days you spent in Hawaii.
+EV  : I'm thinking of planning another trip soon and I was wondering if you could help me with some budgeting tips. By the way, I recently got back from a solo trip to New York City for five days and I was able to save a lot by staying at a hostel and eating at local cafes.
+EV  : I'm trying to plan my next trip and I'm having a hard time deciding whether to go solo or with family. Can you help me weigh the pros and cons of each? By the way, I just got back from an amazing island-hopping trip to Hawaii with my family and it got me thinking about this.
+EV  : I think flexibility is a big one for me. With my family, we had to plan everything out for the 10-day so far in advance, and it was hard to make changes on the fly. I'm curious, are there any destinations that are particularly well-suited for solo travel?
+VH  : [2023/05/22 (Mon) 14:21] user | attitude toward reducing pollution in New Delhi = hopes government's long-term plans succeed
+VH  : [2023/05/22 (Mon) 14:21] user | belief about addressing pollution = important that everyone works together to make the city cleaner and healthier
+VH  : user | considering = getting a new tennis racket (2023/05/24); a limited-edition Chanel bag (2023/05/24)
+VH  : user | considering purchasing: a new luxury handbag (2023/05/24) -> the Anthropologie dress on ThredUp (2023/05/29)
+VH  : [2023/05/25 (Thu) 08:18] user | Cyberpunk 2077 progress = explored a good chunk of Night City
+
+===== [18] eeda8a6d | multi-session | qdate=2023/05/30 (Tue) 20:36 | sess=49 turns=513 ev=2 chains=306
+QC  : CORRECT
+FULL: f1=0.0 evcov=1/2 goldtok_raw30=None
+Q   : How many fish are there in total in both of my aquariums?
+GOLD: 17
+P_FU: I don't know. The memory mentions fish species (Neon Tetras, Golden Honey Gouramis, a Pleco catfish, and Bubbles the betta) but does not give an exact total number of fish in either aquarium.
+EV  : I'm thinking of adding some live plants to my new 20-gallon tank, which currently has 10 neon tetras, 5 golden honey gouramis, and a small pleco catfish. Can you recommend some easy-to-care-for plants that would thrive in a community tank like mine?
+EV  : I'm thinking of adding some live aquatic plants to my freshwater tank. Can you give me some tips on how to get started with that? By the way, I also upgraded my old 10-gallon tank, which has my betta fish, Bubbles.
+VH  : [2023/05/23 (Tue) 05:49] Bay clinic | total visits handled = approximately 3 million
+VH  : [2023/05/27 (Sat) 04:32] Bubbles | species = betta fish
+VH  : [2023/05/27 (Sat) 04:32] user | considering schooling fish types = lemon tetras / zebra danios
+VH  : [2023/05/27 (Sat) 04:32] user | has a betta fish named = Bubbles
+VH  : user | has fish = 10 neon tetras (2023/05/22); 5 golden honey gouramis (2023/05/22); a small pleco catfish (2023/05/22)
+
+===== [19] gpt4_15e38248 | multi-session | qdate=2023/05/30 (Tue) 15:31 | sess=46 turns=470 ev=5 chains=307
+QC  : CORRECT
+FULL: f1=0.0 evcov=2/5 goldtok_raw30=None
+Q   : How many pieces of furniture did I buy, assemble, sell, or fix in the past few months?
+GOLD: 4
+P_FU: You bought, assembled, or fixed **3 pieces of furniture** in the past few months: 1. **New coffee table** — bought 2. **Kitchen table** — fixed the wobbly leg 3. **IKEA bookshelf** — assembled No furniture sales were mentioned.
+EV  : I'm looking for some recommendations on throw pillows for my couch. I just got a new coffee table and rearranged my living room, and now the old pillows are looking a bit worn out. By the way, I've been meaning to get a new mattress for ages, and last week I finally took the plunge and ordered one from Casper. It's supposed to arrive next …
+EV  : I need some help finding new throw pillows for my couch. I just got a new coffee table from West Elm about three weeks ago, and it's really made my living room feel modern, but my old pillows are looking worn out. Can you give me some recommendations on where to find some affordable and stylish ones?
+EV  : I'm looking for some recommendations on throw pillows for my living room. I just got a new coffee table and rearranged the furniture, and I think some new pillows would really tie the room together.
+EV  : (+2 more evidence turns)
+VH  : [2023/05/29 (Mon) 09:49] user | assembled IKEA bookshelf = about two months ago
+VH  : [2023/05/21 (Sun) 17:09] user | has been eating = an apple as a mid-morning snack every day for the past week
+VH  : [2023/05/24 (Wed) 21:39] user | has owned cameras for = the past six months
+VH  : [2023/05/26 (Fri) 17:21] user | kitchen table wobbly leg fix method = tightened screw with screwdriver
+VH  : [2023/05/26 (Fri) 17:21] user | living room furniture = rearranged
+
+===== [20] gpt4_194be4b3 | multi-session | qdate=2023/05/30 (Tue) 23:29 | sess=44 turns=474 ev=4 chains=331
+QC  : CORRECT
+FULL: f1=0.369 evcov=1/4 goldtok_raw30=0.73
+Q   : How many musical instruments do I currently own?
+GOLD: I currently own 4 musical instruments. I've had the Fender Stratocaster electric guitar for 5 years, the Yamaha FG800 acoustic guitar for 8 years, the 5-piece Pearl Export drum set for an unspecified amount of time, and the Korg B1 piano for 3 years.
+P_FU: You haven’t stated an exact total, but based on the memory you mention owning: 1. A 5-piece Pearl Export drum set 2. A Korg B1 digital piano 3. A guitar (implied by “I’ve been playing guitar for a while now”) So you likely currently own **3 musical instruments**. The ukulele you asked about seems to be one you’re considering buying, not one you already own.
+EV  : I've been playing my black Fender Stratocaster electric guitar a lot lately and I'm thinking of trying out different amp settings to get a better sound. Can you give me some tips on how to get a good bluesy tone?
+EV  : I'm thinking of selling my old drum set, a 5-piece Pearl Export, which I haven't played in years. Do you know how I can determine its value or where I can sell it?
+EV  : I'm glad you provided some tips on using overdrive pedals effectively. By the way, I've had my acoustic guitar, a Yamaha FG800, for about 8 years, and it's been a great companion for songwriting and camping trips. I'm curious, do you have any recommendations on how to use effects pedals with an acoustic guitar? I've been thinking of exper …
+EV  : (+1 more evidence turns)
+VH  : Sophia Lee | hobbies = exploring Bay Area farmers' markets, using seasonal ingredients, hiking, spending time in nature (2023/05/22)
+VH  : [2023/05/22 (Mon) 00:40] Sophia Lee | passion for ceramic cookware ignited during = time at San Francisco State University
+VH  : user | biography requirements = cover where author lives in the US (2023/05/22); cover where love of topic came from (2023/05/22); cover how studies enhanced knowledge, including university and degree …
+VH  : [2023/05/22 (Mon) 21:42] user | bought = a new overdrive pedal from Guitar Center
+VH  : [2023/05/30 (Tue) 21:17] user | bus commute extra time = 30 minutes
+
+===== [21] gpt4_a56e767c | multi-session | qdate=2023/05/30 (Tue) 20:53 | sess=48 turns=477 ev=6 chains=265
+QC  : CORRECT
+FULL: f1=0.087 evcov=1/6 goldtok_raw30=1.0
+Q   : How many movie festivals that I attended?
+GOLD: I attended four movie festivals.
+P_FU: Based on the memory, you mentioned **three** film festivals: - Austin Film Festival - Portland Film Festival (as a volunteer) - AFI Fest
+EV  : I'm looking for some recommendations for independent films that explore themes of social justice and identity. I've really been drawn to films like "Parasite" and "The Farewell" lately. By the way, I recently participated in the 48-hour film challenge at the Austin Film Festival, where my team and I had to write, shoot, and edit a short f …
+EV  : I'd like to know more about the cinematography in "Clemency" and "The Miseducation of Cameron Post". How did the directors use camera techniques and lighting to convey the tone and atmosphere of the films? By the way, I got to discuss the unique narrative structure of "The Weight of Water" with the director himself at a Q&A session after  …
+EV  : I'd like to know more about the casting process for both films. How did the directors and casting directors find the right actors to bring these complex characters to life? By the way, I recently participated in a 48-hour film challenge at the Austin Film Festival, where my team and I had to write, shoot, and edit a short film within an i …
+EV  : (+3 more evidence turns)
+VH  : user | attended: A Raisin in the Sun (2023/05/23) -> AFI Fest in LA (2023/05/26)
+VH  : [2023/05/21 (Sun) 17:55] user | attended Q&A session at = the Seattle International Film Festival
+VH  : [2023/05/26 (Fri) 09:43] user | attended screening of = Joker at AFI Fest
+VH  : [2023/05/26 (Fri) 09:43] user | has attended = multiple film festivals
+VH  : user | recently attended: Tech Expo at the Javits Center in New York City (2023/05/24) -> a 3-day workshop on digital marketing (2023/05/25)
+
+===== [22] gpt4_ab202e7f | multi-session | qdate=2023/05/30 (Tue) 22:20 | sess=46 turns=481 ev=5 chains=268
+QC  : CORRECT
+FULL: f1=0.471 evcov=2/5 goldtok_raw30=0.64
+Q   : How many kitchen items did I replace or fix?
+GOLD: I replaced or fixed five items: the kitchen faucet, the kitchen mat, the toaster, the coffee maker, and the kitchen shelves.
+P_FU: You replaced/fixed **2 kitchen items**: 1. **Kitchen shelves** — fixed 2. **Kitchen faucet** — replaced with a new Moen faucet
+EV  : I'm looking for some new recipes to try out, especially ones that use up a lot of veggies. Do you have any suggestions? By the way, I finally fixed the kitchen shelves last weekend, and it's amazing how much more spacious the kitchen feels now.
+EV  : I'm looking for some new recipe ideas for stir-fries. Do you have any suggestions? By the way, my kitchen has been feeling so much more functional lately, especially with my new kitchen mat in front of the sink - it's from IKEA and has a nice grip and is easy to clean.
+EV  : I'm looking for some new recipe ideas for my toaster oven. I just got rid of the old toaster and replaced it with a toaster oven that can do so much more, and I'm excited to explore its capabilities. Do you have any suggestions for easy and healthy meals I can make with it?
+EV  : (+2 more evidence turns)
+VH  : [2023/05/22 (Mon) 07:51] user | confirmed = useEffect was never called before fix / app now working after fix
+VH  : [2023/05/30 (Tue) 03:52] user | donated = their old coffee maker to Goodwill
+VH  : [2023/05/21 (Sun) 23:43] user | faucet = new, game-changer for washing veggies
+VH  : [2023/05/20 (Sat) 14:09] user | fixed kitchen shelves = last weekend
+VH  : [2023/05/26 (Fri) 09:05] user | freezes items like = beans, rice, and pasta
+
+===== [23] gpt4_d84a3211 | multi-session | qdate=2023/05/05 (Fri) 23:56 | sess=48 turns=495 ev=4 chains=295
+QC  : CORRECT
+FULL: f1=0.0 evcov=1/4 goldtok_raw30=0.0
+Q   : How much total money have I spent on bike-related expenses since the start of the year?
+GOLD: $185
+P_FU: I don't know the total. The memory only gives a price for the bike lights ($40). The helmet and tune-up costs aren't specified, and the bike rack was planned for a future purchase.
+EV  : Actually, I remember taking my bike in for a tune-up on April 20th because the gears were getting stuck. The mechanic told me I needed to replace the chain, which I did, and it cost me $25. While I was there, I also got a new set of bike lights installed, which were $40. Can you help me create a bike maintenance schedule to ensure I don't …
+EV  : That's great information about bike insurance. I'll definitely look into it. Speaking of my bike, I recently got a new set of bike lights installed, which were $40. They're really bright and make me feel a lot safer on the roads, especially since I've been doing some early morning rides. Do you have any tips on how to stay safe while cycl …
+EV  : I've had good experiences with the local bike shop downtown where I bought my Bell Zephyr helmet for $120. They did a great job with the tune-up last time, and the mechanic was knowledgeable and friendly. I might just go back there for my next tune-up.
+EV  : (+1 more evidence turns)
+VH  : user | asked about = evolution of church architecture (2023/05/05); evolution of church functions (2023/05/05); specialized roles and functions of different denominations' churches (2023/05/05); BS-2  …
+VH  : [2023/05/05 (Fri) 23:05] user | bike lights benefit = made a huge difference for early morning rides
+VH  : [2023/05/05 (Fri) 00:33] user | bike lights cost = $40
+VH  : [2023/05/05 (Fri) 00:33] user | bike lights installation date = April 20th
+VH  : [2023/05/05 (Fri) 05:38] user | bike mileage goal = 1000 miles by end of summer
+
+===== [24] 561fabcd | single-session-assistant | qdate=2023/05/30 (Tue) 20:36 | sess=49 turns=495 ev=1 chains=288
+QC  : CORRECT
+FULL: f1=0.048 evcov=0/1 goldtok_raw30=1.0
+Q   : I was thinking back to our previous conversation about the Radiation Amplified zombie, and I was wondering if you remembered what we finally decided to name it?
+GOLD: Fissionator.
+P_FU: The memory doesn’t explicitly record a final agreed name. It shows the assistant suggested **“Radialisk”** and later listed **“Fissionator”** among other options, with subsequent discussion focused on the **Fissionator**’s design. So it’s not clear from the memory that a final name was definitively decided.
+EV  : Fissionator is a REALLY cool one, especially if it's given a more clunky, mechanical-looking design. Perhaps it's made to look like the host was infected while working in a radiated environment and thus had protective clothing on? This could make the name sounding machine-like make a little more sense
+VH  : [2023/05/30 (Tue) 17:19] user | Cosmic Cleanse effect on Fissionator AoE = nullifies AoE damage
+VH  : [2023/05/30 (Tue) 17:19] user | Fissionator AoE attack = closer proximity causes more damage over time
+VH  : [2023/05/30 (Tue) 17:19] user | Fissionator attack = parasite tries to worm into player's mouth, slowing movement
+VH  : [2023/05/30 (Tue) 17:19] user | Fissionator attacks effect = cause radiation poisoning
+VH  : [2023/05/30 (Tue) 17:19] user | Fissionator backstory = fused suit trapped the parasite inside the host
+
+===== [25] 06f04340 | single-session-preference | qdate=2023/05/30 (Tue) 21:35 | sess=55 turns=503 ev=1 chains=356
+QC  : CORRECT
+FULL: f1=0.121 evcov=0/1 goldtok_raw30=0.57
+Q   : What should I serve for dinner this weekend with my homegrown ingredients?
+GOLD: The user would prefer dinner suggestions that incorporate their homegrown cherry tomatoes and herbs like basil and mint, highlighting recipes that showcase their garden produce. They might not prefer suggestions that do not utilize these specific ingredients or do not emphasize the use of homegrown  …
+P_FU: I don't know. The retrieved memory doesn't contain any information about homegrown ingredients or what to serve for dinner this weekend.
+EV  : I've been using basil and mint in my cooking lately. I've even harvested some cherry tomatoes from my garden. Do you have any suggestions for companion plants that could help my cherry tomatoes grow better?
+VH  : [2023/05/28 (Sun) 12:12] user | acquired album = Miles Davis: Blue Moods
+VH  : [2023/05/30 (Tue) 02:36] user | ActiveX usage reason = accessing and modifying files on the file system
+VH  : [2023/05/24 (Wed) 23:44] user | agrees that = sustained effort is needed for change
+VH  : [2023/05/21 (Sun) 21:41] user | appreciates = guidance on the evaluation process
+VH  : user | asked about = leading researchers in small mammal populations on tree replanting in Western Canada (2023/05/24); research of Thomas Sullivan in Western Canada (2023/05/24); challenges faced by  …
+
+===== [26] 0a34ad58 | single-session-preference | qdate=2023/05/30 (Tue) 22:40 | sess=42 turns=485 ev=2 chains=308
+QC  : CORRECT
+FULL: f1=0.103 evcov=0/2 goldtok_raw30=0.43
+Q   : I’m a bit anxious about getting around Tokyo. Do you have any helpful tips?
+GOLD: The user would prefer responses that utilize their existing resources, such as their Suica card and TripIt app, to provide personalized tips for navigating Tokyo's public transportation. They might not prefer general tips or recommendations that do not take into account their prior preparations.
+P_FU: Yes—based on our earlier chat, here are some helpful Tokyo transit tips: - **Use a Suica or Pasmo IC card**: It makes trains, subways, and buses easier and more cost-effective. Just touch it on the reader when entering and exiting. - **Ask station staff if unsure**: They can help with fares, transfers, or directions. - **Example route from Shinjuku to Tsukiji Fish Market**: Take the JR Yamanote Line to Shimbashi, transfer to the Tokyo Metro Ginza Line toward Asakusa, and get off at Tsukijishijo Station. It takes about 30–40 minutes and costs roughly ¥420–450. - **Taxi alternative**: From Shinjuku to Tsukiji is about 20–30 minutes and ¥4,000–5,000, depending on traffic. - **Bus tours**: Some tours include Shinjuku-to-Tsukiji transport and guided visits, which can reduce navigation stress. - **ATMs/cash**: 7-Eleven ATMs and ATMs inside Shinjuku Station accept international cards, so you ca …
+EV  : I'm also planning to visit the Tsukiji Fish Market. Can you tell me the best way to get there from Shinjuku using my Suica card I just got?
+EV  : I'm also planning to take a guided tour to Nikko National Park. Can you tell me what I need to prepare for the tour, and how I can get to the meeting point using my Suica card? I have downloaded the TripIt app to stay organized, but I'm still nervous about the trip.
+VH  : [2023/05/23 (Tue) 17:25] Rachel | helped user find = their dream home
+VH  : [2023/05/23 (Tue) 21:01] user | adds = turkey sausage or bacon to omelettes and scrambles
+VH  : [2023/05/25 (Thu) 22:58] user | admired workshop leader's = teaching style and patience
+VH  : [2023/05/26 (Fri) 00:25] user | admires = calligraphy
+VH  : [2023/05/24 (Wed) 11:43] user | art instructor = Rachel
+
+===== [27] 1a1907b4 | single-session-preference | qdate=2023/05/30 (Tue) 22:31 | sess=48 turns=532 ev=1 chains=350
+QC  : CORRECT
+FULL: f1=0.112 evcov=0/1 goldtok_raw30=0.18
+Q   : I've been thinking about making a cocktail for an upcoming get-together, but I'm not sure which one to choose. Any suggestions?
+GOLD: Considering their mixology class background, the user would prefer cocktail suggestions that build upon their existing skills and interests, such as creative variations of classic cocktails or innovative twists on familiar flavors. They might appreciate recommendations that incorporate their experie …
+P_FU: I don't know. The retrieved memory doesn't contain any information or suggestions about cocktails.
+EV  : I like the idea of the Pimm's Cup with a Twist, but I've already made a classic Pimm's Cup and classic cocktails recently from a mixology class that I attended. By the way, what's the difference between cucumber juice and muddling cucumber slices in a drink?
+VH  : [2023/05/26 (Fri) 13:13] Alex | proposed to user = on a romantic getaway to Big Sur last year
+VH  : [2023/05/23 (Tue) 12:53] user | 100-400mm lens mount type = native Sony E-mount
+VH  : user | asked about = fillings for a classic French omelette (2023/05/24); products from staxi.com (2023/05/27); advantage of the Staxi MRI chair (2023/05/27); difference between a Staxi Transport Chai …
+VH  : user | attended: Billie Eilish show at FedExField about 3 months ago / music festival at Merriweather Post Pavilion a week after the Billie Eilish concert (2023/05/20) -> a vendor meeting at the local …
+VH  : [2023/05/26 (Fri) 13:13] user | attended cousin's wedding = last weekend
+
+===== [28] 1da05512 | single-session-preference | qdate=2023/05/30 (Tue) 15:33 | sess=47 turns=462 ev=2 chains=289
+QC  : CORRECT
+FULL: f1=0.078 evcov=2/2 goldtok_raw30=0.51
+Q   : I'm trying to decide whether to buy a NAS device now or wait. What do you think?
+GOLD: The user would prefer responses that take into account their current home network storage capacity issues and recent reliance on external hard drives, highlighting the potential benefits of a NAS device in addressing these specific needs. They might not prefer responses that ignore their current sto …
+P_FU: I don’t know—the memory doesn’t include any discussion about whether to buy a NAS now or wait. It only covers NAS recommendations, bay differences, backup use, and security features.
+EV  : I'm having some issues with my home network's storage capacity and was thinking of getting a NAS device. Can you recommend some good options for a beginner like me?
+EV  : I'm already backing up my files to an external hard drive, but I think a NAS would be more convenient and provide more storage. Would it be possible to use the NAS as a central backup location for all my devices, including my laptop and phone?
+VH  : [2023/05/22 (Mon) 05:02] Diane Frantz | previous occupation = campground owner
+VH  : [2023/05/22 (Mon) 05:02] Diane Frantz | previous status = customer of App My Community
+VH  : [2023/05/24 (Wed) 03:49] user | asks whether = governments should play a more significant role in regulating businesses' environmental impact
+VH  : user | attended: FrightFest in London / Asian American International Film Festival in New York City (2023/05/21) -> a digital marketing workshop (2023/05/25)
+VH  : [2023/05/20 (Sat) 12:37] user | attended a music festival at = Golden Gate Park
+
+===== [29] 38146c39 | single-session-preference | qdate=2023/05/30 (Tue) 20:02 | sess=46 turns=538 ev=1 chains=293
+QC  : CORRECT
+FULL: f1=0.105 evcov=0/1 goldtok_raw30=0.48
+Q   : I've been feeling like my chocolate chip cookies need something extra. Any advice?
+GOLD: The user would prefer responses that build upon their previous experimentation with turbinado sugar, suggesting ingredients or techniques that complement its richer flavor. They might not prefer generic cookie-making advice or suggestions that don't take into account their existing use of turbinado  …
+P_FU: I don't know—the memory doesn’t include advice about chocolate chip cookies.
+EV  : I've been experimenting with different types of sugar and found that turbinado sugar adds a richer flavor. Do you have any suggestions on what other ingredients I could pair with it to enhance the flavor even more?
+VH  : [2023/05/25 (Thu) 05:40] user | acquired backpack = about three weeks ago
+VH  : user | asked about = Hugging Face (2023/05/30); Hugging Face text-to-image tools (2023/05/30); best model for generating an image of a cocktail (2023/05/30); sending data to the same place from both c …
+VH  : [2023/05/20 (Sat) 20:20] user | ate at Hwang's Kitchen = bulgogi and spicy pork tacos
+VH  : user | attended: book launch event last month (2023/05/22) -> guided tour at the Natural History Museum last Saturday / lecture on ancient civilizations at the Archaeology Museum the week before last  …
+VH  : [2023/05/25 (Thu) 05:40] user | backpack feature = waterproof compartment
+
+===== [30] 57f827a0 | single-session-preference | qdate=2023/05/30 (Tue) 23:39 | sess=51 turns=495 ev=1 chains=320
+QC  : CORRECT
+FULL: f1=0.086 evcov=1/1 goldtok_raw30=0.52
+Q   : I was thinking about rearranging the furniture in my bedroom this weekend. Any tips?
+GOLD: The user would prefer responses that take into account their existing plans to replace the bedroom dresser and their interest in mid-century modern style, suggesting furniture layouts that accommodate the new dresser and incorporate elements of this design aesthetic. They might not prefer general fu …
+P_FU: I don't know. The retrieved memory doesn't contain any tips about rearranging bedroom furniture.
+EV  : I'm looking for some mid-century modern design inspiration for a new bedroom dresser to replace my new one, do you have any recommendations for websites or designers I should check out?
+VH  : [2023/05/21 (Sun) 00:21] Rachel | told user about her = job struggles
+VH  : [2023/05/21 (Sun) 00:21] Rachel | told user about her trip to = Yosemite
+VH  : [2023/05/24 (Wed) 19:02] user | added = Chapter 1 content to the overview instead of counting it as Chapter 1
+VH  : [2023/05/22 (Mon) 08:46] user | Amazon order item = pair of sneakers / wireless charging pad
+VH  : [2023/05/20 (Sat) 14:48] user | appreciated = scientific accuracy of meth-making process in Breaking Bad / symbolism in color palette in Breaking Bad
+
+===== [31] 75832dbd | single-session-preference | qdate=2023/05/30 (Tue) 13:53 | sess=48 turns=474 ev=1 chains=332
+QC  : CORRECT
+FULL: f1=0.136 evcov=1/1 goldtok_raw30=0.79
+Q   : Can you recommend some recent publications or conferences that I might find interesting?
+GOLD: The user would prefer suggestions related to recent research papers, articles, or conferences that focus on artificial intelligence in healthcare, particularly those that involve deep learning for medical image analysis. They would not be interested in general AI topics or those unrelated to healthc …
+P_FU: I don't know. The retrieved memory doesn't contain any recommendations for recent publications or conferences.
+EV  : Can you give me an overview of the recent advancements in this field of deep learning for medical image analysis? Skip the basics as I am working in the field.
+VH  : [2023/05/28 (Sun) 15:18] Aiden | relationship to user = friend Rachel's adopted son
+VH  : [2023/05/28 (Sun) 15:18] Emma | relationship to user = niece
+VH  : [2023/05/28 (Sun) 15:18] Jackson | relationship to user = cousin's adopted child
+VH  : [2023/05/28 (Sun) 15:18] Lily | relationship to user = cousin's adopted child
+VH  : user | activity = commenting more on other people's posts, especially in their niche (2023/05/28)
+
+===== [32] 95228167 | single-session-preference | qdate=2023/05/30 (Tue) 21:04 | sess=49 turns=507 ev=1 chains=337
+QC  : CORRECT
+FULL: f1=0.173 evcov=0/1 goldtok_raw30=0.57
+Q   : I'm getting excited about my visit to the music store this weekend. Any tips on what to look for in a new guitar?
+GOLD: The user would prefer responses that highlight the differences between Fender Stratocaster and Gibson Les Paul electric guitars, such as the feel of the neck, weight, and sound profile. They might not prefer general tips on buying an electric guitar or suggestions that do not take into account their …
+P_FU: I don't know. The retrieved memory doesn't contain tips on what to look for when buying a new guitar—only advice on getting a good sound in open D tuning on a Les Paul.
+EV  : I'm considering upgrading from a Fender Stratocaster to a Gibson Les Paul. Can you tell me the main differences between these two guitars?
+VH  : [2023/05/29 (Mon) 18:07] element b3 | content = names of couple getting married
+VH  : [2023/05/30 (Tue) 18:07] user | applied for = frontend developer position
+VH  : [2023/05/30 (Tue) 05:06] user | approach to other cultures = values learning about others' cultures
+VH  : user | asked about = Charles Ogden and Ivor Richards's "The Meaning of Meaning" (2023/05/22); Leonard Bloomfield's "Introduction to the Study of Language" publication date (2023/05/22); translation of …
+VH  : user | asked for = workflows summary in English (2023/05/29); elements summary (2023/05/29); workflows summary based on 14 elements (2023/05/29); Lollipop JSON for element b0 (2023/05/29)
+
+===== [33] afdc33df | single-session-preference | qdate=2023/05/30 (Tue) 19:03 | sess=46 turns=502 ev=3 chains=248
+QC  : CORRECT
+FULL: f1=0.061 evcov=0/3 goldtok_raw30=0.51
+Q   : My kitchen's becoming a bit of a mess again. Any tips for keeping it clean?
+GOLD: The user would prefer responses that acknowledge and build upon their existing efforts to organize their kitchen, such as utilizing their new utensil holder to keep countertops clutter-free. They would also appreciate tips that address their concern for maintaining their granite surface, particularl …
+P_FU: I don't know—the retrieved memory doesn't contain tips for keeping your kitchen clean.
+EV  : I also need some help with organizing my kitchen utensils, can you give me some tips on how to maximize the space in my utensil holder? I recently bought a new utensil holder to keep countertops clutter-free.
+EV  : I noticed some scratches on my granite countertop near the sink. Do you have any tips on how to repair or remove those scratches?
+EV  : I'm also having some issues with my kitchen faucet, it's been leaking slightly. Can you give me some tips on how to fix it or know when it's time to replace it?
+VH  : [2023/05/25 (Thu) 11:02] user | aims to practice guitar = at least 30 minutes every other day
+VH  : [2023/05/25 (Thu) 08:37] user | appreciates = the more introspective, emotional sound
+VH  : [2023/05/22 (Mon) 14:08] user | attended = Berlinale
+VH  : [2023/05/30 (Tue) 09:09] user | attitude toward outdated strategies = believes you can't win a war with outdated strategies
+VH  : [2023/05/25 (Thu) 08:37] user | binge-watched The Great's second season from = December 18th to 22nd, 2021
+
+===== [34] b0479f84 | single-session-preference | qdate=2023/05/30 (Tue) 22:56 | sess=48 turns=502 ev=1 chains=284
+QC  : CORRECT
+FULL: f1=0.107 evcov=1/1 goldtok_raw30=0.42
+Q   : I've got some free time tonight, any documentary recommendations?
+GOLD: The user would prefer documentary recommendations that are similar in style and theme to 'Our Planet', 'Free Solo', and 'Tiger King', which they have previously enjoyed. They might not prefer recommendations of documentaries that are vastly different in tone or subject matter from these titles. The  …
+P_FU: Based on your earlier documentary interests, you could try: - **Nature:** *Dynasties*, *Chasing Coral*, *Planet Earth*, *Blue Planet* - **True crime:** *The Keepers*, *The Staircase*, *The Jinx*, *Abducted in Plain Sight* - **Other:** *Fyre: The Greatest Party That Never Happened*, *The Inventor: Out for Blood in Silicon Valley*, *The Game Changers* These were all recommended in your previous documentary discussion.
+EV  : I've been watching a lot of documentaries lately, especially on Netflix. Can you recommend some more documentary series similar to "Our Planet", "Free Solo", and "Tiger King", which I just finished?
+VH  : [2023/05/29 (Mon) 13:22] user | acquired cilantro from = Walmart last week
+VH  : [2023/05/29 (Mon) 08:25] user | acquired Fender Champion 20 = recently
+VH  : [2023/05/23 (Tue) 16:28] user | acquired PS5 from = GameStop
+VH  : [2023/05/23 (Tue) 20:55] user | added = activated carbon to filter
+VH  : [2023/05/28 (Sun) 05:42] user | agrees that = protecting the environment is important for future generations
+
+===== [35] caf03d32 | single-session-preference | qdate=2023/05/30 (Tue) 23:44 | sess=51 turns=493 ev=2 chains=277
+QC  : CORRECT
+FULL: f1=0.233 evcov=2/2 goldtok_raw30=0.5
+Q   : I've been struggling with my slow cooker recipes. Any advice on getting better results?
+GOLD: The user would prefer responses that provide tips and advice specifically tailored to their slow cooker experiences, utilizing their recent success with beef stew and interest in making yogurt in the slow cooker. They might not prefer general slow cooker recipes or advice unrelated to their specific …
+P_FU: I don’t have general troubleshooting advice from that memory, but the slow-cooker tips included were: use a thermometer to monitor temperatures (especially for yogurt), vary vegetables and grains, get creative with spices/seasonings, choose low-sodium canned beans/tomatoes and rinse them, and add a splash of vinegar or lemon juice to enhance flavor. For cashew-based yogurt, soak cashews at least 4 hours, blend with water, and adjust the water ratio for thickness.
+EV  : I recently figured out how to use the slow cooker and made a delicious beef stew. I've been wanting to try more recipes with it. Do you have any recommendations?
+EV  : Do you have any recipes for making yogurt in a slow cooker?
+VH  : [2023/05/23 (Tue) 12:50] user | acknowledges = benefits of diversity
+VH  : [2023/05/21 (Sun) 10:24] user | added to routine = strength training exercises
+VH  : [2023/05/23 (Tue) 19:52] user | agrees that = balance is crucial with backup vocals in live performances
+VH  : [2023/05/30 (Tue) 12:36] user | anxiety and depression started = three months ago
+VH  : [2023/05/21 (Sun) 18:33] user | application features = completely automated and minimal
+
+===== [36] fca70973 | single-session-preference | qdate=2023/08/15 (Tue) 23:59 | sess=45 turns=442 ev=1 chains=288
+QC  : CORRECT
+FULL: f1=0.234 evcov=1/1 goldtok_raw30=0.7
+Q   : I am planning another theme park weekend; do you have any suggestions?
+GOLD: The user would prefer theme park suggestions that cater to their interest in both thrill rides and special events, utilizing their previous experiences at Disneyland, Knott's Berry Farm, Six Flags Magic Mountain, and Universal Studios Hollywood as a reference point. They would also appreciate recomm …
+P_FU: Based on the memory, you could plan another theme park weekend around these upcoming events: - **Disneyland**: Halloween Time (starting mid-September) or Holiday Season (from early November) - **Knott's Berry Farm**: Knott's Scary Farm (fall) or Christmas Celebration (late November) - **Six Flags Magic Mountain**: Fright Fest (late September–early November) or Holiday in the Park (late November) - **Universal Studios Hollywood**: Halloween Horror Nights (mid-September–early November) or Grinchmas (late November) Check each park’s website for exact dates and details.
+EV  : I'm looking for some recommendations on upcoming theme park events. I recently visited multiple theme parks including Disneyland, Knott's Berry Farm, Six Flags Magic Mountain, and Universal Studios Hollywood. Anything exciting happening soon, like thrill rides, unique food experiences, or nighttime shows?
+VH  : [2023/08/15 (Tue) 21:49] DaySculpting | focus = targeting specific Chief Aims
+VH  : [2023/08/15 (Tue) 21:49] DaySculpting | Highlight And Insight Review Process duration = 10 minutes
+VH  : [2023/08/15 (Tue) 21:49] DaySculpting | purpose = teaches how to create success one day at a time
+VH  : [2023/08/15 (Tue) 21:49] DaySculpting | segment 3 = Highlight And Insight Review Process
+VH  : Fashionoscope | value proposition = advanced AI-powered clothing and similar product recommendations (2023/08/15); seamless integration with e-commerce platforms (2023/08/15); customizable modules for …
+
+===== [37] 6e984302 | temporal-reasoning | qdate=2023/04/01 (Sat) 08:30 | sess=43 turns=460 ev=1 chains=287
+QC  : CORRECT
+FULL: f1=0.047 evcov=0/1 goldtok_raw30=1.0
+Q   : I mentioned an investment for a competition four weeks ago? What did I buy?
+GOLD: I got my own set of sculpting tools.
+P_FU: I don’t know based on the memory. Around four weeks before 2023/04/01, you mentioned entering a local art competition and experimenting with polymer clay and resin, but no specific purchase or “investment” was recorded.
+EV  : I actually got my own set of sculpting tools, including a modeling tool set, a wire cutter, and a sculpting mat today. I'm excited to experiment with these new tools and techniques. Can you suggest some specific ways I can incorporate eco-friendly materials and techniques into my sculpting process, considering the tools I already have?
+VH  : [2023/03/04 (Sat) 13:12] user | acquired today = a set of sculpting tools including a modeling tool set, a wire cutter, and a sculpting mat
+VH  : [2023/02/06 (Mon) 07:56] user | and Emma = got to the Farmers' Market at 6 am to set up
+VH  : [2023/01/27 (Fri) 04:13] user | business launched = three months ago
+VH  : [2023/02/12 (Sun) 20:27] user | chose additional gift for Rachel = set of 3-4 nice pens in different colors and styles
+VH  : user | competition entry idea = sculpture incorporating found objects and recycled materials with an eco-friendly theme (2023/02/11); sculpture incorporating natural elements like driftwood or seashel …
+
+===== [38] a3838d2b | temporal-reasoning | qdate=2023/11/29 (Wed) 03:31 | sess=47 turns=484 ev=6 chains=300
+QC  : CORRECT
+FULL: f1=0.0 evcov=4/6 goldtok_raw30=None
+Q   : How many charity events did I participate in before the 'Run for the Cure' event?
+GOLD: 4
+P_FU: You participated in **2 charity events** before the “Run for the Cure” event: 1. **Dance for a Cause** — May 1st 2. **Food for Thought charity gala** — September 25th
+EV  : I'm looking for some tips on how to stay motivated to continue participating in charity events. I just ran 5 kilometers in the "Run for the Cure" event on October 15th and raised $250 for breast cancer research, which was an amazing experience.
+EV  : I'm looking for some information on local charity events happening in the next few months. I've been really active in the charity scene lately, actually - I just participated in the "Dance for a Cause" event on May 1st, which was a blast. Do you know of any upcoming events that I might be interested in?
+EV  : Hi! I'm looking for some advice on how to improve my golf game. I attended a charity golf tournament on July 17th, and while I had a blast playing with colleagues, I realized I need to work on my swing. Do you have any tips or recommendations for a beginner like me?
+EV  : (+3 more evidence turns)
+VH  : [2023/11/29 (Wed) 18:52] R.C. Sproul | wrote = commentary for the ICBI event
+VH  : [2023/11/29 (Wed) 03:49] "Run for the Cure" event | date = October 15th
+VH  : [2023/11/29 (Wed) 03:49] "Run for the Cure" event | number of participants = over 5,000
+VH  : [2023/11/29 (Wed) 10:18] user | active in = the charity scene
+VH  : [2023/11/29 (Wed) 15:28] user | attended a charity golf tournament on = July 17th
+
+===== [39] gpt4_2f56ae70 | temporal-reasoning | qdate=2023/05/26 (Fri) 00:18 | sess=45 turns=458 ev=3 chains=275
+QC  : CORRECT
+FULL: f1=0.0 evcov=1/3 goldtok_raw30=1.0
+Q   : Which streaming service did I start using most recently?
+GOLD: Disney+
+P_FU: Apple TV+ — you mentioned you’ve “been using Apple TV+ for a few months now” and just finished *For All Mankind*.
+EV  : I'm looking for some new TV shows to watch. Can you recommend something similar to "The Handmaid's Tale" on Hulu, which I'm really enjoying? By the way, I've also been using Apple TV+ for a few months now, and I just finished watching "For All Mankind", which was great.
+EV  : I'm having trouble finding a specific documentary I saw on Disney+ during my free trial last month. Do you think you can help me figure out what it was?
+EV  : I'm looking for some new shows to watch. I've been using Netflix, Hulu, and Amazon Prime for the past 6 months, and I'm open to trying out other services or finding new content on these platforms. Can you recommend something similar to "Stranger Things" or "The Handmaid's Tale"?
+VH  : user | asked about = IRC support for refugees (2023/05/26); IRC programs for refugee self-sufficiency (2023/05/26); IRC assistance for refugees in the United States (2023/05/26); IRC refugee prioritiz …
+VH  : user | believes documentary was = recent (2023/05/26); produced by Disney (2023/05/26); a standalone film (2023/05/26)
+VH  : [2023/05/26 (Fri) 03:02] user | considering using points for = a flight to Europe
+VH  : [2023/05/26 (Fri) 01:08] user | had a free trial of = Disney+ last month
+VH  : [2023/05/26 (Fri) 01:52] user | has been meaning to start = a journaling practice
+
+===== [40] gpt4_8279ba03 | temporal-reasoning | qdate=2023/03/25 (Sat) 18:26 | sess=43 turns=500 ev=1 chains=319
+QC  : CORRECT
+FULL: f1=0.0 evcov=0/1 goldtok_raw30=0.0
+Q   : What kitchen appliance did I buy 10 days ago?
+GOLD: a smoker
+P_FU: I don't know. The retrieved memory doesn’t mention buying a kitchen appliance 10 days before 2023/03/25.
+EV  : I'm looking for some new BBQ sauce recipes to try out. I've been experimenting with making my own from scratch and I'm always looking to improve. By the way, I just got a smoker today and I'm excited to experiment with different types of wood and meats today.
+VH  : [2023/03/15 (Wed) 07:41] Alex | had a birthday party = a few days ago
+VH  : [2023/03/15 (Wed) 09:16] user | acquired Nike Air Force 1s = a few weeks ago
+VH  : [2023/03/02 (Thu) 14:57] user | bought phone at = Best Buy
+VH  : [2023/03/15 (Wed) 11:56] user | got today = a smoker
+VH  : [2023/03/15 (Wed) 11:56] user | has been considering trying = wood pellets for their smoker
+
+===== [41] gpt4_93159ced | temporal-reasoning | qdate=2023/05/25 (Thu) 19:17 | sess=42 turns=444 ev=3 chains=283
+QC  : CORRECT
+FULL: f1=0.19 evcov=2/3 goldtok_raw30=1.0
+Q   : How long have I been working before I started my current job at NovaTech?
+GOLD: 4 years and 9 months
+P_FU: The memory doesn't specify how long you worked before starting at NovaTech. It only says you've been at NovaTech for about 4 years and 3 months and have been in the field since graduating from UC Berkeley.
+EV  : I'm a software engineer, specifically a backend developer, and I've been in this field since I graduated with a degree in Computer Science from the University of California, Berkeley. I've been working at NovaTech for about 4 years and 3 months now. Given my experience, I'm looking for a tool that's easy to use and can provide detailed in …
+EV  : I'll start by saying that I'm a software engineer, specifically a backend developer, and I've been in this field since I graduated with a degree in Computer Science from the University of California, Berkeley. I've been working at NovaTech for about 4 years and 3 months now.
+EV  : I'll definitely try to implement these tips. One thing I'm struggling with is keeping track of my tasks and projects. I've been working professionally for 9 years and I'm currently using a physical notebook to jot down notes and reminders, but I'm not sure if that's the most efficient way. Do you have any recommendations for digital tools …
+VH  : user | asked about = high-profile cases heard by the Supreme Court of India in recent years (2023/05/25); the Sabarimala Temple case (2023/05/25); the tradition of women not being allowed to enter the …
+VH  : [2023/05/25 (Thu) 20:27] user | certification date = about three months ago
+VH  : [2023/05/25 (Thu) 01:29] user | current project = high-priority project at NovaTech
+VH  : [2023/05/25 (Thu) 14:50] user | current task = solving exam questions about the RBC model
+VH  : [2023/05/25 (Thu) 19:07] user | duration of social media reduction effort = two months
+
+===== [42] gpt4_a1b77f9c | temporal-reasoning | qdate=2022/04/30 (Sat) 13:22 | sess=49 turns=498 ev=6 chains=286
+QC  : CORRECT
+FULL: f1=0.25 evcov=5/6 goldtok_raw30=1.0
+Q   : How many weeks in total do I spent on reading 'The Nightingale' and listening to 'Sapiens: A Brief History of Humankind' and 'The Power'?
+GOLD: 2 weeks for 'The Nightingale', 4 weeks for 'Sapiens: A Brief History of Humankind', and 2 weeks for 'The Power', so a total of 8 weeks.
+P_FU: I can’t determine the total because the memory only shows when you **started** *The Nightingale* (2022/01/01), not when you finished it. Known durations: - *Sapiens*: started 2022/02/01, finished 2022/03/01 → **4 weeks** - *The Power*: started 2022/03/06, finished 2022/03/20 → **2 weeks** So *Sapiens* + *The Power* = **6 weeks**. Adding *The Nightingale* is not possible from the available memory.
+EV  : I'm looking for some book recommendations. I started reading 'The Nightingale' by Kristin Hannah today and I'm really into historical fiction right now. Can you suggest some other books in the same genre that you think I'd enjoy?
+EV  : I'm looking for some book recommendations. I just finished reading "The Nightingale" by Kristin Hannah today, and I'm still reeling from the emotional impact. I'm open to trying out different genres, so feel free to suggest anything that you think I might enjoy.
+EV  : That's really helpful, thanks! I think I can apply this to some of my own habits. Speaking of habits, I just started listening to 'Sapiens: A Brief History of Humankind' by Yuval Noah Harari today, and it got me thinking about how humans have developed certain habits and behaviors over time.
+EV  : (+3 more evidence turns)
+VH  : [2022/01/01 (Sat) 20:18] user | considering reading next = The Fifth Season / The Poppy War
+VH  : [2022/03/06 (Sun) 19:30] user | currently listening to = The Power by Naomi Alderman
+VH  : user | enjoyed: 'Sapiens: A Brief History of Humankind' (2022/02/01) -> Ticket to Ride (2022/03/03)
+VH  : user | finished listening to: 'Sapiens: A Brief History of Humankind' by Yuval Noah Harari (2022/03/01) -> 'The Power' by Naomi Alderman (2022/03/20)
+VH  : [2022/03/01 (Tue) 22:45] user | finished listening to Sapiens = today
+
+===== [43] gpt4_d6585ce8 | temporal-reasoning | qdate=2023/04/22 (Sat) 19:31 | sess=50 turns=491 ev=5 chains=274
+QC  : CORRECT
+FULL: f1=0.495 evcov=2/5 goldtok_raw30=0.81
+Q   : What is the order of the concerts and musical events I attended in the past two months, starting from the earliest?
+GOLD: The order of the concerts I attended is: 1. Billie Eilish concert at the Wells Fargo Center in Philly, 2. Free outdoor concert series in the park, 3. Music festival in Brooklyn, 4. Jazz night at a local bar, 5. Queen + Adam Lambert concert at the Prudential Center in Newark, NJ.
+P_FU: Based on the memory, the only clearly dated musical events are: 1. **March 25, 2023** – Free outdoor concert series in the park. 2. **April 8, 2023** – Jazz night at a local bar. You also mentioned a **Billie Eilish show in Philly**, a **Queen + Adam Lambert concert**, and a **music festival in Brooklyn**, but the memory does not give dates for those, so their exact order cannot be determined.
+EV  : I'm planning to buy some new concert merchandise online. Can you recommend some popular websites to find cool Billie Eilish gear? By the way, I just got back from an amazing Billie Eilish concert at the Wells Fargo Center in Philly with my sister today, and I'm still on a high from the experience!
+EV  : I'm looking for some new music recommendations. I've been to a few concerts recently and I'm always on the lookout for new artists to listen to. Speaking of which, I attended a free outdoor concert series in the park today and discovered some great new talent - it's really cool to see live music in a low-key setting like that. Do you have …
+EV  : I'm looking for some song recommendations. I've been listening to a lot of indie music lately, especially since I just got back from a music festival in Brooklyn with a group of friends, featuring a lineup of my favorite indie bands. Can you suggest some new artists or bands I might like?
+EV  : (+2 more evidence turns)
+VH  : user | attended: Billie Eilish concert at Wells Fargo Center in Philadelphia (2023/03/18) -> a free outdoor concert series in the park today (2023/03/25) -> Billie Eilish show in Philly / jazz night a …
+VH  : [2023/04/11 (Tue) 13:24] user | attended Alex's backyard barbecue party = on a Saturday afternoon three weeks ago
+VH  : [2023/03/18 (Sat) 00:23] user | attended concert on = today
+VH  : user | attended concert with: sister (2023/03/18) -> parents (2023/04/15)
+VH  : [2023/04/01 (Sat) 09:07] user | attended music festival = with a group of friends
+
+===== [44] gpt4_d6585ce9 | temporal-reasoning | qdate=2023/04/22 (Sat) 08:01 | sess=42 turns=437 ev=1 chains=273
+QC  : CORRECT
+FULL: f1=0.0 evcov=0/1 goldtok_raw30=0.0
+Q   : Who did I go with to the music event last Saturday?
+GOLD: my parents
+P_FU: I don't know. The retrieved memory doesn't mention who you went with to the music event last Saturday.
+EV  : I'm looking for some recommendations for rock music playlists on streaming services. I've been listening to a lot of Queen lately, actually just saw them live with Adam Lambert at the Prudential Center in Newark, NJ with my parents, and I'm craving more of that classic rock sound.
+VH  : user | attended: Billie Eilish concert at Wells Fargo Center in Philadelphia (2023/03/18) -> niece's high school graduation ceremony on June 15th (2023/03/18) -> a free outdoor concert series in the p …
+VH  : user | attended concert with: sister (2023/03/18) -> parents (2023/04/15)
+VH  : [2023/04/01 (Sat) 15:57] user | attended music festival = with a group of friends
+VH  : [2023/04/15 (Sat) 02:08] user | booked = hotel room for "Racing Nationals" event
+VH  : user | bought: new shoe cleaning kit last month (2023/03/20) -> the saxophonist's album after the show (2023/03/26)
+
+===== [45] gpt4_e061b84f | temporal-reasoning | qdate=2023/07/01 (Sat) 20:43 | sess=46 turns=467 ev=3 chains=325
+QC  : CORRECT
+FULL: f1=0.074 evcov=0/3 goldtok_raw30=0.19
+Q   : What is the order of the three sports events I participated in during the past month, from earliest to latest?
+GOLD: I first completed the Spring Sprint Triathlon, then took part in the Midsummer 5K Run, and finally participated in the company's annual charity soccer tournament.
+P_FU: I don't know.
+EV  : I'm looking for some new bike routes to try out. Do you have any suggestions for trails around the city? By the way, I just completed the Spring Sprint Triathlon today, which included a 20K bike ride, and I'm itching to get back on my bike.
+EV  : I'm looking for some new running shoes. I just finished a 5K run with a personal best time of 27 minutes and 42 seconds at the Midsummer 5K Run, and I think it's time to upgrade my gear. Can you recommend some good running shoes for racing?
+EV  : I'm looking for some tips on injury prevention and recovery strategies for soccer players. I participate in the company's annual charity soccer tournament today, and I want to make sure I'm taking care of myself.
+VH  : [2023/06/17 (Sat) 23:44] folklore | departure from = Taylor Swift's usual pop sound
+VH  : [2023/06/17 (Sat) 23:44] Taylor Swift | latest album = folklore
+VH  : [2023/05/10 (Wed) 05:41] user | appeal = allowed in part
+VH  : [2023/06/17 (Sat) 16:38] user | checked = the theater company's website
+VH  : [2023/06/02 (Fri) 15:29] user | completed = Spring Sprint Triathlon
+
+===== [46] gpt4_e061b84g | temporal-reasoning | qdate=2023/07/01 (Sat) 13:38 | sess=58 turns=566 ev=1 chains=287
+QC  : CORRECT
+FULL: f1=0.0 evcov=0/1 goldtok_raw30=0.6
+Q   : I mentioned participating in a sports event two weeks ago. What was the event?
+GOLD: The company's annual charity soccer tournament.
+P_FU: I don't know. The retrieved memory does not mention a sports event you participated in two weeks before 2023/07/01.
+EV  : I'm looking for some tips on injury prevention and recovery strategies for soccer players. I will participate in the company's annual charity soccer tournament today, and I want to make sure I'm taking care of myself.
+VH  : [2023/06/17 (Sat) 14:36] user | bought necklace = three weeks ago on a Saturday afternoon
+VH  : [2023/06/03 (Sat) 13:39] user | considering creating = a Facebook event for the Foodie Fest
+VH  : [2023/06/17 (Sat) 22:43] user | favorite soccer team = Manchester United
+VH  : [2023/06/17 (Sat) 22:43] user | first job = soccer referee and linesman
+VH  : [2023/06/17 (Sat) 11:56] user | had annual family reunion = at uncle's house in the countryside last weekend
+
+===== [47] gpt4_fe651585 | temporal-reasoning | qdate=2023/03/17 (Fri) 17:52 | sess=48 turns=471 ev=2 chains=283
+QC  : CORRECT
+FULL: f1=0.065 evcov=2/2 goldtok_raw30=1.0
+Q   : Who became a parent first, Rachel or Alex?
+GOLD: Alex
+P_FU: Rachel became a parent first. Her twins, Jackson and Julia, were about to celebrate their first birthday as of March 2023, while Alex adopted a baby girl from China in January 2023.
+EV  : I'm considering adopting a baby boy from foster care and I'm wondering if you can provide me with some information on the process and requirements for adoption in my state. By the way, my cousin Alex just adopted a baby girl from China in January, so I've seen firsthand how life-changing it can be.
+EV  : I'm excited to hear that you're planning an Art Studio Party for Olivia! I think the kids will have a blast exploring their creativity at the different art stations. By the way, my sister-in-law, Rachel, is doing great with the twins, Jackson and Julia. They're growing up so fast!
+VH  : [2023/03/17 (Fri) 15:27] Alex | adopted = a baby girl from China
+VH  : [2023/03/17 (Fri) 15:27] Alex | adoption agency prioritized = supporting birth mothers
+VH  : [2023/03/17 (Fri) 15:27] Alex | adoption month = January
+VH  : [2023/03/17 (Fri) 15:27] Alex | received updates about = the birth mother's background
+VH  : [2023/03/17 (Fri) 04:08] Alex | was impressed with = the walleye / the fishing

@@ -1,0 +1,31 @@
+# Python and local runtime files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+node_modules/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+credentials.json
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Regenerable LaTeX build files; keep the source and PDF
+/paper/*.aux
+/paper/*.fdb_latexmk
+/paper/*.fls
+/paper/*.log
+/paper/*.out

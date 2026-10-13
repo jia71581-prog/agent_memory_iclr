@@ -1,0 +1,178 @@
+config                    chains med    p90  reduction    edges  view_cur med
+v5 default(R1+R2+R4')          295.0    336     0.067    19246         29392
+R1+R2 only                     295.0    336     0.067    19214         29392
++R3 jaccard 0.6                288.5    329     0.086    22767         29010
++R3 jaccard 0.5                284.0    323     0.102    26281         28668
+v4 (no merge)                  316.5    358     0.000        0         30397
+
+head-merge CEILING (merge all same (entity,head)): chains median 228.0 (v4 316.5, reduction 0.280); largest head bucket median 11
+share of v4 chains whose (entity,head) is UNIQUE in that question: median 0.572  -> upper bound on any head-based merging
+
+=== sample default_v2: pool 6907 clusters, drew 30 ===
+[1] ef66a6e5 rules=R1 sizes=[8, 1, 1]
+      user::is looking for
+      user::is looking into
+      user::looking for
+[2] gpt4_7fce9456 rules=R1 sizes=[2, 1, 3]
+      user::is buying
+      user::recently bought
+      user::recently got
+[3] 6aeb4375 rules=R1 sizes=[1, 1]
+      user::has used
+      user::used
+[4] b86304ba rules=R1 sizes=[4, 1]
+      user::wants
+      user::wants to
+[5] gpt4_93159ced_abs rules=R1 sizes=[2, 2]
+      user::considering
+      user::considers
+[6] gpt4_4fc4f797 rules=R1 sizes=[1, 1]
+      user::finished reading
+      user::recently finished reading
+[7] 099778bb rules=R1 sizes=[5, 1, 1]
+      user::attended
+      user::attends
+      user::recently attended
+[8] 4baee567 rules=R1 sizes=[5, 1, 1]
+      user::is working on
+      user::works on
+      user::works with
+[9] e3fc4d6e rules=R1 sizes=[1, 1, 1]
+      user::describes the whispering walls as
+      user::says the whispering walls has
+      user::says the whispering walls is about
+[10] ce6d2d27 rules=R1 sizes=[2, 1]
+      user::is planning to try out
+      user::plans to try out
+[11] 8979f9ec rules=R1 sizes=[1, 4]
+      user::is planning to plant
+      user::plans to plant
+[12] 72e3ee87 rules=R1 sizes=[3, 3]
+      user::is planning
+      user::plans to
+[13] 7024f17c rules=R1 sizes=[1, 1, 1]
+      user::current location
+      user::lives in
+      user::location
+[14] c18a7dc8 rules=R1 sizes=[2, 2]
+      user::has niece
+      user::niece
+[15] 28bcfaac rules=R1 sizes=[1, 1]
+      user::played eternitys edge demo
+      user::played eternitys edge demo at
+[16] 031748ae_abs rules=R1 sizes=[1, 1]
+      user::pasta for second dish
+      user::second pasta dish
+[17] bc8a6e93_abs rules=R1 sizes=[3, 2]
+      user::plans to start
+      user::plans to start by
+[18] 982b5123 rules=R1 sizes=[1, 1]
+      user::is reorganizing
+      user::reorganized
+[19] gpt4_78cf46a3 rules=R1 sizes=[1, 1]
+      user::bought
+      user::recently got
+[20] 078150f1 rules=R1 sizes=[1, 1, 1]
+      user::gets
+      user::recently bought
+      user::recently got
+[21] e831120c rules=R1 sizes=[3, 1, 5, 1]
+      user::desire
+      user::hopes
+      user::wants
+      user::wish
+[22] f4f1d8a4 rules=R1 sizes=[1, 1]
+      nats::formed by
+      nats::formed in
+[23] edced276_abs rules=R1 sizes=[1, 1]
+      user::fascinated by
+      user::is fascinated by
+[24] gpt4_e05b82a6 rules=R1 sizes=[1, 1]
+      user::is thinking about organizing
+      user::is thinking of organizing
+[25] 853b0a1d rules=R2 sizes=[1, 1]
+      user::reading preference
+      user::usual reading preference
+[26] 0ea62687 rules=R1 sizes=[1, 5]
+      user::plans to buy
+      user::plans to get
+[27] 778164c6 rules=R1 sizes=[1, 3, 6]
+      user::considering
+      user::considers
+      user::is considering
+[28] gpt4_194be4b3 rules=R1 sizes=[2, 1, 10]
+      user::planning
+      user::plans
+      user::plans to
+[29] 6a27ffc2 rules=R1 sizes=[2, 6]
+      user::considering
+      user::is considering
+[30] gpt4_fe651585 rules=R1 sizes=[1, 2]
+      user::currently reading
+      user::has read
+
+=== R3-attributable clusters: pool 2557, drew 20 ===
+[1] c8f1aeed sizes=[1, 1]
+      user::posted new haircut picture
+      user::recently posted a picture of
+[2] gpt4_731e37d7 sizes=[1, 1]
+      user::coffee maker original price
+      user::coffee maker purchase price
+[3] 4dfccbf7 sizes=[1, 1]
+      user::great gatsby edition
+      user::purchase price of great gatsby edition
+[4] a3332713 sizes=[1, 1, 1]
+      user::considers the silver cuff
+      user::describes silver cuff as
+      user::says silver cuff is
+[5] e9327a54 sizes=[1, 1, 1]
+      user::running shoes
+      user::total distance run in new shoes
+      user::total runs in new shoes
+[6] a96c20ee sizes=[1, 3]
+      user::is planning a summer trip
+      user::is planning a trip to
+[7] 1e043500 sizes=[1, 1]
+      user::plans to read the alice network
+      user::plans to recommend the alice network
+[8] gpt4_2f91af09 sizes=[1, 1, 1]
+      user::attitude toward lewisham council environmental sustainability initiatives
+      user::belief about lewisham council environmental sustainability initiatives
+      user::belief about lewisham council initiatives
+[9] gpt4_2487a7cb sizes=[2, 1]
+      user::power bait color preference
+      user::power bait scent preference
+[10] 89941a94 sizes=[1, 1, 1]
+      user::interested in how organizations
+      user::interested in learning about organizations
+      user::interested in organizations
+[11] bcbe585f sizes=[1, 1]
+      user::takeout frequency past month
+      user::takeout order past month
+[12] 2698e78f_abs sizes=[1, 1]
+      user::prioritizes selfcare activities
+      user::selfcare activities
+[13] cf22b7bf sizes=[1, 1]
+      user::has had running shoes for
+      user::uses running shoes for
+[14] d905b33f sizes=[1, 1]
+      user::observed neon tetras
+      user::observed rasboras and neon tetras
+[15] a4996e51 sizes=[1, 1]
+      user::reason for separating guppy
+      user::separated a guppy
+[16] 6071bd76 sizes=[1, 1]
+      user::chose for dessert side
+      user::chose sides
+[17] 982b5123 sizes=[4, 1]
+      user::plans to check
+      user::plans to check out
+[18] ad7109d1 sizes=[2, 3]
+      user::is planning to plant
+      user::plans to add plant
+[19] gpt4_2487a7cb sizes=[1, 1]
+      user::plans to set
+      user::plans to set up
+[20] 3f1e9474 sizes=[1, 1]
+      user::has been playing catan with family
+      user::plays settlers of catan with family

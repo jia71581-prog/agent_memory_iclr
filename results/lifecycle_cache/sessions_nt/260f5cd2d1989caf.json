@@ -1,0 +1,1 @@
+[["user", "needs", "two input fields named MID and Descriptor, side by side in HTML"], ["user", "wants", "a button to clone the two input fields to add more rows"], ["user", "wants", "to paste two columns from Excel into the first input fields and auto-create more inputs based on pasted data"], ["user", "requested", "implementation using jQuery instead of vanilla JavaScript"]]

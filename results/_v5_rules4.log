@@ -1,0 +1,181 @@
+config                    chains med    p90  reduction    edges  view_cur med
+v5 default(R1+R2+R4')          297.0    339     0.062    17903         29473
+R1+R2 only                     297.0    340     0.061    17877         29476
++R3 jaccard 0.6                291.0    333     0.078    20742         29160
++R3 jaccard 0.5                286.0    327     0.093    23770         28870
+v4 (no merge)                  316.5    358     0.000        0         30397
+
+head-merge CEILING (merge all same (entity,head)): chains median 229.0 (v4 316.5, reduction 0.276); largest head bucket median 11
+share of v4 chains whose (entity,head) is UNIQUE in that question: median 0.573  -> upper bound on any head-based merging
+
+=== sample final2: pool 6243 clusters, drew 30 ===
+[1] 45dc21b6 rules=R1 sizes=[1, 1, 3]
+      user::has been watching
+      user::watched
+      user::watches
+[2] e66b632c rules=R1 sizes=[1, 1]
+      user::city of residence
+      user::location
+[3] 2bf43736 rules=R1 sizes=[1, 1]
+      user::is considering buying
+      user::is considering getting
+[4] 5025383b rules=R1 sizes=[4, 1]
+      user::interested in trying
+      user::is interested in trying
+[5] 28dc39ac rules=R1 sizes=[1, 2, 11, 1, 19, 1, 1]
+      user::enjoyed
+      user::enjoys
+      user::interest
+      user::interest in
+      user::interested in
+      user::is interested in
+      user::loves
+[6] 9a707b82 rules=R1 sizes=[1, 2, 2]
+      user::considering buying
+      user::considering getting
+      user::is considering getting
+[7] bcbe585f rules=R1 sizes=[1, 1, 2]
+      user::is planning
+      user::planning
+      user::plans
+[8] 6456829e_abs rules=R1 sizes=[2, 1]
+      user::is looking for
+      user::is looking to
+[9] 07b6f563 rules=R1 sizes=[1, 1]
+      user::played pandemic
+      user::played pandemic with
+[10] gpt4_d6585ce9 rules=R1 sizes=[1, 1]
+      user::started model build
+      user::started model build on
+[11] 6456829e_abs rules=R1 sizes=[1, 1]
+      user::recently switched to
+      user::switched from
+[12] 726462e0 rules=R1 sizes=[1, 3]
+      user::currently uses
+      user::uses
+[13] 36b9f61e rules=R1 sizes=[2, 1, 2, 1]
+      user::is planning
+      user::plan
+      user::planning
+      user::plans to
+[14] e8a79c70 rules=R1 sizes=[3, 1]
+      user::uses laptop for
+      user::uses laptops
+[15] 77eafa52 rules=R1 sizes=[1, 1]
+      user::is planning a trip to
+      user::planning trip to
+[16] cc6d1ec1 rules=R1 sizes=[1, 1]
+      user::hopes
+      user::wants
+[17] 0bb5a684 rules=R1 sizes=[3, 1]
+      user::wants to improve
+      user::wants to improve at
+[18] 2ebe6c90 rules=R1 sizes=[3, 1]
+      user::is planning a trip to
+      user::is planning to travel to
+[19] 6cb6f249 rules=R1 sizes=[5, 1]
+      user::considering
+      user::is considering
+[20] 19b5f2b3 rules=R1 sizes=[1, 1]
+      user::sells
+      user::sells at
+[21] gpt4_372c3eed rules=R1 sizes=[1, 1]
+      user::has been birding
+      user::has been birding for
+[22] a11281a2 rules=R1 sizes=[5, 1]
+      user::has been experimenting with
+      user::is experimenting with
+[23] gpt4_7ca326fa rules=R1 sizes=[1, 1]
+      user::installed string lights
+      user::installed string lights on
+[24] bf659f65 rules=R1 sizes=[1, 2]
+      user::is planning to try
+      user::plans to try
+[25] gpt4_18c2b244 rules=R1 sizes=[1, 1]
+      user::has been watching
+      user::watches
+[26] gpt4_65aabe59 rules=R1 sizes=[2, 1]
+      user::concern about
+      user::is concerned about
+[27] bbf86515 rules=R1 sizes=[1, 2]
+      user::has been using
+      user::is using
+[28] 945e3d21 rules=R1 sizes=[1, 1, 1, 2, 1, 8, 2, 6]
+      user::enjoyed
+      user::enjoys
+      user::interest
+      user::interested in
+      user::is especially interested in
+      user::is interested in
+      user::likes
+      user::preference
+[29] 38146c39 rules=R1 sizes=[1, 1]
+      user::considering taking
+      user::is considering taking
+[30] c18a7dc8 rules=R1 sizes=[1, 1, 1]
+      user::planning to buy
+      user::plans to buy
+      user::plans to purchase from
+
+=== R3-attributable clusters: pool 2258, drew 20 ===
+[1] 88432d0a_abs sizes=[1, 1]
+      user::is considering using
+      user::will consider using
+[2] b46e15ee sizes=[1, 1]
+      user::wants mindfulness to cultivate
+      user::wants to cultivate
+[3] 0db4c65d sizes=[1, 1]
+      user::column names in logger input tab
+      user::time column in logger input tab
+[4] 8cf4d046 sizes=[1, 1]
+      user::data column name for department number
+      user::data column name for store number
+[5] c5e8278d sizes=[1, 1]
+      user::running route filter interest
+      user::running route interest
+[6] 0edc2aef sizes=[1, 1, 1]
+      storage::oklch background color
+      storage::oklch border color
+      storage::oklch color
+[7] gpt4_d31cdae3 sizes=[1, 1]
+      user::uses a cashback app
+      user::uses app
+[8] 65240037 sizes=[1, 1]
+      user::asos purchases in past month
+      user::online purchases in past month
+[9] gpt4_b5700ca0 sizes=[1, 1]
+      user::road trip companions
+      user::yellowstone road trip companions
+[10] c8f1aeed sizes=[1, 1]
+      user::north lunar node sign
+      user::south lunar node sign
+[11] d596882b sizes=[2, 1]
+      user::plans to check
+      user::plans to check out
+[12] 8979f9ec sizes=[2, 3]
+      user::wants music recommendations
+      user::wants recommendations for
+[13] 1c549ce4 sizes=[2, 1]
+      user::wants recommendations for
+      user::wants restaurant recommendations
+[14] 6aeb4375_abs sizes=[1, 1]
+      user::has been
+      user::has been into
+[15] c8090214_abs sizes=[1, 1]
+      user::acquired the nike air jordan 1 shoe from
+      user::paid for the nike air jordan 1 shoe
+[16] dccbc061 sizes=[1, 1]
+      user::purchased with hm coupon
+      user::saved with hm coupon
+[17] gpt4_d31cdae3 sizes=[1, 1]
+      1994 asian games::indoor stadium seating capacity
+      1994 asian games::main stadium seating capacity
+[18] 15745da0 sizes=[1, 1]
+      user::is interested in learning
+      user::prefers sometimes to learn
+[19] 06f04340 sizes=[1, 1]
+      user::coffee shop preference
+      user::coffee shop price preference
+[20] c2ac3c61 sizes=[1, 1]
+      user::bought cat food from petco
+      user::bought cat litter from petco

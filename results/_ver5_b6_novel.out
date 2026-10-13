@@ -1,0 +1,45 @@
+shipped firing set: 31 questions
+
+=== marginal contribution over the raw-turn channel already in context ===
+questions 31
+scoped block : 427 sentences, 0 not already in raw (0.0000), 1398 chars/q
+global top15 : 465 sentences, 248 not already in raw (0.5333), 1730 chars/q
+global matched-budget: 376 sentences, 177 novel (0.4707), 1341 chars/q
+
+gold evidence turns 46, missing from the raw channel 9
+  recovered by scoped block          0
+  recovered by global BM25 top-15    1
+  recovered by matched-budget global 1
+
+per-question (qid, type, scoped_n, scoped_novel, b15_n, b15_novel, gold, gold_missing, rec_scoped, rec_b15, rec_matched):
+   ('8a2466db', 'single-session-preference', 10, 0, 15, 8, 1, 0, 0, 0, 0)
+   ('06878be2', 'single-session-preference', 12, 0, 15, 13, 3, 2, 0, 0, 0)
+   ('75832dbd', 'single-session-preference', 2, 0, 15, 15, 1, 0, 0, 0, 0)
+   ('0edc2aef', 'single-session-preference', 14, 0, 15, 6, 1, 0, 0, 0, 0)
+   ('35a27287', 'single-session-preference', 14, 0, 15, 10, 3, 0, 0, 0, 0)
+   ('32260d93', 'single-session-preference', 9, 0, 15, 11, 1, 0, 0, 0, 0)
+   ('195a1a1b', 'single-session-preference', 7, 0, 15, 12, 1, 0, 0, 0, 0)
+   ('afdc33df', 'single-session-preference', 13, 0, 15, 7, 3, 0, 0, 0, 0)
+   ('caf03d32', 'single-session-preference', 16, 0, 15, 4, 2, 0, 0, 0, 0)
+   ('54026fce', 'single-session-preference', 16, 0, 15, 5, 1, 0, 0, 0, 0)
+   ('06f04340', 'single-session-preference', 15, 0, 15, 5, 1, 1, 0, 0, 0)
+   ('6b7dfb22', 'single-session-preference', 17, 0, 15, 4, 1, 0, 0, 0, 0)
+   ('1a1907b4', 'single-session-preference', 13, 0, 15, 5, 1, 1, 0, 0, 0)
+   ('09d032c9', 'single-session-preference', 27, 0, 15, 4, 1, 1, 0, 0, 0)
+   ('38146c39', 'single-session-preference', 19, 0, 15, 6, 1, 1, 0, 0, 0)
+   ('d24813b1', 'single-session-preference', 9, 0, 15, 9, 1, 0, 0, 0, 0)
+   ('57f827a0', 'single-session-preference', 11, 0, 15, 10, 1, 0, 0, 0, 0)
+   ('95228167', 'single-session-preference', 15, 0, 15, 8, 1, 1, 0, 0, 0)
+   ('505af2f5', 'single-session-preference', 18, 0, 15, 6, 1, 0, 0, 0, 0)
+   ('75f70248', 'single-session-preference', 12, 0, 15, 9, 1, 0, 0, 0, 0)
+   ('d6233ab6', 'single-session-preference', 24, 0, 15, 9, 2, 2, 0, 1, 1)
+   ('1da05512', 'single-session-preference', 3, 0, 15, 14, 2, 0, 0, 0, 0)
+   ('fca70973', 'single-session-preference', 14, 0, 15, 8, 1, 0, 0, 0, 0)
+   ('b6025781', 'single-session-preference', 12, 0, 15, 4, 1, 0, 0, 0, 0)
+   ('a89d7624', 'single-session-preference', 12, 0, 15, 8, 2, 0, 0, 0, 0)
+   ('b0479f84', 'single-session-preference', 18, 0, 15, 8, 1, 0, 0, 0, 0)
+   ('1d4e3b97', 'single-session-preference', 13, 0, 15, 5, 2, 0, 0, 0, 0)
+   ('07b6f563', 'single-session-preference', 13, 0, 15, 9, 2, 0, 0, 0, 0)
+   ('1c0ddc50', 'single-session-preference', 22, 0, 15, 8, 2, 0, 0, 0, 0)
+   ('0a34ad58', 'single-session-preference', 18, 0, 15, 10, 2, 0, 0, 0, 0)
+   ('7401057b', 'knowledge-update', 9, 0, 15, 8, 2, 0, 0, 0, 0)

@@ -1,0 +1,12 @@
+n=500, aggregation block fires on 227
+group                            v4 view   v5 view   block  v5 total      net
+ALL 500                            19954     19949       0     19988   +0.17%
+block fires (227)                  19946     19952    1766     21707   +8.83%
+no block (273)                     19957     19945       0     19945   -0.06%
+
+mean over 500: v4 19930 -> v5 total 20826 (+4.50%)
+view alone (merging only): 19930 -> 19921 (-0.05%)
+view lines: v4 median 209 -> v5 202
+how often the 20000-char cap binds: v4 468/500, v5 459/500
+
+approx added prompt tokens from the block (chars/4): median 442 on the 227 questions where it fires; whole-run added prompt 113090 tokens over 500 questions. No extra API call: the block is pure rendering over the existing extraction cache.

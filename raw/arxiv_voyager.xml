@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/6WlTsTq5I0NP7qbP2NqUaCJ6+2Q</id>
+  <title>arXiv Query: search_query=ti:"Voyager" AND abs:"large language"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-09-16T09:26:13Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Voyager%22+AND+abs:%22large+language%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>3</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2512.12072v2</id>
+    <title>VOYAGER: A Training Free Approach for Generating Diverse Datasets using LLMs</title>
+    <updated>2026-04-27T19:46:30Z</updated>
+    <link href="https://arxiv.org/abs/2512.12072v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2512.12072v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large language models (LLMs) are increasingly being used to generate synthetic datasets for the evaluation and training of downstream models. However, prior work has noted that such generated data lacks diversity. In this paper, we propose Voyager, a novel principled approach to generate diverse datasets. Our approach is iterative and directly optimizes a mathematical quantity that optimizes the diversity of the dataset using the machinery of determinantal point processes. Furthermore, our approach is training-free, applicable to closed-source models, and scalable. In addition to providing theoretical justification for the working of our method, we also demonstrate through comprehensive experiments that Voyager significantly outperforms popular baseline approaches by providing a 1.5-3 times improvement in diversity.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-12-12T22:39:01Z</published>
+    <arxiv:comment>Accepted to ACL 2026 Main</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Avinash Amballa</name>
+    </author>
+    <author>
+      <name>Yashas Malur Saidutta</name>
+    </author>
+    <author>
+      <name>Chi-Heng Lin</name>
+    </author>
+    <author>
+      <name>Vivek Kulkarni</name>
+    </author>
+    <author>
+      <name>Srinivas Chappidi</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2603.24533v1</id>
+    <title>UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience</title>
+    <updated>2026-03-25T17:10:29Z</updated>
+    <link href="https://arxiv.org/abs/2603.24533v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2603.24533v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Autonomous mobile GUI agents have attracted increasing attention along with the advancement of Multimodal Large Language Models (MLLMs). However, existing methods still suffer from inefficient learning from failed trajectories and ambiguous credit assignment under sparse rewards for long-horizon GUI tasks. To that end, we propose UI-Voyager, a novel two-stage self-evolving mobile GUI agent. In the first stage, we employ Rejection Fine-Tuning (RFT), which enables the continuous co-evolution of data and models in a fully autonomous loop. The second stage introduces Group Relative Self-Distillation (GRSD), which identifies critical fork points in group rollouts and constructs dense step-level supervision from successful trajectories to correct failed ones. Extensive experiments on AndroidWorld show that our 4B model achieves an 81.0% Pass@1 success rate, outperforming numerous recent baselines and exceeding human-level performance. Ablation and case studies further verify the effectiveness of GRSD. Our method represents a significant leap toward efficient, self-evolving, and high-performance mobile GUI automation without expensive manual data annotation.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-03-25T17:10:29Z</published>
+    <arxiv:comment>Code and models are available at https://github.com/ui-voyager/UI-Voyager</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Zichuan Lin</name>
+    </author>
+    <author>
+      <name>Feiyu Liu</name>
+    </author>
+    <author>
+      <name>Yijun Yang</name>
+    </author>
+    <author>
+      <name>Jiafei Lyu</name>
+    </author>
+    <author>
+      <name>Yiming Gao</name>
+    </author>
+    <author>
+      <name>Yicheng Liu</name>
+    </author>
+    <author>
+      <name>Zhicong Lu</name>
+    </author>
+    <author>
+      <name>Yangbin Yu</name>
+    </author>
+    <author>
+      <name>Mingyu Yang</name>
+    </author>
+    <author>
+      <name>Junyou Li</name>
+    </author>
+    <author>
+      <name>Deheng Ye</name>
+    </author>
+    <author>
+      <name>Jie Jiang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2410.03226v4</id>
+    <title>Frame-Voyager: Learning to Query Frames for Video Large Language Models</title>
+    <updated>2025-03-28T03:19:52Z</updated>
+    <link href="https://arxiv.org/abs/2410.03226v4" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2410.03226v4" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Video Large Language Models (Video-LLMs) have made remarkable progress in video understanding tasks. However, they are constrained by the maximum length of input tokens, making it impractical to input entire videos. Existing frame selection approaches, such as uniform frame sampling and text-frame retrieval, fail to account for the information density variations in the videos or the complex instructions in the tasks, leading to sub-optimal performance. In this paper, we propose Frame-Voyager that learns to query informative frame combinations, based on the given textual queries in the task. To train Frame-Voyager, we introduce a new data collection and labeling pipeline, by ranking frame combinations using a pre-trained Video-LLM. Given a video of M frames, we traverse its T-frame combinations, feed them into a Video-LLM, and rank them based on Video-LLM's prediction losses. Using this ranking as supervision, we train Frame-Voyager to query the frame combinations with lower losses. In experiments, we evaluate Frame-Voyager on four Video Question Answering benchmarks by plugging it into two different Video-LLMs. The experimental results demonstrate that Frame-Voyager achieves impressive results in all settings, highlighting its potential as a plug-and-play solution for Video-LLMs.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-10-04T08:26:06Z</published>
+    <arxiv:comment>ICLR 2025, Camera-ready Version</arxiv:comment>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Sicheng Yu</name>
+    </author>
+    <author>
+      <name>Chengkai Jin</name>
+    </author>
+    <author>
+      <name>Huanyu Wang</name>
+    </author>
+    <author>
+      <name>Zhenghao Chen</name>
+    </author>
+    <author>
+      <name>Sheng Jin</name>
+    </author>
+    <author>
+      <name>Zhongrong Zuo</name>
+    </author>
+    <author>
+      <name>Xiaolei Xu</name>
+    </author>
+    <author>
+      <name>Zhenbang Sun</name>
+    </author>
+    <author>
+      <name>Bingni Zhang</name>
+    </author>
+    <author>
+      <name>Jiawei Wu</name>
+    </author>
+    <author>
+      <name>Hao Zhang</name>
+    </author>
+    <author>
+      <name>Qianru Sun</name>
+    </author>
+  </entry>
+</feed>

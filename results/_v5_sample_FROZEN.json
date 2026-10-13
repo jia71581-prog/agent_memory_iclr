@@ -1,0 +1,455 @@
+{
+ "pool_size": 6096,
+ "sample": [
+  {
+   "qid": "7527f7e2",
+   "keys": [
+    "user::asked about",
+    "user::asks about"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    4,
+    3
+   ]
+  },
+  {
+   "qid": "7161e7e2",
+   "keys": [
+    "user::currently watching",
+    "user::has been watching",
+    "user::watched",
+    "user::watches"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1,
+    4,
+    1
+   ]
+  },
+  {
+   "qid": "830ce83f",
+   "keys": [
+    "user::is planning to visit",
+    "user::plans to visit"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    2
+   ]
+  },
+  {
+   "qid": "c7dc5443",
+   "keys": [
+    "user::considering buying",
+    "user::considering getting"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "1568498a",
+   "keys": [
+    "user::considering",
+    "user::is considering"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    2
+   ]
+  },
+  {
+   "qid": "gpt4_d12ceb0e",
+   "keys": [
+    "user::has been listening to",
+    "user::has listened to",
+    "user::listens to"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    2,
+    5
+   ]
+  },
+  {
+   "qid": "184da446",
+   "keys": [
+    "user::has been working on",
+    "user::is working on"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    3
+   ]
+  },
+  {
+   "qid": "2698e78f",
+   "keys": [
+    "user::goal",
+    "user::is targeting"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "ac031881",
+   "keys": [
+    "user::expressed interest in",
+    "user::interest in",
+    "user::interested in",
+    "user::is especially interested in",
+    "user::is interested in"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    4,
+    4,
+    1,
+    3
+   ]
+  },
+  {
+   "qid": "ec81a493",
+   "keys": [
+    "user::interest",
+    "user::preference"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    3,
+    2
+   ]
+  },
+  {
+   "qid": "b46e15ee",
+   "keys": [
+    "user::is used to",
+    "user::uses"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    9
+   ]
+  },
+  {
+   "qid": "3fdac837",
+   "keys": [
+    "user::has been taking",
+    "user::takes"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_8279ba02",
+   "keys": [
+    "user::participates in",
+    "user::recently participated in"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "2698e78f_abs",
+   "keys": [
+    "user::has been staying at",
+    "user::stayed at"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "eac54add",
+   "keys": [
+    "user::experimented with",
+    "user::has been experimenting with"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "c8090214_abs",
+   "keys": [
+    "user::children have",
+    "user::has children"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "e56a43b9",
+   "keys": [
+    "user::is thinking about getting",
+    "user::is thinking of getting"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    3
+   ]
+  },
+  {
+   "qid": "gpt4_59149c77",
+   "keys": [
+    "user::is planning",
+    "user::plan",
+    "user::plans"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    4,
+    1
+   ]
+  },
+  {
+   "qid": "9a707b82",
+   "keys": [
+    "user::interested in",
+    "user::is interested in"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    3
+   ]
+  },
+  {
+   "qid": "gpt4_c27434e8_abs",
+   "keys": [
+    "user::enjoys",
+    "user::likes",
+    "user::loved",
+    "user::loves",
+    "user::prefers"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1,
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "4f54b7c9",
+   "keys": [
+    "user::considering",
+    "user::is considering"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    2
+   ]
+  },
+  {
+   "qid": "5809eb10",
+   "keys": [
+    "user::interest in",
+    "user::interested in",
+    "user::is interested in"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    4,
+    10,
+    5
+   ]
+  },
+  {
+   "qid": "ec81a493",
+   "keys": [
+    "user::feeling",
+    "user::feels"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "681a1674",
+   "keys": [
+    "user::is looking for",
+    "user::looking for"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    3,
+    1
+   ]
+  },
+  {
+   "qid": "54026fce",
+   "keys": [
+    "user::is planning to get",
+    "user::plans to get"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "e25c3b8d",
+   "keys": [
+    "user::interest in",
+    "user::interested in",
+    "user::is interested in"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    5,
+    4
+   ]
+  },
+  {
+   "qid": "21436231",
+   "keys": [
+    "user::considering buying",
+    "user::considering getting"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "c14c00dd",
+   "keys": [
+    "user::interest",
+    "user::likes",
+    "user::loves"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    20,
+    1,
+    2
+   ]
+  },
+  {
+   "qid": "1cea1afa",
+   "keys": [
+    "user::enjoys",
+    "user::likes",
+    "user::preference",
+    "user::prefers"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    2,
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_18c2b244",
+   "keys": [
+    "user::used quinoa in",
+    "user::uses quinoa in"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  }
+ ]
+}

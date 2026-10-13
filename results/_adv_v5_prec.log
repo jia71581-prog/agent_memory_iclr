@@ -1,0 +1,6 @@
+=== (g) precision of the printed list on the 60 enumeration-count questions ===
+SHIPPED (all 4 fixes)              lines from gold sessions 583/1308 = 0.446 (macro 0.519) | printed/gold-count median 4.2x mean 6.3x
+shipped, dedupe slack 3            lines from gold sessions 519/1209 = 0.429 (macro 0.506) | printed/gold-count median 3.9x mean 5.9x
+shipped, dedupe slack 6            lines from gold sessions 495/1173 = 0.422 (macro 0.500) | printed/gold-count median 3.9x mean 5.7x
+unbounded subset dedupe (bug i)    lines from gold sessions 495/1171 = 0.423 (macro 0.500) | printed/gold-count median 3.9x mean 5.7x
+ALL FOUR BUGS                      lines from gold sessions 460/1054 = 0.436 (macro 0.520) | printed/gold-count median 3.3x mean 5.1x

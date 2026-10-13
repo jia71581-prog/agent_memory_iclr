@@ -1,0 +1,3 @@
+=== (e) MAIN-VIEW regression over ALL 500 questions (not just the 60) ===
+FIXED stemmer/SYN (shipped)        chains med  297.0 | gold-session facts 10006/11038 = 0.9065 survive current-mode rendering (hidden 9.35%) | gold sessions represented 943/948 = 0.9947 | view chars med 29546
+BUGGY stemmer/SYN (pre-fix)        chains med  299.5 | gold-session facts 10045/11039 = 0.9100 survive current-mode rendering (hidden 9.00%) | gold sessions represented 943/948 = 0.9947 | view chars med 29657

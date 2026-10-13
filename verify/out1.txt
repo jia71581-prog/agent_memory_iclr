@@ -1,0 +1,5 @@
+<class 'dict'> 500
+['e47becba', '118b2229', '51a45a95']
+### Temporal scaffold (question asked on 2023/05/30 (Tue); question family detected: other)
+-- Event timeline, sorted by the date the event happened (offsets are relative to the question date) --
+[2023/05/30 (Tue) | same day as the question] I graduated with a degree in Business Administration, whic

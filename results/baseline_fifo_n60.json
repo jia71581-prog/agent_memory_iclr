@@ -1,0 +1,530 @@
+{
+ "system": "fifo",
+ "results": [
+  {
+   "qid": "6a1eabeb",
+   "type": "knowledge-update",
+   "mem_units": 159,
+   "f1": 0.0,
+   "judge": true,
+   "pred": "Your personal best time in the charity 5K run was **25:50**."
+  },
+  {
+   "qid": "0a995998",
+   "type": "multi-session",
+   "mem_units": 150,
+   "f1": 0.0,
+   "judge": false,
+   "pred": "You need to pick up **one item**: the new pair of boots from Zara."
+  },
+  {
+   "qid": "7161e7e2",
+   "type": "single-session-assistant",
+   "mem_units": 177,
+   "f1": 0.054,
+   "judge": false,
+   "pred": "I don't know. The retrieved memory doesn't contain information about a shift rotation sheet for GM social media agents or Admon's Sunday rotation."
+  },
+  {
+   "qid": "8a2466db",
+   "type": "single-session-preference",
+   "mem_units": 139,
+   "f1": 0.113,
+   "judge": false,
+   "pred": "I don't know. The retrieved memory doesn't contain any relevant information about video editing resources."
+  },
+  {
+   "qid": "e47becba",
+   "type": "single-session-user",
+   "mem_units": 167,
+   "f1": 0.5,
+   "judge": true,
+   "pred": "Business Administration."
+  },
+  {
+   "qid": "gpt4_59149c77",
+   "type": "temporal-reasoning",
+   "mem_units": 132,
+   "f1": 0.057,
+   "judge": false,
+   "pred": "I don't know. The retrieved memory doesn't contain any information about visits to the Museum of Modern Art or the Metropolitan Museum of Art."
+  },
+  {
+   "qid": "6aeb4375",
+   "type": "knowledge-update",
+   "mem_units": 165,
+   "f1": 0.0,
+   "judge": true,
+   "pred": "You’ve mentioned trying **four different Korean restaurants** in your city so far."
+  },
+  {
+   "qid": "6d550036",
+   "type": "multi-session",
+   "mem_units": 164,
+   "f1": 0.0,
+   "judge": false,
+   "pred": "The memory mentions you lead a team of five engineers and completed a high-priority project, but it doesn’t specify a total number of projects you’ve led or are currently leading."
+  },
+  {
+   "qid": "c4f10528",
+   "type": "single-session-assistant",
+   "mem_units": 162,
+   "f1": 0.1,
+   "judge": true,
+   "pred": "The restaurant is **Miss Bee Providore** at Cihampelas Walk. You mentioned trying their **Miss Bee's Nasi Goreng**."
+  },
+  {
+   "qid": "06878be2",
+   "type": "single-session-preference",
+   "mem_units": 137,
+   "f1": 0.076,
+   "judge": true,
+   "pred": "Based on your setup (Sony A7R IV, Sony 24-70mm f/2.8, Godox V1), some accessories that would complement it well include:\n\n- **Spare Sony NP-FZ100 batteries** and an external USB-C battery pack for on-"
+  },
+  {
+   "qid": "118b2229",
+   "type": "single-session-user",
+   "mem_units": 149,
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don't know — the retrieved memory doesn't mention your daily commute to work."
+  },
+  {
+   "qid": "gpt4_f49edff3",
+   "type": "temporal-reasoning",
+   "mem_units": 164,
+   "f1": 0.385,
+   "judge": false,
+   "pred": "I don’t know the full order because the retrieved memory doesn’t mention the day you helped your friend prepare the nursery. Based on the memory:\n\n- Helped your cousin pick out baby shower items: **20"
+  },
+  {
+   "qid": "830ce83f",
+   "type": "knowledge-update",
+   "mem_units": 159,
+   "f1": 0.125,
+   "judge": true,
+   "pred": "Rachel moved back to the suburbs. The specific suburb isn’t mentioned in the memory."
+  },
+  {
+   "qid": "gpt4_59c863d7",
+   "type": "multi-session",
+   "mem_units": 154,
+   "f1": 0.378,
+   "judge": false,
+   "pred": "Based on our conversation, you’ve worked on at least **four model kits**:\n\n1. Revell F-15 Eagle  \n2. B-29 bomber  \n3. Tamiya 1/48 Spitfire Mk.V  \n4. 1/16 German Tiger I tank (for a diorama)"
+  },
+  {
+   "qid": "89527b6b",
+   "type": "single-session-assistant",
+   "mem_units": 164,
+   "f1": 0.138,
+   "judge": false,
+   "pred": "I don't know. The retrieved memory doesn't contain any information about a children's book on dinosaurs or the color of a Plesiosaur."
+  },
+  {
+   "qid": "75832dbd",
+   "type": "single-session-preference",
+   "mem_units": 171,
+   "f1": 0.159,
+   "judge": false,
+   "pred": "I don't know. The retrieved memory doesn't include any information about recent publications or conferences that might interest you."
+  },
+  {
+   "qid": "51a45a95",
+   "type": "single-session-user",
+   "mem_units": 153,
+   "f1": 0.061,
+   "judge": true,
+   "pred": "You didn’t name the exact store, but in context you were discussing Target and the Cartwheel app, so it was likely at Target. You mentioned finding the coupon in your email inbox."
+  },
+  {
+   "qid": "71017276",
+   "type": "temporal-reasoning",
+   "mem_units": 179,
+   "f1": 0.095,
+   "judge": true,
+   "pred": "4 weeks ago. You received the crystal chandelier from your aunt on 2023/03/04, which is exactly 4 weeks before 2023/04/01."
+  },
+  {
+   "qid": "852ce960",
+   "type": "knowledge-update",
+   "mem_units": 138,
+   "f1": 0.0,
+   "judge": true,
+   "pred": "You were pre-approved for **$400,000** from Wells Fargo."
+  },
+  {
+   "qid": "b5ef892d",
+   "type": "multi-session",
+   "mem_units": 160,
+   "f1": 0.118,
+   "judge": false,
+   "pred": "3 days. You mentioned a 3-day solo camping trip to Big Sur in early April."
+  },
+  {
+   "qid": "e9327a54",
+   "type": "single-session-assistant",
+   "mem_units": 143,
+   "f1": 0.08,
+   "judge": false,
+   "pred": "I don't know. The retrieved memory doesn't include any mention of a dessert shop with giant milkshakes in Orlando."
+  },
+  {
+   "qid": "0edc2aef",
+   "type": "single-session-preference",
+   "mem_units": 176,
+   "f1": 0.031,
+   "judge": false,
+   "pred": "I don’t know — the retrieved memory doesn’t include any hotel recommendations for Miami."
+  },
+  {
+   "qid": "58bf7951",
+   "type": "single-session-user",
+   "mem_units": 192,
+   "f1": 0.105,
+   "judge": false,
+   "pred": "You don't know. The retrieved memory doesn't mention attending a play at a local community theater."
+  },
+  {
+   "qid": "b46e15ed",
+   "type": "temporal-reasoning",
+   "mem_units": 161,
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don’t know — the retrieved memory doesn’t include a pair of charity events on consecutive days or their specific dates."
+  },
+  {
+   "qid": "945e3d21",
+   "type": "knowledge-update",
+   "mem_units": 159,
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don't know. The retrieved memory doesn't include how often you attend yoga classes for anxiety."
+  },
+  {
+   "qid": "e831120c",
+   "type": "multi-session",
+   "mem_units": 147,
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don't know. The retrieved memory doesn't contain any information about watching Marvel Cinematic Universe or Star Wars films."
+  },
+  {
+   "qid": "4c36ccef",
+   "type": "single-session-assistant",
+   "mem_units": 156,
+   "f1": 0.0,
+   "judge": true,
+   "pred": "For a romantic dinner in Rome, I recommended **Roscioli**."
+  },
+  {
+   "qid": "35a27287",
+   "type": "single-session-preference",
+   "mem_units": 151,
+   "f1": 0.161,
+   "judge": false,
+   "pred": "I don't have specific cultural events for this weekend from memory, since I don't know your location. From our earlier chat, you can find local events via Eventbrite, Meetup, local cultural centers, c"
+  },
+  {
+   "qid": "1e043500",
+   "type": "single-session-user",
+   "mem_units": 137,
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don't know. The retrieved memory doesn't mention a Spotify playlist name."
+  },
+  {
+   "qid": "gpt4_fa19884c",
+   "type": "temporal-reasoning",
+   "mem_units": 170,
+   "f1": 0.108,
+   "judge": false,
+   "pred": "The memory doesn’t mention the day you started playing along to your favorite songs on your old keyboard, so I can’t calculate the number of days."
+  },
+  {
+   "qid": "d7c942c3",
+   "type": "knowledge-update",
+   "mem_units": 158,
+   "f1": 0.0,
+   "judge": true,
+   "pred": "Yes, based on our earlier conversation, you mentioned that your mom is using the same grocery list app as you, so you can easily share lists and keep track of what you need."
+  },
+  {
+   "qid": "3a704032",
+   "type": "multi-session",
+   "mem_units": 164,
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don't know. The retrieved memory doesn't mention any plants acquired."
+  },
+  {
+   "qid": "6ae235be",
+   "type": "single-session-assistant",
+   "mem_units": 139,
+   "f1": 0.308,
+   "judge": true,
+   "pred": "The Lake Charles Refinery uses:\n\n- Atmospheric distillation\n- Fluid catalytic cracking (FCC)\n- Alkylation\n- Hydrotreating"
+  },
+  {
+   "qid": "32260d93",
+   "type": "single-session-preference",
+   "mem_units": 175,
+   "f1": 0.093,
+   "judge": false,
+   "pred": "I don't know—the memory doesn't include any specific shows or movies recommended for you."
+  },
+  {
+   "qid": "c5e8278d",
+   "type": "single-session-user",
+   "mem_units": 170,
+   "f1": 1.0,
+   "judge": true,
+   "pred": "Johnson"
+  },
+  {
+   "qid": "0bc8ad92",
+   "type": "temporal-reasoning",
+   "mem_units": 128,
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don't know. The retrieved memory doesn't mention anything about visiting a museum with a friend."
+  },
+  {
+   "qid": "71315a70",
+   "type": "knowledge-update",
+   "mem_units": 160,
+   "f1": 0.105,
+   "judge": false,
+   "pred": "I don't know—there's no information in the retrieved memory about hours spent on an abstract ocean sculpture."
+  },
+  {
+   "qid": "gpt4_d84a3211",
+   "type": "multi-session",
+   "mem_units": 153,
+   "f1": 0.0,
+   "judge": false,
+   "pred": "Based on the retrieved memory, you’ve spent **$40 on bike-related expenses** since the start of the year (the bike lights). The Saris Bones bike rack was mentioned but not purchased yet."
+  },
+  {
+   "qid": "7e00a6cb",
+   "type": "single-session-assistant",
+   "mem_units": 128,
+   "f1": 0.118,
+   "judge": false,
+   "pred": "I don't see any mention of an Amsterdam hostel recommendation in our conversation memory."
+  },
+  {
+   "qid": "195a1a1b",
+   "type": "single-session-preference",
+   "mem_units": 172,
+   "f1": 0.098,
+   "judge": false,
+   "pred": "Based on our previous conversation, here are some evening activities you could try:\n\n- Reading a calming book\n- Meditation or guided sleep/relaxation meditations\n- Deep breathing exercises\n- Gentle yo"
+  },
+  {
+   "qid": "6ade9755",
+   "type": "single-session-user",
+   "mem_units": 139,
+   "f1": 0.095,
+   "judge": true,
+   "pred": "You take yoga classes at **Serenity Yoga** studio, and you also practice at home using the **Down Dog** app."
+  },
+  {
+   "qid": "af082822",
+   "type": "temporal-reasoning",
+   "mem_units": 187,
+   "f1": 0.167,
+   "judge": true,
+   "pred": "You attended the Nordstrom friends and family sale 2 weeks ago."
+  },
+  {
+   "qid": "89941a93",
+   "type": "knowledge-update",
+   "mem_units": 141,
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don't know. The retrieved memory doesn't contain any information about how many bikes you own."
+  },
+  {
+   "qid": "aae3761f",
+   "type": "multi-session",
+   "mem_units": 145,
+   "f1": 0.125,
+   "judge": false,
+   "pred": "I don't know. The retrieved memory doesn't contain information about your road trip destinations or driving hours."
+  },
+  {
+   "qid": "1903aded",
+   "type": "single-session-assistant",
+   "mem_units": 150,
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don’t know — the retrieved memory doesn’t include a list of work-from-home jobs for seniors."
+  },
+  {
+   "qid": "afdc33df",
+   "type": "single-session-preference",
+   "mem_units": 162,
+   "f1": 0.061,
+   "judge": false,
+   "pred": "I don’t know—the retrieved memory doesn’t include tips for keeping your kitchen clean."
+  },
+  {
+   "qid": "6f9b354f",
+   "type": "single-session-user",
+   "mem_units": 121,
+   "f1": 0.533,
+   "judge": true,
+   "pred": "You repainted your bedroom walls a lighter shade of gray."
+  },
+  {
+   "qid": "gpt4_4929293a",
+   "type": "temporal-reasoning",
+   "mem_units": 181,
+   "f1": 0.087,
+   "judge": false,
+   "pred": "I don’t know. The memory mentions your cousin’s wedding on 2023/06/15, but there is no information about Michael’s engagement party."
+  },
+  {
+   "qid": "ce6d2d27",
+   "type": "knowledge-update",
+   "mem_units": 150,
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don't know. The retrieved memory doesn't mention a cocktail-making class."
+  },
+  {
+   "qid": "gpt4_f2262a51",
+   "type": "multi-session",
+   "mem_units": 146,
+   "f1": 0.074,
+   "judge": false,
+   "pred": "I don't know—the retrieved memory doesn't mention any doctors or medical visits."
+  },
+  {
+   "qid": "ceb54acb",
+   "type": "single-session-assistant",
+   "mem_units": 159,
+   "f1": 0.069,
+   "judge": false,
+   "pred": "I don't know. The retrieved memory doesn’t include a previous chat about alternative terms like “sexual compulsions.”"
+  },
+  {
+   "qid": "caf03d32",
+   "type": "single-session-preference",
+   "mem_units": 155,
+   "f1": 0.268,
+   "judge": false,
+   "pred": "The memory includes slow cooker recipes and yogurt-making tips, but no general troubleshooting advice for slow cooker results. For yogurt specifically, key tips are: use a thermometer to heat milk to "
+  },
+  {
+   "qid": "58ef2f1c",
+   "type": "single-session-user",
+   "mem_units": 175,
+   "f1": 0.0,
+   "judge": true,
+   "pred": "You volunteered at the “Love is in the Air” fundraising dinner on Valentine’s Day (February 14)."
+  },
+  {
+   "qid": "gpt4_b5700ca9",
+   "type": "temporal-reasoning",
+   "mem_units": 165,
+   "f1": 0.4,
+   "judge": true,
+   "pred": "4 days ago."
+  },
+  {
+   "qid": "9ea5eabc",
+   "type": "knowledge-update",
+   "mem_units": 154,
+   "f1": 0.0,
+   "judge": false,
+   "pred": "You don't know. The retrieved memory doesn't mention your most recent family trip."
+  },
+  {
+   "qid": "dd2973ad",
+   "type": "multi-session",
+   "mem_units": 152,
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don't know. The memory doesn’t mention a doctor’s appointment."
+  },
+  {
+   "qid": "f523d9fe",
+   "type": "single-session-assistant",
+   "mem_units": 133,
+   "f1": 0.0,
+   "judge": false,
+   "pred": "I don’t know — the retrieved memory does not include any conversation about Netflix or a show that only had its last season available."
+  },
+  {
+   "qid": "54026fce",
+   "type": "single-session-preference",
+   "mem_units": 148,
+   "f1": 0.12,
+   "judge": false,
+   "pred": "I don't know—there's no relevant information in the memory about staying connected with colleagues."
+  },
+  {
+   "qid": "f8c5f88b",
+   "type": "single-session-user",
+   "mem_units": 163,
+   "f1": 0.105,
+   "judge": false,
+   "pred": "I don't know. The retrieved memory doesn't mention where you bought your new tennis racket."
+  },
+  {
+   "qid": "9a707b81",
+   "type": "temporal-reasoning",
+   "mem_units": 139,
+   "f1": 0.067,
+   "judge": false,
+   "pred": "I don't know—there’s no information in the memory about you attending a baking class at a local culinary school."
+  }
+ ],
+ "by_type": {
+  "knowledge-update": {
+   "n": 10,
+   "judge_acc": 0.5,
+   "f1": 0.023
+  },
+  "multi-session": {
+   "n": 10,
+   "judge_acc": 0.0,
+   "f1": 0.06949999999999999
+  },
+  "single-session-assistant": {
+   "n": 10,
+   "judge_acc": 0.3,
+   "f1": 0.0867
+  },
+  "single-session-preference": {
+   "n": 10,
+   "judge_acc": 0.1,
+   "f1": 0.11800000000000002
+  },
+  "single-session-user": {
+   "n": 10,
+   "judge_acc": 0.6,
+   "f1": 0.2399
+  },
+  "temporal-reasoning": {
+   "n": 10,
+   "judge_acc": 0.3,
+   "f1": 0.1366
+  }
+ },
+ "total_judge_acc": 0.3,
+ "cost": {
+  "answer/fifo/deepseek-v4-pro": {
+   "calls": 60,
+   "prompt": 448466,
+   "completion": 12600
+  },
+  "judge/deepseek-v4-pro": {
+   "calls": 60,
+   "prompt": 14941,
+   "completion": 8054
+  }
+ }
+}

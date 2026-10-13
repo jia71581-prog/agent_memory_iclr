@@ -1,0 +1,24 @@
+COMBINED: 门控命中 286, 已完成 0, 待跑 286
+progress 25/286
+progress 50/286
+progress 75/286
+progress 100/286
+progress 125/286
+progress 150/286
+progress 175/286
+progress 200/286
+progress 225/286
+progress 250/286
+progress 275/286
+
+=== COMBINED 门内子集 n=286 ===
+v5 0.8636 -> v6 0.9056  delta +0.0420  b=23 c=11  McNemar p=0.0576
+折算全 500: v5 0.8980 -> 0.9220 (+0.0240)
+type                          n      v5      v6
+knowledge-update             20   1.000   0.950
+multi-session                84   0.821   0.881
+single-session-assistant      4   1.000   1.000
+single-session-preference    29   0.586   0.724
+single-session-user          20   1.000   1.000
+temporal-reasoning          129   0.907   0.938
+V6 SUBSET COMBINED DONE

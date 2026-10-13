@@ -1,0 +1,18 @@
+QC_V6_TR: 门控命中 179, 已完成 0, 待跑 179
+progress 25/179
+progress 50/179
+progress 75/179
+progress 100/179
+progress 125/179
+progress 150/179
+progress 175/179
+
+=== QC_V6_TR 门内子集 n=179 ===
+v5 0.8883 -> v6 0.9218  delta +0.0335  b=9 c=3  McNemar p=0.1460
+折算全 500: v5 0.8980 -> 0.9100 (+0.0120)
+type                          n      v5      v6
+knowledge-update             10   1.000   1.000
+multi-session                32   0.750   0.750
+single-session-user           9   1.000   1.000
+temporal-reasoning          128   0.906   0.953
+V6 SUBSET QC_V6_TR DONE

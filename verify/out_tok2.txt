@@ -1,0 +1,14 @@
+recon 150
+recon 300
+recon 450
+stored-timeline length mismatches vs my recompute: 0 /500
+mean per question  view(alpha+sp 14929, dig+punct 5125)  raw(19696, 1474)  scaffold(2148, 443)
+dig+punct fraction: view 0.256  raw 0.070  scaffold 0.171
+solved: a(alpha+space)=0.18428 tok/char (5.43 chars/tok)  b(digit+punct)=0.73369 (1.36 chars/tok)
+SCAFFOLD mean chars 2591 -> predicted 721 tokens = 3.595 chars/tok
+check: view 6511 (actual 6511), raw 4711 (actual 4711)
+
+--- cost vs the real qc answer prompt (mean 11344 tokens) ---
+ungated all-500 : 2591 chars -> 721 tok = +6.35%
+gated  amortized: 1211 chars -> 341 tok = +3.00%
+TR-only per-question: 3210 chars -> 886 tok = +7.81% prompt growth

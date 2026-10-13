@@ -1,0 +1,217 @@
+{
+ "summary": {
+  "questions": 500,
+  "timeline_lines_total": 4402,
+  "lines_dated_by_numeric_rule": 24,
+  "questions_affected": 19,
+  "token_hist": [
+   [
+    "2/8",
+    2
+   ],
+   [
+    "1/15",
+    2
+   ],
+   [
+    "2/15",
+    2
+   ],
+   [
+    "2/5",
+    1
+   ],
+   [
+    "1-8",
+    1
+   ],
+   [
+    "1/20",
+    1
+   ],
+   [
+    "5-5",
+    1
+   ],
+   [
+    "2-3",
+    1
+   ],
+   [
+    "3-9",
+    1
+   ],
+   [
+    "5-10",
+    1
+   ],
+   [
+    "3/6/2023",
+    1
+   ],
+   [
+    "3/22",
+    1
+   ],
+   [
+    "3/1",
+    1
+   ],
+   [
+    "1-5",
+    1
+   ],
+   [
+    "2/10",
+    1
+   ],
+   [
+    "3/27",
+    1
+   ],
+   [
+    "3/8",
+    1
+   ],
+   [
+    "3-2",
+    1
+   ],
+   [
+    "5-2",
+    1
+   ],
+   [
+    "7/10",
+    1
+   ],
+   [
+    "7/22",
+    1
+   ]
+  ],
+  "errors": []
+ },
+ "lines": [
+  {
+   "qid": "0a995998",
+   "tok": "2/5",
+   "line": "[2023/02/05 (Sun) | 10 days / 1.4 weeks before the question] [date inferred from \"2/5\" said on 2023/02/15] By the way, I just exchanged a pair of boots I got from Zara on 2/5, and I still need to pick up the new pair."
+  },
+  {
+   "qid": "gpt4_f2262a51",
+   "tok": "1-8",
+   "line": "[2023/01/08 (Sun) | 142 days / 20.3 weeks / 4 full months before the question] [date inferred from \"1-8\" said on 2023/05/28] [text also dates: 2023/03/01] Some friends and I are visiting Palm Springs March 1-8, what will the weath"
+  },
+  {
+   "qid": "80ec1f4f",
+   "tok": "2/8",
+   "line": "[2023/02/08 (Wed) | 23 days / 3.3 weeks before the question] (+5d) [date inferred from \"2/8\" said on 2023/03/03] By the way, I took my niece to the Natural History Museum on 2/8 and she loved the dinosaur exhibit!"
+  },
+  {
+   "qid": "60bf93ed",
+   "tok": "1/15",
+   "line": "[2023/01/15 (Sun) | 9 days / 1.3 weeks before the question] [date inferred from \"1/15\" said on 2023/01/24] I bought it from Amazon on 1/15."
+  },
+  {
+   "qid": "60bf93ed",
+   "tok": "1/20",
+   "line": "[2023/01/20 (Fri) | 4 days / 0.6 weeks before the question] (+5d) [date inferred from \"1/20\" said on 2023/01/24] It arrived on 1/20 and has been a lifesaver for carrying my work laptop back and forth."
+  },
+  {
+   "qid": "gpt4_2f91af09",
+   "tok": "5-5",
+   "line": "[2023/05/05 (Fri) | 25 days / 3.6 weeks / 0 full months before the question] (+3d) [date inferred from \"5-5\" said on 2023/05/28] And I should aim to increase the weight by 2.5-5 pounds every two weeks, or as soon as I feel I can h"
+  },
+  {
+   "qid": "80ec1f4f_abs",
+   "tok": "2/8",
+   "line": "[2023/02/08 (Wed) | 23 days / 3.3 weeks before the question] (+24d) [date inferred from \"2/8\" said on 2023/03/03] By the way, I took my niece to the Natural History Museum on 2/8 and she loved the dinosaur exhibit!"
+  },
+  {
+   "qid": "80ec1f4f_abs",
+   "tok": "2/15",
+   "line": "[2023/02/15 (Wed) | 16 days / 2.3 weeks before the question] (+7d) [date inferred from \"2/15\" said on 2023/03/03] Can you recommend any contemporary artists similar to James Parker, whose work I recently saw when I visited The Art"
+  },
+  {
+   "qid": "60bf93ed_abs",
+   "tok": "1/15",
+   "line": "[2023/01/15 (Sun) | 9 days / 1.3 weeks before the question] (+1d) <<CONSECUTIVE-DAY PAIR>> [date inferred from \"1/15\" said on 2023/01/24] I bought it from Amazon on 1/15."
+  },
+  {
+   "qid": "0edc2aef",
+   "tok": "2-3",
+   "line": "[2023/02/03 (Fri) | 116 days / 16.6 weeks / 3 full months before the question] [date inferred from \"2-3\" said on 2023/05/30] [text also dates: 2023/03/04] I'm thinking of packing 3-4 tops and 2-3 bottoms, like you suggested."
+  },
+  {
+   "qid": "38146c39",
+   "tok": "3-9",
+   "line": "[2023/03/09 (Thu) | 82 days / 11.7 weeks / 2 full months before the question] [date inferred from \"3-9\" said on 2023/05/30] I'll try to hold and look through the Leupold VX-1 3-9x40mm scope before purchasing to get a feel for the "
+  },
+  {
+   "qid": "75f70248",
+   "tok": "5-10",
+   "line": "[2023/05/10 (Wed) | 20 days / 2.9 weeks before the question] (+3d) [date inferred from \"5-10\" said on 2023/05/30] i will be sending recommendations and it will provide me a step by step process on how to complete the recommendatio"
+  },
+  {
+   "qid": "27016adc",
+   "tok": "3/6/2023",
+   "line": "[2023/03/06 (Mon) | 85 days / 12.1 weeks / 2 full months before the question] [date inferred from \"3/6/2023\" said on 2023/05/28] Current date: 3/6/2023"
+  },
+  {
+   "qid": "gpt4_2655b836",
+   "tok": "3/22",
+   "line": "[2023/03/22 (Wed) | 19 days / 2.7 weeks before the question] (+7d) [date inferred from \"3/22\" said on 2023/04/10] By the way, I recently had an issue with my car's GPS system on 3/22, and I had to take it back to the dealership to"
+  },
+  {
+   "qid": "2c63a862",
+   "tok": "2/15",
+   "line": "[2022/02/15 (Tue) | 15 days / 2.1 weeks before the question] (+6d) [date inferred from \"2/15\" said on 2022/03/02] Since I started working with her on 2/15, I'm hoping she can give me a better sense of what's available in my budget"
+  },
+  {
+   "qid": "2c63a862",
+   "tok": "3/1",
+   "line": "[2022/03/01 (Tue) | 1 days / 0.1 weeks before the question] (+6d) [date inferred from \"3/1\" said on 2022/03/02] I recently saw a house that I really love on 3/1, and I'm considering making an offer."
+  },
+  {
+   "qid": "gpt4_b4a80587",
+   "tok": "1-5",
+   "line": "[2023/01/05 (Thu) | 138 days / 19.7 weeks / 4 full months before the question] (+51d) [date inferred from \"1-5\" said on 2023/05/23] With this new data added to the persona, let's try making a tweet table for movies 1-5 again."
+  },
+  {
+   "qid": "gpt4_d9af6064",
+   "tok": "2/10",
+   "line": "[2023/02/10 (Fri) | 46 days / 6.6 weeks / 1 full months before the question] (+26d) [date inferred from \"2/10\" said on 2023/03/28] By the way, I finally set up my smart thermostat on 2/10, after procrastinating for weeks, and it's"
+  },
+  {
+   "qid": "gpt4_4cd9eba1",
+   "tok": "3/27",
+   "line": "[2023/03/27 (Mon) | 23 days / 3.3 weeks before the question] (+45d) [date inferred from \"3/27\" said on 2023/04/19] By the way, I've been attending pre-departure orientation sessions at my home university every Friday since 3/27, w"
+  },
+  {
+   "qid": "8c18457d",
+   "tok": "3/8",
+   "line": "[2023/03/08 (Wed) | 21 days / 3.0 weeks before the question] (+8d) [date inferred from \"3/8\" said on 2023/03/29] I recently got a wireless headphone for my brother as a graduation gift on the 3/8, and it was a big hit."
+  },
+  {
+   "qid": "c7dc5443",
+   "tok": "3-2",
+   "line": "[2023/03/02 (Thu) | 141 days / 20.1 weeks / 4 full months before the question] [date inferred from \"3-2\" said on 2023/06/16] By the way, I've been doing pretty well in the volleyball league, we're 3-2 so far!"
+  },
+  {
+   "qid": "c7dc5443",
+   "tok": "5-2",
+   "line": "[2023/05/02 (Tue) | 80 days / 11.4 weeks / 2 full months before the question] (+61d) [date inferred from \"5-2\" said on 2023/06/30] By the way, I'm feeling pretty confident about my athletic abilities lately, our volleyball team, t"
+  },
+  {
+   "qid": "10e09553",
+   "tok": "7/10",
+   "line": "[2023/07/10 (Mon) | 149 days / 21.3 weeks / 4 full months before the question] (+56d) [date inferred from \"7/10\" said on 2023/08/11] Oh, and by the way, I caught 7 largemouth bass on my trip to Lake Michigan with Alex on 7/10 - th"
+  },
+  {
+   "qid": "10e09553",
+   "tok": "7/22",
+   "line": "[2023/07/22 (Sat) | 137 days / 19.6 weeks / 4 full months before the question] (+12d) [date inferred from \"7/22\" said on 2023/11/30] By the way, I'm thinking of using spinnerbaits and plastic worms as lures again, since they worke"
+  }
+ ]
+}

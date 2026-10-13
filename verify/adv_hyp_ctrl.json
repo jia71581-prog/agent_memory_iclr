@@ -1,0 +1,3302 @@
+{
+ "af8d2e46": {
+  "gnum": 7.0,
+  "ngs": 1,
+  "judge": true,
+  "v5": {
+   "items": 15,
+   "best": 8,
+   "gold_hit": 1
+  },
+  "nohyp": {
+   "items": 11,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "wide_rk15": {
+   "items": 11,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "wide_rk05": {
+   "items": 11,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "wide_rk05_g16": {
+   "items": 11,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "wide_dfc": {
+   "items": 11,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "perm0": {
+   "items": 13,
+   "best": 6,
+   "gold_hit": 1
+  },
+  "perm1": {
+   "items": 18,
+   "best": 11,
+   "gold_hit": 1
+  },
+  "perm2": {
+   "items": 24,
+   "best": 11,
+   "gold_hit": 1
+  },
+  "trunc": {
+   "items": 11,
+   "best": 5,
+   "gold_hit": 1
+  }
+ },
+ "6b168ec8": {
+  "gnum": 3.0,
+  "ngs": 1,
+  "judge": true,
+  "v5": {
+   "items": 17,
+   "best": 11,
+   "gold_hit": 1
+  },
+  "nohyp": {
+   "items": 14,
+   "best": 11,
+   "gold_hit": 1
+  },
+  "wide_rk15": {
+   "items": 14,
+   "best": 11,
+   "gold_hit": 1
+  },
+  "wide_rk05": {
+   "items": 14,
+   "best": 11,
+   "gold_hit": 1
+  },
+  "wide_rk05_g16": {
+   "items": 14,
+   "best": 11,
+   "gold_hit": 1
+  },
+  "wide_dfc": {
+   "items": 14,
+   "best": 11,
+   "gold_hit": 1
+  },
+  "perm0": {
+   "items": 14,
+   "best": 11,
+   "gold_hit": 1
+  },
+  "perm1": {
+   "items": 17,
+   "best": 11,
+   "gold_hit": 1
+  },
+  "perm2": {
+   "items": 19,
+   "best": 11,
+   "gold_hit": 1
+  },
+  "trunc": {
+   "items": 14,
+   "best": 11,
+   "gold_hit": 1
+  }
+ },
+ "21436231": {
+  "gnum": 12.0,
+  "ngs": 1,
+  "judge": true,
+  "v5": {
+   "items": 32,
+   "best": 19,
+   "gold_hit": 1
+  },
+  "nohyp": {
+   "items": 3,
+   "best": 2,
+   "gold_hit": 1
+  },
+  "wide_rk15": {
+   "items": 6,
+   "best": 2,
+   "gold_hit": 1
+  },
+  "wide_rk05": {
+   "items": 6,
+   "best": 2,
+   "gold_hit": 1
+  },
+  "wide_rk05_g16": {
+   "items": 6,
+   "best": 2,
+   "gold_hit": 1
+  },
+  "wide_dfc": {
+   "items": 6,
+   "best": 2,
+   "gold_hit": 1
+  },
+  "perm0": {
+   "items": 13,
+   "best": 10,
+   "gold_hit": 1
+  },
+  "perm1": {
+   "items": 21,
+   "best": 10,
+   "gold_hit": 1
+  },
+  "perm2": {
+   "items": 20,
+   "best": 9,
+   "gold_hit": 1
+  },
+  "trunc": {
+   "items": 3,
+   "best": 2,
+   "gold_hit": 1
+  }
+ },
+ "95bcc1c8": {
+  "gnum": 10.0,
+  "ngs": 1,
+  "judge": true,
+  "v5": {
+   "items": 6,
+   "best": 3,
+   "gold_hit": 1
+  },
+  "nohyp": {
+   "items": 6,
+   "best": 3,
+   "gold_hit": 1
+  },
+  "wide_rk15": {
+   "items": 28,
+   "best": 15,
+   "gold_hit": 1
+  },
+  "wide_rk05": {
+   "items": 29,
+   "best": 15,
+   "gold_hit": 1
+  },
+  "wide_rk05_g16": {
+   "items": 29,
+   "best": 15,
+   "gold_hit": 1
+  },
+  "wide_dfc": {
+   "items": 29,
+   "best": 15,
+   "gold_hit": 1
+  },
+  "perm0": {
+   "items": 9,
+   "best": 3,
+   "gold_hit": 1
+  },
+  "perm1": {
+   "items": 6,
+   "best": 3,
+   "gold_hit": 1
+  },
+  "perm2": {
+   "items": 6,
+   "best": 3,
+   "gold_hit": 1
+  },
+  "trunc": {
+   "items": 6,
+   "best": 3,
+   "gold_hit": 1
+  }
+ },
+ "0a995998": {
+  "gnum": 3.0,
+  "ngs": 3,
+  "judge": false,
+  "v5": {
+   "items": 47,
+   "best": 33,
+   "gold_hit": 3
+  },
+  "nohyp": {
+   "items": 16,
+   "best": 5,
+   "gold_hit": 3
+  },
+  "wide_rk15": {
+   "items": 16,
+   "best": 5,
+   "gold_hit": 3
+  },
+  "wide_rk05": {
+   "items": 16,
+   "best": 5,
+   "gold_hit": 3
+  },
+  "wide_rk05_g16": {
+   "items": 16,
+   "best": 5,
+   "gold_hit": 3
+  },
+  "wide_dfc": {
+   "items": 16,
+   "best": 5,
+   "gold_hit": 3
+  },
+  "perm0": {
+   "items": 57,
+   "best": 31,
+   "gold_hit": 3
+  },
+  "perm1": {
+   "items": 53,
+   "best": 31,
+   "gold_hit": 3
+  },
+  "perm2": {
+   "items": 54,
+   "best": 37,
+   "gold_hit": 3
+  },
+  "trunc": {
+   "items": 16,
+   "best": 11,
+   "gold_hit": 3
+  }
+ },
+ "6d550036": {
+  "gnum": 2.0,
+  "ngs": 4,
+  "judge": false,
+  "v5": {
+   "items": 17,
+   "best": 14,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 17,
+   "best": 14,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 17,
+   "best": 14,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 17,
+   "best": 14,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 17,
+   "best": 14,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 17,
+   "best": 14,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 17,
+   "best": 14,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 17,
+   "best": 14,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 17,
+   "best": 14,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 17,
+   "best": 14,
+   "gold_hit": 2
+  }
+ },
+ "3a704032": {
+  "gnum": 3.0,
+  "ngs": 3,
+  "judge": false,
+  "v5": {
+   "items": 36,
+   "best": 20,
+   "gold_hit": 3
+  },
+  "nohyp": {
+   "items": 32,
+   "best": 20,
+   "gold_hit": 3
+  },
+  "wide_rk15": {
+   "items": 32,
+   "best": 20,
+   "gold_hit": 3
+  },
+  "wide_rk05": {
+   "items": 32,
+   "best": 20,
+   "gold_hit": 3
+  },
+  "wide_rk05_g16": {
+   "items": 32,
+   "best": 20,
+   "gold_hit": 3
+  },
+  "wide_dfc": {
+   "items": 32,
+   "best": 20,
+   "gold_hit": 3
+  },
+  "perm0": {
+   "items": 40,
+   "best": 20,
+   "gold_hit": 3
+  },
+  "perm1": {
+   "items": 36,
+   "best": 20,
+   "gold_hit": 3
+  },
+  "perm2": {
+   "items": 34,
+   "best": 20,
+   "gold_hit": 3
+  },
+  "trunc": {
+   "items": 32,
+   "best": 16,
+   "gold_hit": 3
+  }
+ },
+ "gpt4_f2262a51": {
+  "gnum": 3.0,
+  "ngs": 3,
+  "judge": false,
+  "v5": {
+   "items": 26,
+   "best": 12,
+   "gold_hit": 3
+  },
+  "nohyp": {
+   "items": 8,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "wide_rk15": {
+   "items": 8,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "wide_rk05": {
+   "items": 8,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "wide_rk05_g16": {
+   "items": 8,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "wide_dfc": {
+   "items": 8,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "perm0": {
+   "items": 22,
+   "best": 11,
+   "gold_hit": 1
+  },
+  "perm1": {
+   "items": 24,
+   "best": 10,
+   "gold_hit": 1
+  },
+  "perm2": {
+   "items": 22,
+   "best": 10,
+   "gold_hit": 1
+  },
+  "trunc": {
+   "items": 8,
+   "best": 8,
+   "gold_hit": 0
+  }
+ },
+ "c4a1ceb8": {
+  "gnum": 3.0,
+  "ngs": 4,
+  "judge": true,
+  "v5": {
+   "items": 13,
+   "best": 10,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 14,
+   "best": 6,
+   "gold_hit": 4
+  },
+  "wide_rk15": {
+   "items": 14,
+   "best": 6,
+   "gold_hit": 4
+  },
+  "wide_rk05": {
+   "items": 14,
+   "best": 6,
+   "gold_hit": 4
+  },
+  "wide_rk05_g16": {
+   "items": 14,
+   "best": 6,
+   "gold_hit": 4
+  },
+  "wide_dfc": {
+   "items": 14,
+   "best": 6,
+   "gold_hit": 4
+  },
+  "perm0": {
+   "items": 14,
+   "best": 6,
+   "gold_hit": 4
+  },
+  "perm1": {
+   "items": 15,
+   "best": 6,
+   "gold_hit": 4
+  },
+  "perm2": {
+   "items": 26,
+   "best": 17,
+   "gold_hit": 4
+  },
+  "trunc": {
+   "items": 13,
+   "best": 10,
+   "gold_hit": 2
+  }
+ },
+ "gpt4_a56e767c": {
+  "gnum": 4.0,
+  "ngs": 3,
+  "judge": true,
+  "v5": {
+   "items": 45,
+   "best": 27,
+   "gold_hit": 3
+  },
+  "nohyp": {
+   "items": 17,
+   "best": 10,
+   "gold_hit": 3
+  },
+  "wide_rk15": {
+   "items": 18,
+   "best": 10,
+   "gold_hit": 3
+  },
+  "wide_rk05": {
+   "items": 18,
+   "best": 10,
+   "gold_hit": 3
+  },
+  "wide_rk05_g16": {
+   "items": 18,
+   "best": 10,
+   "gold_hit": 3
+  },
+  "wide_dfc": {
+   "items": 18,
+   "best": 10,
+   "gold_hit": 3
+  },
+  "perm0": {
+   "items": 43,
+   "best": 25,
+   "gold_hit": 3
+  },
+  "perm1": {
+   "items": 43,
+   "best": 25,
+   "gold_hit": 3
+  },
+  "perm2": {
+   "items": 44,
+   "best": 26,
+   "gold_hit": 3
+  },
+  "trunc": {
+   "items": 17,
+   "best": 10,
+   "gold_hit": 3
+  }
+ },
+ "46a3abf7": {
+  "gnum": 3.0,
+  "ngs": 3,
+  "judge": false,
+  "v5": {
+   "items": 24,
+   "best": 24,
+   "gold_hit": 3
+  },
+  "nohyp": {
+   "items": 27,
+   "best": 20,
+   "gold_hit": 3
+  },
+  "wide_rk15": {
+   "items": 27,
+   "best": 20,
+   "gold_hit": 3
+  },
+  "wide_rk05": {
+   "items": 27,
+   "best": 20,
+   "gold_hit": 3
+  },
+  "wide_rk05_g16": {
+   "items": 27,
+   "best": 20,
+   "gold_hit": 3
+  },
+  "wide_dfc": {
+   "items": 27,
+   "best": 20,
+   "gold_hit": 3
+  },
+  "perm0": {
+   "items": 27,
+   "best": 20,
+   "gold_hit": 3
+  },
+  "perm1": {
+   "items": 34,
+   "best": 26,
+   "gold_hit": 3
+  },
+  "perm2": {
+   "items": 30,
+   "best": 23,
+   "gold_hit": 3
+  },
+  "trunc": {
+   "items": 24,
+   "best": 24,
+   "gold_hit": 3
+  }
+ },
+ "gpt4_2f8be40d": {
+  "gnum": 3.0,
+  "ngs": 3,
+  "judge": false,
+  "v5": {
+   "items": 60,
+   "best": 24,
+   "gold_hit": 3
+  },
+  "nohyp": {
+   "items": 36,
+   "best": 23,
+   "gold_hit": 3
+  },
+  "wide_rk15": {
+   "items": 36,
+   "best": 23,
+   "gold_hit": 3
+  },
+  "wide_rk05": {
+   "items": 36,
+   "best": 23,
+   "gold_hit": 3
+  },
+  "wide_rk05_g16": {
+   "items": 36,
+   "best": 23,
+   "gold_hit": 3
+  },
+  "wide_dfc": {
+   "items": 36,
+   "best": 23,
+   "gold_hit": 3
+  },
+  "perm0": {
+   "items": 54,
+   "best": 23,
+   "gold_hit": 3
+  },
+  "perm1": {
+   "items": 54,
+   "best": 23,
+   "gold_hit": 3
+  },
+  "perm2": {
+   "items": 55,
+   "best": 23,
+   "gold_hit": 3
+  },
+  "trunc": {
+   "items": 36,
+   "best": 24,
+   "gold_hit": 2
+  }
+ },
+ "2e6d26dc": {
+  "gnum": 5.0,
+  "ngs": 4,
+  "judge": true,
+  "v5": {
+   "items": 9,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 9,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 9,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 9,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 30,
+   "best": 6,
+   "gold_hit": 4
+  },
+  "wide_dfc": {
+   "items": 30,
+   "best": 6,
+   "gold_hit": 4
+  },
+  "perm0": {
+   "items": 9,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 9,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 9,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 9,
+   "best": 2,
+   "gold_hit": 2
+  }
+ },
+ "gpt4_15e38248": {
+  "gnum": 4.0,
+  "ngs": 4,
+  "judge": true,
+  "v5": {
+   "items": 38,
+   "best": 23,
+   "gold_hit": 4
+  },
+  "nohyp": {
+   "items": 33,
+   "best": 24,
+   "gold_hit": 4
+  },
+  "wide_rk15": {
+   "items": 33,
+   "best": 24,
+   "gold_hit": 4
+  },
+  "wide_rk05": {
+   "items": 33,
+   "best": 24,
+   "gold_hit": 4
+  },
+  "wide_rk05_g16": {
+   "items": 33,
+   "best": 24,
+   "gold_hit": 4
+  },
+  "wide_dfc": {
+   "items": 33,
+   "best": 24,
+   "gold_hit": 4
+  },
+  "perm0": {
+   "items": 47,
+   "best": 24,
+   "gold_hit": 4
+  },
+  "perm1": {
+   "items": 37,
+   "best": 24,
+   "gold_hit": 4
+  },
+  "perm2": {
+   "items": 33,
+   "best": 24,
+   "gold_hit": 4
+  },
+  "trunc": {
+   "items": 33,
+   "best": 23,
+   "gold_hit": 4
+  }
+ },
+ "88432d0a": {
+  "gnum": 4.0,
+  "ngs": 4,
+  "judge": false,
+  "v5": {
+   "items": 43,
+   "best": 34,
+   "gold_hit": 4
+  },
+  "nohyp": {
+   "items": 10,
+   "best": 9,
+   "gold_hit": 4
+  },
+  "wide_rk15": {
+   "items": 10,
+   "best": 9,
+   "gold_hit": 4
+  },
+  "wide_rk05": {
+   "items": 10,
+   "best": 9,
+   "gold_hit": 4
+  },
+  "wide_rk05_g16": {
+   "items": 10,
+   "best": 9,
+   "gold_hit": 4
+  },
+  "wide_dfc": {
+   "items": 10,
+   "best": 9,
+   "gold_hit": 4
+  },
+  "perm0": {
+   "items": 31,
+   "best": 22,
+   "gold_hit": 4
+  },
+  "perm1": {
+   "items": 31,
+   "best": 22,
+   "gold_hit": 4
+  },
+  "perm2": {
+   "items": 31,
+   "best": 22,
+   "gold_hit": 4
+  },
+  "trunc": {
+   "items": 10,
+   "best": 10,
+   "gold_hit": 1
+  }
+ },
+ "80ec1f4f": {
+  "gnum": 2.0,
+  "ngs": 3,
+  "judge": false,
+  "v5": {
+   "items": 17,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 11,
+   "best": 7,
+   "gold_hit": 3
+  },
+  "wide_rk15": {
+   "items": 14,
+   "best": 7,
+   "gold_hit": 3
+  },
+  "wide_rk05": {
+   "items": 14,
+   "best": 7,
+   "gold_hit": 3
+  },
+  "wide_rk05_g16": {
+   "items": 14,
+   "best": 7,
+   "gold_hit": 3
+  },
+  "wide_dfc": {
+   "items": 14,
+   "best": 7,
+   "gold_hit": 3
+  },
+  "perm0": {
+   "items": 20,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 18,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 20,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 11,
+   "best": 7,
+   "gold_hit": 2
+  }
+ },
+ "d23cf73b": {
+  "gnum": 4.0,
+  "ngs": 4,
+  "judge": true,
+  "v5": {
+   "items": 11,
+   "best": 7,
+   "gold_hit": 4
+  },
+  "nohyp": {
+   "items": 11,
+   "best": 7,
+   "gold_hit": 4
+  },
+  "wide_rk15": {
+   "items": 15,
+   "best": 7,
+   "gold_hit": 4
+  },
+  "wide_rk05": {
+   "items": 15,
+   "best": 7,
+   "gold_hit": 4
+  },
+  "wide_rk05_g16": {
+   "items": 15,
+   "best": 7,
+   "gold_hit": 4
+  },
+  "wide_dfc": {
+   "items": 15,
+   "best": 7,
+   "gold_hit": 4
+  },
+  "perm0": {
+   "items": 21,
+   "best": 8,
+   "gold_hit": 4
+  },
+  "perm1": {
+   "items": 20,
+   "best": 7,
+   "gold_hit": 4
+  },
+  "perm2": {
+   "items": 20,
+   "best": 7,
+   "gold_hit": 4
+  },
+  "trunc": {
+   "items": 11,
+   "best": 7,
+   "gold_hit": 4
+  }
+ },
+ "gpt4_7fce9456": {
+  "gnum": 1.0,
+  "ngs": 5,
+  "judge": false,
+  "v5": {
+   "items": 13,
+   "best": 4,
+   "gold_hit": 5
+  },
+  "nohyp": {
+   "items": 13,
+   "best": 4,
+   "gold_hit": 5
+  },
+  "wide_rk15": {
+   "items": 13,
+   "best": 4,
+   "gold_hit": 5
+  },
+  "wide_rk05": {
+   "items": 13,
+   "best": 4,
+   "gold_hit": 5
+  },
+  "wide_rk05_g16": {
+   "items": 13,
+   "best": 4,
+   "gold_hit": 5
+  },
+  "wide_dfc": {
+   "items": 13,
+   "best": 4,
+   "gold_hit": 5
+  },
+  "perm0": {
+   "items": 13,
+   "best": 4,
+   "gold_hit": 5
+  },
+  "perm1": {
+   "items": 13,
+   "best": 4,
+   "gold_hit": 5
+  },
+  "perm2": {
+   "items": 13,
+   "best": 4,
+   "gold_hit": 5
+  },
+  "trunc": {
+   "items": 13,
+   "best": 4,
+   "gold_hit": 5
+  }
+ },
+ "d682f1a2": {
+  "gnum": 3.0,
+  "ngs": 3,
+  "judge": false,
+  "v5": {
+   "items": 6,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 6,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 13,
+   "best": 5,
+   "gold_hit": 3
+  },
+  "wide_rk05": {
+   "items": 13,
+   "best": 5,
+   "gold_hit": 3
+  },
+  "wide_rk05_g16": {
+   "items": 13,
+   "best": 5,
+   "gold_hit": 3
+  },
+  "wide_dfc": {
+   "items": 13,
+   "best": 5,
+   "gold_hit": 3
+  },
+  "perm0": {
+   "items": 6,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 6,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 6,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 6,
+   "best": 4,
+   "gold_hit": 2
+  }
+ },
+ "2ce6a0f2": {
+  "gnum": 4.0,
+  "ngs": 4,
+  "judge": false,
+  "v5": {
+   "items": 46,
+   "best": 20,
+   "gold_hit": 4
+  },
+  "nohyp": {
+   "items": 18,
+   "best": 8,
+   "gold_hit": 3
+  },
+  "wide_rk15": {
+   "items": 34,
+   "best": 16,
+   "gold_hit": 4
+  },
+  "wide_rk05": {
+   "items": 34,
+   "best": 16,
+   "gold_hit": 4
+  },
+  "wide_rk05_g16": {
+   "items": 34,
+   "best": 16,
+   "gold_hit": 4
+  },
+  "wide_dfc": {
+   "items": 34,
+   "best": 16,
+   "gold_hit": 4
+  },
+  "perm0": {
+   "items": 18,
+   "best": 8,
+   "gold_hit": 3
+  },
+  "perm1": {
+   "items": 28,
+   "best": 18,
+   "gold_hit": 4
+  },
+  "perm2": {
+   "items": 21,
+   "best": 9,
+   "gold_hit": 3
+  },
+  "trunc": {
+   "items": 18,
+   "best": 18,
+   "gold_hit": 2
+  }
+ },
+ "00ca467f": {
+  "gnum": 2.0,
+  "ngs": 3,
+  "judge": true,
+  "v5": {
+   "items": 22,
+   "best": 16,
+   "gold_hit": 3
+  },
+  "nohyp": {
+   "items": 5,
+   "best": 5,
+   "gold_hit": 3
+  },
+  "wide_rk15": {
+   "items": 8,
+   "best": 5,
+   "gold_hit": 3
+  },
+  "wide_rk05": {
+   "items": 8,
+   "best": 5,
+   "gold_hit": 3
+  },
+  "wide_rk05_g16": {
+   "items": 8,
+   "best": 5,
+   "gold_hit": 3
+  },
+  "wide_dfc": {
+   "items": 8,
+   "best": 5,
+   "gold_hit": 3
+  },
+  "perm0": {
+   "items": 13,
+   "best": 7,
+   "gold_hit": 3
+  },
+  "perm1": {
+   "items": 20,
+   "best": 19,
+   "gold_hit": 3
+  },
+  "perm2": {
+   "items": 28,
+   "best": 19,
+   "gold_hit": 3
+  },
+  "trunc": {
+   "items": 5,
+   "best": 5,
+   "gold_hit": 2
+  }
+ },
+ "gpt4_31ff4165": {
+  "gnum": 4.0,
+  "ngs": 5,
+  "judge": true,
+  "v5": {
+   "items": 8,
+   "best": 6,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 3,
+   "best": 1,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 3,
+   "best": 1,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 3,
+   "best": 1,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 3,
+   "best": 1,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 3,
+   "best": 1,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 3,
+   "best": 1,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 12,
+   "best": 10,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 5,
+   "best": 3,
+   "gold_hit": 3
+  },
+  "trunc": {
+   "items": 3,
+   "best": 2,
+   "gold_hit": 1
+  }
+ },
+ "2788b940": {
+  "gnum": 5.0,
+  "ngs": 4,
+  "judge": true,
+  "v5": {
+   "items": 18,
+   "best": 9,
+   "gold_hit": 4
+  },
+  "nohyp": {
+   "items": 15,
+   "best": 9,
+   "gold_hit": 4
+  },
+  "wide_rk15": {
+   "items": 15,
+   "best": 9,
+   "gold_hit": 4
+  },
+  "wide_rk05": {
+   "items": 15,
+   "best": 9,
+   "gold_hit": 4
+  },
+  "wide_rk05_g16": {
+   "items": 15,
+   "best": 9,
+   "gold_hit": 4
+  },
+  "wide_dfc": {
+   "items": 15,
+   "best": 9,
+   "gold_hit": 4
+  },
+  "perm0": {
+   "items": 19,
+   "best": 9,
+   "gold_hit": 4
+  },
+  "perm1": {
+   "items": 21,
+   "best": 9,
+   "gold_hit": 4
+  },
+  "perm2": {
+   "items": 21,
+   "best": 9,
+   "gold_hit": 4
+  },
+  "trunc": {
+   "items": 15,
+   "best": 9,
+   "gold_hit": 4
+  }
+ },
+ "9d25d4e0": {
+  "gnum": 3.0,
+  "ngs": 3,
+  "judge": true,
+  "v5": {
+   "items": 41,
+   "best": 19,
+   "gold_hit": 3
+  },
+  "nohyp": {
+   "items": 27,
+   "best": 19,
+   "gold_hit": 3
+  },
+  "wide_rk15": {
+   "items": 27,
+   "best": 19,
+   "gold_hit": 3
+  },
+  "wide_rk05": {
+   "items": 27,
+   "best": 19,
+   "gold_hit": 3
+  },
+  "wide_rk05_g16": {
+   "items": 27,
+   "best": 19,
+   "gold_hit": 3
+  },
+  "wide_dfc": {
+   "items": 27,
+   "best": 19,
+   "gold_hit": 3
+  },
+  "perm0": {
+   "items": 33,
+   "best": 19,
+   "gold_hit": 3
+  },
+  "perm1": {
+   "items": 35,
+   "best": 18,
+   "gold_hit": 3
+  },
+  "perm2": {
+   "items": 38,
+   "best": 19,
+   "gold_hit": 3
+  },
+  "trunc": {
+   "items": 27,
+   "best": 19,
+   "gold_hit": 2
+  }
+ },
+ "60472f9c": {
+  "gnum": 2.0,
+  "ngs": 3,
+  "judge": true,
+  "v5": {
+   "items": 20,
+   "best": 12,
+   "gold_hit": 3
+  },
+  "nohyp": {
+   "items": 20,
+   "best": 12,
+   "gold_hit": 3
+  },
+  "wide_rk15": {
+   "items": 20,
+   "best": 12,
+   "gold_hit": 3
+  },
+  "wide_rk05": {
+   "items": 20,
+   "best": 12,
+   "gold_hit": 3
+  },
+  "wide_rk05_g16": {
+   "items": 20,
+   "best": 12,
+   "gold_hit": 3
+  },
+  "wide_dfc": {
+   "items": 20,
+   "best": 12,
+   "gold_hit": 3
+  },
+  "perm0": {
+   "items": 20,
+   "best": 12,
+   "gold_hit": 3
+  },
+  "perm1": {
+   "items": 20,
+   "best": 12,
+   "gold_hit": 3
+  },
+  "perm2": {
+   "items": 20,
+   "best": 12,
+   "gold_hit": 3
+  },
+  "trunc": {
+   "items": 20,
+   "best": 12,
+   "gold_hit": 3
+  }
+ },
+ "a9f6b44c": {
+  "gnum": 2.0,
+  "ngs": 3,
+  "judge": true,
+  "v5": {
+   "items": 72,
+   "best": 40,
+   "gold_hit": 3
+  },
+  "nohyp": {
+   "items": 64,
+   "best": 40,
+   "gold_hit": 3
+  },
+  "wide_rk15": {
+   "items": 64,
+   "best": 40,
+   "gold_hit": 3
+  },
+  "wide_rk05": {
+   "items": 64,
+   "best": 40,
+   "gold_hit": 3
+  },
+  "wide_rk05_g16": {
+   "items": 64,
+   "best": 40,
+   "gold_hit": 3
+  },
+  "wide_dfc": {
+   "items": 64,
+   "best": 40,
+   "gold_hit": 3
+  },
+  "perm0": {
+   "items": 72,
+   "best": 40,
+   "gold_hit": 3
+  },
+  "perm1": {
+   "items": 76,
+   "best": 40,
+   "gold_hit": 3
+  },
+  "perm2": {
+   "items": 79,
+   "best": 40,
+   "gold_hit": 3
+  },
+  "trunc": {
+   "items": 64,
+   "best": 40,
+   "gold_hit": 3
+  }
+ },
+ "gpt4_ab202e7f": {
+  "gnum": 5.0,
+  "ngs": 5,
+  "judge": true,
+  "v5": {
+   "items": 19,
+   "best": 8,
+   "gold_hit": 5
+  },
+  "nohyp": {
+   "items": 19,
+   "best": 8,
+   "gold_hit": 5
+  },
+  "wide_rk15": {
+   "items": 19,
+   "best": 8,
+   "gold_hit": 5
+  },
+  "wide_rk05": {
+   "items": 19,
+   "best": 8,
+   "gold_hit": 5
+  },
+  "wide_rk05_g16": {
+   "items": 19,
+   "best": 8,
+   "gold_hit": 5
+  },
+  "wide_dfc": {
+   "items": 19,
+   "best": 8,
+   "gold_hit": 5
+  },
+  "perm0": {
+   "items": 19,
+   "best": 8,
+   "gold_hit": 5
+  },
+  "perm1": {
+   "items": 19,
+   "best": 8,
+   "gold_hit": 5
+  },
+  "perm2": {
+   "items": 19,
+   "best": 8,
+   "gold_hit": 5
+  },
+  "trunc": {
+   "items": 19,
+   "best": 8,
+   "gold_hit": 5
+  }
+ },
+ "gpt4_e05b82a6": {
+  "gnum": 10.0,
+  "ngs": 4,
+  "judge": false,
+  "v5": {
+   "items": 37,
+   "best": 21,
+   "gold_hit": 4
+  },
+  "nohyp": {
+   "items": 19,
+   "best": 11,
+   "gold_hit": 4
+  },
+  "wide_rk15": {
+   "items": 28,
+   "best": 11,
+   "gold_hit": 4
+  },
+  "wide_rk05": {
+   "items": 28,
+   "best": 11,
+   "gold_hit": 4
+  },
+  "wide_rk05_g16": {
+   "items": 28,
+   "best": 11,
+   "gold_hit": 4
+  },
+  "wide_dfc": {
+   "items": 28,
+   "best": 11,
+   "gold_hit": 4
+  },
+  "perm0": {
+   "items": 19,
+   "best": 11,
+   "gold_hit": 4
+  },
+  "perm1": {
+   "items": 32,
+   "best": 13,
+   "gold_hit": 4
+  },
+  "perm2": {
+   "items": 33,
+   "best": 14,
+   "gold_hit": 4
+  },
+  "trunc": {
+   "items": 19,
+   "best": 11,
+   "gold_hit": 4
+  }
+ },
+ "1a8a66a6": {
+  "gnum": 2.0,
+  "ngs": 4,
+  "judge": false,
+  "v5": {
+   "items": 7,
+   "best": 7,
+   "gold_hit": 3
+  },
+  "nohyp": {
+   "items": 7,
+   "best": 7,
+   "gold_hit": 3
+  },
+  "wide_rk15": {
+   "items": 7,
+   "best": 7,
+   "gold_hit": 3
+  },
+  "wide_rk05": {
+   "items": 7,
+   "best": 7,
+   "gold_hit": 3
+  },
+  "wide_rk05_g16": {
+   "items": 7,
+   "best": 7,
+   "gold_hit": 3
+  },
+  "wide_dfc": {
+   "items": 7,
+   "best": 7,
+   "gold_hit": 3
+  },
+  "perm0": {
+   "items": 7,
+   "best": 7,
+   "gold_hit": 3
+  },
+  "perm1": {
+   "items": 7,
+   "best": 7,
+   "gold_hit": 3
+  },
+  "perm2": {
+   "items": 7,
+   "best": 7,
+   "gold_hit": 3
+  },
+  "trunc": {
+   "items": 7,
+   "best": 7,
+   "gold_hit": 3
+  }
+ },
+ "c2ac3c61": {
+  "gnum": 5.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 26,
+   "best": 15,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 15,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 16,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 16,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 16,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 16,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 17,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 19,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 25,
+   "best": 14,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 15,
+   "best": 15,
+   "gold_hit": 2
+  }
+ },
+ "bf659f65": {
+  "gnum": 3.0,
+  "ngs": 3,
+  "judge": false,
+  "v5": {
+   "items": 19,
+   "best": 17,
+   "gold_hit": 3
+  },
+  "nohyp": {
+   "items": 19,
+   "best": 17,
+   "gold_hit": 3
+  },
+  "wide_rk15": {
+   "items": 40,
+   "best": 21,
+   "gold_hit": 3
+  },
+  "wide_rk05": {
+   "items": 40,
+   "best": 21,
+   "gold_hit": 3
+  },
+  "wide_rk05_g16": {
+   "items": 40,
+   "best": 21,
+   "gold_hit": 3
+  },
+  "wide_dfc": {
+   "items": 40,
+   "best": 21,
+   "gold_hit": 3
+  },
+  "perm0": {
+   "items": 19,
+   "best": 17,
+   "gold_hit": 3
+  },
+  "perm1": {
+   "items": 19,
+   "best": 17,
+   "gold_hit": 3
+  },
+  "perm2": {
+   "items": 19,
+   "best": 17,
+   "gold_hit": 3
+  },
+  "trunc": {
+   "items": 19,
+   "best": 17,
+   "gold_hit": 3
+  }
+ },
+ "81507db6": {
+  "gnum": 3.0,
+  "ngs": 5,
+  "judge": true,
+  "v5": {
+   "items": 14,
+   "best": 10,
+   "gold_hit": 5
+  },
+  "nohyp": {
+   "items": 14,
+   "best": 10,
+   "gold_hit": 5
+  },
+  "wide_rk15": {
+   "items": 17,
+   "best": 10,
+   "gold_hit": 5
+  },
+  "wide_rk05": {
+   "items": 17,
+   "best": 10,
+   "gold_hit": 5
+  },
+  "wide_rk05_g16": {
+   "items": 17,
+   "best": 10,
+   "gold_hit": 5
+  },
+  "wide_dfc": {
+   "items": 17,
+   "best": 10,
+   "gold_hit": 5
+  },
+  "perm0": {
+   "items": 14,
+   "best": 10,
+   "gold_hit": 5
+  },
+  "perm1": {
+   "items": 14,
+   "best": 10,
+   "gold_hit": 5
+  },
+  "perm2": {
+   "items": 14,
+   "best": 10,
+   "gold_hit": 5
+  },
+  "trunc": {
+   "items": 14,
+   "best": 10,
+   "gold_hit": 5
+  }
+ },
+ "4f54b7c9": {
+  "gnum": 5.0,
+  "ngs": 2,
+  "judge": false,
+  "v5": {
+   "items": 33,
+   "best": 16,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 33,
+   "best": 16,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 35,
+   "best": 16,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 35,
+   "best": 16,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 35,
+   "best": 16,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 35,
+   "best": 16,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 33,
+   "best": 16,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 33,
+   "best": 16,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 33,
+   "best": 16,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 33,
+   "best": 16,
+   "gold_hit": 2
+  }
+ },
+ "6456829e": {
+  "gnum": 8.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 12,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 11,
+   "best": 6,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 19,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 19,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 19,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 19,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 21,
+   "best": 16,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 25,
+   "best": 11,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 22,
+   "best": 17,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 11,
+   "best": 7,
+   "gold_hit": 2
+  }
+ },
+ "681a1674": {
+  "gnum": 2.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 19,
+   "best": 6,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 11,
+   "best": 6,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 14,
+   "best": 6,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 14,
+   "best": 6,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 14,
+   "best": 6,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 14,
+   "best": 6,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 20,
+   "best": 6,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 19,
+   "best": 6,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 19,
+   "best": 6,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 11,
+   "best": 6,
+   "gold_hit": 2
+  }
+ },
+ "4adc0475": {
+  "gnum": 5.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 7,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 7,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 13,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 13,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 13,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 13,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 7,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 7,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 7,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 7,
+   "best": 4,
+   "gold_hit": 2
+  }
+ },
+ "ef66a6e5": {
+  "gnum": 2.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 3,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 3,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 4,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 4,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 4,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 4,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 3,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 3,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 3,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 3,
+   "best": 2,
+   "gold_hit": 2
+  }
+ },
+ "8979f9ec": {
+  "gnum": 8.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 20,
+   "best": 11,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 19,
+   "best": 11,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 27,
+   "best": 11,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 27,
+   "best": 11,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 27,
+   "best": 11,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 27,
+   "best": 11,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 19,
+   "best": 11,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 19,
+   "best": 11,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 19,
+   "best": 11,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 19,
+   "best": 11,
+   "gold_hit": 2
+  }
+ },
+ "60159905": {
+  "gnum": 3.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 37,
+   "best": 21,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 16,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 16,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 16,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 16,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 16,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 36,
+   "best": 20,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 39,
+   "best": 23,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 39,
+   "best": 23,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 16,
+   "best": 7,
+   "gold_hit": 2
+  }
+ },
+ "8e91e7d9": {
+  "gnum": 4.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 5,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "nohyp": {
+   "items": 0,
+   "best": 0,
+   "gold_hit": 0
+  },
+  "wide_rk15": {
+   "items": 0,
+   "best": 0,
+   "gold_hit": 0
+  },
+  "wide_rk05": {
+   "items": 0,
+   "best": 0,
+   "gold_hit": 0
+  },
+  "wide_rk05_g16": {
+   "items": 0,
+   "best": 0,
+   "gold_hit": 0
+  },
+  "wide_dfc": {
+   "items": 0,
+   "best": 0,
+   "gold_hit": 0
+  },
+  "perm0": {
+   "items": 16,
+   "best": 16,
+   "gold_hit": 1
+  },
+  "perm1": {
+   "items": 19,
+   "best": 18,
+   "gold_hit": 0
+  },
+  "perm2": {
+   "items": 2,
+   "best": 2,
+   "gold_hit": 0
+  },
+  "trunc": {
+   "items": 0,
+   "best": 0,
+   "gold_hit": 0
+  }
+ },
+ "21d02d0d": {
+  "gnum": 2.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 2,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 2,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 14,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 15,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 15,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 15,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 2,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 2,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 2,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 2,
+   "best": 2,
+   "gold_hit": 2
+  }
+ },
+ "6456829e_abs": {
+  "gnum": 5.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 6,
+   "best": 6,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 4,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 13,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 13,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 13,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 13,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 6,
+   "best": 6,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 4,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 5,
+   "best": 5,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 4,
+   "best": 4,
+   "gold_hit": 1
+  }
+ },
+ "6aeb4375": {
+  "gnum": 4.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 12,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 12,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 15,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 15,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 15,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 15,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 12,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 12,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 12,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 12,
+   "best": 7,
+   "gold_hit": 2
+  }
+ },
+ "89941a93": {
+  "gnum": 4.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 22,
+   "best": 13,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 22,
+   "best": 13,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 22,
+   "best": 13,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 22,
+   "best": 13,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 22,
+   "best": 13,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 22,
+   "best": 13,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 22,
+   "best": 13,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 25,
+   "best": 13,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 29,
+   "best": 13,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 22,
+   "best": 13,
+   "gold_hit": 2
+  }
+ },
+ "a1eacc2a": {
+  "gnum": 7.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 41,
+   "best": 19,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 35,
+   "best": 19,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 44,
+   "best": 19,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 45,
+   "best": 19,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 45,
+   "best": 19,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 45,
+   "best": 19,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 41,
+   "best": 19,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 41,
+   "best": 19,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 44,
+   "best": 19,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 35,
+   "best": 19,
+   "gold_hit": 2
+  }
+ },
+ "031748ae": {
+  "gnum": 4.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 16,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 16,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 18,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 18,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 18,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 18,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 16,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 16,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 16,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 16,
+   "best": 8,
+   "gold_hit": 2
+  }
+ },
+ "f9e8c073": {
+  "gnum": 5.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 17,
+   "best": 11,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 12,
+   "best": 11,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 18,
+   "best": 11,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 18,
+   "best": 11,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 18,
+   "best": 11,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 18,
+   "best": 11,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 12,
+   "best": 11,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 12,
+   "best": 11,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 12,
+   "best": 11,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 12,
+   "best": 11,
+   "gold_hit": 2
+  }
+ },
+ "b6019101": {
+  "gnum": 5.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 11,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 10,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 10,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 10,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 10,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 10,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 14,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 11,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 11,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 10,
+   "best": 8,
+   "gold_hit": 2
+  }
+ },
+ "45dc21b6": {
+  "gnum": 3.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 23,
+   "best": 19,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 11,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 11,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 11,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 11,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 11,
+   "best": 7,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 12,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 12,
+   "best": 8,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 22,
+   "best": 17,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 11,
+   "best": 7,
+   "gold_hit": 2
+  }
+ },
+ "618f13b2": {
+  "gnum": 6.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 4,
+   "best": 3,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 4,
+   "best": 3,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 6,
+   "best": 3,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 12,
+   "best": 3,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 12,
+   "best": 3,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 12,
+   "best": 3,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 4,
+   "best": 3,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 4,
+   "best": 3,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 4,
+   "best": 3,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 4,
+   "best": 3,
+   "gold_hit": 2
+  }
+ },
+ "8fb83627": {
+  "gnum": 5.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 20,
+   "best": 13,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 20,
+   "best": 13,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 24,
+   "best": 13,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 27,
+   "best": 13,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 27,
+   "best": 13,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 27,
+   "best": 13,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 20,
+   "best": 13,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 20,
+   "best": 13,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 20,
+   "best": 13,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 20,
+   "best": 13,
+   "gold_hit": 2
+  }
+ },
+ "4b24c848": {
+  "gnum": 5.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 26,
+   "best": 19,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 21,
+   "best": 19,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 21,
+   "best": 19,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 21,
+   "best": 19,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 21,
+   "best": 19,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 21,
+   "best": 19,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 26,
+   "best": 19,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 26,
+   "best": 19,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 35,
+   "best": 19,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 21,
+   "best": 19,
+   "gold_hit": 2
+  }
+ },
+ "603deb26": {
+  "gnum": 10.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 40,
+   "best": 26,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 14,
+   "best": 5,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 14,
+   "best": 5,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 14,
+   "best": 5,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 14,
+   "best": 5,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 14,
+   "best": 5,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 29,
+   "best": 15,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 32,
+   "best": 18,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 30,
+   "best": 16,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 14,
+   "best": 5,
+   "gold_hit": 2
+  }
+ },
+ "7401057b": {
+  "gnum": 2.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 5,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 5,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 16,
+   "best": 6,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 18,
+   "best": 6,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 18,
+   "best": 6,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 18,
+   "best": 6,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 5,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 5,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 5,
+   "best": 2,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 5,
+   "best": 2,
+   "gold_hit": 2
+  }
+ },
+ "06db6396": {
+  "gnum": 5.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 4,
+   "best": 3,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 4,
+   "best": 3,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 13,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 13,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 13,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 13,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 4,
+   "best": 3,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 8,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 8,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 4,
+   "best": 3,
+   "gold_hit": 2
+  }
+ },
+ "ba61f0b9": {
+  "gnum": 6.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 12,
+   "best": 9,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 12,
+   "best": 9,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 19,
+   "best": 9,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 19,
+   "best": 9,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 19,
+   "best": 9,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 19,
+   "best": 9,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 12,
+   "best": 9,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 12,
+   "best": 9,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 12,
+   "best": 9,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 12,
+   "best": 9,
+   "gold_hit": 2
+  }
+ },
+ "26bdc477": {
+  "gnum": 5.0,
+  "ngs": 2,
+  "judge": true,
+  "v5": {
+   "items": 8,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "nohyp": {
+   "items": 8,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "wide_rk15": {
+   "items": 20,
+   "best": 12,
+   "gold_hit": 2
+  },
+  "wide_rk05": {
+   "items": 20,
+   "best": 12,
+   "gold_hit": 2
+  },
+  "wide_rk05_g16": {
+   "items": 20,
+   "best": 12,
+   "gold_hit": 2
+  },
+  "wide_dfc": {
+   "items": 20,
+   "best": 12,
+   "gold_hit": 2
+  },
+  "perm0": {
+   "items": 8,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "perm1": {
+   "items": 8,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "perm2": {
+   "items": 8,
+   "best": 4,
+   "gold_hit": 2
+  },
+  "trunc": {
+   "items": 8,
+   "best": 4,
+   "gold_hit": 2
+  }
+ },
+ "18dcd5a5": {
+  "gnum": 4.0,
+  "ngs": 1,
+  "judge": true,
+  "v5": {
+   "items": 42,
+   "best": 30,
+   "gold_hit": 1
+  },
+  "nohyp": {
+   "items": 12,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "wide_rk15": {
+   "items": 12,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "wide_rk05": {
+   "items": 12,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "wide_rk05_g16": {
+   "items": 12,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "wide_dfc": {
+   "items": 12,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "perm0": {
+   "items": 37,
+   "best": 25,
+   "gold_hit": 1
+  },
+  "perm1": {
+   "items": 38,
+   "best": 26,
+   "gold_hit": 1
+  },
+  "perm2": {
+   "items": 37,
+   "best": 25,
+   "gold_hit": 1
+  },
+  "trunc": {
+   "items": 12,
+   "best": 8,
+   "gold_hit": 0
+  }
+ },
+ "e8a79c70": {
+  "gnum": 2.0,
+  "ngs": 1,
+  "judge": true,
+  "v5": {
+   "items": 27,
+   "best": 20,
+   "gold_hit": 1
+  },
+  "nohyp": {
+   "items": 17,
+   "best": 10,
+   "gold_hit": 1
+  },
+  "wide_rk15": {
+   "items": 18,
+   "best": 10,
+   "gold_hit": 1
+  },
+  "wide_rk05": {
+   "items": 18,
+   "best": 10,
+   "gold_hit": 1
+  },
+  "wide_rk05_g16": {
+   "items": 18,
+   "best": 10,
+   "gold_hit": 1
+  },
+  "wide_dfc": {
+   "items": 18,
+   "best": 10,
+   "gold_hit": 1
+  },
+  "perm0": {
+   "items": 17,
+   "best": 10,
+   "gold_hit": 1
+  },
+  "perm1": {
+   "items": 26,
+   "best": 19,
+   "gold_hit": 1
+  },
+  "perm2": {
+   "items": 26,
+   "best": 19,
+   "gold_hit": 1
+  },
+  "trunc": {
+   "items": 17,
+   "best": 17,
+   "gold_hit": 0
+  }
+ },
+ "4baee567": {
+  "gnum": 12.0,
+  "ngs": 1,
+  "judge": true,
+  "v5": {
+   "items": 10,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "nohyp": {
+   "items": 10,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "wide_rk15": {
+   "items": 13,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "wide_rk05": {
+   "items": 13,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "wide_rk05_g16": {
+   "items": 13,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "wide_dfc": {
+   "items": 13,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "perm0": {
+   "items": 10,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "perm1": {
+   "items": 10,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "perm2": {
+   "items": 10,
+   "best": 5,
+   "gold_hit": 1
+  },
+  "trunc": {
+   "items": 10,
+   "best": 5,
+   "gold_hit": 1
+  }
+ }
+}

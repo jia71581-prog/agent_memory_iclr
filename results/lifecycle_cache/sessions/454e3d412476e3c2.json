@@ -1,0 +1,1 @@
+[["user's dataset", "has labels", "1 and 2"], ["label 1", "contains word", "aal"], ["label 2", "lacks word", "aal"], ["user", "encountered", "KeyError"], ["user", "wants to calculate", "percentage of words in each label"], ["user", "wants to find", "words accounting for more than 3% of all labels"], ["user", "asked to auto-tune", "percentage threshold for >100 common words"]]

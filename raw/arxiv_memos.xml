@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/mQ8iFVKPWEPSH9huCnkZnATdveU</id>
+  <title>arXiv Query: search_query=ti:"MemOS"&amp;id_list=&amp;start=0&amp;max_results=8</title>
+  <updated>2026-09-16T09:25:58Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22MemOS%22&amp;start=0&amp;max_results=8&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>8</opensearch:itemsPerPage>
+  <opensearch:totalResults>54</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2507.03724v4</id>
+    <title>MemOS: A Memory OS for AI System</title>
+    <updated>2025-12-03T03:19:27Z</updated>
+    <link href="https://arxiv.org/abs/2507.03724v4" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2507.03724v4" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large Language Models (LLMs) have become an essential infrastructure for Artificial General Intelligence (AGI), yet their lack of well-defined memory management systems hinders the development of long-context reasoning, continual personalization, and knowledge consistency.Existing models mainly rely on static parameters and short-lived contextual states, limiting their ability to track user preferences or update knowledge over extended periods.While Retrieval-Augmented Generation (RAG) introduces external knowledge in plain text, it remains a stateless workaround without lifecycle control or integration with persistent representations.Recent work has modeled the training and inference cost of LLMs from a memory hierarchy perspective, showing that introducing an explicit memory layer between parameter memory and external retrieval can substantially reduce these costs by externalizing specific knowledge. Beyond computational efficiency, LLMs face broader challenges arising from how information is distributed over time and context, requiring systems capable of managing heterogeneous knowledge spanning different temporal scales and sources. To address this challenge, we propose MemOS, a memory operating system that treats memory as a manageable system resource. It unifies the representation, scheduling, and evolution of plaintext, activation-based, and parameter-level memories, enabling cost-efficient storage and retrieval. As the basic unit, a MemCube encapsulates both memory content and metadata such as provenance and versioning. MemCubes can be composed, migrated, and fused over time, enabling flexible transitions between memory types and bridging retrieval with parameter-based learning. MemOS establishes a memory-centric system framework that brings controllability, plasticity, and evolvability to LLMs, laying the foundation for continual learning and personalized modeling.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-07-04T17:21:46Z</published>
+    <arxiv:comment>36 pages, 10 figures, 5 tables</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Zhiyu Li</name>
+    </author>
+    <author>
+      <name>Chenyang Xi</name>
+    </author>
+    <author>
+      <name>Chunyu Li</name>
+    </author>
+    <author>
+      <name>Ding Chen</name>
+    </author>
+    <author>
+      <name>Boyu Chen</name>
+    </author>
+    <author>
+      <name>Shichao Song</name>
+    </author>
+    <author>
+      <name>Simin Niu</name>
+    </author>
+    <author>
+      <name>Hanyu Wang</name>
+    </author>
+    <author>
+      <name>Jiawei Yang</name>
+    </author>
+    <author>
+      <name>Chen Tang</name>
+    </author>
+    <author>
+      <name>Qingchen Yu</name>
+    </author>
+    <author>
+      <name>Jihao Zhao</name>
+    </author>
+    <author>
+      <name>Yezhaohui Wang</name>
+    </author>
+    <author>
+      <name>Peng Liu</name>
+    </author>
+    <author>
+      <name>Zehao Lin</name>
+    </author>
+    <author>
+      <name>Pengyuan Wang</name>
+    </author>
+    <author>
+      <name>Jiahao Huo</name>
+    </author>
+    <author>
+      <name>Tianyi Chen</name>
+    </author>
+    <author>
+      <name>Kai Chen</name>
+    </author>
+    <author>
+      <name>Kehang Li</name>
+    </author>
+    <author>
+      <name>Zhen Tao</name>
+    </author>
+    <author>
+      <name>Huayi Lai</name>
+    </author>
+    <author>
+      <name>Hao Wu</name>
+    </author>
+    <author>
+      <name>Bo Tang</name>
+    </author>
+    <author>
+      <name>Zhengren Wang</name>
+    </author>
+    <author>
+      <name>Zhaoxin Fan</name>
+    </author>
+    <author>
+      <name>Ningyu Zhang</name>
+    </author>
+    <author>
+      <name>Linfeng Zhang</name>
+    </author>
+    <author>
+      <name>Junchi Yan</name>
+    </author>
+    <author>
+      <name>Mingchuan Yang</name>
+    </author>
+    <author>
+      <name>Tong Xu</name>
+    </author>
+    <author>
+      <name>Wei Xu</name>
+    </author>
+    <author>
+      <name>Huajun Chen</name>
+    </author>
+    <author>
+      <name>Haofen Wang</name>
+    </author>
+    <author>
+      <name>Hongkang Yang</name>
+    </author>
+    <author>
+      <name>Wentao Zhang</name>
+    </author>
+    <author>
+      <name>Zhi-Qin John Xu</name>
+    </author>
+    <author>
+      <name>Siheng Chen</name>
+    </author>
+    <author>
+      <name>Feiyu Xiong</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2605.15156v2</id>
+    <title>MeMo: Memory as a Model</title>
+    <updated>2026-05-20T17:53:38Z</updated>
+    <link href="https://arxiv.org/abs/2605.15156v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2605.15156v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large language models (LLMs) achieve strong performance across a wide range of tasks, but remain frozen after pretraining until subsequent updates. Many real-world applications require timely, domain-specific information, motivating the need for efficient mechanisms to incorporate new knowledge. In this paper, we introduce MeMo (Memory as a Model), a modular framework that encodes new knowledge into a dedicated memory model while keeping the LLM parameters unchanged. Compared to existing methods, MeMo offers several advantages: (a) it captures complex cross-document relationships, (b) it is robust to retrieval noise, (c) it avoids catastrophic forgetting in the LLM, (d) it does not require access to the LLM's weights or output logits, enabling plug-and-play integration with both open and proprietary closed-source LLMs, and (e) its retrieval cost is independent of corpus size at inference time. Our experimental results on three benchmarks, BrowseComp-Plus, NarrativeQA, and MuSiQue, show that MeMo achieves strong performance compared to existing methods across diverse settings.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-05-14T17:51:34Z</published>
+    <arxiv:comment>MeMo augments any LLM with up-to-date or domain-specific knowledge via a trained memory model, avoiding costly retraining, mitigating catastrophic forgetting, and remaining robust to retrieval noise</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Ryan Wei Heng Quek</name>
+    </author>
+    <author>
+      <name>Sanghyuk Lee</name>
+    </author>
+    <author>
+      <name>Alfred Wei Lun Leong</name>
+    </author>
+    <author>
+      <name>Arun Verma</name>
+    </author>
+    <author>
+      <name>Alok Prakash</name>
+    </author>
+    <author>
+      <name>Nancy F. Chen</name>
+    </author>
+    <author>
+      <name>Bryan Kian Hsiang Low</name>
+    </author>
+    <author>
+      <name>Daniela Rus</name>
+    </author>
+    <author>
+      <name>Armando Solar-Lezama</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2504.09968v4</id>
+    <title>Some memos on Stable Symplectic Structured Space</title>
+    <updated>2025-04-28T17:16:40Z</updated>
+    <link href="https://arxiv.org/abs/2504.09968v4" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2504.09968v4" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In these memos, we define a pregeometry $\mathcal{T}_{\mathbb{S}} ^{alg}$ and a geometry $\mathcal{G}_{\mathbb{S}} ^{alg}$ which integrate symplectic manifolds with $E_{\infty}$-ring sheaves, enabling the construction of $\mathcal{G}_{\mathbb{S}} ^{alg}$-schemes as structured $\infty$-topoi. Our framework and results establish a profound connection between algebraic invariants and homological properties, opening new pathways for exploring symplectic phenomena through the lens of higher category theory and derived geometry.</summary>
+    <category term="math.AG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-04-14T08:09:47Z</published>
+    <arxiv:comment>9 pages, We corrected the error in definition 2.1.1 and definition 2.2.1 example 2.3.1 and definition 3.2.1 !</arxiv:comment>
+    <arxiv:primary_category term="math.AG"/>
+    <author>
+      <name>Eita Haibara</name>
+    </author>
+    <author>
+      <name>Shelly Miyano</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1312.2103v1</id>
+    <title>A memo on chains and their topologies</title>
+    <updated>2013-12-07T15:45:11Z</updated>
+    <link href="https://arxiv.org/abs/1312.2103v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1312.2103v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We summarize some facts on chains (totally ordered sets), from an order-theoretic and from a topological point of view. We highlight the fact that many classical theorems that are true for partially ordered sets under some completeness assumption remain true for chains without any kind of completeness.</summary>
+    <category term="math.GN" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2013-12-07T15:45:11Z</published>
+    <arxiv:comment>5 pages</arxiv:comment>
+    <arxiv:primary_category term="math.GN"/>
+    <author>
+      <name>Paul Poncet</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2403.18487v3</id>
+    <title>Singularity: a Seventh Memo?</title>
+    <updated>2025-05-09T08:03:52Z</updated>
+    <link href="https://arxiv.org/abs/2403.18487v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2403.18487v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In this paper we explore the relationships between Calvino's memos and Mathematics. In the first part, we discuss how Lightness, Quickness, Exactitude, Visibility, Multiplicity are present in the mathematical language, reasoning and in the work of the mathematician. In addiction, we follow a similar path for the topics of Calvino's lecture of which we only know the title or some notes. In the final part, we explain why `Singularity' could be chosen as a possible topic for Calvino's seventh lecture.</summary>
+    <category term="math.HO" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-03-27T12:00:17Z</published>
+    <arxiv:comment>15 pages, 1 figure. Version accepted for publication. Minor corrections</arxiv:comment>
+    <arxiv:primary_category term="math.HO"/>
+    <arxiv:journal_ref>In: Cassano, B., Cunden, F.D., Gallone, M., Ligabò, M., Michelangeli, A. (eds) Singularities, Asymptotics, and Limiting Models. Springer INdAM Series, vol 64. Springer, Singapore (2025)</arxiv:journal_ref>
+    <author>
+      <name>Matteo Gallone</name>
+    </author>
+    <author>
+      <name>Sandra Lucente</name>
+    </author>
+    <arxiv:doi>10.1007/978-981-96-3584-9_10</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1007/978-981-96-3584-9_10" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1807.09626v1</id>
+    <title>A Memo on the Proof-of-Stake Mechanism</title>
+    <updated>2018-06-14T00:17:02Z</updated>
+    <link href="https://arxiv.org/abs/1807.09626v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1807.09626v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We analyze the economic incentives generated by the proof-of-stake mechanism discussed in the Ethereum Casper upgrade proposal. Compared with proof-of-work, proof-of-stake has a different cost structure for attackers. In Budish (2018), three equations characterize the limits of Bitcoin, which has a proof-of-work mechanism. We investigate their counterparts and evaluate the risk of double-spending attack and sabotage attack. We argue that PoS is safer than PoW agaisnt double-spending attack because of the tractability of attackers, which implies a large "stock" cost for the attacker. Compared to a PoW system whose mining equipments are repurposable, PoS is also safer against a sabotage attack.</summary>
+    <category term="cs.CR" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2018-06-14T00:17:02Z</published>
+    <arxiv:primary_category term="cs.CR"/>
+    <author>
+      <name>George Gui</name>
+    </author>
+    <author>
+      <name>Ali Hortacsu</name>
+    </author>
+    <author>
+      <name>Jose Tudon</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2206.01533v1</id>
+    <title>A memo on bornologies and size functions</title>
+    <updated>2022-05-18T08:10:40Z</updated>
+    <link href="https://arxiv.org/abs/2206.01533v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2206.01533v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We recall the notion of abstract bornology, and connect it with topological spaces and size functions. As a generalization of measures of non-compactness, we show how every size function can be mapped to a maxitive measure.</summary>
+    <category term="math.GM" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2022-05-18T08:10:40Z</published>
+    <arxiv:comment>5 pages</arxiv:comment>
+    <arxiv:primary_category term="math.GM"/>
+    <author>
+      <name>Paul Poncet</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/0811.4077v2</id>
+    <title>Strangeness fluctuations and MEMO production at FAIR</title>
+    <updated>2009-08-03T08:19:27Z</updated>
+    <link href="https://arxiv.org/abs/0811.4077v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/0811.4077v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  We apply a coupled transport-hydrodynamics model to discuss the production of multi-strange meta-stable objects in Pb+Pb reactions at the FAIR facility. In addition to making predictions for yields of these particles we are able to calculate particle dependent rapidity and momentum distributions. We argue that the FAIR energy regime is the optimal place to search for multi-strange baryonic object (due to the high baryon density, favouring a distillation of strangeness). Additionally, we show results for strangeness and baryon density fluctuations. Using the UrQMD model we calculate the strangeness seperation in phase space which might lead to an enhanced production of MEMOs compared to models that assume global thermalization.</summary>
+    <category term="hep-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2008-11-25T20:16:41Z</published>
+    <arxiv:comment>7 pages, 8 figures, added some discussion, changed plots</arxiv:comment>
+    <arxiv:primary_category term="hep-ph"/>
+    <arxiv:journal_ref>Phys.Lett.B676:126-131,2009</arxiv:journal_ref>
+    <author>
+      <name>Jan Steinheimer</name>
+    </author>
+    <author>
+      <name>Michael Mitrovski</name>
+    </author>
+    <author>
+      <name>Tim Schuster</name>
+    </author>
+    <author>
+      <name>Hannah Petersen</name>
+    </author>
+    <author>
+      <name>Marcus Bleicher</name>
+    </author>
+    <author>
+      <name>Horst Stoecker</name>
+    </author>
+    <arxiv:doi>10.1016/j.physletb.2009.04.062</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1016/j.physletb.2009.04.062" title="doi"/>
+  </entry>
+</feed>

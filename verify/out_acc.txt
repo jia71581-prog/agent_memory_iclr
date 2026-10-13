@@ -1,0 +1,14 @@
+overall qc acc 0.866 n=500
+TR             acc 0.857 n=133
+TR  fires      acc 0.858 n=127
+TR  no-fire    acc 0.833 n=6
+nonTR          acc 0.869 n=367
+nonTR fires    acc 0.865 n=52   <-- scaffold injected here, no TR upside
+nonTR no-fire  acc 0.870 n=315
+  knowledge-update             fires 18/78   acc_fire 1.000  acc_nofire 0.933
+  multi-session                fires 26/133  acc_fire 0.731  acc_nofire 0.766
+  single-session-user          fires  8/70   acc_fire 1.000  acc_nofire 0.968
+  temporal-reasoning           fires 127/133  acc_fire 0.858  acc_nofire 0.833
+total wrong 67 ; of those gate fires on 25 (37%)
+wrong & fires & TR: 18 ; wrong & fires & nonTR: 7
+at-risk (correct now & scaffold fires): 154  [TR 109 / nonTR 45]

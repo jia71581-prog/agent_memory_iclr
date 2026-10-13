@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/Nh+16oAI9uIXqqHLl8sWa0XHk6E</id>
+  <title>arXiv Query: search_query=all:"MemGPT"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-09-16T09:25:14Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=all:%22MemGPT%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>18</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2310.08560v2</id>
+    <title>MemGPT: Towards LLMs as Operating Systems</title>
+    <updated>2024-02-12T18:59:46Z</updated>
+    <link href="https://arxiv.org/abs/2310.08560v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2310.08560v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large language models (LLMs) have revolutionized AI, but are constrained by limited context windows, hindering their utility in tasks like extended conversations and document analysis. To enable using context beyond limited context windows, we propose virtual context management, a technique drawing inspiration from hierarchical memory systems in traditional operating systems that provide the appearance of large memory resources through data movement between fast and slow memory. Using this technique, we introduce MemGPT (Memory-GPT), a system that intelligently manages different memory tiers in order to effectively provide extended context within the LLM's limited context window, and utilizes interrupts to manage control flow between itself and the user. We evaluate our OS-inspired design in two domains where the limited context windows of modern LLMs severely handicaps their performance: document analysis, where MemGPT is able to analyze large documents that far exceed the underlying LLM's context window, and multi-session chat, where MemGPT can create conversational agents that remember, reflect, and evolve dynamically through long-term interactions with their users. We release MemGPT code and data for our experiments at https://memgpt.ai.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-10-12T17:51:32Z</published>
+    <arxiv:comment>Code and data available at https://research.memgpt.ai</arxiv:comment>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Charles Packer</name>
+    </author>
+    <author>
+      <name>Sarah Wooders</name>
+    </author>
+    <author>
+      <name>Kevin Lin</name>
+    </author>
+    <author>
+      <name>Vivian Fang</name>
+    </author>
+    <author>
+      <name>Shishir G. Patil</name>
+    </author>
+    <author>
+      <name>Ion Stoica</name>
+    </author>
+    <author>
+      <name>Joseph E. Gonzalez</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2501.13956v1</id>
+    <title>Zep: A Temporal Knowledge Graph Architecture for Agent Memory</title>
+    <updated>2025-01-20T16:52:48Z</updated>
+    <link href="https://arxiv.org/abs/2501.13956v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2501.13956v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We introduce Zep, a novel memory layer service for AI agents that outperforms the current state-of-the-art system, MemGPT, in the Deep Memory Retrieval (DMR) benchmark. Additionally, Zep excels in more comprehensive and challenging evaluations than DMR that better reflect real-world enterprise use cases. While existing retrieval-augmented generation (RAG) frameworks for large language model (LLM)-based agents are limited to static document retrieval, enterprise applications demand dynamic knowledge integration from diverse sources including ongoing conversations and business data. Zep addresses this fundamental limitation through its core component Graphiti -- a temporally-aware knowledge graph engine that dynamically synthesizes both unstructured conversational data and structured business data while maintaining historical relationships. In the DMR benchmark, which the MemGPT team established as their primary evaluation metric, Zep demonstrates superior performance (94.8% vs 93.4%). Beyond DMR, Zep's capabilities are further validated through the more challenging LongMemEval benchmark, which better reflects enterprise use cases through complex temporal reasoning tasks. In this evaluation, Zep achieves substantial results with accuracy improvements of up to 18.5% while simultaneously reducing response latency by 90% compared to baseline implementations. These results are particularly pronounced in enterprise-critical tasks such as cross-session information synthesis and long-term context maintenance, demonstrating Zep's effectiveness for deployment in real-world applications.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.IR" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-01-20T16:52:48Z</published>
+    <arxiv:comment>12 pages, 3 tables</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Preston Rasmussen</name>
+    </author>
+    <author>
+      <name>Pavlo Paliychuk</name>
+    </author>
+    <author>
+      <name>Travis Beauvais</name>
+    </author>
+    <author>
+      <name>Jack Ryan</name>
+    </author>
+    <author>
+      <name>Daniel Chalef</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2501.14846v5</id>
+    <title>Wormhole Memory: A Rubik's Cube for Cross-Dialogue Retrieval</title>
+    <updated>2025-04-12T16:47:37Z</updated>
+    <link href="https://arxiv.org/abs/2501.14846v5" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2501.14846v5" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In view of the gap in the current large language model in sharing memory across dialogues, this research proposes a wormhole memory module (WMM) to realize memory as a Rubik's cube that can be arbitrarily retrieved between different dialogues. Through simulation experiments, the researcher built an experimental framework based on the Python environment and used setting memory barriers to simulate the current situation where memories between LLMs dialogues are difficult to share. The CoQA development data set was imported into the experiment, and the feasibility of its cross-dialogue memory retrieval function was verified for WMM's nonlinear indexing and dynamic retrieval, and a comparative analysis was conducted with the capabilities of Titans and MemGPT memory modules. Experimental results show that WMM demonstrated the ability to retrieve memory across dialogues and the stability of quantitative indicators in eight experiments. It contributes new technical approaches to the optimization of memory management of LLMs and provides experience for the practical application in the future.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-01-24T10:49:45Z</published>
+    <arxiv:comment>The experimental process and code have been uploaded to the Github repository, the link is: https://github.com/brucewang123456789/GeniusTrail/tree/main/Wormhole%20Memory%20Module</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Libo Wang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2512.20651v2</id>
+    <title>Memory Bear AI A Breakthrough from Memory to Cognition Toward Artificial General Intelligence</title>
+    <updated>2026-03-18T04:27:52Z</updated>
+    <link href="https://arxiv.org/abs/2512.20651v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2512.20651v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large language models (LLMs) face inherent limitations in memory, including restricted context windows, long-term knowledge forgetting, redundant information accumulation, and hallucination generation. These issues severely constrain sustained dialogue and personalized services. This paper proposes the Memory Bear system, which constructs a human-like memory architecture grounded in cognitive science principles. By integrating multimodal information perception, dynamic memory maintenance, and adaptive cognitive services, Memory Bear achieves a full-chain reconstruction of LLM memory mechanisms. Across domains such as healthcare, enterprise operations, and education, Memory Bear demonstrates substantial engineering innovation and performance breakthroughs. It significantly improves knowledge fidelity and retrieval efficiency in long-term conversations, reduces hallucination rates, and enhances contextual adaptability and reasoning capability through memory-cognition integration. Experimental results show that, compared with existing solutions (e.g., Mem0, MemGPT, Graphiti), Memory Bear outperforms them across key metrics, including accuracy, token efficiency, and response latency. This marks a crucial step forward in advancing AI from "memory" to "cognition".</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-12-17T06:06:18Z</published>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Deliang Wen</name>
+    </author>
+    <author>
+      <name>Ke Sun</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2510.15261v1</id>
+    <title>AUGUSTUS: An LLM-Driven Multimodal Agent System with Contextualized User Memory</title>
+    <updated>2025-10-17T02:58:22Z</updated>
+    <link href="https://arxiv.org/abs/2510.15261v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2510.15261v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Riding on the success of LLMs with retrieval-augmented generation (RAG), there has been a growing interest in augmenting agent systems with external memory databases. However, the existing systems focus on storing text information in their memory, ignoring the importance of multimodal signals. Motivated by the multimodal nature of human memory, we present AUGUSTUS, a multimodal agent system aligned with the ideas of human memory in cognitive science. Technically, our system consists of 4 stages connected in a loop: (i) encode: understanding the inputs; (ii) store in memory: saving important information; (iii) retrieve: searching for relevant context from memory; and (iv) act: perform the task. Unlike existing systems that use vector databases, we propose conceptualizing information into semantic tags and associating the tags with their context to store them in a graph-structured multimodal contextual memory for efficient concept-driven retrieval. Our system outperforms the traditional multimodal RAG approach while being 3.5 times faster for ImageNet classification and outperforming MemGPT on the MSC benchmark.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-10-17T02:58:22Z</published>
+    <arxiv:comment>LAW 2025 Workshop at NeurIPS 2025. Work done from late 2023 to early 2024</arxiv:comment>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Jitesh Jain</name>
+    </author>
+    <author>
+      <name>Shubham Maheshwari</name>
+    </author>
+    <author>
+      <name>Ning Yu</name>
+    </author>
+    <author>
+      <name>Wen-mei Hwu</name>
+    </author>
+    <author>
+      <name>Humphrey Shi</name>
+    </author>
+  </entry>
+</feed>

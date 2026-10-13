@@ -1,0 +1,1 @@
+[["user", "is working on", "modifying rate equations with Hill coefficient"], ["user", "is modeling", "activator protein production"], ["user", "is modeling", "repressor protein dynamics"], ["user", "proposed equation", "[A]/dt = k2 + kmax*[S]^n / (Kd^n + [S]^n) - k2*[A]"]]

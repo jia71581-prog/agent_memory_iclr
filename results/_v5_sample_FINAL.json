@@ -1,0 +1,457 @@
+{
+ "pool_size": 6307,
+ "sample": [
+  {
+   "qid": "eace081b",
+   "keys": [
+    "user::asked about",
+    "user::asks about"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    11,
+    3
+   ]
+  },
+  {
+   "qid": "15745da0_abs",
+   "keys": [
+    "user::hobbies",
+    "user::hobby"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "e5ba910e_abs",
+   "keys": [
+    "user::considering buying",
+    "user::considering getting",
+    "user::is considering buying"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_7fce9456",
+   "keys": [
+    "user::recently visited",
+    "user::visited"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    2
+   ]
+  },
+  {
+   "qid": "3ba21379",
+   "keys": [
+    "user::plans to start",
+    "user::plans to start with"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "4388e9dd",
+   "keys": [
+    "user::is planning",
+    "user::plans to share"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    1
+   ]
+  },
+  {
+   "qid": "1de5cff2",
+   "keys": [
+    "user::considering buying",
+    "user::is considering buying",
+    "user::is considering getting"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    3,
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "a346bb18",
+   "keys": [
+    "user::recently bought",
+    "user::recently got"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    2
+   ]
+  },
+  {
+   "qid": "gpt4_4ef30696",
+   "keys": [
+    "user::current location",
+    "user::location"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "70b3e69b",
+   "keys": [
+    "user::feeling",
+    "user::feels"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "6a1eabeb",
+   "keys": [
+    "user::is especially interested in",
+    "user::is interested in",
+    "user::likes",
+    "user::loves"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    20,
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "4bc144e2",
+   "keys": [
+    "user::hopes",
+    "user::wants"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    2
+   ]
+  },
+  {
+   "qid": "3f1e9474",
+   "keys": [
+    "user::likes idea of",
+    "user::likes the idea of",
+    "user::loves idea of"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    2,
+    1
+   ]
+  },
+  {
+   "qid": "e01b8e2f",
+   "keys": [
+    "user::especially loves",
+    "user::interest",
+    "user::interest in",
+    "user::interested in",
+    "user::is interested in",
+    "user::likes",
+    "user::loves",
+    "user::particularly interested in"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1,
+    1,
+    6,
+    8,
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_b0863698",
+   "keys": [
+    "user::research interest",
+    "user::specific research interest"
+   ],
+   "rules": [
+    "R2_modifier_subset"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "3d86fd0a",
+   "keys": [
+    "user::planning to make",
+    "user::plans to make"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_0a05b494",
+   "keys": [
+    "user::interest",
+    "user::interest in",
+    "user::interested in",
+    "user::is interested in",
+    "user::is particularly interested in"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    7,
+    5,
+    6,
+    1
+   ]
+  },
+  {
+   "qid": "726462e0",
+   "keys": [
+    "user::hopes",
+    "user::wants to"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "bc149d6b",
+   "keys": [
+    "user::decided",
+    "user::decided on"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "2698e78f",
+   "keys": [
+    "user::lives in",
+    "user::location"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "89527b6b",
+   "keys": [
+    "user::participated in",
+    "user::recently participated in"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "66f24dbb",
+   "keys": [
+    "user::requested",
+    "user::requests"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    3
+   ]
+  },
+  {
+   "qid": "gpt4_a1b77f9c",
+   "keys": [
+    "user::has been trying",
+    "user::is trying to"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "51a45a95",
+   "keys": [
+    "user::has sister",
+    "user::sister"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "75499fd8",
+   "keys": [
+    "user::hopes",
+    "user::wants",
+    "user::wants to"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    7,
+    1
+   ]
+  },
+  {
+   "qid": "2698e78f_abs",
+   "keys": [
+    "user::is especially passionate about",
+    "user::is passionate about"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "dad224aa",
+   "keys": [
+    "user::considering",
+    "user::considers",
+    "user::is considering"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    1,
+    2
+   ]
+  },
+  {
+   "qid": "b9cfe692",
+   "keys": [
+    "user::curious about",
+    "user::is curious about"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "ed4ddc30",
+   "keys": [
+    "user::planning",
+    "user::plans to do"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    1
+   ]
+  },
+  {
+   "qid": "d6233ab6",
+   "keys": [
+    "user::has been thinking about using",
+    "user::is thinking of using"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  }
+ ]
+}

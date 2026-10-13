@@ -1,0 +1,449 @@
+{
+ "pool_size": 8948,
+ "sample": [
+  {
+   "qid": "c2ac3c61",
+   "keys": [
+    "user::product care",
+    "user::product wash care"
+   ],
+   "rules": [
+    "R3_jaccard"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_e061b84g",
+   "keys": [
+    "user::bought necklace",
+    "user::bought necklace at"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "0bc8ad92",
+   "keys": [
+    "user::pending sales at advanced pension programs",
+    "user::sales achievement at advanced pension programs"
+   ],
+   "rules": [
+    "R3_jaccard"
+   ],
+   "sizes": [
+    1,
+    2
+   ]
+  },
+  {
+   "qid": "a08a253f",
+   "keys": [
+    "user::has been taking",
+    "user::is taking"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "1e043500",
+   "keys": [
+    "user::enjoyed",
+    "user::enjoys",
+    "user::has been enjoying",
+    "user::interest in",
+    "user::interested in",
+    "user::is interested in",
+    "user::loves",
+    "user::prefers"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    2,
+    1,
+    1,
+    7,
+    2,
+    2,
+    1
+   ]
+  },
+  {
+   "qid": "8a2466db",
+   "keys": [
+    "genius voucher::feature",
+    "genius voucher::features"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    5,
+    2
+   ]
+  },
+  {
+   "qid": "gpt4_d31cdae3",
+   "keys": [
+    "user::asked about",
+    "user::asked for",
+    "user::asks about"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    6,
+    1,
+    2
+   ]
+  },
+  {
+   "qid": "gpt4_8279ba03",
+   "keys": [
+    "user::wants",
+    "user::wants to"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    4,
+    4
+   ]
+  },
+  {
+   "qid": "65240037",
+   "keys": [
+    "user::accommodation cost per lax trip",
+    "user::accommodation nights per lax trip"
+   ],
+   "rules": [
+    "R3_jaccard"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "51b23612",
+   "keys": [
+    "user::is planning a trip to",
+    "user::planned grocery trip"
+   ],
+   "rules": [
+    "R3_jaccard"
+   ],
+   "sizes": [
+    4,
+    1
+   ]
+  },
+  {
+   "qid": "720133ac",
+   "keys": [
+    "user::wants",
+    "user::wants to",
+    "user::wants to confirm",
+    "user::wishes for"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "92a0aa75",
+   "keys": [
+    "user::has been loving",
+    "user::loved"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    2
+   ]
+  },
+  {
+   "qid": "2133c1b5_abs",
+   "keys": [
+    "user::read",
+    "user::reads"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_c27434e8_abs",
+   "keys": [
+    "user::applied decals",
+    "user::applied decals to"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "af8d2e46",
+   "keys": [
+    "user::opinion of",
+    "user::opinion on"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_d31cdae3",
+   "keys": [
+    "user::has mother whose birthday is",
+    "user::has sister whose birthday was"
+   ],
+   "rules": [
+    "R4_editsim"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "577d4d32",
+   "keys": [
+    "user::asked about",
+    "user::asks about"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    3,
+    2
+   ]
+  },
+  {
+   "qid": "afdc33df",
+   "keys": [
+    "anna zamecka::born",
+    "anna zamecka::born in"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_731e37d7",
+   "keys": [
+    "user::working on",
+    "user::works with"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_f420262c",
+   "keys": [
+    "user::difficulty",
+    "user::has difficulty"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "6b168ec8",
+   "keys": [
+    "user::branded hashtag has",
+    "user::has branded hashtag",
+    "user::promotes branded hashtag"
+   ],
+   "rules": [
+    "R1_same_signature",
+    "R3_jaccard"
+   ],
+   "sizes": [
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "f523d9fe",
+   "keys": [
+    "user::uses qemu cpu setting",
+    "user::uses qemu memory setting"
+   ],
+   "rules": [
+    "R3_jaccard"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "e47becba",
+   "keys": [
+    "user::watch 1 needs",
+    "user::watch 2 needs"
+   ],
+   "rules": [
+    "R4_editsim"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "1903aded",
+   "keys": [
+    "user::found the burger at mikes house",
+    "user::had the burger at mikes house"
+   ],
+   "rules": [
+    "R3_jaccard"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "8b9d4367",
+   "keys": [
+    "user::grandmother roasted turkey in",
+    "user::grandmother stuffed turkey with",
+    "user::grandmothers turkey was"
+   ],
+   "rules": [
+    "R3_jaccard",
+    "R4_editsim"
+   ],
+   "sizes": [
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "95228167",
+   "keys": [
+    "user::asked about",
+    "user::asked for"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    8,
+    4
+   ]
+  },
+  {
+   "qid": "gpt4_0b2f1d21",
+   "keys": [
+    "user::interested in trying",
+    "user::is interested in trying"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "09ba9854_abs",
+   "keys": [
+    "user::background",
+    "user::has background in"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "0ea62687",
+   "keys": [
+    "user::craigslist listing price for canon powershot g7 x mark ii",
+    "user::listed canon powershot g7 x mark ii on"
+   ],
+   "rules": [
+    "R3_jaccard"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "5025383b",
+   "keys": [
+    "rachel lee::met user",
+    "rachel lee::met user at"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  }
+ ]
+}

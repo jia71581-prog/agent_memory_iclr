@@ -1,0 +1,19 @@
+QC_V6_AGG: 门控命中 175, 已完成 0, 待跑 175
+progress 25/175
+progress 50/175
+progress 75/175
+progress 100/175
+progress 125/175
+progress 150/175
+progress 175/175
+
+=== QC_V6_AGG 门内子集 n=175 ===
+v5 0.9029 -> v6 0.9429  delta +0.0400  b=7 c=0  McNemar p=0.0156
+折算全 500: v5 0.8980 -> 0.9120 (+0.0140)
+type                          n      v5      v6
+knowledge-update             15   1.000   1.000
+multi-session                75   0.827   0.907
+single-session-assistant      4   1.000   1.000
+single-session-user          17   1.000   1.000
+temporal-reasoning           64   0.938   0.953
+V6 SUBSET QC_V6_AGG DONE

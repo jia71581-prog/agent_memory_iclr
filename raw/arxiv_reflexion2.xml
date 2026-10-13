@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/9SkKIdFLBUwMfYBQnAPgr8MzGl4</id>
+  <title>arXiv Query: search_query=all:"Reflexion" AND all:"language agents"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-09-16T09:27:48Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=all:%22Reflexion%22+AND+all:%22language+agents%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>7</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2303.11366v4</id>
+    <title>Reflexion: Language Agents with Verbal Reinforcement Learning</title>
+    <updated>2023-10-10T05:21:45Z</updated>
+    <link href="https://arxiv.org/abs/2303.11366v4" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2303.11366v4" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large language models (LLMs) have been increasingly used to interact with external environments (e.g., games, compilers, APIs) as goal-driven agents. However, it remains challenging for these language agents to quickly and efficiently learn from trial-and-error as traditional reinforcement learning methods require extensive training samples and expensive model fine-tuning. We propose Reflexion, a novel framework to reinforce language agents not by updating weights, but instead through linguistic feedback. Concretely, Reflexion agents verbally reflect on task feedback signals, then maintain their own reflective text in an episodic memory buffer to induce better decision-making in subsequent trials. Reflexion is flexible enough to incorporate various types (scalar values or free-form language) and sources (external or internally simulated) of feedback signals, and obtains significant improvements over a baseline agent across diverse tasks (sequential decision-making, coding, language reasoning). For example, Reflexion achieves a 91% pass@1 accuracy on the HumanEval coding benchmark, surpassing the previous state-of-the-art GPT-4 that achieves 80%. We also conduct ablation and analysis studies using different feedback signals, feedback incorporation methods, and agent types, and provide insights into how they affect performance.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-03-20T18:08:50Z</published>
+    <arxiv:comment>v4 contains a few additional experiments</arxiv:comment>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Noah Shinn</name>
+    </author>
+    <author>
+      <name>Federico Cassano</name>
+    </author>
+    <author>
+      <name>Edward Berman</name>
+    </author>
+    <author>
+      <name>Ashwin Gopinath</name>
+    </author>
+    <author>
+      <name>Karthik Narasimhan</name>
+    </author>
+    <author>
+      <name>Shunyu Yao</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2310.10134v1</id>
+    <title>CLIN: A Continually Learning Language Agent for Rapid Task Adaptation and Generalization</title>
+    <updated>2023-10-16T07:17:27Z</updated>
+    <link href="https://arxiv.org/abs/2310.10134v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2310.10134v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Language agents have shown some ability to interact with an external environment, e.g., a virtual world such as ScienceWorld, to perform complex tasks, e.g., growing a plant, without the startup costs of reinforcement learning. However, despite their zero-shot capabilities, these agents to date do not continually improve over time beyond performance refinement on a specific task. Here we present CLIN, the first language-based agent to achieve this, so that it continually improves over multiple trials, including when both the environment and task are varied, and without requiring parameter updates. Our approach is to use a persistent, dynamic, textual memory centered on causal abstractions (rather than general "helpful hints") that is regularly updated after each trial so that the agent gradually learns useful knowledge for new trials. In the ScienceWorld benchmark, CLIN is able to continually improve on repeated trials on the same task and environment, outperforming state-of-the-art reflective language agents like Reflexion by 23 absolute points. CLIN can also transfer its learning to new environments (or new tasks), improving its zero-shot performance by 4 points (13 for new tasks) and can further improve performance there through continual memory updates, enhancing performance by an additional 17 points (7 for new tasks). This suggests a new architecture for agents built on frozen models that can still continually and rapidly improve over time.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-10-16T07:17:27Z</published>
+    <arxiv:comment>Project page: https://allenai.github.io/clin/</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Bodhisattwa Prasad Majumder</name>
+    </author>
+    <author>
+      <name>Bhavana Dalvi Mishra</name>
+    </author>
+    <author>
+      <name>Peter Jansen</name>
+    </author>
+    <author>
+      <name>Oyvind Tafjord</name>
+    </author>
+    <author>
+      <name>Niket Tandon</name>
+    </author>
+    <author>
+      <name>Li Zhang</name>
+    </author>
+    <author>
+      <name>Chris Callison-Burch</name>
+    </author>
+    <author>
+      <name>Peter Clark</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2402.09052v1</id>
+    <title>L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects</title>
+    <updated>2024-02-14T09:51:05Z</updated>
+    <link href="https://arxiv.org/abs/2402.09052v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2402.09052v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Diffusion-based image generation models such as DALL-E 3 and Stable Diffusion-XL demonstrate remarkable capabilities in generating images with realistic and unique compositions. Yet, these models are not robust in precisely reasoning about physical and spatial configurations of objects, especially when instructed with unconventional, thereby out-of-distribution descriptions, such as "a chair with five legs". In this paper, we propose a language agent with chain-of-3D-thoughts (L3GO), an inference-time approach that can reason about part-based 3D mesh generation of unconventional objects that current data-driven diffusion models struggle with. More concretely, we use large language models as agents to compose a desired object via trial-and-error within the 3D simulation environment. To facilitate our investigation, we develop a new benchmark, Unconventionally Feasible Objects (UFO), as well as SimpleBlenv, a wrapper environment built on top of Blender where language agents can build and compose atomic building blocks via API calls. Human and automatic GPT-4V evaluations show that our approach surpasses the standard GPT-4 and other language agents (e.g., ReAct and Reflexion) for 3D mesh generation on ShapeNet. Moreover, when tested on our UFO benchmark, our approach outperforms other state-of-the-art text-to-2D image and text-to-3D models based on human evaluation.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-02-14T09:51:05Z</published>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Yutaro Yamada</name>
+    </author>
+    <author>
+      <name>Khyathi Chandu</name>
+    </author>
+    <author>
+      <name>Yuchen Lin</name>
+    </author>
+    <author>
+      <name>Jack Hessel</name>
+    </author>
+    <author>
+      <name>Ilker Yildirim</name>
+    </author>
+    <author>
+      <name>Yejin Choi</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2607.12267v1</id>
+    <title>Track, Rank, Crack: Epistemic Working Memory Scales Multi-Hop Reasoning in Language Agents</title>
+    <updated>2026-07-14T02:10:46Z</updated>
+    <link href="https://arxiv.org/abs/2607.12267v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2607.12267v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Language agents that interleave reasoning and tool use degrade sharply as reasoning chains lengthen, even when each individual step is easy. We trace this to context dilution: an agent's investigative state (what it has confirmed, what it suspects, and what it still needs) lives only implicitly in a growing context window, where early discoveries are buried under later retrievals. We introduce SLEUTH, which makes this state explicit and actionable through a structured epistemic working memory: the agent maintains Confirmed Facts grounded to sources, Active Hypotheses ranked by evidence, and Open Questions that directly drive its next action. Across five multi-hop benchmarks and five established baselines, SLEUTH's advantage grows with difficulty, from +5 points on HotpotQA to +11 on 4-hop chains, surpassing Reflexion without multiple episodes. Analyzing where the remaining gap lies, we identify the evidence sufficiency problem: agents often find the answer but fail to commit, exhausting their budget on needless verification. A lightweight commitment trigger fixes this, but only when the agent already maintains structured state: the identical trigger applied to an unstructured agent yields no improvement, isolating organized epistemic state as the necessary condition for effective commitment. Finally, enforcing protocol adherence on a weaker model recovers up to +19 points on the hardest problems, showing that how an agent organizes its reasoning, not raw model capability, is the active ingredient for scaling multi-hop reasoning.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-07-14T02:10:46Z</published>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Ning Liu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2609.12404v1</id>
+    <title>VRL-Bench: Benchmarking agents on computer control tasks under finite trial budgets</title>
+    <updated>2026-09-11T03:54:02Z</updated>
+    <link href="https://arxiv.org/abs/2609.12404v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2609.12404v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Learning from trial and error is a promising way to improve language agents on complex tasks such as computer control. Reflexion introduced verbal reinforcement learning, which turns failed trials into text that guides later attempts without updating model parameters. We introduce VRL-Bench, a harness for fair evaluation of trial-and-error learning under finite trial budgets. Across three models on MiniWoB and WebShop, we evaluate updates from several prominent verbal-memory methods spanning Reflexion and later work: each improves observed success over memory-free retry in some settings but reduces it in others. Replay experiments show that using reflection can reduce success rates, revealing a trade-off between exploiting experience and continued exploration. We propose VEX$^2$, a verbal exploration--exploitation scheduler that uses a language model to jointly select policies and allocate the remaining trial budget. VEX$^2$ is the only evaluated update to achieve positive observed success-rate gains over retry in all six settings.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-09-11T03:54:02Z</published>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Yu Bai</name>
+    </author>
+    <author>
+      <name>Yukai Miao</name>
+    </author>
+    <author>
+      <name>Dawei Wang</name>
+    </author>
+    <author>
+      <name>Li Chen</name>
+    </author>
+    <author>
+      <name>Yanyu Ren</name>
+    </author>
+    <author>
+      <name>Yuqian Shi</name>
+    </author>
+    <author>
+      <name>Dan Li</name>
+    </author>
+    <author>
+      <name>Ying Xiong</name>
+    </author>
+    <author>
+      <name>Chengqiu Tan</name>
+    </author>
+    <author>
+      <name>Run Zhou</name>
+    </author>
+    <author>
+      <name>Li Li</name>
+    </author>
+  </entry>
+</feed>

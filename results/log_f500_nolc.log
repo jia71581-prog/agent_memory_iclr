@@ -1,0 +1,10 @@
+qc_no_lifecycle: total 500, done 500, todo 0
+=== qc_no_lifecycle full500 ===
+knowledge-update             n= 78 acc=0.923
+multi-session                n=133 acc=0.647
+single-session-assistant     n= 56 acc=0.964
+single-session-preference    n= 30 acc=0.500
+single-session-user          n= 70 acc=0.986
+temporal-reasoning           n=133 acc=0.805
+TOTAL n=500 acc=0.806
+FULL500 qc_no_lifecycle DONE

@@ -1,0 +1,221 @@
+{
+ "6cb6f249": {
+  "mode": "current",
+  "view_chars": 19997,
+  "raw_chars": 26288,
+  "blk_chars": 2707,
+  "gold": "17 days",
+  "probes": {
+   "10-day": {
+    "v4_view": false,
+    "v4_raw": false,
+    "v5_view": false,
+    "v5_block": true
+   },
+   "10 day": {
+    "v4_view": false,
+    "v4_raw": false,
+    "v5_view": false,
+    "v5_block": false
+   },
+   "ten-day": {
+    "v4_view": false,
+    "v4_raw": false,
+    "v5_view": false,
+    "v5_block": false
+   },
+   "week-long": {
+    "v4_view": false,
+    "v4_raw": true,
+    "v5_view": false,
+    "v5_block": true
+   },
+   "week long": {
+    "v4_view": false,
+    "v4_raw": false,
+    "v5_view": false,
+    "v5_block": false
+   }
+  }
+ },
+ "0a995998": {
+  "mode": "current",
+  "view_chars": 19908,
+  "raw_chars": 30169,
+  "blk_chars": 3909,
+  "gold": "3",
+  "probes": {
+   "dry cleaning": {
+    "v4_view": false,
+    "v4_raw": true,
+    "v5_view": true,
+    "v5_block": true
+   },
+   "exchanged boots": {
+    "v4_view": true,
+    "v4_raw": false,
+    "v5_view": true,
+    "v5_block": true
+   },
+   "Zara": {
+    "v4_view": true,
+    "v4_raw": true,
+    "v5_view": true,
+    "v5_block": true
+   },
+   "H&M": {
+    "v4_view": false,
+    "v4_raw": true,
+    "v5_view": false,
+    "v5_block": true
+   }
+  }
+ },
+ "46a3abf7": {
+  "mode": "current",
+  "view_chars": 19941,
+  "raw_chars": 6888,
+  "blk_chars": 2024,
+  "gold": "3",
+  "probes": {
+   "5-gallon": {
+    "v4_view": true,
+    "v4_raw": true,
+    "v5_view": true,
+    "v5_block": true
+   },
+   "20-gallon": {
+    "v4_view": true,
+    "v4_raw": true,
+    "v5_view": true,
+    "v5_block": true
+   },
+   "1-gallon": {
+    "v4_view": true,
+    "v4_raw": true,
+    "v5_view": true,
+    "v5_block": true
+   },
+   "cousin": {
+    "v4_view": true,
+    "v4_raw": true,
+    "v5_view": true,
+    "v5_block": true
+   }
+  }
+ },
+ "3a704032": {
+  "mode": "current",
+  "view_chars": 19929,
+  "raw_chars": 15640,
+  "blk_chars": 2822,
+  "gold": "3",
+  "probes": {
+   "succulent": {
+    "v4_view": true,
+    "v4_raw": false,
+    "v5_view": true,
+    "v5_block": true
+   },
+   "peace lily": {
+    "v4_view": true,
+    "v4_raw": false,
+    "v5_view": true,
+    "v5_block": true
+   },
+   "snake plant": {
+    "v4_view": true,
+    "v4_raw": true,
+    "v5_view": true,
+    "v5_block": true
+   },
+   "two weeks ago": {
+    "v4_view": true,
+    "v4_raw": false,
+    "v5_view": true,
+    "v5_block": true
+   }
+  }
+ },
+ "88432d0a": {
+  "mode": "current",
+  "view_chars": 19956,
+  "raw_chars": 18780,
+  "blk_chars": 3772,
+  "gold": "4",
+  "probes": {
+   "chicken wings": {
+    "v4_view": true,
+    "v4_raw": false,
+    "v5_view": true,
+    "v5_block": true
+   },
+   "sourdough": {
+    "v4_view": true,
+    "v4_raw": true,
+    "v5_view": true,
+    "v5_block": true
+   },
+   "chocolate cake": {
+    "v4_view": true,
+    "v4_raw": true,
+    "v5_view": true,
+    "v5_block": true
+   },
+   "cookies": {
+    "v4_view": true,
+    "v4_raw": true,
+    "v5_view": true,
+    "v5_block": true
+   }
+  }
+ },
+ "6d550036": {
+  "mode": "current",
+  "view_chars": 19909,
+  "raw_chars": 24421,
+  "blk_chars": 1930,
+  "gold": "2",
+  "probes": {
+   "Marketing Research": {
+    "v4_view": true,
+    "v4_raw": true,
+    "v5_view": true,
+    "v5_block": true
+   },
+   "high-priority": {
+    "v4_view": true,
+    "v4_raw": true,
+    "v5_view": true,
+    "v5_block": true
+   }
+  }
+ },
+ "1a8a66a6": {
+  "mode": "current",
+  "view_chars": 19995,
+  "raw_chars": 11419,
+  "blk_chars": 917,
+  "gold": "2",
+  "probes": {
+   "New Yorker": {
+    "v4_view": true,
+    "v4_raw": true,
+    "v5_view": true,
+    "v5_block": true
+   },
+   "Architectural Digest": {
+    "v4_view": true,
+    "v4_raw": false,
+    "v5_view": true,
+    "v5_block": true
+   },
+   "Forbes": {
+    "v4_view": true,
+    "v4_raw": true,
+    "v5_view": true,
+    "v5_block": true
+   }
+  }
+ }
+}

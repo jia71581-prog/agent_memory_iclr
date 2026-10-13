@@ -1,0 +1,1500 @@
+[
+ {
+  "qid": "gpt4_f49edff3",
+  "question": "Which three events happened in the order from first to last: the day I helped my friend prepare the nursery, the day I helped my cousin pick out stuff for her baby shower, and the day I ordered a customized phone case for my friend's birthday?",
+  "gold": "First, I helped my friend prepare the nursery, then I helped my cousin pick out stuff for her baby shower, and lastly, I ordered a customized phone case for my friend's birthday.",
+  "n_items": 3,
+  "cands": [
+   "helped my friend prepare the nursery",
+   "helped my cousin pick out stuff for her baby shower",
+   "ordered a customized phone case for my friend's birthday"
+  ],
+  "gseq": [
+   "helped my friend prepare the nursery",
+   "helped my cousin pick out stuff for her baby shower",
+   "ordered a customized phone case for my friend's birthday"
+  ],
+  "dates": {
+   "helped my friend prepare the nursery": "2023/02/05",
+   "helped my cousin pick out stuff for her baby shower": "2023/02/10",
+   "ordered a customized phone case for my friend's birthday": "2023/02/20"
+  },
+  "got": [
+   "helped my friend prepare the nursery",
+   "helped my cousin pick out stuff for her baby shower",
+   "ordered a customized phone case for my friend's birthday"
+  ],
+  "tie": false,
+  "verdict": true,
+  "b_first": null,
+  "b_last": null,
+  "ans_dates": [
+   "2023/02/05",
+   "2023/02/10",
+   "2023/02/20"
+  ],
+  "uniq_ans": 3,
+  "n_ans_sessions": 3,
+  "dates_present": 1.0,
+  "n_events": 26,
+  "miss": 0,
+  "chars": 6630
+ },
+ {
+  "qid": "gpt4_4929293a",
+  "question": "Which event happened first, my cousin's wedding or Michael's engagement party?",
+  "gold": "Michael's engagement party",
+  "n_items": 2,
+  "cands": [
+   "my cousin's wedding",
+   "Michael's engagement party"
+  ],
+  "gseq": [
+   "Michael's engagement party"
+  ],
+  "dates": {
+   "my cousin's wedding": "2023/06/15",
+   "Michael's engagement party": "2023/05/06"
+  },
+  "got": [
+   "Michael's engagement party",
+   "my cousin's wedding"
+  ],
+  "tie": false,
+  "verdict": true,
+  "b_first": false,
+  "b_last": true,
+  "ans_dates": [
+   "2023/05/06",
+   "2023/06/15"
+  ],
+  "uniq_ans": 2,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 13,
+  "miss": 0,
+  "chars": 3128
+ },
+ {
+  "qid": "gpt4_7f6b06db",
+  "question": "What is the order of the three trips I took in the past three months, from earliest to latest?",
+  "gold": "I went on a day hike to Muir Woods National Monument with my family, then I went on a road trip with friends to Big Sur and Monterey, and finally I started my solo camping trip to Yosemite National Park.",
+  "n_items": 3,
+  "cands": [
+   "went on a day hike to Muir Woods National Monument with my family",
+   "went on a road trip with friends to Big Sur and Monterey",
+   "started my solo camping trip to Yosemite National Park"
+  ],
+  "gseq": [
+   "went on a day hike to Muir Woods National Monument with my family",
+   "went on a road trip with friends to Big Sur and Monterey",
+   "started my solo camping trip to Yosemite National Park"
+  ],
+  "dates": {
+   "went on a day hike to Muir Woods National Monument with my family": null,
+   "went on a road trip with friends to Big Sur and Monterey": null,
+   "started my solo camping trip to Yosemite National Park": "2023/02/20"
+  },
+  "got": null,
+  "tie": null,
+  "verdict": null,
+  "b_first": null,
+  "b_last": null,
+  "ans_dates": [
+   "2023/03/10",
+   "2023/04/20",
+   "2023/05/15"
+  ],
+  "uniq_ans": 3,
+  "n_ans_sessions": 3,
+  "dates_present": 0.6666666666666666,
+  "n_events": 26,
+  "miss": 0,
+  "chars": 7260
+ },
+ {
+  "qid": "gpt4_18c2b244",
+  "question": "What is the order of the three events: 'I signed up for the rewards program at ShopRite', 'I used a Buy One Get One Free coupon on Luvs diapers at Walmart', and 'I redeemed $12 cashback for a $10 Amazon gift card from Ibotta'?",
+  "gold": "First, I used a Buy One Get One Free coupon on Luvs diapers at Walmart. Then, I redeemed $12 cashback for a $10 Amazon gift card from Ibotta. Finally, I signed up for the rewards program at ShopRite.",
+  "n_items": 3,
+  "cands": [
+   "used a Buy One Get One Free coupon on Luvs diapers at Walmart. Then",
+   "redeemed $12 cashback for a $10 Amazon gift card from Ibotta. Finally",
+   "signed up for the rewards program at ShopRite"
+  ],
+  "gseq": [
+   "used a Buy One Get One Free coupon on Luvs diapers at Walmart. Then",
+   "redeemed $12 cashback for a $10 Amazon gift card from Ibotta. Finally",
+   "signed up for the rewards program at ShopRite"
+  ],
+  "dates": {
+   "used a Buy One Get One Free coupon on Luvs diapers at Walmart. Then": "2023/04/01",
+   "redeemed $12 cashback for a $10 Amazon gift card from Ibotta. Finally": "2023/04/10",
+   "signed up for the rewards program at ShopRite": "2023/04/01"
+  },
+  "got": [
+   "used a Buy One Get One Free coupon on Luvs diapers at Walmart. Then",
+   "signed up for the rewards program at ShopRite",
+   "redeemed $12 cashback for a $10 Amazon gift card from Ibotta. Finally"
+  ],
+  "tie": true,
+  "verdict": false,
+  "b_first": null,
+  "b_last": null,
+  "ans_dates": [
+   "2023/04/01",
+   "2023/04/10",
+   "2023/04/15"
+  ],
+  "uniq_ans": 3,
+  "n_ans_sessions": 3,
+  "dates_present": 1.0,
+  "n_events": 26,
+  "miss": 0,
+  "chars": 6859
+ },
+ {
+  "qid": "gpt4_7abb270c",
+  "question": "What is the order of the six museums I visited from earliest to latest?",
+  "gold": "Science Museum, Museum of Contemporary Art, Metropolitan Museum of Art, Museum of History, Modern Art Museum, Natural History Museum",
+  "n_items": 6,
+  "cands": [
+   "Science Museum",
+   "Museum of Contemporary Art",
+   "Metropolitan Museum of Art",
+   "Museum of History",
+   "Modern Art Museum",
+   "Natural History Museum"
+  ],
+  "gseq": [
+   "Science Museum",
+   "Museum of Contemporary Art",
+   "Metropolitan Museum of Art",
+   "Museum of History",
+   "Modern Art Museum",
+   "Natural History Museum"
+  ],
+  "dates": {
+   "Science Museum": null,
+   "Museum of Contemporary Art": "2023/02/20",
+   "Metropolitan Museum of Art": "2023/02/10",
+   "Museum of History": null,
+   "Modern Art Museum": "2023/02/20",
+   "Natural History Museum": null
+  },
+  "got": null,
+  "tie": null,
+  "verdict": null,
+  "b_first": null,
+  "b_last": null,
+  "ans_dates": [
+   "2023/01/15",
+   "2023/01/22",
+   "2023/02/10",
+   "2023/02/15",
+   "2023/02/20",
+   "2023/03/04"
+  ],
+  "uniq_ans": 6,
+  "n_ans_sessions": 6,
+  "dates_present": 0.8333333333333334,
+  "n_events": 26,
+  "miss": 0,
+  "chars": 6147
+ },
+ {
+  "qid": "gpt4_45189cb4",
+  "question": "What is the order of the sports events I watched in January?",
+  "gold": "First, I attended a NBA game at the Staples Center, then I watched the College Football National Championship game, and finally, I watched the NFL playoffs.",
+  "n_items": 3,
+  "cands": [
+   "attended a NBA game at the Staples Center",
+   "watched the College Football National Championship game",
+   "watched the NFL playoffs"
+  ],
+  "gseq": [
+   "attended a NBA game at the Staples Center",
+   "watched the College Football National Championship game",
+   "watched the NFL playoffs"
+  ],
+  "dates": {
+   "attended a NBA game at the Staples Center": null,
+   "watched the College Football National Championship game": "2023/01/14",
+   "watched the NFL playoffs": "2023/01/21"
+  },
+  "got": null,
+  "tie": null,
+  "verdict": null,
+  "b_first": null,
+  "b_last": null,
+  "ans_dates": [
+   "2023/01/05",
+   "2023/01/15",
+   "2023/01/22"
+  ],
+  "uniq_ans": 3,
+  "n_ans_sessions": 3,
+  "dates_present": 1.0,
+  "n_events": 17,
+  "miss": 0,
+  "chars": 4633
+ },
+ {
+  "qid": "gpt4_e061b84f",
+  "question": "What is the order of the three sports events I participated in during the past month, from earliest to latest?",
+  "gold": "I first completed the Spring Sprint Triathlon, then took part in the Midsummer 5K Run, and finally participated in the company's annual charity soccer tournament.",
+  "n_items": 3,
+  "cands": [
+   "first completed the Spring Sprint Triathlon",
+   "took part in the Midsummer 5K Run",
+   "participated in the company's annual charity soccer tournament"
+  ],
+  "gseq": [
+   "first completed the Spring Sprint Triathlon",
+   "took part in the Midsummer 5K Run",
+   "participated in the company's annual charity soccer tournament"
+  ],
+  "dates": {
+   "first completed the Spring Sprint Triathlon": null,
+   "took part in the Midsummer 5K Run": null,
+   "participated in the company's annual charity soccer tournament": "2023/06/17"
+  },
+  "got": null,
+  "tie": null,
+  "verdict": null,
+  "b_first": null,
+  "b_last": null,
+  "ans_dates": [
+   "2023/06/02",
+   "2023/06/10",
+   "2023/06/17"
+  ],
+  "uniq_ans": 3,
+  "n_ans_sessions": 3,
+  "dates_present": 1.0,
+  "n_events": 26,
+  "miss": 0,
+  "chars": 6765
+ },
+ {
+  "qid": "gpt4_d6585ce8",
+  "question": "What is the order of the concerts and musical events I attended in the past two months, starting from the earliest?",
+  "gold": "The order of the concerts I attended is: 1. Billie Eilish concert at the Wells Fargo Center in Philly, 2. Free outdoor concert series in the park, 3. Music festival in Brooklyn, 4. Jazz night at a local bar, 5. Queen + Adam Lambert concert at the Prudential Center in Newark, NJ.",
+  "n_items": 5,
+  "cands": [
+   "Billie Eilish concert at the Wells Fargo Center in Philly",
+   "Free outdoor concert series in the park",
+   "Music festival in Brooklyn",
+   "Jazz night at a local bar",
+   "Queen + Adam Lambert concert at the Prudential Center in Newark"
+  ],
+  "gseq": [
+   "Billie Eilish concert at the Wells Fargo Center in Philly",
+   "Free outdoor concert series in the park",
+   "Music festival in Brooklyn",
+   "Jazz night at a local bar",
+   "Queen + Adam Lambert concert at the Prudential Center in Newark"
+  ],
+  "dates": {
+   "Billie Eilish concert at the Wells Fargo Center in Philly": "2023/03/18",
+   "Free outdoor concert series in the park": "2023/03/25",
+   "Music festival in Brooklyn": null,
+   "Jazz night at a local bar": "2023/04/01",
+   "Queen + Adam Lambert concert at the Prudential Center in Newark": "2023/04/15"
+  },
+  "got": null,
+  "tie": null,
+  "verdict": null,
+  "b_first": null,
+  "b_last": null,
+  "ans_dates": [
+   "2023/03/18",
+   "2023/03/25",
+   "2023/04/01",
+   "2023/04/08",
+   "2023/04/15"
+  ],
+  "uniq_ans": 5,
+  "n_ans_sessions": 5,
+  "dates_present": 1.0,
+  "n_events": 26,
+  "miss": 0,
+  "chars": 6591
+ },
+ {
+  "qid": "gpt4_ec93e27f",
+  "question": "Which mode of transport did I use most recently, a bus or a train?",
+  "gold": "train",
+  "n_items": 2,
+  "cands": [
+   "a bus",
+   "a train"
+  ],
+  "gseq": [
+   "train"
+  ],
+  "dates": {
+   "a bus": "2023/01/31",
+   "a train": "2023/03/03"
+  },
+  "got": [
+   "a bus",
+   "a train"
+  ],
+  "tie": false,
+  "verdict": false,
+  "b_first": false,
+  "b_last": true,
+  "ans_dates": [
+   "2023/02/27",
+   "2023/03/03"
+  ],
+  "uniq_ans": 2,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 26,
+  "miss": 0,
+  "chars": 6502
+ },
+ {
+  "qid": "gpt4_f420262c",
+  "question": "What is the order of airlines I flew with from earliest to latest before today?",
+  "gold": "JetBlue, Delta, United, American Airlines",
+  "n_items": 4,
+  "cands": [
+   "JetBlue",
+   "Delta",
+   "United",
+   "American Airlines"
+  ],
+  "gseq": [
+   "JetBlue",
+   "Delta",
+   "United",
+   "American Airlines"
+  ],
+  "dates": {
+   "JetBlue": null,
+   "Delta": "2023/01/15",
+   "United": "2023/01/28",
+   "American Airlines": "2023/01/15"
+  },
+  "got": null,
+  "tie": null,
+  "verdict": null,
+  "b_first": null,
+  "b_last": null,
+  "ans_dates": [
+   "2022/11/17",
+   "2023/01/15",
+   "2023/01/28",
+   "2023/02/10",
+   "2023/02/14"
+  ],
+  "uniq_ans": 5,
+  "n_ans_sessions": 5,
+  "dates_present": 1.0,
+  "n_events": 23,
+  "miss": 0,
+  "chars": 5811
+ },
+ {
+  "qid": "gpt4_98f46fc6",
+  "question": "Which event did I participate in first, the charity gala or the charity bake sale?",
+  "gold": "I participated in the charity bake sale first.",
+  "n_items": 2,
+  "cands": [
+   "charity gala",
+   "charity bake sale"
+  ],
+  "gseq": [
+   "participated in the charity bake sale first"
+  ],
+  "dates": {
+   "charity gala": "2023/03/28",
+   "charity bake sale": "2023/03/15"
+  },
+  "got": [
+   "charity bake sale",
+   "charity gala"
+  ],
+  "tie": false,
+  "verdict": true,
+  "b_first": false,
+  "b_last": true,
+  "ans_dates": [
+   "2023/03/15",
+   "2023/03/28"
+  ],
+  "uniq_ans": 2,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 17,
+  "miss": 0,
+  "chars": 4377
+ },
+ {
+  "qid": "gpt4_68e94287",
+  "question": "Which event happened first, my participation in the #PlankChallenge or my post about vegan chili recipe?",
+  "gold": "You posted a recipe for vegan chili on Instagram using the hashtag #FoodieAdventures first.",
+  "n_items": 2,
+  "cands": [
+   "my participation in the #PlankChallenge",
+   "my post about vegan chili recipe"
+  ],
+  "gseq": [
+   "You posted a recipe for vegan chili on Instagram using the hashtag #FoodieAdventures first"
+  ],
+  "dates": {
+   "my participation in the #PlankChallenge": null,
+   "my post about vegan chili recipe": "2023/03/09"
+  },
+  "got": null,
+  "tie": null,
+  "verdict": null,
+  "b_first": null,
+  "b_last": null,
+  "ans_dates": [
+   "2023/03/10",
+   "2023/03/15"
+  ],
+  "uniq_ans": 2,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 17,
+  "miss": 0,
+  "chars": 4348
+ },
+ {
+  "qid": "gpt4_7ca326fa",
+  "question": "Who graduated first, second and third among Emma, Rachel and Alex?",
+  "gold": "Emma graduated first, followed by Rachel and then Alex.",
+  "n_items": 3,
+  "cands": [
+   "Emma graduated first",
+   "followed by Rachel and",
+   "Alex"
+  ],
+  "gseq": [
+   "Emma graduated first",
+   "followed by Rachel and",
+   "Alex"
+  ],
+  "dates": {
+   "Emma graduated first": "2022/05/28",
+   "followed by Rachel and": null,
+   "Alex": "2022/07/01"
+  },
+  "got": null,
+  "tie": null,
+  "verdict": null,
+  "b_first": null,
+  "b_last": null,
+  "ans_dates": [
+   "2022/05/28",
+   "2022/06/22",
+   "2022/07/15"
+  ],
+  "uniq_ans": 3,
+  "n_ans_sessions": 3,
+  "dates_present": 1.0,
+  "n_events": 26,
+  "miss": 0,
+  "chars": 6591
+ },
+ {
+  "qid": "gpt4_2487a7cb",
+  "question": "Which event did I attend first, the 'Effective Time Management' workshop or the 'Data Analysis using Python' webinar?",
+  "gold": "'Data Analysis using Python' webinar",
+  "n_items": 2,
+  "cands": [
+   "Effective Time Management' workshop",
+   "Data Analysis using Python' webinar"
+  ],
+  "gseq": [
+   "Data Analysis using Python' webinar"
+  ],
+  "dates": {
+   "Effective Time Management' workshop": "2023/05/20",
+   "Data Analysis using Python' webinar": "2023/03/24"
+  },
+  "got": [
+   "Data Analysis using Python' webinar",
+   "Effective Time Management' workshop"
+  ],
+  "tie": false,
+  "verdict": true,
+  "b_first": false,
+  "b_last": true,
+  "ans_dates": [
+   "2023/05/24"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 7,
+  "miss": 0,
+  "chars": 2401
+ },
+ {
+  "qid": "gpt4_76048e76",
+  "question": "Which vehicle did I take care of first in February, the bike or the car?",
+  "gold": "bike",
+  "n_items": 3,
+  "cands": [
+   "in February",
+   "bike",
+   "car"
+  ],
+  "gseq": [
+   "bike"
+  ],
+  "dates": {
+   "in February": "2023/02/15",
+   "bike": "2023/02/15",
+   "car": "2023/03/10"
+  },
+  "got": [
+   "in February",
+   "bike",
+   "car"
+  ],
+  "tie": true,
+  "verdict": false,
+  "b_first": false,
+  "b_last": false,
+  "ans_dates": [
+   "2023/03/10"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 8,
+  "miss": 0,
+  "chars": 2630
+ },
+ {
+  "qid": "gpt4_2312f94c",
+  "question": "Which device did I got first, the Samsung Galaxy S22 or the Dell XPS 13?",
+  "gold": "Samsung Galaxy S22",
+  "n_items": 2,
+  "cands": [
+   "Samsung Galaxy S22",
+   "Dell XPS 13"
+  ],
+  "gseq": [
+   "Samsung Galaxy S22"
+  ],
+  "dates": {
+   "Samsung Galaxy S22": "2023/02/20",
+   "Dell XPS 13": "2023/03/15"
+  },
+  "got": [
+   "Samsung Galaxy S22",
+   "Dell XPS 13"
+  ],
+  "tie": false,
+  "verdict": true,
+  "b_first": true,
+  "b_last": false,
+  "ans_dates": [
+   "2023/03/15"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 8,
+  "miss": 0,
+  "chars": 2591
+ },
+ {
+  "qid": "gpt4_385a5000",
+  "question": "Which seeds were started first, the tomatoes or the marigolds?",
+  "gold": "Tomatoes",
+  "n_items": 2,
+  "cands": [
+   "tomatoes",
+   "marigolds"
+  ],
+  "gseq": [
+   "Tomatoes"
+  ],
+  "dates": {
+   "tomatoes": "2023/02/20",
+   "marigolds": "2023/03/03"
+  },
+  "got": [
+   "tomatoes",
+   "marigolds"
+  ],
+  "tie": false,
+  "verdict": true,
+  "b_first": true,
+  "b_last": false,
+  "ans_dates": [
+   "2023/03/10"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 8,
+  "miss": 0,
+  "chars": 2649
+ },
+ {
+  "qid": "gpt4_0b2f1d21",
+  "question": "Which event happened first, the purchase of the coffee maker or the malfunction of the stand mixer?",
+  "gold": "The malfunction of the stand mixer",
+  "n_items": 2,
+  "cands": [
+   "purchase of the coffee maker",
+   "malfunction of the stand mixer"
+  ],
+  "gseq": [
+   "malfunction of the stand mixer"
+  ],
+  "dates": {
+   "purchase of the coffee maker": "2023/05/25",
+   "malfunction of the stand mixer": "2023/05/25"
+  },
+  "got": [
+   "purchase of the coffee maker",
+   "malfunction of the stand mixer"
+  ],
+  "tie": true,
+  "verdict": false,
+  "b_first": false,
+  "b_last": true,
+  "ans_dates": [
+   "2023/05/25"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 4,
+  "miss": 0,
+  "chars": 978
+ },
+ {
+  "qid": "gpt4_6ed717ea",
+  "question": "Which item did I purchase first, the dog bed for Max or the training pads for Luna?",
+  "gold": "Training pads for Luna",
+  "n_items": 2,
+  "cands": [
+   "dog bed for Max",
+   "training pads for Luna"
+  ],
+  "gseq": [
+   "Training pads for Luna"
+  ],
+  "dates": {
+   "dog bed for Max": "2023/05/08",
+   "training pads for Luna": "2023/05/29"
+  },
+  "got": [
+   "dog bed for Max",
+   "training pads for Luna"
+  ],
+  "tie": false,
+  "verdict": false,
+  "b_first": false,
+  "b_last": true,
+  "ans_dates": [
+   "2023/05/29"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 6,
+  "miss": 0,
+  "chars": 1619
+ },
+ {
+  "qid": "gpt4_70e84552",
+  "question": "Which task did I complete first, fixing the fence or trimming the goats' hooves?",
+  "gold": "Fixing the fence",
+  "n_items": 2,
+  "cands": [
+   "fixing the fence",
+   "trimming the goats' hooves"
+  ],
+  "gseq": [
+   "Fixing the fence"
+  ],
+  "dates": {
+   "fixing the fence": null,
+   "trimming the goats' hooves": "2023/05/25"
+  },
+  "got": null,
+  "tie": null,
+  "verdict": null,
+  "b_first": null,
+  "b_last": null,
+  "ans_dates": [
+   "2023/05/25"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 6,
+  "miss": 0,
+  "chars": 1910
+ },
+ {
+  "qid": "gpt4_2d58bcd6",
+  "question": "Which book did I finish reading first, 'The Hate U Give' or 'The Nightingale'?",
+  "gold": "'The Hate U Give'",
+  "n_items": 2,
+  "cands": [
+   "The Hate U Give",
+   "The Nightingale"
+  ],
+  "gseq": [
+   "The Hate U Give"
+  ],
+  "dates": {
+   "The Hate U Give": "2023/05/16",
+   "The Nightingale": "2023/05/27"
+  },
+  "got": [
+   "The Hate U Give",
+   "The Nightingale"
+  ],
+  "tie": false,
+  "verdict": true,
+  "b_first": true,
+  "b_last": false,
+  "ans_dates": [
+   "2023/05/30"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 7,
+  "miss": 0,
+  "chars": 2319
+ },
+ {
+  "qid": "gpt4_65aabe59",
+  "question": "Which device did I set up first, the smart thermostat or the mesh network system?",
+  "gold": "Smart thermostat",
+  "n_items": 2,
+  "cands": [
+   "smart thermostat",
+   "mesh network system"
+  ],
+  "gseq": [
+   "Smart thermostat"
+  ],
+  "dates": {
+   "smart thermostat": "2023/04/25",
+   "mesh network system": "2023/05/25"
+  },
+  "got": [
+   "smart thermostat",
+   "mesh network system"
+  ],
+  "tie": false,
+  "verdict": true,
+  "b_first": true,
+  "b_last": false,
+  "ans_dates": [
+   "2023/05/25"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 5,
+  "miss": 0,
+  "chars": 1628
+ },
+ {
+  "qid": "gpt4_4edbafa2",
+  "question": "What was the date on which I attended the first BBQ event in June?",
+  "gold": "June 3rd",
+  "n_items": 1,
+  "cands": [
+   "June 3rd"
+  ],
+  "gseq": [
+   "June 3rd"
+  ],
+  "dates": {
+   "June 3rd": "2023/06/03"
+  },
+  "got": null,
+  "tie": null,
+  "verdict": null,
+  "b_first": null,
+  "b_last": null,
+  "ans_dates": [
+   "2023/07/01"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 10,
+  "miss": 0,
+  "chars": 3316
+ },
+ {
+  "qid": "gpt4_483dd43c",
+  "question": "Which show did I start watching first, 'The Crown' or 'Game of Thrones'?",
+  "gold": "'Game of Thrones'",
+  "n_items": 2,
+  "cands": [
+   "The Crown",
+   "Game of Thrones"
+  ],
+  "gseq": [
+   "Game of Thrones"
+  ],
+  "dates": {
+   "The Crown": null,
+   "Game of Thrones": "2023/04/29"
+  },
+  "got": null,
+  "tie": null,
+  "verdict": null,
+  "b_first": null,
+  "b_last": null,
+  "ans_dates": [
+   "2023/05/29"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 8,
+  "miss": 0,
+  "chars": 2511
+ },
+ {
+  "qid": "gpt4_b4a80587",
+  "question": "Which event happened first, the road trip to the coast or the arrival of the new prime lens?",
+  "gold": "The arrival of the new prime lens",
+  "n_items": 2,
+  "cands": [
+   "road trip to the coast",
+   "arrival of the new prime lens"
+  ],
+  "gseq": [
+   "arrival of the new prime lens"
+  ],
+  "dates": {
+   "road trip to the coast": "2023/05/16",
+   "arrival of the new prime lens": "2023/05/23"
+  },
+  "got": [
+   "road trip to the coast",
+   "arrival of the new prime lens"
+  ],
+  "tie": false,
+  "verdict": false,
+  "b_first": false,
+  "b_last": true,
+  "ans_dates": [
+   "2023/05/23"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 10,
+  "miss": 0,
+  "chars": 3262
+ },
+ {
+  "qid": "gpt4_8c8961ae",
+  "question": "Which trip did I take first, the one to Europe with family or the solo trip to Thailand?",
+  "gold": "The solo trip to Thailand",
+  "n_items": 2,
+  "cands": [
+   "one to Europe with family",
+   "solo trip to Thailand"
+  ],
+  "gseq": [
+   "solo trip to Thailand"
+  ],
+  "dates": {
+   "one to Europe with family": "2023/05/28",
+   "solo trip to Thailand": "2022/05/28"
+  },
+  "got": [
+   "solo trip to Thailand",
+   "one to Europe with family"
+  ],
+  "tie": false,
+  "verdict": true,
+  "b_first": false,
+  "b_last": true,
+  "ans_dates": [
+   "2023/05/28"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 9,
+  "miss": 0,
+  "chars": 2941
+ },
+ {
+  "qid": "gpt4_d9af6064",
+  "question": "Which device did I set up first, the smart thermostat or the new router?",
+  "gold": "new router",
+  "n_items": 2,
+  "cands": [
+   "smart thermostat",
+   "new router"
+  ],
+  "gseq": [
+   "new router"
+  ],
+  "dates": {
+   "smart thermostat": "2023/02/10",
+   "new router": "2023/01/15"
+  },
+  "got": [
+   "new router",
+   "smart thermostat"
+  ],
+  "tie": false,
+  "verdict": true,
+  "b_first": false,
+  "b_last": true,
+  "ans_dates": [
+   "2023/03/28"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 7,
+  "miss": 0,
+  "chars": 2052
+ },
+ {
+  "qid": "gpt4_7de946e7",
+  "question": "Which health issue did I deal with first, the persistent cough or the skin tag removal?",
+  "gold": "Persistent cough",
+  "n_items": 2,
+  "cands": [
+   "persistent cough",
+   "skin tag removal"
+  ],
+  "gseq": [
+   "Persistent cough"
+  ],
+  "dates": {
+   "persistent cough": "2023/02/28",
+   "skin tag removal": "2023/02/22"
+  },
+  "got": [
+   "skin tag removal",
+   "persistent cough"
+  ],
+  "tie": false,
+  "verdict": false,
+  "b_first": true,
+  "b_last": false,
+  "ans_dates": [
+   "2023/02/28"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 7,
+  "miss": 0,
+  "chars": 2327
+ },
+ {
+  "qid": "gpt4_d31cdae3",
+  "question": "Which trip did the narrator take first, the solo trip to Europe or the family road trip across the American Southwest?",
+  "gold": "The family road trip across the American Southwest",
+  "n_items": 2,
+  "cands": [
+   "solo trip to Europe",
+   "family road trip across the American Southwest"
+  ],
+  "gseq": [
+   "family road trip across the American Southwest"
+  ],
+  "dates": {
+   "solo trip to Europe": "2023/05/22",
+   "family road trip across the American Southwest": "2023/05/22"
+  },
+  "got": [
+   "solo trip to Europe",
+   "family road trip across the American Southwest"
+  ],
+  "tie": true,
+  "verdict": false,
+  "b_first": false,
+  "b_last": true,
+  "ans_dates": [
+   "2023/05/22"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 4,
+  "miss": 0,
+  "chars": 1205
+ },
+ {
+  "qid": "gpt4_88806d6e",
+  "question": "Who did I meet first, Mark and Sarah or Tom?",
+  "gold": "Tom",
+  "n_items": 2,
+  "cands": [
+   "Mark and Sarah",
+   "Tom"
+  ],
+  "gseq": [
+   "Tom"
+  ],
+  "dates": {
+   "Mark and Sarah": "2023/04/28",
+   "Tom": null
+  },
+  "got": null,
+  "tie": null,
+  "verdict": null,
+  "b_first": null,
+  "b_last": null,
+  "ans_dates": [
+   "2023/05/28"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 5,
+  "miss": 0,
+  "chars": 1464
+ },
+ {
+  "qid": "gpt4_93f6379c",
+  "question": "Which group did I join first, 'Page Turners' or 'Marketing Professionals'?",
+  "gold": "Page Turners",
+  "n_items": 2,
+  "cands": [
+   "Page Turners",
+   "Marketing Professionals"
+  ],
+  "gseq": [
+   "Page Turners"
+  ],
+  "dates": {
+   "Page Turners": "2023/05/18",
+   "Marketing Professionals": "2023/05/24"
+  },
+  "got": [
+   "Page Turners",
+   "Marketing Professionals"
+  ],
+  "tie": false,
+  "verdict": true,
+  "b_first": true,
+  "b_last": false,
+  "ans_dates": [
+   "2023/05/25"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 3,
+  "dates_present": 1.0,
+  "n_events": 6,
+  "miss": 0,
+  "chars": 1937
+ },
+ {
+  "qid": "gpt4_2f56ae70",
+  "question": "Which streaming service did I start using most recently?",
+  "gold": "Disney+",
+  "n_items": 1,
+  "cands": [
+   "Disney+"
+  ],
+  "gseq": [
+   "Disney+"
+  ],
+  "dates": {
+   "Disney+": "2023/04/26"
+  },
+  "got": null,
+  "tie": null,
+  "verdict": null,
+  "b_first": null,
+  "b_last": null,
+  "ans_dates": [
+   "2023/05/26"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 3,
+  "dates_present": 1.0,
+  "n_events": 8,
+  "miss": 0,
+  "chars": 2710
+ },
+ {
+  "qid": "gpt4_78cf46a3",
+  "question": "Which event happened first, the narrator losing their phone charger or the narrator receiving their new phone case?",
+  "gold": "Receiving the new phone case",
+  "n_items": 2,
+  "cands": [
+   "narrator losing their phone charger",
+   "narrator receiving their new phone case"
+  ],
+  "gseq": [
+   "Receiving the new phone case"
+  ],
+  "dates": {
+   "narrator losing their phone charger": "2023/05/12",
+   "narrator receiving their new phone case": "2023/04/26"
+  },
+  "got": [
+   "narrator receiving their new phone case",
+   "narrator losing their phone charger"
+  ],
+  "tie": false,
+  "verdict": true,
+  "b_first": false,
+  "b_last": true,
+  "ans_dates": [
+   "2023/05/26"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 8,
+  "miss": 0,
+  "chars": 2470
+ },
+ {
+  "qid": "gpt4_0a05b494",
+  "question": "Who did I meet first, the woman selling jam at the farmer's market or the tourist from Australia?",
+  "gold": "the woman selling jam at the farmer's market",
+  "n_items": 2,
+  "cands": [
+   "woman selling jam at the farmer's market",
+   "tourist from Australia"
+  ],
+  "gseq": [
+   "woman selling jam at the farmer's market"
+  ],
+  "dates": {
+   "woman selling jam at the farmer's market": "2023/05/09",
+   "tourist from Australia": "2023/05/18"
+  },
+  "got": [
+   "woman selling jam at the farmer's market",
+   "tourist from Australia"
+  ],
+  "tie": false,
+  "verdict": true,
+  "b_first": true,
+  "b_last": false,
+  "ans_dates": [
+   "2023/05/23"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 8,
+  "miss": 0,
+  "chars": 2417
+ },
+ {
+  "qid": "gpt4_1a1dc16d",
+  "question": "Which event happened first, the meeting with Rachel or the pride parade?",
+  "gold": "The meeting with Rachel",
+  "n_items": 2,
+  "cands": [
+   "meeting with Rachel",
+   "pride parade"
+  ],
+  "gseq": [
+   "meeting with Rachel"
+  ],
+  "dates": {
+   "meeting with Rachel": "2023/04/10",
+   "pride parade": "2023/05/01"
+  },
+  "got": [
+   "meeting with Rachel",
+   "pride parade"
+  ],
+  "tie": false,
+  "verdict": true,
+  "b_first": true,
+  "b_last": false,
+  "ans_dates": [
+   "2023/05/09"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 7,
+  "miss": 0,
+  "chars": 2295
+ },
+ {
+  "qid": "gpt4_2f584639",
+  "question": "Which gift did I buy first, the necklace for my sister or the photo album for my mom?",
+  "gold": "the photo album for my mom",
+  "n_items": 2,
+  "cands": [
+   "necklace for my sister",
+   "photo album for my mom"
+  ],
+  "gseq": [
+   "photo album for my mom"
+  ],
+  "dates": {
+   "necklace for my sister": "2023/05/30",
+   "photo album for my mom": "2023/05/16"
+  },
+  "got": [
+   "photo album for my mom",
+   "necklace for my sister"
+  ],
+  "tie": false,
+  "verdict": true,
+  "b_first": false,
+  "b_last": true,
+  "ans_dates": [
+   "2023/05/30"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 6,
+  "miss": 0,
+  "chars": 1853
+ },
+ {
+  "qid": "gpt4_213fd887",
+  "question": "Which event did I participate in first, the volleyball league or the charity 5K run to raise money for a local children's hospital?",
+  "gold": "volleyball league",
+  "n_items": 2,
+  "cands": [
+   "volleyball league",
+   "charity 5K run to raise money for a local children's hospital"
+  ],
+  "gseq": [
+   "volleyball league"
+  ],
+  "dates": {
+   "volleyball league": "2023/03/24",
+   "charity 5K run to raise money for a local children's hospital": "2023/04/24"
+  },
+  "got": [
+   "volleyball league",
+   "charity 5K run to raise money for a local children's hospital"
+  ],
+  "tie": false,
+  "verdict": true,
+  "b_first": true,
+  "b_last": false,
+  "ans_dates": [
+   "2023/05/24"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 10,
+  "miss": 0,
+  "chars": 3201
+ },
+ {
+  "qid": "gpt4_5438fa52",
+  "question": "Which event happened first, my attendance at a cultural festival or the start of my Spanish classes?",
+  "gold": "Spanish classes",
+  "n_items": 2,
+  "cands": [
+   "my attendance at a cultural festival",
+   "start of my Spanish classes"
+  ],
+  "gseq": [
+   "Spanish classes"
+  ],
+  "dates": {
+   "my attendance at a cultural festival": "2023/05/26",
+   "start of my Spanish classes": "2023/05/27"
+  },
+  "got": [
+   "my attendance at a cultural festival",
+   "start of my Spanish classes"
+  ],
+  "tie": false,
+  "verdict": false,
+  "b_first": false,
+  "b_last": true,
+  "ans_dates": [
+   "2023/05/27"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 9,
+  "miss": 0,
+  "chars": 3205
+ },
+ {
+  "qid": "gpt4_c27434e8",
+  "question": "Which project did I start first, the Ferrari model or the Japanese Zero fighter plane model?",
+  "gold": "Japanese Zero fighter plane model",
+  "n_items": 2,
+  "cands": [
+   "Ferrari model",
+   "Japanese Zero fighter plane model"
+  ],
+  "gseq": [
+   "Japanese Zero fighter plane model"
+  ],
+  "dates": {
+   "Ferrari model": "2023/04/29",
+   "Japanese Zero fighter plane model": "2023/04/29"
+  },
+  "got": [
+   "Ferrari model",
+   "Japanese Zero fighter plane model"
+  ],
+  "tie": true,
+  "verdict": false,
+  "b_first": false,
+  "b_last": true,
+  "ans_dates": [
+   "2023/05/29"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 7,
+  "miss": 0,
+  "chars": 2165
+ },
+ {
+  "qid": "gpt4_fe651585",
+  "question": "Who became a parent first, Rachel or Alex?",
+  "gold": "Alex",
+  "n_items": 2,
+  "cands": [
+   "Rachel",
+   "Alex"
+  ],
+  "gseq": [
+   "Alex"
+  ],
+  "dates": {
+   "Rachel": "2023/03/17",
+   "Alex": "2023/01/15"
+  },
+  "got": [
+   "Alex",
+   "Rachel"
+  ],
+  "tie": false,
+  "verdict": true,
+  "b_first": false,
+  "b_last": true,
+  "ans_dates": [
+   "2023/03/17"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 7,
+  "miss": 0,
+  "chars": 2154
+ },
+ {
+  "qid": "gpt4_70e84552_abs",
+  "question": "Which task did I complete first, fixing the fence or purchasing three cows from Peter?",
+  "gold": "The information provided is not enough. You mentioned fixing the fence but did not mention purchasing cows from Peter.",
+  "n_items": 2,
+  "cands": [
+   "fixing the fence",
+   "purchasing three cows from Peter"
+  ],
+  "gseq": [
+   "information provided is not enough. You mentioned fixing the fence but did not mention purchasing cows from Peter"
+  ],
+  "dates": {
+   "fixing the fence": null,
+   "purchasing three cows from Peter": null
+  },
+  "got": null,
+  "tie": null,
+  "verdict": null,
+  "b_first": null,
+  "b_last": null,
+  "ans_dates": [
+   "2023/05/21"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 5,
+  "miss": 0,
+  "chars": 1362
+ },
+ {
+  "qid": "gpt4_c27434e8_abs",
+  "question": "Which project did I start first, the Ferrari model or the Porsche 991 Turbo S model?",
+  "gold": "The information provided is not enough. You did not mention starting the Porsche 991 Turbo S model.",
+  "n_items": 2,
+  "cands": [
+   "Ferrari model",
+   "Porsche 991 Turbo S model"
+  ],
+  "gseq": [
+   "information provided is not enough. You did not mention starting the Porsche 991 Turbo S model"
+  ],
+  "dates": {
+   "Ferrari model": "2023/04/23",
+   "Porsche 991 Turbo S model": null
+  },
+  "got": null,
+  "tie": null,
+  "verdict": null,
+  "b_first": null,
+  "b_last": null,
+  "ans_dates": [
+   "2023/05/23"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 7,
+  "miss": 0,
+  "chars": 2130
+ },
+ {
+  "qid": "gpt4_fe651585_abs",
+  "question": "Who became a parent first, Tom or Alex?",
+  "gold": "The information provided is not enough. You mentioned Alex becoming a parent in January, but you didn't mention anything about Tom.",
+  "n_items": 2,
+  "cands": [
+   "Tom",
+   "Alex"
+  ],
+  "gseq": [
+   "information provided is not enough. You mentioned Alex becoming a parent in January"
+  ],
+  "dates": {
+   "Tom": null,
+   "Alex": "2023/01/15"
+  },
+  "got": null,
+  "tie": null,
+  "verdict": null,
+  "b_first": null,
+  "b_last": null,
+  "ans_dates": [
+   "2023/03/17"
+  ],
+  "uniq_ans": 1,
+  "n_ans_sessions": 2,
+  "dates_present": 1.0,
+  "n_events": 6,
+  "miss": 0,
+  "chars": 1612
+ }
+]

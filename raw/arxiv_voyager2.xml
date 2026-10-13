@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/Y/iSqzoIjqPh+kj6i/G2D/SisMo</id>
+  <title>arXiv Query: search_query=ti:"An Open-Ended Embodied Agent"&amp;id_list=&amp;start=0&amp;max_results=3</title>
+  <updated>2026-09-16T09:27:52Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22An+Open-Ended+Embodied+Agent%22&amp;start=0&amp;max_results=3&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>3</opensearch:itemsPerPage>
+  <opensearch:totalResults>4</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2305.16291v2</id>
+    <title>Voyager: An Open-Ended Embodied Agent with Large Language Models</title>
+    <updated>2023-10-19T16:27:03Z</updated>
+    <link href="https://arxiv.org/abs/2305.16291v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2305.16291v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We introduce Voyager, the first LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention. Voyager consists of three key components: 1) an automatic curriculum that maximizes exploration, 2) an ever-growing skill library of executable code for storing and retrieving complex behaviors, and 3) a new iterative prompting mechanism that incorporates environment feedback, execution errors, and self-verification for program improvement. Voyager interacts with GPT-4 via blackbox queries, which bypasses the need for model parameter fine-tuning. The skills developed by Voyager are temporally extended, interpretable, and compositional, which compounds the agent's abilities rapidly and alleviates catastrophic forgetting. Empirically, Voyager shows strong in-context lifelong learning capability and exhibits exceptional proficiency in playing Minecraft. It obtains 3.3x more unique items, travels 2.3x longer distances, and unlocks key tech tree milestones up to 15.3x faster than prior SOTA. Voyager is able to utilize the learned skill library in a new Minecraft world to solve novel tasks from scratch, while other techniques struggle to generalize. We open-source our full codebase and prompts at https://voyager.minedojo.org/.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-05-25T17:46:38Z</published>
+    <arxiv:comment>Project website and open-source codebase: https://voyager.minedojo.org/</arxiv:comment>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Guanzhi Wang</name>
+    </author>
+    <author>
+      <name>Yuqi Xie</name>
+    </author>
+    <author>
+      <name>Yunfan Jiang</name>
+    </author>
+    <author>
+      <name>Ajay Mandlekar</name>
+    </author>
+    <author>
+      <name>Chaowei Xiao</name>
+    </author>
+    <author>
+      <name>Yuke Zhu</name>
+    </author>
+    <author>
+      <name>Linxi Fan</name>
+    </author>
+    <author>
+      <name>Anima Anandkumar</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2401.00006v3</id>
+    <title>Building Open-Ended Embodied Agent via Language-Policy Bidirectional Adaptation</title>
+    <updated>2024-02-06T16:30:55Z</updated>
+    <link href="https://arxiv.org/abs/2401.00006v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2401.00006v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Building embodied agents on integrating Large Language Models (LLMs) and Reinforcement Learning (RL) have revolutionized human-AI interaction: researchers can now leverage language instructions to plan decision-making for open-ended tasks. However, existing research faces challenges in meeting the requirement of open-endedness. They typically either train LLM/RL models to adapt to a fixed counterpart, limiting exploration of novel skills and hindering the efficacy of human-AI interaction. To this end, we present OpenPAL, a co-training framework comprising two stages: (1) fine-tuning a pre-trained LLM to translate human instructions into goals for planning, and goal-conditioned training a policy for decision-making; (2) co-training to align the LLM and policy, achieving instruction open-endedness. We conducted experiments using Contra, an open-ended FPS game, demonstrating that an agent trained with OpenPAL not only comprehends arbitrary instructions but also exhibits efficient execution. These results suggest that OpenPAL holds the potential to construct open-ended embodied agents in practical scenarios.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-12-12T11:06:07Z</published>
+    <arxiv:primary_category term="cs.AI"/>
+    <author>
+      <name>Shaopeng Zhai</name>
+    </author>
+    <author>
+      <name>Jie Wang</name>
+    </author>
+    <author>
+      <name>Tianyi Zhang</name>
+    </author>
+    <author>
+      <name>Fuxian Huang</name>
+    </author>
+    <author>
+      <name>Qi Zhang</name>
+    </author>
+    <author>
+      <name>Ming Zhou</name>
+    </author>
+    <author>
+      <name>Jing Hou</name>
+    </author>
+    <author>
+      <name>Yu Qiao</name>
+    </author>
+    <author>
+      <name>Yu Liu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2206.08853v2</id>
+    <title>MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge</title>
+    <updated>2022-11-22T07:59:47Z</updated>
+    <link href="https://arxiv.org/abs/2206.08853v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2206.08853v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Autonomous agents have made great strides in specialist domains like Atari games and Go. However, they typically learn tabula rasa in isolated environments with limited and manually conceived objectives, thus failing to generalize across a wide spectrum of tasks and capabilities. Inspired by how humans continually learn and adapt in the open world, we advocate a trinity of ingredients for building generalist agents: 1) an environment that supports a multitude of tasks and goals, 2) a large-scale database of multimodal knowledge, and 3) a flexible and scalable agent architecture. We introduce MineDojo, a new framework built on the popular Minecraft game that features a simulation suite with thousands of diverse open-ended tasks and an internet-scale knowledge base with Minecraft videos, tutorials, wiki pages, and forum discussions. Using MineDojo's data, we propose a novel agent learning algorithm that leverages large pre-trained video-language models as a learned reward function. Our agent is able to solve a variety of open-ended tasks specified in free-form language without any manually designed dense shaping reward. We open-source the simulation suite, knowledge bases, algorithm implementation, and pretrained models (https://minedojo.org) to promote research towards the goal of generally capable embodied agents.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2022-06-17T15:53:05Z</published>
+    <arxiv:comment>Outstanding Paper Award at NeurIPS 2022. Project website: https://minedojo.org</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Linxi Fan</name>
+    </author>
+    <author>
+      <name>Guanzhi Wang</name>
+    </author>
+    <author>
+      <name>Yunfan Jiang</name>
+    </author>
+    <author>
+      <name>Ajay Mandlekar</name>
+    </author>
+    <author>
+      <name>Yuncong Yang</name>
+    </author>
+    <author>
+      <name>Haoyi Zhu</name>
+    </author>
+    <author>
+      <name>Andrew Tang</name>
+    </author>
+    <author>
+      <name>De-An Huang</name>
+    </author>
+    <author>
+      <name>Yuke Zhu</name>
+    </author>
+    <author>
+      <name>Anima Anandkumar</name>
+    </author>
+  </entry>
+</feed>

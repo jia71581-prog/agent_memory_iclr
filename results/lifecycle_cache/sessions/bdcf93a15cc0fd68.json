@@ -1,0 +1,1 @@
+[["rebar", "fault current", "1000 A"], ["rebar", "fault current duration", "0.5 s"], ["rebar", "resistance", "2.53e-6 ohm"], ["rebar", "surrounding material", "concrete"], ["concrete", "mass", "24000 kg"], ["concrete", "specific heat capacity", "880 J/kg°C"], ["user", "assumed initial concrete temperature", "30°C"], ["user", "calculated heat", "1.265 J"]]

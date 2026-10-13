@@ -1,0 +1,42 @@
+{
+ "final (stem+intext)": {
+  "deltaTL": 0.8,
+  "deltaLiteral": 0.8,
+  "ord_computable": 0.627906976744186,
+  "ord_correct_of_all": 0.3953488372093023,
+  "same_day_split": 28,
+  "anchor_hit": 0.9047619047619048,
+  "datesPres": 0.9581453634085213,
+  "chars": 2534
+ },
+ "no stemming": {
+  "deltaTL": 0.75,
+  "deltaLiteral": 0.75,
+  "ord_computable": 0.627906976744186,
+  "ord_correct_of_all": 0.3953488372093023,
+  "same_day_split": 28,
+  "anchor_hit": 0.9047619047619048,
+  "datesPres": 0.9478696741854636,
+  "chars": 2326
+ },
+ "no in-text resolution": {
+  "deltaTL": 0.6333333333333333,
+  "deltaLiteral": 0.6833333333333333,
+  "ord_computable": 0.5348837209302325,
+  "ord_correct_of_all": 0.23255813953488372,
+  "same_day_split": 0,
+  "anchor_hit": 0.9047619047619048,
+  "datesPres": 0.955639097744361,
+  "chars": 1339
+ },
+ "no stem & no in-text": {
+  "deltaTL": 0.6166666666666667,
+  "deltaLiteral": 0.6833333333333333,
+  "ord_computable": 0.4883720930232558,
+  "ord_correct_of_all": 0.18604651162790697,
+  "same_day_split": 0,
+  "anchor_hit": 0.9047619047619048,
+  "datesPres": 0.9478696741854636,
+  "chars": 1308
+ }
+}

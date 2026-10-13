@@ -1,0 +1,1 @@
+[["user", "receives", "expected delivery time for every order"], ["user", "treats expected delivery time as", "not a hard constraint"], ["user", "prefers", "batching over assigning to idle rider when possible"], ["user", "goal", "increase total orders served with same fleet"], ["user", "has", "a fleet"]]

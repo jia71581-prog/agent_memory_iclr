@@ -1,0 +1,447 @@
+{
+ "pool_size": 6907,
+ "sample": [
+  {
+   "qid": "ef66a6e5",
+   "keys": [
+    "user::is looking for",
+    "user::is looking into",
+    "user::looking for"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    8,
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_7fce9456",
+   "keys": [
+    "user::is buying",
+    "user::recently bought",
+    "user::recently got"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    1,
+    3
+   ]
+  },
+  {
+   "qid": "6aeb4375",
+   "keys": [
+    "user::has used",
+    "user::used"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "b86304ba",
+   "keys": [
+    "user::wants",
+    "user::wants to"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    4,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_93159ced_abs",
+   "keys": [
+    "user::considering",
+    "user::considers"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    2
+   ]
+  },
+  {
+   "qid": "gpt4_4fc4f797",
+   "keys": [
+    "user::finished reading",
+    "user::recently finished reading"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "099778bb",
+   "keys": [
+    "user::attended",
+    "user::attends",
+    "user::recently attended"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    5,
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "4baee567",
+   "keys": [
+    "user::is working on",
+    "user::works on",
+    "user::works with"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    5,
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "e3fc4d6e",
+   "keys": [
+    "user::describes the whispering walls as",
+    "user::says the whispering walls has",
+    "user::says the whispering walls is about"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "ce6d2d27",
+   "keys": [
+    "user::is planning to try out",
+    "user::plans to try out"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    1
+   ]
+  },
+  {
+   "qid": "8979f9ec",
+   "keys": [
+    "user::is planning to plant",
+    "user::plans to plant"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    4
+   ]
+  },
+  {
+   "qid": "72e3ee87",
+   "keys": [
+    "user::is planning",
+    "user::plans to"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    3,
+    3
+   ]
+  },
+  {
+   "qid": "7024f17c",
+   "keys": [
+    "user::current location",
+    "user::lives in",
+    "user::location"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "c18a7dc8",
+   "keys": [
+    "user::has niece",
+    "user::niece"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    2
+   ]
+  },
+  {
+   "qid": "28bcfaac",
+   "keys": [
+    "user::played eternitys edge demo",
+    "user::played eternitys edge demo at"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "031748ae_abs",
+   "keys": [
+    "user::pasta for second dish",
+    "user::second pasta dish"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "bc8a6e93_abs",
+   "keys": [
+    "user::plans to start",
+    "user::plans to start by"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    3,
+    2
+   ]
+  },
+  {
+   "qid": "982b5123",
+   "keys": [
+    "user::is reorganizing",
+    "user::reorganized"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_78cf46a3",
+   "keys": [
+    "user::bought",
+    "user::recently got"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "078150f1",
+   "keys": [
+    "user::gets",
+    "user::recently bought",
+    "user::recently got"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "e831120c",
+   "keys": [
+    "user::desire",
+    "user::hopes",
+    "user::wants",
+    "user::wish"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    3,
+    1,
+    5,
+    1
+   ]
+  },
+  {
+   "qid": "f4f1d8a4",
+   "keys": [
+    "nats::formed by",
+    "nats::formed in"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "edced276_abs",
+   "keys": [
+    "user::fascinated by",
+    "user::is fascinated by"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_e05b82a6",
+   "keys": [
+    "user::is thinking about organizing",
+    "user::is thinking of organizing"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "853b0a1d",
+   "keys": [
+    "user::reading preference",
+    "user::usual reading preference"
+   ],
+   "rules": [
+    "R2_modifier_subset"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "0ea62687",
+   "keys": [
+    "user::plans to buy",
+    "user::plans to get"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    5
+   ]
+  },
+  {
+   "qid": "778164c6",
+   "keys": [
+    "user::considering",
+    "user::considers",
+    "user::is considering"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    3,
+    6
+   ]
+  },
+  {
+   "qid": "gpt4_194be4b3",
+   "keys": [
+    "user::planning",
+    "user::plans",
+    "user::plans to"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    1,
+    10
+   ]
+  },
+  {
+   "qid": "6a27ffc2",
+   "keys": [
+    "user::considering",
+    "user::is considering"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    6
+   ]
+  },
+  {
+   "qid": "gpt4_fe651585",
+   "keys": [
+    "user::currently reading",
+    "user::has read"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    2
+   ]
+  }
+ ]
+}

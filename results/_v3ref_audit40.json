@@ -1,0 +1,816 @@
+{
+ "pool": 1767,
+ "sample": [
+  {
+   "qid": "95bcc1c8",
+   "q": "How many amateur comedians did I watch perform at the open mic night?",
+   "gold": "10",
+   "attrs": [
+    "plans to start watching",
+    "plans to watch"
+   ],
+   "vals": [
+    [
+     "Game of Thrones"
+    ],
+    [
+     "Conversations with a Killer: The Ted Bundy Tapes"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "bb7c3b45",
+   "q": "How much did I save on the Jimmy Choo heels?",
+   "gold": "$300",
+   "attrs": [
+    "is planning to use cashback rewards to buy",
+    "is planning to use Target RedCard cashback rewards to buy"
+   ],
+   "vals": [
+    [
+     "laundry detergent and cleaning supplies"
+    ],
+    [
+     "household essentials"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "gpt4_c27434e8",
+   "q": "Which project did I start first, the Ferrari model or the Japanese Zero fighter plane model?",
+   "gold": "Japanese Zero fighter plane model",
+   "attrs": [
+    "planned breakfast to try",
+    "plans to try"
+   ],
+   "vals": [
+    [
+     "overnight oats",
+     "muffin tin frittatas"
+    ],
+    [
+     "Riverfront Bike Path",
+     "roasted chickpeas recipe",
+     "homemade cracker recipes",
+     "Spinach and Artichoke Dip first"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "gpt4_5438fa52",
+   "q": "Which event happened first, my attendance at a cultural festival or the start of my Spanish classes?",
+   "gold": "Spanish classes",
+   "attrs": [
+    "plans to include in California scrapbook",
+    "plans to include in NYC scrapbook"
+   ],
+   "vals": [
+    [
+     "photos of scenic drives and national parks"
+    ],
+    [
+     "photos of the food they ate"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "gpt4_d12ceb0e",
+   "q": "What is the average age of me, my parents, and my grandparents?",
+   "gold": "59.6",
+   "attrs": [
+    "is planning a trip to visit",
+    "plans to visit"
+   ],
+   "vals": [
+    [
+     "mom and dad"
+    ],
+    [
+     "an antique shop in their neighborhood"
+    ]
+   ],
+   "hidden": [
+    "mom and dad"
+   ],
+   "n_hidden": 1
+  },
+  {
+   "qid": "5025383b",
+   "q": "What are the two hobbies that led me to join online communities?",
+   "gold": "photography and cooking",
+   "attrs": [
+    "plans to set recurring reminder to",
+    "plans to set reminder to"
+   ],
+   "vals": [
+    [
+     "vacuum the stairs every two weeks"
+    ],
+    [
+     "do laundry every Sunday morning"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "8cf51dda",
+   "q": "I'm going back to our previous conversation about the grant aim page on molecular subtypes and endometrial cancer. Can you remind me what were the three objectives we outlined for the project?",
+   "gold": "The three objectives were: 1) to identify molecular subtypes of endometrial cancer, 2) to investigate their clinical and biological significance, and 3) to develop biomarkers for early detection and prognosis.",
+   "attrs": [
+    "wants to make",
+    "wants to practice making"
+   ],
+   "vals": [
+    [
+     "a tote bag from a recycled cotton shirt"
+    ],
+    [
+     "tortillas at home"
+    ]
+   ],
+   "hidden": [
+    "tortillas at home"
+   ],
+   "n_hidden": 1
+  },
+  {
+   "qid": "8550ddae",
+   "q": "What type of cocktail recipe did I try last weekend?",
+   "gold": "lavender gin fizz",
+   "attrs": [
+    "favorite characters in The Last of Us Part II",
+    "favorite moment in The Last of Us Part II"
+   ],
+   "vals": [
+    [
+     "Ellie and Abby"
+    ],
+    [
+     "defeating a boss that had been giving them trouble for weeks"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "cc6d1ec1",
+   "q": "How long had I been bird watching when I attended the bird watching workshop?",
+   "gold": "Two months",
+   "attrs": [
+    "new restaurant tried over the weekend",
+    "tried a new restaurant downtown over the weekend"
+   ],
+   "vals": [
+    [
+     "was a sandwich place"
+    ],
+    [
+     "really good"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "gpt4_88806d6e",
+   "q": "Who did I meet first, Mark and Sarah or Tom?",
+   "gold": "Tom",
+   "attrs": [
+    "received advisor feedback on",
+    "received feedback on"
+   ],
+   "vals": [
+    [
+     "April 10th"
+    ],
+    [
+     "their master's thesis"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "faba32e5",
+   "q": "How long did Alex marinate the BBQ ribs in special sauce?",
+   "gold": "24 hours",
+   "attrs": [
+    "has diorama projects",
+    "lingering diorama project"
+   ],
+   "vals": [
+    [
+     "in the works"
+    ],
+    [
+     "desert diorama featuring F-15E Strike Eagle"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "6071bd76",
+   "q": "For the coffee-to-water ratio in my French press, did I switch to more water per tablespoon of coffee, or less?",
+   "gold": "You switched to less water (5 ounces) per tablespoon of coffee.",
+   "attrs": [
+    "attended a gardening workshop",
+    "attended workshop"
+   ],
+   "vals": [
+    [
+     "last month"
+    ],
+    [
+     "last month"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "ac031881",
+   "q": "I'm trying to recall what the designation on my jumpsuit was that helped me find the file number in the records room?",
+   "gold": "The designation on your jumpsuit was 'LIV'.",
+   "attrs": [
+    "sister's reaction to silver necklace",
+    "spent on sister's silver necklace"
+   ],
+   "vals": [
+    [
+     "loved it"
+    ],
+    [
+     "around $75"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "a08a253f",
+   "q": "How many days a week do I attend fitness classes?",
+   "gold": "4 days.",
+   "attrs": [
+    "has been member of Walgreens Balance Rewards",
+    "has Walgreens Balance Rewards reward"
+   ],
+   "vals": [
+    [
+     "over a year"
+    ],
+    [
+     "$5 reward"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "92a0aa75",
+   "q": "How long have I been working in my current role?",
+   "gold": "1 year and 5 months",
+   "attrs": [
+    "desired alternate executor",
+    "desired executor"
+   ],
+   "vals": [
+    [
+     "Brian McClenagan"
+    ],
+    [
+     "Warren McClenagan"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "4dfccbf7",
+   "q": "How many days had passed since I started taking ukulele lessons when I decided to take my acoustic guitar to the guitar tech for servicing?",
+   "gold": "24 days. 25 days (including the last day) is also acceptable.",
+   "attrs": [
+    "music genres played",
+    "music played"
+   ],
+   "vals": [
+    [
+     "classical and jazz"
+    ],
+    [
+     "mostly piano and some synth sounds"
+    ]
+   ],
+   "hidden": [
+    "mostly piano and some synth sounds"
+   ],
+   "n_hidden": 1
+  },
+  {
+   "qid": "efc3f7c2",
+   "q": "How much earlier do I wake up on Fridays compared to other weekdays?",
+   "gold": "30 minutes",
+   "attrs": [
+    "is planning a road trip to",
+    "planned day trip",
+    "planning a trip to",
+    "plans trip to"
+   ],
+   "vals": [
+    [
+     "the Grand Canyon with friends next month"
+    ],
+    [
+     "Malibu"
+    ],
+    [
+     "New Zealand",
+     "Iceland"
+    ],
+    [
+     "Red Rock State Park"
+    ]
+   ],
+   "hidden": [
+    "malibu",
+    "the grand canyon with friends next month"
+   ],
+   "n_hidden": 2
+  },
+  {
+   "qid": "92a0aa75",
+   "q": "How long have I been working in my current role?",
+   "gold": "1 year and 5 months",
+   "attrs": [
+    "has diorama projects",
+    "lingering diorama project"
+   ],
+   "vals": [
+    [
+     "in the works"
+    ],
+    [
+     "desert diorama featuring F-15E Strike Eagle"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "bcbe585f",
+   "q": "How many weeks ago did I attend a bird watching workshop at the local Audubon society?",
+   "gold": "4",
+   "attrs": [
+    "takeout frequency past month",
+    "takeout order past month"
+   ],
+   "vals": [
+    [
+     "once"
+    ],
+    [
+     "pizza"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "affe2881",
+   "q": "How many different species of birds have I seen in my local park?",
+   "gold": "32",
+   "attrs": [
+    "roleplay persona bathroom on road",
+    "roleplay persona eating on road"
+   ],
+   "vals": [
+    [
+     "rest stops or gas stations"
+    ],
+    [
+     "truck stops, diners, fast food"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "gpt4_d84a3211",
+   "q": "How much total money have I spent on bike-related expenses since the start of the year?",
+   "gold": "$185",
+   "attrs": [
+    "John Peel's show",
+    "listened to John Peel's show"
+   ],
+   "vals": [
+    [
+     "was a highlight of their day",
+     "was their go-to for discovering new music"
+    ],
+    [
+     "on the way home from school"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "4100d0a0",
+   "q": "What is my ethnicity?",
+   "gold": "A mix of Irish and Italian",
+   "attrs": [
+    "found the metal strap watch",
+    "wore a metal strap watch to"
+   ],
+   "vals": [
+    [
+     "worked well with their outfit"
+    ],
+    [
+     "the charity gala at the downtown Marriott hotel"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "c7dc5443",
+   "q": "What is my current record in the recreational volleyball league?",
+   "gold": "5-2",
+   "attrs": [
+    "speech understandability at home",
+    "speech understandability outside home"
+   ],
+   "vals": [
+    [
+     "understood by family"
+    ],
+    [
+     "difficult for adults"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "7527f7e2",
+   "q": "How much did I spend on a designer handbag?",
+   "gold": "$800",
+   "attrs": [
+    "plans to practice",
+    "plans to put into practice"
+   ],
+   "vals": [
+    [
+     "PMR on shoulders and neck during lunch break"
+    ],
+    [
+     "inclusive design strategies"
+    ]
+   ],
+   "hidden": [
+    "pmr on shoulders and neck during lunch break"
+   ],
+   "n_hidden": 1
+  },
+  {
+   "qid": "1da05512",
+   "q": "I'm trying to decide whether to buy a NAS device now or wait. What do you think?",
+   "gold": "The user would prefer responses that take into account their current home network storage capacity issues and recent reliance on external hard drives, highlighting the potential benefits of a NAS device in addressing these specific needs. They might not prefer responses that ignore their current storage challenges or fail to consider their recent tech upgrades and priorities. Preferred responses would utilize the user's previous mentions of storage capacity issues and tech investments to inform their decision.",
+   "attrs": [
+    "game CSS file",
+    "game file",
+    "game HTML file",
+    "game sound files"
+   ],
+   "vals": [
+    [
+     "styles.css"
+    ],
+    [
+     "game.js"
+    ],
+    [
+     "index.html"
+    ],
+    [
+     "success.mp3 and collision.mp3"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "6f9b354f",
+   "q": "What color did I repaint my bedroom walls?",
+   "gold": "a lighter shade of gray",
+   "attrs": [
+    "plans to add to home office nook",
+    "plans to use in home office nook"
+   ],
+   "vals": [
+    [
+     "built-in shelving for storage"
+    ],
+    [
+     "a floating desk in the middle of the room"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "gpt4_2f584639",
+   "q": "Which gift did I buy first, the necklace for my sister or the photo album for my mom?",
+   "gold": "the photo album for my mom",
+   "attrs": [
+    "conversation topics with stranger",
+    "had a conversation with a stranger"
+   ],
+   "vals": [
+    [
+     "weather to classic rock music",
+     "coffee roasting to indie music"
+    ],
+    [
+     "at a coffee shop last Saturday morning"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "c8f1aeed",
+   "q": "I wanted to follow up on our previous conversation about fracking in the Marcellus Shale region. You mentioned that some states require fracking companies to monitor groundwater quality at nearby wells before drilling and for a certain period after drilling is complete. Can you remind me which state you mentioned as an example that has this requirement?",
+   "gold": "Pennsylvania",
+   "attrs": [
+    "North Lunar Node sign",
+    "South Lunar Node sign"
+   ],
+   "vals": [
+    [
+     "Aquarius"
+    ],
+    [
+     "Leo"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "0862e8bf_abs",
+   "q": "What is the name of my hamster?",
+   "gold": "You did not mention this information. You mentioned your cat Luna but not your hamster.",
+   "attrs": [
+    "noticed flexibility improvement particularly in",
+    "noticed improvement in"
+   ],
+   "vals": [
+    [
+     "hamstrings and hip flexors"
+    ],
+    [
+     "flexibility"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "dcfa8644",
+   "q": "How many days had passed since I bought my Adidas running shoes when I realized one of the shoelaces on my old Converse sneakers had broken?",
+   "gold": "14 days. 15 days (including the last day) is also acceptable.",
+   "attrs": [
+    "is planning a road trip to",
+    "is planning a trip to"
+   ],
+   "vals": [
+    [
+     "Grand Teton National Park, Wyoming"
+    ],
+    [
+     "New York City",
+     "India"
+    ]
+   ],
+   "hidden": [
+    "india"
+   ],
+   "n_hidden": 1
+  },
+  {
+   "qid": "gpt4_5438fa52",
+   "q": "Which event happened first, my attendance at a cultural festival or the start of my Spanish classes?",
+   "gold": "Spanish classes",
+   "attrs": [
+    "plans to include in social media post",
+    "plans to use in social media post"
+   ],
+   "vals": [
+    [
+     "a photo of the \"Prayer Wall\" idea",
+     "a link to the outreach committee's website or social media p"
+    ],
+    [
+     "relevant hashtags"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "078150f1",
+   "q": "How much more money did I raise than my initial goal in the charity cycling event?",
+   "gold": "$50",
+   "attrs": [
+    "opinion on knock-out format",
+    "view on knock-out format"
+   ],
+   "vals": [
+    [
+     "finds it more exciting to watch than round-robin"
+    ],
+    [
+     "sees it as more forgiving for inconsistent performers due to"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "e6041065",
+   "q": "What percentage of packed shoes did I wear on my last trip?",
+   "gold": "40%",
+   "attrs": [
+    "packing habit",
+    "packing list habit",
+    "toiletry packing habit"
+   ],
+   "vals": [
+    [
+     "packs scarves and jackets for outfit variety"
+    ],
+    [
+     "makes packing list a week before travel"
+    ],
+    [
+     "tends to overpack toiletries"
+    ]
+   ],
+   "hidden": [
+    "tends to overpack toiletries"
+   ],
+   "n_hidden": 1
+  },
+  {
+   "qid": "1d4da289",
+   "q": "I was thinking about our previous conversation about data privacy and security. You mentioned that companies use two-factor authentication to enhance security. Can you remind me what kind of two-factor authentication methods you were referring to?",
+   "gold": "I mentioned biometric authentication or one-time passwords (OTP) as examples of two-factor authentication methods.",
+   "attrs": [
+    "did meal prep",
+    "plans to meal prep"
+   ],
+   "vals": [
+    [
+     "last Sunday"
+    ],
+    [
+     "chicken fajitas for the week"
+    ]
+   ],
+   "hidden": [
+    "chicken fajitas for the week"
+   ],
+   "n_hidden": 1
+  },
+  {
+   "qid": "0f05491a",
+   "q": "How many stars do I need to reach the gold level on my Starbucks Rewards app?",
+   "gold": "120",
+   "attrs": [
+    "song Who You Are BPI certification",
+    "song Who You Are IRMA certification"
+   ],
+   "vals": [
+    [
+     "4x platinum"
+    ],
+    [
+     "gold"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "58ef2f1c",
+   "q": "When did I volunteer at the local animal shelter's fundraising dinner?",
+   "gold": "February 14th",
+   "attrs": [
+    "found \"Love is in the Air\" fundraising dinner",
+    "volunteered at \"Love is in the Air\" fundraising dinner"
+   ],
+   "vals": [
+    [
+     "a great way to meet new people"
+    ],
+    [
+     "in February",
+     "on Valentine's Day"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "5d3d2817",
+   "q": "What was my previous occupation?",
+   "gold": "Marketing specialist at a small startup",
+   "attrs": [
+    "gave sister a birthday gift",
+    "gave sister the gift"
+   ],
+   "vals": [
+    [
+     "still life of sunflowers"
+    ],
+    [
+     "today"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "b5ef892d",
+   "q": "How many days did I spend on camping trips in the United States this year?",
+   "gold": "8 days.",
+   "attrs": [
+    "plans to start using",
+    "plans to use"
+   ],
+   "vals": [
+    [
+     "waterproofing spray on shoes"
+    ],
+    [
+     "LinkedIn networking tips",
+     "a lye calculator for lye concentration",
+     "mom's armchair as inspiration for bookshelf aesthetic"
+    ]
+   ],
+   "hidden": [
+    "moms armchair as inspiration for bookshelf aesthetic"
+   ],
+   "n_hidden": 1
+  },
+  {
+   "qid": "b320f3f8",
+   "q": "What type of action figure did I buy from a thrift store?",
+   "gold": "a blue Snaggletooth",
+   "attrs": [
+    "finished binge-watching",
+    "finished watching"
+   ],
+   "vals": [
+    [
+     "third season of Stranger Things"
+    ],
+    [
+     "entire first season of The Witcher on Netflix"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  },
+  {
+   "qid": "gpt4_e414231f",
+   "q": "Which bike did I fixed or serviced the past weekend?",
+   "gold": "road bike",
+   "attrs": [
+    "strength training preference",
+    "strength training weight preference"
+   ],
+   "vals": [
+    [
+     "15-20 minute sessions after morning workouts"
+    ],
+    [
+     "light to moderate"
+    ]
+   ],
+   "hidden": [],
+   "n_hidden": 0
+  }
+ ]
+}

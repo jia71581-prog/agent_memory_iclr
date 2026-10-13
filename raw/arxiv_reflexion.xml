@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/eR+LVD5IcFZvHupvQ4o9kRHko20</id>
+  <title>arXiv Query: search_query=ti:"Reflexion"&amp;id_list=&amp;start=0&amp;max_results=5</title>
+  <updated>2026-09-16T09:25:22Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Reflexion%22&amp;start=0&amp;max_results=5&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>5</opensearch:itemsPerPage>
+  <opensearch:totalResults>36</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/1207.0189v1</id>
+    <title>Local reflexion spaces</title>
+    <updated>2012-07-01T08:39:21Z</updated>
+    <link href="https://arxiv.org/abs/1207.0189v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1207.0189v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A reflexion space is generalization of a symmetric space introduced by O. Loos. We generalize locally symmetric spaces to local reflexion spaces in the similar way. We investigate, when local reflexion spaces are equivalently given by a locally flat Cartan connection of certain type.</summary>
+    <category term="math.DG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2012-07-01T08:39:21Z</published>
+    <arxiv:comment>8 pages, submitted to Archivum Mathematicum</arxiv:comment>
+    <arxiv:primary_category term="math.DG"/>
+    <arxiv:journal_ref>Archivum Mathematicum, Brno, 48/5, 323-332, 2012</arxiv:journal_ref>
+    <author>
+      <name>Jan Gregorovič</name>
+    </author>
+    <arxiv:doi>10.5817/AM2012-5-323</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.5817/AM2012-5-323" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/physics/0607033v1</id>
+    <title>Eco - No(?) - Physics - comments and reflexions -</title>
+    <updated>2006-07-05T18:52:56Z</updated>
+    <link href="https://arxiv.org/abs/physics/0607033v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/physics/0607033v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  How can econophysics contribute to economics? Since the relation between basic principles of physics and economics is not established, there is no reason why physical theories should be of any value for economic theory. While economic theories leave the physicists largely without orientation in this field, econo-physicists should orient themselves at concrete problems from economic practice rather than from economic academics. Thereby physicists should respect the lead of economists. This then also puts physics closer to econometrics. Then the natural strength of physics in dealing with empirical data as the fundamental basis for its research could be valuable for both, theory as well as for applications in economics.</summary>
+    <category term="physics.soc-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2006-07-05T18:52:56Z</published>
+    <arxiv:comment>7 pages</arxiv:comment>
+    <arxiv:primary_category term="physics.soc-ph"/>
+    <author>
+      <name>S. Reimann</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1510.05463v2</id>
+    <title>Euler reflexion formulas for motivic multiple zeta functions</title>
+    <updated>2016-06-22T21:37:36Z</updated>
+    <link href="https://arxiv.org/abs/1510.05463v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1510.05463v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We introduce a new notion of $\boxast$-product of two integrable series with coefficients in distinct Grothendieck rings of algebraic varieties, preserving the integrability and commuting with the limit of rational series. In the same context, we define a motivic multiple zeta function with respect to an ordered family of regular functions, which is integrable and connects closely to Denef-Loeser's motivic zeta functions. We also show that the $\boxast$-product is associative in the class of motivic multiple zeta functions.
+  Furthermore, a version of the Euler reflexion formula for motivic zeta functions is nicely formulated to deal with the $\boxast$-product and motivic multiple zeta functions, and it is proved using the theory of arc spaces. As an application, taking the limit for the motivic Euler reflexion formula we recover the well known motivic Thom-Sebastiani theorem.</summary>
+    <category term="math.AG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2015-10-19T13:23:02Z</published>
+    <arxiv:comment>To appear in Journal of Algebraic Geometry</arxiv:comment>
+    <arxiv:primary_category term="math.AG"/>
+    <author>
+      <name>Quy Thuong Le</name>
+    </author>
+    <author>
+      <name>Hong Duc Nguyen</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/math/9512204v1</id>
+    <title>On isometric reflexions in Banach spaces</title>
+    <updated>1995-12-06T00:00:00Z</updated>
+    <link href="https://arxiv.org/abs/math/9512204v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/math/9512204v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>  We obtain the following characterization of Hilbert spaces. Let $E$ be a Banach space whose unit sphere $S$ has a hyperplane of symmetry. Then $E$ is a Hilbert space iff any of the following two conditions is fulfilled: a) the isometry group ${\rm Iso}\, E$ of $E$ has a dense orbit in S; b) the identity component $G_0$ of the group ${\rm Iso}\, E$ endowed with the strong operator topology acts topologically irreducible on $E$. Some related results on infinite dimentional Coxeter groups generated by isometric reflexions are given which allow to analyse the structure of isometry groups containing sufficiently many reflexions.</summary>
+    <category term="math.FA" scheme="http://arxiv.org/schemas/atom"/>
+    <published>1995-12-06T00:00:00Z</published>
+    <arxiv:primary_category term="math.FA"/>
+    <author>
+      <name>A. Skorik</name>
+    </author>
+    <author>
+      <name>Mikhail Zaidenberg</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2212.01283v1</id>
+    <title>Argand's "Reflexions" of 1815 -- An English Translation</title>
+    <updated>2022-10-09T20:45:39Z</updated>
+    <link href="https://arxiv.org/abs/2212.01283v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2212.01283v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This is a translation from French into English of Argand's "Reflexions sur la nouvelle théorie des imaginaires, suivies d'une application à la démonstration d'un théorème d'analise", published in 1815. Argand reprises the method of representing complex numbers as points in the plane, which he first introduced in 1806. He takes up complex addition, multiplication, division, root taking, and absolute value. He gives an early and perhaps the first valid proof of the fundamental theorem of algebra, assuming only that the absolute value of a polynomial with complex coefficients assumes an absolute minimum in the complex plane. Argand's proof is simple and direct, variants of it being reproduced by Cauchy and textbook writers throughout the nineteenth century.</summary>
+    <category term="math.HO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2022-10-09T20:45:39Z</published>
+    <arxiv:comment>10 pages. English translation from the French of Argand's "Reflexions" of 1815. Original at http://www.numdam.org/item/AMPA_1814-1815__5__197_0/</arxiv:comment>
+    <arxiv:primary_category term="math.HO"/>
+    <author>
+      <name>Jean-Robert Argand</name>
+    </author>
+    <author>
+      <name>Michael Bertrand</name>
+    </author>
+  </entry>
+</feed>

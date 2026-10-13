@@ -1,0 +1,110 @@
+--- 1 qid=e66b632c
+    user::enjoys
+    user::interest
+    user::loved
+    user::prefers
+--- 2 qid=88432d0a
+    user::hope
+    user::wants
+--- 3 qid=0ddfec37_abs
+    user::interested in trying
+    user::loves trying
+--- 4 qid=09ba9854
+    user::interest
+    user::likes
+    user::loved
+    user::loves
+    user::prefers
+--- 5 qid=a4996e51
+    user::appreciated
+    user::appreciates
+--- 6 qid=07741c44
+    user::is planning
+    user::plans to
+    user::plans to have
+--- 7 qid=0a34ad58
+    user::is planning
+    user::plan
+    user::plans to
+    user::plans to do
+    user::plans to mention
+--- 8 qid=58bf7951
+    user::bought
+    user::recently acquired
+    user::recently got
+--- 9 qid=2ce6a0f2
+    user::has been watching
+    user::watches
+--- 10 qid=gpt4_7a0daae1
+    user::enjoys
+    user::interest
+    user::loved
+    user::loves to
+--- 11 qid=71315a70
+    user::considering
+    user::considers
+    user::is considering
+--- 12 qid=37f165cf
+    user::curious about
+    user::is curious about
+--- 13 qid=6aeb4375
+    user::enjoyed
+    user::is enjoying
+    user::is loving
+    user::prefers
+--- 14 qid=6613b389
+    user::bought
+    user::recently acquired
+    user::recently purchased
+--- 15 qid=6b7dfb22
+    user::is planning to visit
+    user::plans to visit
+--- 16 qid=031748ae_abs
+    user::has been listening to
+    user::listened to
+--- 17 qid=38146c39
+    user::has been using
+    user::uses
+--- 18 qid=gpt4_65aabe59
+    user::decided on
+    user::is deciding on
+--- 19 qid=4c36ccef
+    user::already uses
+    user::uses
+--- 20 qid=gpt4_f420262c
+    user::has collectible
+    user::has collectibles
+--- 21 qid=726462e0
+    user::tweet about the nightingale
+    user::tweeted about the nightingale
+--- 22 qid=gpt4_7a0daae1
+    user::documents are
+    user::documents have
+--- 23 qid=4baee567
+    user::interest in
+    user::interested in
+    user::is interested in
+--- 24 qid=eaca4986
+    user::uses
+    user::uses a
+--- 25 qid=a06e4cfe
+    user::expressed interest in
+    user::interest in
+    user::interested in
+    user::is interested in
+--- 26 qid=eeda8a6d
+    user::current task
+    user::tasks
+--- 27 qid=e493bb7c
+    user::considering selling
+    user::is considering selling
+--- 28 qid=36b9f61e
+    user::currently watching
+    user::has been watching
+    user::watches
+--- 29 qid=3fe836c9
+    user::is planning to plant
+    user::plans to plant
+--- 30 qid=ad7109d1
+    user::plans to buy
+    user::plans to get

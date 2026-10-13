@@ -1,0 +1,64 @@
+{
+ "results": [
+  {
+   "qid": "gpt4_2655b836",
+   "type": "temporal-reasoning",
+   "gold": "GPS system not functioning correctly",
+   "pred": "Your first issue after the first service was with the car’s GPS system on 3/22; you had to take it back to the dealership, and they replaced the entir",
+   "f1": 0.114,
+   "judge": true
+  },
+  {
+   "qid": "0a995998",
+   "type": "multi-session",
+   "gold": "3",
+   "pred": "Two items to pick up: your navy blue blazer from the dry cleaner and the exchanged larger boots from Zara. No returns are pending.",
+   "f1": 0.0,
+   "judge": false
+  },
+  {
+   "qid": "6a1eabeb",
+   "type": "knowledge-update",
+   "gold": "25 minutes and 50 seconds (or 25:50)",
+   "pred": "Your most recent message says your personal best time was **25:50**. (Earlier you also mentioned **27:12**.)",
+   "f1": 0.0,
+   "judge": true
+  },
+  {
+   "qid": "8a2466db",
+   "type": "single-session-preference",
+   "gold": "The user would prefer responses that suggest resources specifically tailored to ",
+   "pred": "Based on our conversation, I recommended these resources for learning video editing:\n\n- **Adobe Premiere Pro’s official documentation and tutorials**\n",
+   "f1": 0.149,
+   "judge": true
+  },
+  {
+   "qid": "7161e7e2",
+   "type": "single-session-assistant",
+   "gold": "Admon was assigned to the 8 am - 4 pm (Day Shift) on Sundays.",
+   "pred": "Admon was scheduled for the **8 am – 4 pm (Day Shift)** on Sunday.",
+   "f1": 0.571,
+   "judge": true
+  },
+  {
+   "qid": "e47becba",
+   "type": "single-session-user",
+   "gold": "Business Administration",
+   "pred": "You graduated with a degree in Business Administration.",
+   "f1": 0.2,
+   "judge": true
+  }
+ ],
+ "cost": {
+  "answer/deepseek-v4-pro": {
+   "calls": 6,
+   "prompt": 36664,
+   "completion": 1962
+  },
+  "judge/deepseek-v4-pro": {
+   "calls": 6,
+   "prompt": 1510,
+   "completion": 774
+  }
+ }
+}

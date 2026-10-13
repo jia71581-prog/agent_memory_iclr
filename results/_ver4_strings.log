@@ -1,0 +1,21 @@
+=== string-test variants of the D1|D2 detector, all router-gated ===
+  substring (module's own test)                        abs 12/30 (0.400)  ans  42/470 (0.089)  prec 0.222
+  word-boundary (stricter: any exact token absent)     abs 14/30 (0.467)  ans  59/470 (0.126)  prec 0.192
+  stem-tolerant (fairer: no morphological match)       abs 13/30 (0.433)  ans  41/470 (0.087)  prec 0.241
+
+=== ungated, for reference ===
+  substring ungated                                    abs 12/30 (0.400)  ans  63/470 (0.134)  prec 0.160
+  word-boundary ungated                                abs 14/30 (0.467)  ans 101/470 (0.215)  prec 0.122
+  stem-tolerant ungated                                abs 13/30 (0.433)  ans  74/470 (0.157)  prec 0.149
+
+=== stem-tolerant gated detector: reach on the 5 qc abstention losses ===
+  80ec1f4f_abs         sub=False stem=False sub_terms=[] stem_terms=[]
+  a96c20ee_abs         sub=True  stem=True  sub_terms=['undergrad'] stem_terms=['undergrad']
+  09ba9854_abs         sub=False stem=False sub_terms=[] stem_terms=[]
+  gpt4_93159ced_abs    sub=False stem=False sub_terms=[] stem_terms=[]
+  031748ae_abs         sub=False stem=False sub_terms=[] stem_terms=[]
+
+=== stem-tolerant gated: upside/downside ledger ===
+  abs firings 13 (on actual losses: ['a96c20ee_abs'])
+  answerable firings 41: currently correct 30, wrong 11
+  by type: Counter({'multi-session': 17, 'temporal-reasoning': 11, 'single-session-user': 8, 'knowledge-update': 4, 'single-session-assistant': 1})

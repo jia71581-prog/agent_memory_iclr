@@ -1,0 +1,25 @@
+=== (h) can the reported sweep values 0.886 / 0.867 / 0.861 be reproduced? ===
+arm                                           nQ     D1    D1n     D2  recall    gh/tot  itMed  itSum  chMed   chSum
+FIXED stem/SYN / exact                        60  0.800     48  0.750   0.918   145/158   18.5   1308   1940  133091
+FIXED stem/SYN / sym slack3                   60  0.750     45  0.700   0.892   141/158   17.5   1209   1829  122574
+FIXED stem/SYN / sym slack6                   60  0.733     44  0.683   0.886   140/158   17.0   1173   1783  119641
+FIXED stem/SYN / dir slack3                   60  0.800     48  0.750   0.918   145/158   18.0   1253      0       0
+FIXED stem/SYN / dir slack6                   60  0.800     48  0.750   0.918   145/158   18.0   1231      0       0
+FIXED stem/SYN / dir unbounded                60  0.800     48  0.750   0.918   145/158   18.0   1230      0       0
+PRE-FIX stem/SYN / exact                      60  0.767     46  0.700   0.905   143/158   17.0   1172   1854  123361
+PRE-FIX stem/SYN / sym slack3                 60  0.717     43  0.650   0.880   139/158   16.5   1087   1642  113989
+PRE-FIX stem/SYN / sym slack6                 60  0.717     43  0.650   0.880   139/158   15.5   1056   1590  111376
+PRE-FIX stem/SYN / dir slack3                 60  0.767     46  0.700   0.905   143/158   16.5   1130      0       0
+PRE-FIX stem/SYN / dir slack6                 60  0.767     46  0.700   0.905   143/158   16.0   1113      0       0
+PRE-FIX stem/SYN / dir unbounded              60  0.767     46  0.700   0.905   143/158   16.0   1112      0       0
+
+=== (i) DISCRIMINATIVE guard: the two examples the docstring claims it blocks ===
+  original price range     <=> revised price range    sigs ('original', 'price', 'range') ('revis', 'price', 'range') -> blocked
+  intended wake time       <=> actual wake time       sigs ('intend', 'wake', 'time')   ('actual', 'wake', 'time') -> blocked
+  planned budget           <=> revised budget         sigs ('plan', 'budget')           ('revis', 'budget')    -> blocked
+  estimated cost           <=> cost                   sigs ('estimat', 'cost')          ('cost',)              -> blocked
+  expected delivery        <=> delivery               sigs ('expect', 'delivery')       ('delivery',)          -> blocked
+  updated price            <=> price                  sigs ('updat', 'price')           ('price',)             -> blocked
+  intended bedtime         <=> bedtime                sigs ('intend', 'bedtim')         ('bedtim',)            -> blocked
+  original price           <=> price                  sigs ('original', 'price')        ('price',)             -> blocked
+  last payment             <=> payment                sigs ('last', 'payment')          ('payment',)           -> blocked

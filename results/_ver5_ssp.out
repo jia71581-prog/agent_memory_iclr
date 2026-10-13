@@ -1,0 +1,47 @@
+=== SSP gold user turns: rubric-term coverage kept by the miner vs whole turn ===
+n gold user turns 44  captured(>=1 sent) 29
+mean rubric-token coverage: whole gold turn 0.215   miner subset 0.091   retained fraction 0.422
+among captured turns only: whole 0.210 miner 0.138
+captured turns where the miner drops rubric tokens present in the turn: 16/29
+   35a27287         sents 2 kept 1 cov 0.32->0.09  dropped: Can you recommend any language learning apps or websites tha
+   32260d93         sents 2 kept 1 cov 0.38->0.08  dropped: Can you recommend some stand-up comedy specials on Netflix w
+   195a1a1b         sents 2 kept 1 cov 0.11->0.05  dropped: What else can I do for the later part of the day?
+   afdc33df         sents 2 kept 1 cov 0.06->0.04  dropped: Can you give me some tips on how to fix it or know when it's
+   caf03d32         sents 3 kept 1 cov 0.24->0.05  dropped: I recently figured out how to use the slow cooker and made a; Do you have any recommendati
+   06f04340         sents 3 kept 1 cov 0.26->0.09  dropped: I've even harvested some cherry tomatoes from my garden.; Do you have any suggestions for 
+   6b7dfb22         sents 3 kept 1 cov 0.16->0.14  dropped: Do you have any suggestions for how to stay motivated and fo; I sometimes find myself gett
+   38146c39         sents 2 kept 1 cov 0.24->0.16  dropped: Do you have any suggestions on what other ingredients I coul
+
+=== per-SSP-question: shipped scoped block (n=3) vs raw channel ===
+  8a2466db         advice=1 quotes  10 dup_in_raw  10 quote_chars  1032 raw_chars  20518
+  06878be2         advice=1 quotes  12 dup_in_raw  12 quote_chars  1345 raw_chars  16522
+  75832dbd         advice=1 quotes   2 dup_in_raw   2 quote_chars   197 raw_chars  16407
+  0edc2aef         advice=1 quotes  14 dup_in_raw  14 quote_chars  1360 raw_chars  17668
+  35a27287         advice=1 quotes  14 dup_in_raw  14 quote_chars  1334 raw_chars  21862
+  32260d93         advice=1 quotes   9 dup_in_raw   9 quote_chars   891 raw_chars  15222
+  195a1a1b         advice=1 quotes   7 dup_in_raw   7 quote_chars   472 raw_chars  40378
+  afdc33df         advice=1 quotes  13 dup_in_raw  13 quote_chars  1202 raw_chars  21802
+  caf03d32         advice=1 quotes  16 dup_in_raw  16 quote_chars  1482 raw_chars  16801
+  54026fce         advice=1 quotes  16 dup_in_raw  16 quote_chars  1443 raw_chars  22461
+  06f04340         advice=1 quotes  15 dup_in_raw  15 quote_chars  1652 raw_chars  23403
+  6b7dfb22         advice=1 quotes  17 dup_in_raw  17 quote_chars  1845 raw_chars  20523
+  1a1907b4         advice=1 quotes  13 dup_in_raw  13 quote_chars  1332 raw_chars  16073
+  09d032c9         advice=1 quotes  27 dup_in_raw  27 quote_chars  2990 raw_chars  18512
+  38146c39         advice=1 quotes  19 dup_in_raw  19 quote_chars  1771 raw_chars  16520
+  d24813b1         advice=1 quotes   9 dup_in_raw   9 quote_chars   928 raw_chars  16347
+  57f827a0         advice=1 quotes  11 dup_in_raw  11 quote_chars  1085 raw_chars  17598
+  95228167         advice=1 quotes  15 dup_in_raw  15 quote_chars  1268 raw_chars  22679
+  505af2f5         advice=1 quotes  18 dup_in_raw  18 quote_chars  1907 raw_chars  17772
+  75f70248         advice=1 quotes  12 dup_in_raw  12 quote_chars  1407 raw_chars  17773
+  d6233ab6         advice=1 quotes  24 dup_in_raw  24 quote_chars  2899 raw_chars  25097
+  1da05512         advice=1 quotes   3 dup_in_raw   3 quote_chars   199 raw_chars  26222
+  fca70973         advice=1 quotes  14 dup_in_raw  14 quote_chars  1546 raw_chars  15664
+  b6025781         advice=1 quotes  12 dup_in_raw  12 quote_chars  1308 raw_chars  15079
+  a89d7624         advice=1 quotes  12 dup_in_raw  12 quote_chars  1126 raw_chars  13849
+  b0479f84         advice=1 quotes  18 dup_in_raw  18 quote_chars  1653 raw_chars  19702
+  1d4e3b97         advice=1 quotes  13 dup_in_raw  13 quote_chars  1446 raw_chars  19875
+  07b6f563         advice=1 quotes  13 dup_in_raw  13 quote_chars  1163 raw_chars  14321
+  1c0ddc50         advice=1 quotes  22 dup_in_raw  22 quote_chars  2289 raw_chars  17849
+  0a34ad58         advice=1 quotes  18 dup_in_raw  18 quote_chars  1765 raw_chars  17067
+SSP totals: quotes 418 duplicated in raw 418 (1.0000)
+quotes/question: median 14 min 2 max 27  quote chars mean 1411 raw chars mean 19386

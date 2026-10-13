@@ -1,0 +1,459 @@
+{
+ "pool_size": 6243,
+ "sample": [
+  {
+   "qid": "45dc21b6",
+   "keys": [
+    "user::has been watching",
+    "user::watched",
+    "user::watches"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1,
+    3
+   ]
+  },
+  {
+   "qid": "e66b632c",
+   "keys": [
+    "user::city of residence",
+    "user::location"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "2bf43736",
+   "keys": [
+    "user::is considering buying",
+    "user::is considering getting"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "5025383b",
+   "keys": [
+    "user::interested in trying",
+    "user::is interested in trying"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    4,
+    1
+   ]
+  },
+  {
+   "qid": "28dc39ac",
+   "keys": [
+    "user::enjoyed",
+    "user::enjoys",
+    "user::interest",
+    "user::interest in",
+    "user::interested in",
+    "user::is interested in",
+    "user::loves"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    2,
+    11,
+    1,
+    19,
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "9a707b82",
+   "keys": [
+    "user::considering buying",
+    "user::considering getting",
+    "user::is considering getting"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    2,
+    2
+   ]
+  },
+  {
+   "qid": "bcbe585f",
+   "keys": [
+    "user::is planning",
+    "user::planning",
+    "user::plans"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1,
+    2
+   ]
+  },
+  {
+   "qid": "6456829e_abs",
+   "keys": [
+    "user::is looking for",
+    "user::is looking to"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    1
+   ]
+  },
+  {
+   "qid": "07b6f563",
+   "keys": [
+    "user::played pandemic",
+    "user::played pandemic with"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_d6585ce9",
+   "keys": [
+    "user::started model build",
+    "user::started model build on"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "6456829e_abs",
+   "keys": [
+    "user::recently switched to",
+    "user::switched from"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "726462e0",
+   "keys": [
+    "user::currently uses",
+    "user::uses"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    3
+   ]
+  },
+  {
+   "qid": "36b9f61e",
+   "keys": [
+    "user::is planning",
+    "user::plan",
+    "user::planning",
+    "user::plans to"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    1,
+    2,
+    1
+   ]
+  },
+  {
+   "qid": "e8a79c70",
+   "keys": [
+    "user::uses laptop for",
+    "user::uses laptops"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    3,
+    1
+   ]
+  },
+  {
+   "qid": "77eafa52",
+   "keys": [
+    "user::is planning a trip to",
+    "user::planning trip to"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "cc6d1ec1",
+   "keys": [
+    "user::hopes",
+    "user::wants"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "0bb5a684",
+   "keys": [
+    "user::wants to improve",
+    "user::wants to improve at"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    3,
+    1
+   ]
+  },
+  {
+   "qid": "2ebe6c90",
+   "keys": [
+    "user::is planning a trip to",
+    "user::is planning to travel to"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    3,
+    1
+   ]
+  },
+  {
+   "qid": "6cb6f249",
+   "keys": [
+    "user::considering",
+    "user::is considering"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    5,
+    1
+   ]
+  },
+  {
+   "qid": "19b5f2b3",
+   "keys": [
+    "user::sells",
+    "user::sells at"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_372c3eed",
+   "keys": [
+    "user::has been birding",
+    "user::has been birding for"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "a11281a2",
+   "keys": [
+    "user::has been experimenting with",
+    "user::is experimenting with"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    5,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_7ca326fa",
+   "keys": [
+    "user::installed string lights",
+    "user::installed string lights on"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "bf659f65",
+   "keys": [
+    "user::is planning to try",
+    "user::plans to try"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    2
+   ]
+  },
+  {
+   "qid": "gpt4_18c2b244",
+   "keys": [
+    "user::has been watching",
+    "user::watches"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_65aabe59",
+   "keys": [
+    "user::concern about",
+    "user::is concerned about"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    1
+   ]
+  },
+  {
+   "qid": "bbf86515",
+   "keys": [
+    "user::has been using",
+    "user::is using"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    2
+   ]
+  },
+  {
+   "qid": "945e3d21",
+   "keys": [
+    "user::enjoyed",
+    "user::enjoys",
+    "user::interest",
+    "user::interested in",
+    "user::is especially interested in",
+    "user::is interested in",
+    "user::likes",
+    "user::preference"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    8,
+    2,
+    6
+   ]
+  },
+  {
+   "qid": "38146c39",
+   "keys": [
+    "user::considering taking",
+    "user::is considering taking"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "c18a7dc8",
+   "keys": [
+    "user::planning to buy",
+    "user::plans to buy",
+    "user::plans to purchase from"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1,
+    1
+   ]
+  }
+ ]
+}

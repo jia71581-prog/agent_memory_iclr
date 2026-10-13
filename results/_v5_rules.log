@@ -1,0 +1,179 @@
+config                    chains med    p90  reduction    edges  view_cur med
+default(R1+R2+R3+R4)           290.0    332     0.082    21231         29079
+noR3(R1+R2+R4)                 294.5    336     0.069    18911         29334
+noR3noR4(R1+R2)                298.0    338     0.060    16775         29524
+aggressive(J=0.5)              284.0    324     0.101    25652         28720
+v4 (no merge)                  316.5    358     0.000        0         30397
+
+head-merge CEILING (merge all same (entity,head)): chains median 229.0 (v4 316.5, reduction 0.276); largest head bucket median 11
+share of v4 chains whose (entity,head) is UNIQUE in that question: median 0.572  -> upper bound on any head-based merging
+
+=== sample default: pool 8948 clusters, drew 30 ===
+[1] c2ac3c61 rules=R3 sizes=[1, 1]
+      user::product care
+      user::product wash care
+[2] gpt4_e061b84g rules=R1 sizes=[1, 1]
+      user::bought necklace
+      user::bought necklace at
+[3] 0bc8ad92 rules=R3 sizes=[1, 2]
+      user::pending sales at advanced pension programs
+      user::sales achievement at advanced pension programs
+[4] a08a253f rules=R1 sizes=[1, 1]
+      user::has been taking
+      user::is taking
+[5] 1e043500 rules=R1 sizes=[2, 2, 1, 1, 7, 2, 2, 1]
+      user::enjoyed
+      user::enjoys
+      user::has been enjoying
+      user::interest in
+      user::interested in
+      user::is interested in
+      user::loves
+      user::prefers
+[6] 8a2466db rules=R1 sizes=[5, 2]
+      genius voucher::feature
+      genius voucher::features
+[7] gpt4_d31cdae3 rules=R1 sizes=[6, 1, 2]
+      user::asked about
+      user::asked for
+      user::asks about
+[8] gpt4_8279ba03 rules=R1 sizes=[4, 4]
+      user::wants
+      user::wants to
+[9] 65240037 rules=R3 sizes=[1, 1]
+      user::accommodation cost per lax trip
+      user::accommodation nights per lax trip
+[10] 51b23612 rules=R3 sizes=[4, 1]
+      user::is planning a trip to
+      user::planned grocery trip
+[11] 720133ac rules=R1 sizes=[1, 1, 1, 1]
+      user::wants
+      user::wants to
+      user::wants to confirm
+      user::wishes for
+[12] 92a0aa75 rules=R1 sizes=[1, 2]
+      user::has been loving
+      user::loved
+[13] 2133c1b5_abs rules=R1 sizes=[2, 1]
+      user::read
+      user::reads
+[14] gpt4_c27434e8_abs rules=R1 sizes=[1, 1]
+      user::applied decals
+      user::applied decals to
+[15] af8d2e46 rules=R1 sizes=[1, 1]
+      user::opinion of
+      user::opinion on
+[16] gpt4_d31cdae3 rules=R4 sizes=[1, 1]
+      user::has mother whose birthday is
+      user::has sister whose birthday was
+[17] 577d4d32 rules=R1 sizes=[3, 2]
+      user::asked about
+      user::asks about
+[18] afdc33df rules=R1 sizes=[1, 1]
+      anna zamecka::born
+      anna zamecka::born in
+[19] gpt4_731e37d7 rules=R1 sizes=[1, 1]
+      user::working on
+      user::works with
+[20] gpt4_f420262c rules=R1 sizes=[1, 1]
+      user::difficulty
+      user::has difficulty
+[21] 6b168ec8 rules=R1,R3 sizes=[1, 1, 1]
+      user::branded hashtag has
+      user::has branded hashtag
+      user::promotes branded hashtag
+[22] f523d9fe rules=R3 sizes=[1, 1]
+      user::uses qemu cpu setting
+      user::uses qemu memory setting
+[23] e47becba rules=R4 sizes=[1, 1]
+      user::watch 1 needs
+      user::watch 2 needs
+[24] 1903aded rules=R3 sizes=[1, 1]
+      user::found the burger at mikes house
+      user::had the burger at mikes house
+[25] 8b9d4367 rules=R3,R4 sizes=[1, 1, 1]
+      user::grandmother roasted turkey in
+      user::grandmother stuffed turkey with
+      user::grandmothers turkey was
+[26] 95228167 rules=R1 sizes=[8, 4]
+      user::asked about
+      user::asked for
+[27] gpt4_0b2f1d21 rules=R1 sizes=[1, 1]
+      user::interested in trying
+      user::is interested in trying
+[28] 09ba9854_abs rules=R1 sizes=[1, 1]
+      user::background
+      user::has background in
+[29] 0ea62687 rules=R3 sizes=[1, 1]
+      user::craigslist listing price for canon powershot g7 x mark ii
+      user::listed canon powershot g7 x mark ii on
+[30] 5025383b rules=R1 sizes=[1, 1]
+      rachel lee::met user
+      rachel lee::met user at
+
+=== R3-attributable clusters: pool 1897, drew 20 ===
+[1] gpt4_d9af6064 sizes=[1, 1]
+      user::connected devices
+      user::number of connected devices
+[2] c4a1ceb8 sizes=[1, 1]
+      user::learned to make
+      user::recently learned to make
+[3] 8c18457d sizes=[2, 1, 1]
+      user::saturday wakeup time
+      user::wakeup time
+      user::weekday wakeup time
+[4] 59524333 sizes=[1, 1]
+      user::got rid of
+      user::recently got rid of
+[5] 352ab8bd sizes=[1, 1]
+      user::monday actual wake time
+      user::monday intended wake time
+[6] 7405e8b1 sizes=[1, 1, 2]
+      user::wants each fee component
+      user::wants explanation of how fee components
+      user::wants fee components
+[7] 38146c39 sizes=[5, 1]
+      user::plans to try
+      user::plans to try out
+[8] gpt4_2487a7cb sizes=[1, 1]
+      user::plans to set
+      user::plans to set up
+[9] 0edc2aef sizes=[1, 1, 1]
+      function::oklch background color
+      function::oklch border color
+      function::oklch color
+[10] 58bf7951 sizes=[1, 1]
+      user::is planning a trip to
+      user::plans to document trip
+[11] 2e6d26dc sizes=[1, 1]
+      user::considers mission impossible  fallout
+      user::thinks mission impossible  fallout
+[12] 8752c811 sizes=[1, 1]
+      user::interested in meal prep services with
+      user::wants meal prep services to
+[13] ef9cf60a sizes=[1, 1]
+      user::is planning a road trip to
+      user::is planning a trip to
+[14] gpt4_68e94288 sizes=[1, 1, 1]
+      user::activities in living room
+      user::living room
+      user::living room has
+[15] e25c3b8d sizes=[1, 1]
+      user::found playing along to favorite songs
+      user::started playing along to favorite songs on
+[16] affe2881 sizes=[2, 1]
+      user::interested in learning about
+      user::particularly interested in learning about
+[17] 8752c811 sizes=[1, 3]
+      user::character description requirements
+      user::character requirements
+[18] gpt4_8279ba03 sizes=[1, 2]
+      user::plans to then try
+      user::plans to try
+[19] 71017277 sizes=[1, 2]
+      user::plans to give gift basket to
+      user::plans to include in gift basket
+[20] gpt4_2f91af09 sizes=[1, 1, 1]
+      user::attitude toward lewisham council environmental sustainability initiatives
+      user::belief about lewisham council environmental sustainability initiatives
+      user::belief about lewisham council initiatives

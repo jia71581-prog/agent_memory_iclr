@@ -1,0 +1,445 @@
+{
+ "pool_size": 5648,
+ "sample": [
+  {
+   "qid": "b759caee",
+   "keys": [
+    "user::current employer",
+    "user::employer"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_ec93e27f",
+   "keys": [
+    "user::attended",
+    "user::has been attending"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    5,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_d84a3211",
+   "keys": [
+    "user::plans to buy",
+    "user::plans to purchase"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "945e3d21",
+   "keys": [
+    "user::is planning a trip to",
+    "user::planning trip to"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    4
+   ]
+  },
+  {
+   "qid": "c5e8278d",
+   "keys": [
+    "user::is planning to create",
+    "user::plans to create"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    5
+   ]
+  },
+  {
+   "qid": "ce6d2d27",
+   "keys": [
+    "user::hopes",
+    "user::wants",
+    "user::wants to"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    7,
+    4
+   ]
+  },
+  {
+   "qid": "29f2956b",
+   "keys": [
+    "user::wants to buy",
+    "user::wants to get"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "ed4ddc30",
+   "keys": [
+    "user::is interested in trying",
+    "user::is particularly interested in trying"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    1
+   ]
+  },
+  {
+   "qid": "8752c811",
+   "keys": [
+    "user::is planning",
+    "user::plan",
+    "user::plans to"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    3,
+    4
+   ]
+  },
+  {
+   "qid": "4d6b87c8",
+   "keys": [
+    "user::considering",
+    "user::is considering"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    3,
+    3
+   ]
+  },
+  {
+   "qid": "a06e4cfe",
+   "keys": [
+    "user::current project",
+    "user::project"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    1
+   ]
+  },
+  {
+   "qid": "545bd2b5",
+   "keys": [
+    "user::is looking for",
+    "user::looking for"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "65240037",
+   "keys": [
+    "user::considers",
+    "user::is considering"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    5
+   ]
+  },
+  {
+   "qid": "0ddfec37_abs",
+   "keys": [
+    "user::is thinking about getting",
+    "user::is thinking of getting"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "dcfa8644",
+   "keys": [
+    "user::hometown",
+    "user::location"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "4baee567",
+   "keys": [
+    "user::hopes that",
+    "user::wants"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    6
+   ]
+  },
+  {
+   "qid": "6e984302",
+   "keys": [
+    "user::enjoyed",
+    "user::enjoys",
+    "user::interest",
+    "user::likes"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1,
+    1,
+    2
+   ]
+  },
+  {
+   "qid": "65240037",
+   "keys": [
+    "user::is planning a trip",
+    "user::is planning a trip to"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "001be529",
+   "keys": [
+    "user::considering",
+    "user::is considering",
+    "user::is considering a"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    3,
+    1
+   ]
+  },
+  {
+   "qid": "a1eacc2a",
+   "keys": [
+    "user::interest in",
+    "user::interested in",
+    "user::is interested in",
+    "user::is particularly interested in"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    3,
+    9,
+    1
+   ]
+  },
+  {
+   "qid": "6aeb4375_abs",
+   "keys": [
+    "user::desire",
+    "user::wants"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    6
+   ]
+  },
+  {
+   "qid": "07b6f563",
+   "keys": [
+    "user::bought",
+    "user::recently bought",
+    "user::recently got"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    4,
+    1
+   ]
+  },
+  {
+   "qid": "5a7937c8",
+   "keys": [
+    "user::asked",
+    "user::asks"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "6071bd76",
+   "keys": [
+    "user::enjoys cooking",
+    "user::especially enjoys cooking"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "0f05491a",
+   "keys": [
+    "user::likes",
+    "user::prefers"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    2,
+    2
+   ]
+  },
+  {
+   "qid": "c4a1ceb8",
+   "keys": [
+    "user::learned to make",
+    "user::recently learned to make"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "01493427",
+   "keys": [
+    "user::bought",
+    "user::has been getting",
+    "user::recently bought",
+    "user::recently got"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "qid": "41275add",
+   "keys": [
+    "user::discovered",
+    "user::recently discovered"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "d6233ab6",
+   "keys": [
+    "user::currently listening to",
+    "user::recently listened to"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  },
+  {
+   "qid": "gpt4_7ca326fa",
+   "keys": [
+    "user::made",
+    "user::recently made"
+   ],
+   "rules": [
+    "R1_same_signature"
+   ],
+   "sizes": [
+    1,
+    1
+   ]
+  }
+ ]
+}

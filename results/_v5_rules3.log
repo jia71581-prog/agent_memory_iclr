@@ -1,0 +1,188 @@
+config                    chains med    p90  reduction    edges  view_cur med
+v5 default(R1+R2+R4')          296.5    338     0.063    18218         29471
+R1+R2 only                     297.0    339     0.062    18192         29471
++R3 jaccard 0.6                290.0    331     0.081    21615         29132
++R3 jaccard 0.5                285.0    325     0.097    24983         28815
+v4 (no merge)                  316.5    358     0.000        0         30397
+
+head-merge CEILING (merge all same (entity,head)): chains median 228.0 (v4 316.5, reduction 0.280); largest head bucket median 11
+share of v4 chains whose (entity,head) is UNIQUE in that question: median 0.572  -> upper bound on any head-based merging
+
+=== sample final: pool 6307 clusters, drew 30 ===
+[1] eace081b rules=R1 sizes=[11, 3]
+      user::asked about
+      user::asks about
+[2] 15745da0_abs rules=R1 sizes=[1, 1]
+      user::hobbies
+      user::hobby
+[3] e5ba910e_abs rules=R1 sizes=[1, 1, 1]
+      user::considering buying
+      user::considering getting
+      user::is considering buying
+[4] gpt4_7fce9456 rules=R1 sizes=[1, 2]
+      user::recently visited
+      user::visited
+[5] 3ba21379 rules=R1 sizes=[1, 1]
+      user::plans to start
+      user::plans to start with
+[6] 4388e9dd rules=R1 sizes=[2, 1]
+      user::is planning
+      user::plans to share
+[7] 1de5cff2 rules=R1 sizes=[3, 1, 1]
+      user::considering buying
+      user::is considering buying
+      user::is considering getting
+[8] a346bb18 rules=R1 sizes=[2, 2]
+      user::recently bought
+      user::recently got
+[9] gpt4_4ef30696 rules=R1 sizes=[1, 1]
+      user::current location
+      user::location
+[10] 70b3e69b rules=R1 sizes=[1, 1]
+      user::feeling
+      user::feels
+[11] 6a1eabeb rules=R1 sizes=[1, 20, 1, 1]
+      user::is especially interested in
+      user::is interested in
+      user::likes
+      user::loves
+[12] 4bc144e2 rules=R1 sizes=[1, 2]
+      user::hopes
+      user::wants
+[13] 3f1e9474 rules=R1 sizes=[1, 2, 1]
+      user::likes idea of
+      user::likes the idea of
+      user::loves idea of
+[14] e01b8e2f rules=R1 sizes=[1, 1, 1, 6, 8, 1, 1, 1]
+      user::especially loves
+      user::interest
+      user::interest in
+      user::interested in
+      user::is interested in
+      user::likes
+      user::loves
+      user::particularly interested in
+[15] gpt4_b0863698 rules=R2 sizes=[1, 1]
+      user::research interest
+      user::specific research interest
+[16] 3d86fd0a rules=R1 sizes=[1, 1]
+      user::planning to make
+      user::plans to make
+[17] gpt4_0a05b494 rules=R1 sizes=[2, 7, 5, 6, 1]
+      user::interest
+      user::interest in
+      user::interested in
+      user::is interested in
+      user::is particularly interested in
+[18] 726462e0 rules=R1 sizes=[1, 1]
+      user::hopes
+      user::wants to
+[19] bc149d6b rules=R1 sizes=[1, 1]
+      user::decided
+      user::decided on
+[20] 2698e78f rules=R1 sizes=[1, 1]
+      user::lives in
+      user::location
+[21] 89527b6b rules=R1 sizes=[1, 1]
+      user::participated in
+      user::recently participated in
+[22] 66f24dbb rules=R1 sizes=[2, 3]
+      user::requested
+      user::requests
+[23] gpt4_a1b77f9c rules=R1 sizes=[1, 1]
+      user::has been trying
+      user::is trying to
+[24] 51a45a95 rules=R1 sizes=[1, 1]
+      user::has sister
+      user::sister
+[25] 75499fd8 rules=R1 sizes=[1, 7, 1]
+      user::hopes
+      user::wants
+      user::wants to
+[26] 2698e78f_abs rules=R1 sizes=[1, 1]
+      user::is especially passionate about
+      user::is passionate about
+[27] dad224aa rules=R1 sizes=[2, 1, 2]
+      user::considering
+      user::considers
+      user::is considering
+[28] b9cfe692 rules=R1 sizes=[1, 1]
+      user::curious about
+      user::is curious about
+[29] ed4ddc30 rules=R1 sizes=[2, 1]
+      user::planning
+      user::plans to do
+[30] d6233ab6 rules=R1 sizes=[1, 1]
+      user::has been thinking about using
+      user::is thinking of using
+
+=== R3-attributable clusters: pool 2468, drew 20 ===
+[1] e3038f8c sizes=[1, 1]
+      user::describes sarah joness writing style as
+      user::enjoyed sarah joness writing style
+[2] gpt4_ec93e27f sizes=[1, 1]
+      user::additional gift budget
+      user::gift budget
+[3] e56a43b9 sizes=[1, 1]
+      user::bought discounted sneakers from
+      user::bought sneakers
+[4] 8cf51dda sizes=[1, 1]
+      thomas wolff::planned domain name
+      thomas wolff::planned principal domain name
+[5] 67e0d0f2 sizes=[2, 1]
+      user::travel group type
+      user::trip type
+[6] c5e8278d sizes=[1, 1]
+      user::requested content strategy plan for
+      user::requested strategy plan for
+[7] 80ec1f4f_abs sizes=[1, 1]
+      user::plans to set
+      user::plans to set up
+[8] gpt4_0b2f1d21 sizes=[1, 1]
+      user::original target condo price range
+      user::revised target condo price range
+[9] fea54f57 sizes=[1, 1]
+      user::is interested in visiting volcanoes in
+      user::visited volcanoes in
+[10] gpt4_b0863698 sizes=[10, 22, 11, 1, 1, 1, 1]
+      user::interest
+      user::interested in
+      user::is interested in
+      user::likes
+      user::research interest
+      user::specific interest
+      user::specific research interest
+[11] 1903aded sizes=[1, 1]
+      user::cleaned adidas superstars
+      user::cleaning time for adidas superstars
+[12] 26bdc477 sizes=[1, 1, 1, 1, 1]
+      user::story chapter 1 emma role
+      user::story chapter 1 madison role
+      user::story chapter 1 mia role
+      user::story chapter 1 olivia role
+      user::story chapter 1 rachel role
+[13] 60036106 sizes=[1, 1]
+      user::paris trip duration
+      user::trip duration
+[14] e25c3b8d sizes=[1, 1]
+      user::bedside lamp accent preference
+      user::bedside lamp design preference
+[15] ed4ddc30 sizes=[1, 1]
+      pakistan::first olympic gold medal in hockey
+      pakistan::olympic gold medals in hockey
+[16] gpt4_b4a80587 sizes=[1, 1]
+      user::product packaging
+      user::second product packaging
+[17] ad7109d1 sizes=[1, 1]
+      user::ordered tandoori nights on
+      user::tandoori nights is
+[18] gpt4_0b2f1d21 sizes=[1, 1]
+      user::assignment example 1 location
+      user::assignment example 2 location
+[19] 86b68151 sizes=[1, 2]
+      user::is planning a birding trip to
+      user::is planning a trip to
+[20] 06878be2 sizes=[1, 1, 1]
+      user::node version
+      user::nodegyp version
+      user::nodesass version

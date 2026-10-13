@@ -1,0 +1,152 @@
+{
+ "answer_model": "deepseek-flash",
+ "arms": {
+  "qc": {
+   "acc": 0.9,
+   "results": [
+    {
+     "qid": "6a1eabeb",
+     "judge": false,
+     "f1": 0.133,
+     "pred": "Your personal best time in the charity 5K run was **27:12**. (Your overall personal best 5K time later improved to **25:50**.)"
+    },
+    {
+     "qid": "6aeb4375",
+     "judge": true,
+     "f1": 0.182,
+     "pred": "You have tried **four** different Korean restaurants in your city."
+    },
+    {
+     "qid": "830ce83f",
+     "judge": true,
+     "f1": 0.286,
+     "pred": "Rachel recently moved back to the suburbs."
+    },
+    {
+     "qid": "852ce960",
+     "judge": true,
+     "f1": 0.08,
+     "pred": "You were pre-approved for a **$350,000 mortgage from Wells Fargo** (stated on 2023/08/11).\n\nNote: in a later message (2023/11/30) you referred to being pre-approved for **$400,000**, which conflicts w"
+    },
+    {
+     "qid": "945e3d21",
+     "judge": true,
+     "f1": 0.14,
+     "pred": "You currently attend yoga classes **three times a week** (mentioned on 2023/11/30), which you've said helps clear your head and stay focused. Earlier (2023/08/11) you mentioned doing yoga **twice a we"
+    },
+    {
+     "qid": "d7c942c3",
+     "judge": true,
+     "f1": 0.067,
+     "pred": "Yes — as of April 30, 2023, your mom was using the same grocery list app as you, so you could easily share lists and keep track of what you need."
+    },
+    {
+     "qid": "71315a70",
+     "judge": true,
+     "f1": 0.429,
+     "pred": "You’ve spent **10–12 hours** on your abstract ocean sculpture."
+    },
+    {
+     "qid": "89941a93",
+     "judge": true,
+     "f1": 0.0,
+     "pred": "You currently own **four bikes**: a road bike, a mountain bike, a commuter bike, and a newly purchased hybrid bike."
+    },
+    {
+     "qid": "ce6d2d27",
+     "judge": true,
+     "f1": 0.0,
+     "pred": "You take a cocktail-making class on **Fridays**."
+    },
+    {
+     "qid": "9ea5eabc",
+     "judge": true,
+     "f1": 0.029,
+     "pred": "**Paris** — you mentioned it most recently as your recent family trip (\"since I recently went to Paris with my family,\" and the lost-luggage episode on the way to Paris last October).\n\nNote: you also "
+    }
+   ]
+  },
+  "full": {
+   "acc": 1.0,
+   "results": [
+    {
+     "qid": "6a1eabeb",
+     "judge": true,
+     "f1": 0.105,
+     "pred": "Your personal best time in the charity 5K run was **25:50** (as mentioned on 2023/05/30). Earlier, on 2023/05/23, you had mentioned a personal best of **27:12**."
+    },
+    {
+     "qid": "6aeb4375",
+     "judge": true,
+     "f1": 0.167,
+     "pred": "You’ve tried **four** Korean restaurants in your city so far."
+    },
+    {
+     "qid": "830ce83f",
+     "judge": true,
+     "f1": 0.118,
+     "pred": "Rachel recently moved back to the suburbs again. Earlier, she had moved to a new apartment in Chicago."
+    },
+    {
+     "qid": "852ce960",
+     "judge": true,
+     "f1": 0.174,
+     "pred": "You said you were pre-approved for **$350,000** from Wells Fargo. (You later mentioned **$400,000**, so the memory is inconsistent.)"
+    },
+    {
+     "qid": "945e3d21",
+     "judge": true,
+     "f1": 0.24,
+     "pred": "Based on the memory, you mentioned attending yoga classes **three times a week** (as of Nov 30, 2023). Earlier, you had said **twice a week**."
+    },
+    {
+     "qid": "d7c942c3",
+     "judge": true,
+     "f1": 0.065,
+     "pred": "Yes. On 2023/04/30, you mentioned your mom was now using the same grocery list app as you, so you could share lists and keep track of what you need."
+    },
+    {
+     "qid": "71315a70",
+     "judge": true,
+     "f1": 0.375,
+     "pred": "You’ve spent **10–12 hours** on your abstract ocean sculpture so far."
+    },
+    {
+     "qid": "89941a93",
+     "judge": true,
+     "f1": 0.0,
+     "pred": "You currently own **four bikes**: a road bike, a mountain bike, a commuter bike, and a new hybrid bike."
+    },
+    {
+     "qid": "ce6d2d27",
+     "judge": true,
+     "f1": 0.08,
+     "pred": "The memory mentions both: initially **Thursday** (June 16), but later references say **Friday** (June 30). Based on the later entries, the cocktail-making class is on **Friday**."
+    },
+    {
+     "qid": "9ea5eabc",
+     "judge": true,
+     "f1": 0.25,
+     "pred": "You went to Paris with your family."
+    }
+   ]
+  }
+ },
+ "cost": {
+  "answer/qc/deepseek-flash": {
+   "calls": 10,
+   "prompt": 107873,
+   "completion": 5524
+  },
+  "judge/deepseek-v4-pro": {
+   "calls": 20,
+   "prompt": 4659,
+   "completion": 3310
+  },
+  "answer/full/deepseek-flash": {
+   "calls": 10,
+   "prompt": 62821,
+   "completion": 5520
+  }
+ }
+}

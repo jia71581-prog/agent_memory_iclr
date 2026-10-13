@@ -1,0 +1,1 @@
+[["user", "wants to build", "a model using Python and OpenCV to check if an image exists in a set and compare car damage"], ["user", "has", "a set of car damage images"], ["user", "wants the model to", "account for image angle and size when comparing"], ["user", "wants the model to", "output the percent of equality"]]
